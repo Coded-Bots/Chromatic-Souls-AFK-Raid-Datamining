@@ -1,0 +1,226 @@
+{
+    "ecologyAreaInfo": [
+        {
+            "areaType": "AreaPlain",
+            "name": "평원",
+            "requireExps": [
+                100,
+                1000,
+                1900,
+                2800,
+                3700
+            ],
+            "uid": "3512995936826159"
+        },
+        {
+            "areaType": "AreaFortress",
+            "name": "요새",
+            "requireExps": [
+                100,
+                1000,
+                1900,
+                2800,
+                3700
+            ],
+            "uid": "3691776962879027"
+        },
+        {
+            "areaType": "AreaCanyon",
+            "name": "협곡",
+            "requireExps": [
+                100,
+                1000,
+                1900,
+                2800,
+                3700
+            ],
+            "uid": "267157766629929"
+        },
+        {
+            "areaType": "AreaRuin",
+            "name": "폐허",
+            "requireExps": [
+                100,
+                1000,
+                1900,
+                2800,
+                3700
+            ],
+            "uid": "1824274260148295"
+        },
+        {
+            "areaType": "AreaVolcano",
+            "name": "화산",
+            "requireExps": [
+                100,
+                1000,
+                1900,
+                2800,
+                3700
+            ],
+            "uid": "3610389164994497"
+        }
+    ],
+    "ecologyMonsterInfo": [
+        {
+            "monsterType": "MonsterTroll",
+            "name": "트롤",
+            "requireExps": [
+                100,
+                1000,
+                1900,
+                2800,
+                3700
+            ],
+            "statType": "StAttackPower",
+            "statValues": [
+                100,
+                200,
+                400,
+                800,
+                1200
+            ],
+            "uid": "3269801858826156"
+        },
+        {
+            "monsterType": "MonsterTroll",
+            "name": "트롤",
+            "requireExps": [
+                100,
+                1000,
+                1900,
+                2800,
+                3700
+            ],
+            "statType": "StDefence",
+            "statValues": [
+                100,
+                200,
+                400,
+                800,
+                1200
+            ],
+            "uid": "3269801858826159"
+        },
+        {
+            "monsterType": "MonsterTroll",
+            "name": "트롤",
+            "requireExps": [
+                100,
+                1000,
+                1900,
+                2800,
+                3700
+            ],
+            "statType": "StCrit",
+            "statValues": [
+                100,
+                200,
+                400,
+                800,
+                1200
+            ],
+            "uid": "3269801858826158"
+        },
+        {
+            "monsterType": "MonsterTroll",
+            "name": "트롤",
+            "requireExps": [
+                100,
+                1000,
+                1900,
+                2800,
+                3700
+            ],
+            "statType": "StHit",
+            "statValues": [
+                100,
+                200,
+                400,
+                800,
+                1200
+            ],
+            "uid": "3269801858826153"
+        },
+        {
+            "monsterType": "MonsterOrcWarrior",
+            "name": "오크광전사",
+            "requireExps": [
+                100,
+                1000,
+                1900,
+                2800,
+                3700
+            ],
+            "statType": "StAttackPower",
+            "statValues": [
+                100,
+                200,
+                400,
+                800,
+                1200
+            ],
+            "uid": "3378478056249500"
+        },
+        {
+            "monsterType": "MonsterOrcWarrior",
+            "name": "오크광전사",
+            "requireExps": [
+                100,
+                1000,
+                1900,
+                2800,
+                3700
+            ],
+            "statType": "StDefence",
+            "statValues": [
+                100,
+                200,
+                400,
+                800,
+                1200
+            ],
+            "uid": "3378478056249503"
+        },
+        {
+            "monsterType": "MonsterOrcWarrior",
+            "name": "오크광전사",
+            "requireExps": [
+                100,
+                1000,
+                1900,
+                2800,
+                3700
+            ],
+            "statType": "StCrit",
+            "statValues": [
+                100,
+                200,
+                400,
+                800,
+                1200
+            ],
+            "uid": "3378478056249502"
+        },
+        {
+            "monsterType": "MonsterOrcWarrior",
+            "name": "오크광전사",
+            "requireExps": [
+                100,
+                1000,
+                1900,
+                2800,
+                3700
+            ],
+            "statType": "StHit",
+            "statValues": [
+                100,
+                200,
+                400,
+                800,
+                1200
+            ],
+            "uid": "3378478056249497"
+        }
+    ]
+}

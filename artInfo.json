@@ -1,0 +1,718 @@
+{
+    "artAnimationInfo": [
+        {
+            "actionTime": 975,
+            "invokeTime": 300,
+            "uid": "3739559922360333"
+        },
+        {
+            "actionTime": 1600,
+            "invokeTime": 533,
+            "uid": "196684634444357"
+        },
+        {
+            "actionTime": 1400,
+            "invokeTime": 733,
+            "uid": "196684634444358"
+        },
+        {
+            "actionTime": 1300,
+            "invokeTime": 667,
+            "uid": "196684634444359"
+        },
+        {
+            "actionTime": 1300,
+            "invokeTime": 400,
+            "uid": "196684634444352"
+        },
+        {
+            "actionTime": 1700,
+            "invokeTime": 800,
+            "uid": "321498917205903"
+        },
+        {
+            "actionTime": 1600,
+            "invokeTime": 1000,
+            "uid": "1610933107232615"
+        },
+        {
+            "actionTime": 2250,
+            "invokeTime": 1900,
+            "uid": "1610933107232612"
+        },
+        {
+            "actionTime": 1900,
+            "invokeTime": 1200,
+            "uid": "1610933107232613"
+        },
+        {
+            "actionTime": 1240,
+            "invokeTime": 950,
+            "uid": "1610933107232610"
+        },
+        {
+            "actionTime": 2400,
+            "invokeTime": 2000,
+            "uid": "1610933107232611"
+        },
+        {
+            "actionTime": 1700,
+            "invokeTime": 1000,
+            "uid": "3780370495838239"
+        },
+        {
+            "actionTime": 1000,
+            "invokeTime": 667,
+            "uid": "559222209995255"
+        },
+        {
+            "actionTime": 2200,
+            "invokeTime": 2000,
+            "uid": "559222209995252"
+        },
+        {
+            "actionTime": 1500,
+            "invokeTime": 1000,
+            "uid": "559222209995253"
+        },
+        {
+            "actionTime": 720,
+            "invokeTime": 300,
+            "uid": "3566578953390561"
+        },
+        {
+            "actionTime": 2000,
+            "invokeTime": 1233,
+            "uid": "2424073301421209"
+        },
+        {
+            "actionTime": 1300,
+            "invokeTime": 400,
+            "uid": "2424073301421210"
+        },
+        {
+            "actionTime": 1900,
+            "invokeTime": 933,
+            "uid": "2424073301421211"
+        },
+        {
+            "actionTime": 1300,
+            "invokeTime": 600,
+            "uid": "512477040495386"
+        },
+        {
+            "actionTime": 1200,
+            "invokeTime": 733,
+            "uid": "3261046153288736"
+        },
+        {
+            "actionTime": 1300,
+            "invokeTime": 600,
+            "uid": "2078127767430015"
+        },
+        {
+            "actionTime": 1200,
+            "invokeTime": 733,
+            "uid": "1381235431540751"
+        },
+        {
+            "actionTime": 721,
+            "invokeTime": 431,
+            "uid": "4256793655262976"
+        },
+        {
+            "actionTime": 2600,
+            "invokeTime": 1100,
+            "uid": "1685870916051624"
+        },
+        {
+            "actionTime": 2500,
+            "invokeTime": 1033,
+            "uid": "1685870916051627"
+        },
+        {
+            "actionTime": 876,
+            "invokeTime": 524,
+            "uid": "3007872593685136"
+        },
+        {
+            "actionTime": 2300,
+            "invokeTime": 1200,
+            "uid": "2407377549128760"
+        },
+        {
+            "actionTime": 2000,
+            "invokeTime": 1200,
+            "uid": "2407377549128763"
+        },
+        {
+            "actionTime": 927,
+            "invokeTime": 554,
+            "uid": "3678371985494823"
+        },
+        {
+            "actionTime": 2000,
+            "invokeTime": 1000,
+            "uid": "3210186294380431"
+        },
+        {
+            "actionTime": 2000,
+            "invokeTime": 1000,
+            "uid": "3210186294380428"
+        },
+        {
+            "actionTime": 669,
+            "invokeTime": 400,
+            "uid": "209437854088819"
+        },
+        {
+            "actionTime": 2000,
+            "invokeTime": 1000,
+            "uid": "2186868936045499"
+        },
+        {
+            "actionTime": 2000,
+            "invokeTime": 1000,
+            "uid": "2186868936045496"
+        },
+        {
+            "actionTime": 772,
+            "invokeTime": 462,
+            "uid": "1832002857739934"
+        },
+        {
+            "actionTime": 2000,
+            "invokeTime": 1000,
+            "uid": "3506416430142870"
+        },
+        {
+            "actionTime": 2000,
+            "invokeTime": 1000,
+            "uid": "3506416430142869"
+        },
+        {
+            "actionTime": 696,
+            "invokeTime": 415,
+            "uid": "4395149158318925"
+        },
+        {
+            "actionTime": 2000,
+            "invokeTime": 1000,
+            "uid": "570777773154565"
+        },
+        {
+            "actionTime": 2000,
+            "invokeTime": 1000,
+            "uid": "570777773154566"
+        },
+        {
+            "actionTime": 824,
+            "invokeTime": 493,
+            "uid": "748380940606481"
+        },
+        {
+            "actionTime": 2000,
+            "invokeTime": 1000,
+            "uid": "1217368251980489"
+        },
+        {
+            "actionTime": 2000,
+            "invokeTime": 1000,
+            "uid": "1217368251980490"
+        },
+        {
+            "actionTime": 2000,
+            "invokeTime": 1000,
+            "uid": "1217368251980491"
+        },
+        {
+            "actionTime": 772,
+            "invokeTime": 462,
+            "uid": "2904156995013216"
+        },
+        {
+            "actionTime": 2000,
+            "invokeTime": 1000,
+            "uid": "3138796589163528"
+        },
+        {
+            "actionTime": 2000,
+            "invokeTime": 1000,
+            "uid": "3138796589163531"
+        },
+        {
+            "actionTime": 618,
+            "invokeTime": 369,
+            "uid": "3650387996576388"
+        },
+        {
+            "actionTime": 2000,
+            "invokeTime": 1000,
+            "uid": "1757809919201308"
+        },
+        {
+            "actionTime": 2000,
+            "invokeTime": 1000,
+            "uid": "1757809919201311"
+        },
+        {
+            "actionTime": 515,
+            "invokeTime": 308,
+            "uid": "2280289288302435"
+        },
+        {
+            "actionTime": 2000,
+            "invokeTime": 1000,
+            "uid": "809749470822059"
+        },
+        {
+            "actionTime": 2000,
+            "invokeTime": 1000,
+            "uid": "809749470822056"
+        }
+    ],
+    "artAreaInfo": [
+        {
+            "areaType": "AreaPlain",
+            "loadingBGName": "loadingBG01",
+            "name": "평원 1번째",
+            "uid": "3328633687865689"
+        },
+        {
+            "areaType": "AreaFortress",
+            "loadingBGName": "loadingBG02",
+            "name": "요새 1번재",
+            "uid": "4155925883300015"
+        },
+        {
+            "areaType": "AreaCanyon",
+            "name": "협곡 1번째",
+            "uid": "1858015862058657"
+        },
+        {
+            "areaType": "AreaRuin",
+            "loadingBGName": "loadingBG03",
+            "name": "유적 1번재",
+            "uid": "2651461217083887"
+        },
+        {
+            "areaType": "AreaVolcano",
+            "name": "화산 1번재",
+            "uid": "3071077835210719"
+        }
+    ],
+    "artFormationInfo": [
+        {
+            "charPositions": "[[0.0, 0.5], [-1.5, -1.0], [1.5, -1.0], [0.0, -2.5]]",
+            "charRotations": "[]",
+            "monsterPositions": "[[1.2, 6.0], [-1.2, 6.0], [2.0, 8.0], [-2.0, 8.0]]",
+            "monsterRotations": "[]",
+            "uid": "3632879264442810"
+        },
+        {
+            "charPositions": "[[0.0, 0.5], [-1.5, -1.0], [1.5, -1.0], [0.0, -2.5]]",
+            "charRotations": "[]",
+            "monsterPositions": "[[1.2, 6.0], [-1.2, 6.0], [2.0, 8.0], [-2.0, 8.0]]",
+            "monsterRotations": "[]",
+            "uid": "3632879264442809"
+        },
+        {
+            "charPositions": "[[0.0, 0.5], [-1.5, -1.0], [1.5, -1.0], [0.0, -2.5]]",
+            "charRotations": "[]",
+            "monsterPositions": "[[1.2, 6.0], [-1.2, 6.0], [2.0, 8.0], [-2.0, 8.0]]",
+            "monsterRotations": "[]",
+            "uid": "3632879264442808"
+        },
+        {
+            "charPositions": "[[0.0, 0.5], [-1.5, -1.0], [1.5, -1.0], [0.0, -2.5]]",
+            "charRotations": "[]",
+            "monsterPositions": "[[1.2, 6.0], [-1.2, 6.0], [2.0, 8.0], [-2.0, 8.0]]",
+            "monsterRotations": "[]",
+            "uid": "3632879264442815"
+        }
+    ],
+    "artModelInfo": [
+        {
+            "modelName": "character.warrior.1",
+            "name": "캐릭터_전사 1번재",
+            "portraitName": "guardian",
+            "uid": "3472164382549437"
+        },
+        {
+            "modelName": "character.warrior.2",
+            "name": "캐릭터_전사 2번재",
+            "portraitName": "guardian",
+            "uid": "3472164382549438"
+        },
+        {
+            "modelName": "character.warrior.3",
+            "name": "캐릭터_전사 3번재",
+            "portraitName": "guardian",
+            "uid": "3472164382549439"
+        },
+        {
+            "modelName": "character.warrior.4",
+            "name": "캐릭터_전사 4번재",
+            "portraitName": "guardian",
+            "uid": "3472164382549432"
+        },
+        {
+            "modelName": "character.rogue.1",
+            "name": "캐릭터_도적 1번재",
+            "portraitName": "assassin",
+            "uid": "2172837357818461"
+        },
+        {
+            "modelName": "character.rogue.2",
+            "name": "캐릭터_도적 2번재",
+            "portraitName": "assassin",
+            "uid": "2172837357818462"
+        },
+        {
+            "modelName": "character.rogue.3",
+            "name": "캐릭터_도적 3번재",
+            "portraitName": "assassin",
+            "uid": "2172837357818463"
+        },
+        {
+            "modelName": "character.rogue.4",
+            "name": "캐릭터_도적 4번재",
+            "portraitName": "assassin",
+            "uid": "2172837357818456"
+        },
+        {
+            "modelName": "character.mage.1",
+            "name": "캐릭터_마법사 1번재",
+            "portraitName": "wizard",
+            "uid": "36694101430505"
+        },
+        {
+            "modelName": "character.mage.2",
+            "name": "캐릭터_마법사 2번재",
+            "portraitName": "wizard",
+            "uid": "36694101430506"
+        },
+        {
+            "modelName": "character.mage.3",
+            "name": "캐릭터_마법사 3번재",
+            "portraitName": "wizard",
+            "uid": "36694101430507"
+        },
+        {
+            "modelName": "character.mage.4",
+            "name": "캐릭터_마법사 4번재",
+            "portraitName": "wizard",
+            "uid": "36694101430508"
+        },
+        {
+            "modelName": "character.druid.1",
+            "name": "캐릭터_드루이드 1번재",
+            "portraitName": "druid",
+            "uid": "3462842923610859"
+        },
+        {
+            "modelName": "character.druid.2",
+            "name": "캐릭터_드루이드 2번재",
+            "portraitName": "druid",
+            "uid": "3462842923610856"
+        },
+        {
+            "modelName": "character.druid.3",
+            "name": "캐릭터_드루이드 3번재",
+            "portraitName": "druid",
+            "uid": "3462842923610857"
+        },
+        {
+            "modelName": "character.druid.4",
+            "name": "캐릭터_드루이드 4번재",
+            "portraitName": "druid",
+            "uid": "3462842923610862"
+        },
+        {
+            "modelName": "character.tolkien",
+            "name": "테스트 모델 1",
+            "uid": "4125408465644727"
+        },
+        {
+            "modelName": "character.masamune",
+            "name": "테스트 모델 2",
+            "uid": "4125408465644724"
+        },
+        {
+            "modelName": "monster.goblin",
+            "name": "몬스터_고블린칼",
+            "portraitName": "goblin",
+            "uid": "1100623525455874"
+        },
+        {
+            "modelName": "monster.goblinarcher",
+            "name": "몬스터_고블린활",
+            "portraitName": "goblin",
+            "uid": "1100623525455873"
+        },
+        {
+            "modelName": "monster.nymph.pink",
+            "name": "님프(분홍)",
+            "portraitName": "goblin",
+            "uid": "134714546645911"
+        },
+        {
+            "modelName": "monster.nymph.blue",
+            "name": "님프(블루)",
+            "portraitName": "goblin",
+            "uid": "134714546645908"
+        },
+        {
+            "modelName": "monster.troll.fire",
+            "name": "몬스터_트롤(화염)",
+            "portraitName": "monster_troll_fire",
+            "uid": "4368473617942074"
+        },
+        {
+            "modelName": "monster.troll.ice",
+            "name": "몬스터_트롤(냉기)",
+            "portraitName": "monster_troll_ice",
+            "uid": "4368473617942073"
+        },
+        {
+            "modelName": "monster.troll.earth",
+            "name": "몬스터_트롤(대지)",
+            "portraitName": "monster_troll_earth",
+            "uid": "4368473617942072"
+        },
+        {
+            "modelName": "monster.troll.lightning",
+            "name": "몬스터_트롤(번개)",
+            "portraitName": "monster_troll_lightning",
+            "uid": "4368473617942079"
+        },
+        {
+            "modelName": "monster.minotaur.fire",
+            "name": "몬스터_미노타우르스(화염)",
+            "portraitName": "monster_minotaur_fire",
+            "uid": "4241920357466072"
+        },
+        {
+            "modelName": "monster.minotaur.ice",
+            "name": "몬스터_미노타우르스(냉기)",
+            "portraitName": "monster_minotaur_ice",
+            "uid": "4241920357466075"
+        },
+        {
+            "modelName": "monster.minotaur.earth",
+            "name": "몬스터_미노타우르스(대지)",
+            "portraitName": "monster_minotaur_earth",
+            "uid": "4241920357466074"
+        },
+        {
+            "modelName": "monster.minotaur.lightning",
+            "name": "몬스터_미노타우르스(번개)",
+            "portraitName": "monster_minotaur_lightning",
+            "uid": "4241920357466077"
+        },
+        {
+            "modelName": "monster.orcwarrior.fire",
+            "name": "몬스터_오크전사(화염)",
+            "portraitName": "monster_orcwarrior_fire",
+            "uid": "258080318349455"
+        },
+        {
+            "modelName": "monster.orcwarrior.ice",
+            "name": "몬스터_오크전사(냉기)",
+            "portraitName": "monster_orcwarrior_ice",
+            "uid": "258080318349452"
+        },
+        {
+            "modelName": "monster.orcwarrior.earth",
+            "name": "몬스터_오크전사(대지)",
+            "portraitName": "monster_orcwarrior_earth",
+            "uid": "258080318349453"
+        },
+        {
+            "modelName": "monster.orcwarrior.lightning",
+            "name": "몬스터_오크전사(번개)",
+            "portraitName": "monster_orcwarrior_lightning",
+            "uid": "258080318349450"
+        },
+        {
+            "modelName": "monster.manticore.fire",
+            "name": "몬스터_만티코어(화염)",
+            "portraitName": "monster_manticore_fire",
+            "uid": "4378710906760707"
+        },
+        {
+            "modelName": "monster.manticore.ice",
+            "name": "몬스터_만티코어(냉기)",
+            "portraitName": "monster_manticore_ice",
+            "uid": "4378710906760704"
+        },
+        {
+            "modelName": "monster.manticore.earth",
+            "name": "몬스터_만티코어(대지)",
+            "portraitName": "monster_manticore_earth",
+            "uid": "4378710906760705"
+        },
+        {
+            "modelName": "monster.manticore.lightning",
+            "name": "몬스터_만티코어(번개)",
+            "portraitName": "monster_manticore_lightning",
+            "uid": "4378710906760710"
+        },
+        {
+            "modelName": "monster.giantstone.fire",
+            "name": "몬스터_바위거인(화염)",
+            "portraitName": "monster_giantstone_fire",
+            "uid": "2016586077547045"
+        },
+        {
+            "modelName": "monster.giantstone.ice",
+            "name": "몬스터_바위거인(냉기)",
+            "portraitName": "monster_giantstone_ice",
+            "uid": "2016586077547046"
+        },
+        {
+            "modelName": "monster.giantstone.earth",
+            "name": "몬스터_바위거인(대지)",
+            "portraitName": "monster_giantstone_earth",
+            "uid": "2016586077547047"
+        },
+        {
+            "modelName": "monster.giantstone.lightning",
+            "name": "몬스터_바위거인(번개)",
+            "portraitName": "monster_giantstone_lightning",
+            "uid": "2016586077547040"
+        },
+        {
+            "modelName": "monster.gelatinouscube.fire",
+            "name": "몬스터_수액괴물(화염)",
+            "portraitName": "monster_gelatinouscube_fire",
+            "uid": "3434661915828461"
+        },
+        {
+            "modelName": "monster.gelatinouscube.ice",
+            "name": "몬스터_수액괴물(냉기)",
+            "portraitName": "monster_gelatinouscube_ice",
+            "uid": "3434661915828462"
+        },
+        {
+            "modelName": "monster.gelatinouscube.earth",
+            "name": "몬스터_수액괴물(대지)",
+            "portraitName": "monster_gelatinouscube_earth",
+            "uid": "3434661915828463"
+        },
+        {
+            "modelName": "monster.gelatinouscube.lightning",
+            "name": "몬스터_수액괴물(번개)",
+            "portraitName": "monster_gelatinouscube_lightning",
+            "uid": "3434661915828456"
+        },
+        {
+            "modelName": "monster.gelatinouscube.holy",
+            "name": "몬스터_수액괴물(신성)",
+            "portraitName": "monster_gelatinouscube_holy",
+            "uid": "3434661915828457"
+        },
+        {
+            "modelName": "monster.gelatinouscube.shadow",
+            "name": "몬스터_수액괴물(암흑)",
+            "portraitName": "monster_gelatinouscube_shadow",
+            "uid": "3434661915828458"
+        },
+        {
+            "modelName": "monster.cavetarantula.fire",
+            "name": "몬스터_동굴거미(화염)",
+            "portraitName": "monster_cavetarantula_fire",
+            "uid": "1204263416115546"
+        },
+        {
+            "modelName": "monster.cavetarantula.ice",
+            "name": "몬스터_동굴거미(냉기)",
+            "portraitName": "monster_cavetarantula_ice",
+            "uid": "1204263416115545"
+        },
+        {
+            "modelName": "monster.cavetarantula.earth",
+            "name": "몬스터_동굴거미(대지)",
+            "portraitName": "monster_cavetarantula_earth",
+            "uid": "1204263416115544"
+        },
+        {
+            "modelName": "monster.cavetarantula.lightning",
+            "name": "몬스터_동굴거미(번개)",
+            "portraitName": "monster_cavetarantula_lightning",
+            "uid": "1204263416115551"
+        },
+        {
+            "modelName": "monster.drake.fire",
+            "name": "몬스터_용기병(화염)",
+            "portraitName": "monster_drake_fire",
+            "uid": "1469810579842388"
+        },
+        {
+            "modelName": "monster.drake.ice",
+            "name": "몬스터_용기병(냉기)",
+            "portraitName": "monster_drake_ice",
+            "uid": "1469810579842391"
+        },
+        {
+            "modelName": "monster.drake.earth",
+            "name": "몬스터_용기병(대지)",
+            "portraitName": "monster_drake_earth",
+            "uid": "1469810579842390"
+        },
+        {
+            "modelName": "monster.drake.lightning",
+            "name": "몬스터_용기병(번개)",
+            "portraitName": "monster_drake_lightning",
+            "uid": "1469810579842385"
+        },
+        {
+            "modelName": "monster.imp.fire",
+            "name": "몬스터_임프(화염)",
+            "portraitName": "monster_imp_fire",
+            "uid": "4161765053059553"
+        },
+        {
+            "modelName": "monster.imp.ice",
+            "name": "몬스터_임프(냉기)",
+            "portraitName": "monster_imp_ice",
+            "uid": "4161765053059554"
+        },
+        {
+            "modelName": "monster.imp.earth",
+            "name": "몬스터_임프(대지)",
+            "portraitName": "monster_imp_earth",
+            "uid": "4161765053059555"
+        },
+        {
+            "modelName": "monster.imp.lightning",
+            "name": "몬스터_임프(번개)",
+            "portraitName": "monster_imp_lightning",
+            "uid": "4161765053059556"
+        },
+        {
+            "modelName": "monster.crocodile.fire",
+            "name": "몬스터_악어수인(화염)",
+            "portraitName": "monster_crocodile_fire",
+            "uid": "1496636001510923"
+        },
+        {
+            "modelName": "monster.crocodile.ice",
+            "name": "몬스터_악어수인(냉기)",
+            "portraitName": "monster_crocodile_ice",
+            "uid": "1496636001510920"
+        },
+        {
+            "modelName": "monster.crocodile.earth",
+            "name": "몬스터_악어수인(대지)",
+            "portraitName": "monster_crocodile_earth",
+            "uid": "1496636001510921"
+        },
+        {
+            "modelName": "monster.crocodile.lightning",
+            "name": "몬스터_악어수인(번개)",
+            "portraitName": "monster_crocodile_lightning",
+            "uid": "1496636001510926"
+        }
+    ]
+}

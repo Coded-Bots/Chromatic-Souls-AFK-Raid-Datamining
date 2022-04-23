@@ -1,0 +1,808 @@
+{
+    "mailMessageInfo": [
+        {
+            "message": "{0}님께서 던전을 클리어 했습니다! 파티 보상을 전달드립니다.",
+            "sender": "월드 관리자",
+            "title": "던전 클리어 보상",
+            "uid": "69250709099203"
+        },
+        {
+            "message": "{0} has cleared the dungeon! Here's your Party Rewards.",
+            "sender": "World Manager",
+            "title": "Dungeon Clear Reward",
+            "uid": "75847778868400"
+        },
+        {
+            "message": "クリア報酬です。",
+            "sender": "ワールド管理者",
+            "title": "ダンジョンクリア報酬",
+            "uid": "70350220727358"
+        },
+        {
+            "message": "{0}通关了副本！发放队伍奖励",
+            "sender": "世界管理员",
+            "title": "副本通关奖励",
+            "uid": "87942406778855"
+        },
+        {
+            "message": "{0}已通關副本！為您發放隊伍獎勵。",
+            "sender": "世界主宰者",
+            "title": "副本通關獎勵",
+            "uid": "94539476548022"
+        },
+        {
+            "message": "{0} hat den Dungeon abgeschlossen! Hier sind deine Teambelohnungen.",
+            "sender": "Welt-Manager",
+            "title": "Dungeon-Abschlussbelohnung",
+            "uid": "76947290496756"
+        },
+        {
+            "message": "{0} a complété le donjon ! Voici vos primes de groupe.",
+            "sender": "Gestionnaire de monde",
+            "title": "Prime de victoire de donjon",
+            "uid": "74748267240281"
+        },
+        {
+            "message": "{0}เคลียร์ดันเจี้ยนสำเร็จ! นี่คือรางวัลปาร์ตี้ของคุณ",
+            "sender": "ผู้จัดการโลก",
+            "title": "รางวัลการเคลียร์ดันเจี้ยน",
+            "uid": "94539476548009"
+        },
+        {
+            "message": "{0} telah menyelesaikan dungeon! Ini adalah Hadiah Party milikmu.",
+            "sender": "World Manager",
+            "title": "Hadiah Selesai Dungeon",
+            "uid": "71449732355702"
+        },
+        {
+            "message": "{0} terminou a masmorra! Confira as suas recompensas de grupo.",
+            "sender": "Gerente Mundial",
+            "title": "Recompensa de conclusão de masmorra",
+            "uid": "98937523060985"
+        },
+        {
+            "message": "모험가 연맹 리그 종료 보상입니다. 감사합니다!",
+            "sender": "모험가 연맹장",
+            "title": "모험가 연맹 리그 종료 보상",
+            "uid": "462017439695324"
+        },
+        {
+            "message": "Here's your End of Adventurer Alliance League Reward.",
+            "sender": "Adventurer Alliance Master",
+            "title": "End of Adventurer Alliance League Reward",
+            "uid": "477410602490131"
+        },
+        {
+            "message": "冒険家連盟リーグ終了報酬です。",
+            "sender": "冒険家連盟長",
+            "title": "冒険家連盟リーグ終了報酬",
+            "uid": "460917928067169"
+        },
+        {
+            "message": "为您送上冒险家联盟联赛结束奖励！",
+            "sender": "冒险家联盟长",
+            "title": "冒险家联盟联赛结束奖励",
+            "uid": "478510114118488"
+        },
+        {
+            "message": "為您送上冒險家聯盟聯賽結束獎勵！",
+            "sender": "冒險家聯盟長",
+            "title": "[冒險家聯盟]聯賽結束獎勵",
+            "uid": "493903276913293"
+        },
+        {
+            "message": "Hier ist deine Abschlussbelohnung der Abenteurer-Allianz-Liga.",
+            "sender": "Abenteurer-Allianz-Meister",
+            "title": "Abschlussbelohnung: Abenteurer-Allianz-Liga",
+            "uid": "476311090861999"
+        },
+        {
+            "message": "Voici votre prime de fin de la ligue de l’Alliance des aventuriers.",
+            "sender": "Maître de l’Alliance des aventuriers",
+            "title": "Prime de fin de la ligue de l’Alliance des aventuriers",
+            "uid": "474112067605526"
+        },
+        {
+            "message": "รางวัลจบลีกสมาพันธ์นักผจญภัยของเจ้ามาแล้ว",
+            "sender": "หัวหน้าสมาพันธ์นักผจญภัย",
+            "title": "รางวัลจบลีกสมาพันธ์นักผจญภัย",
+            "uid": "493903276913298"
+        },
+        {
+            "message": "Ini adalah Hadiah Selesai Adventurer Alliance League.",
+            "sender": "Adventurer Alliance Master",
+            "title": "Hadiah Selesai Adventurer Alliance League",
+            "uid": "464216462951805"
+        },
+        {
+            "message": "Confira sua recompensa de finalização da Liga de Aliança do Aventureiro",
+            "sender": "Mestre da Aliança do Aventureiro",
+            "title": "Recompensa de finalização da Liga de Aliança do Aventureiro",
+            "uid": "489505230400602"
+        },
+        {
+            "message": "{0}님께서 요청하신 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
+            "sender": "모험가 보급 담당자",
+            "title": "패키지 상품",
+            "uid": "4064746615984202"
+        },
+        {
+            "message": "Here are the supplies you've requested, {0}.\\nI hope they prove useful during your adventure.\\n\\n(Rewards cannot be refunded once you claim them.)",
+            "sender": "Adventurer Quartermaster",
+            "title": "Package Offer",
+            "uid": "4066945639240677"
+        },
+        {
+            "message": "{0}から依頼された補給品をお届けします。\\n冒険に大いに役立ててください。",
+            "sender": "冒険家補給係",
+            "title": "パック商品",
+            "uid": "4063647104355859"
+        },
+        {
+            "message": "这是{0}申请的补给品。\\n祝您冒险顺利。\\n\\n(领取奖励后，将无法退货。)",
+            "sender": "冒险家军需官",
+            "title": "礼包商品",
+            "uid": "4081239290407370"
+        },
+        {
+            "message": "這是{0}您申請的補給品。\\n祝您冒險順利。\\n\\n(領取獎勵後，將無法退貨。)",
+            "sender": "冒險家軍需官",
+            "title": "禮包商品",
+            "uid": "4083438313663871"
+        },
+        {
+            "message": "Hier sind deine bestellten Artikel, {0}.\\nIch hoffe, sie werden dir während deines Abenteuers gute Dienste erweisen.\\n\\n(Belohnungen können nach dem Einfordern nicht wiederhergestellt werden.)",
+            "sender": "Abenteurer-Versorgungsoffizier",
+            "title": "Paketangebot",
+            "uid": "4065846127612349"
+        },
+        {
+            "message": "Voici le matériel que vous avez demandé, {0}.\\nJ’espère qu’il vous sera utile durant votre aventure.\\n\\n(Une fois récupérées, les primes ne peuvent plus être remboursées.)",
+            "sender": "Quartier-maître aventurier",
+            "title": "Offre de pack",
+            "uid": "4068045150868812"
+        },
+        {
+            "message": "เสบียงที่เจ้าขอไปมาแล้ว {0}\\nหวังว่าเจ้าจะได้ใช้ประโยชน์จากมันในการผจญภัยนะ\\n\\n(เมื่อรับรางวัลแล้วจะไม่สามารถขอเงินคืนได้)",
+            "sender": "ผู้คุมเสบียงการผจญภัย",
+            "title": "ข้อเสนอแพ็คเกจ",
+            "uid": "4083438313663840"
+        },
+        {
+            "message": "Ini adalah persediaan yang kamu minta, {0}.\\nSemoga berguna untuk petualanganmu.\\n\\n(Hadiah tidak bisa direfund setelah diambil.)",
+            "sender": "Adventurer Quartermaster",
+            "title": "Penawaran Paket",
+            "uid": "4062547592727771"
+        },
+        {
+            "message": "{0}, confira aqui os suprimentos solicitados.\\nEsperamos que sejam úteis na sua jornada de aventura.\\n\\n(Não é possível reembolso para recompensas resgatadas).",
+            "sender": "Contramestre da Aliança do Aventureiro",
+            "title": "Oferta de pacote",
+            "uid": "4087836360176544"
+        },
+        {
+            "message": "{0}님께서 임무에서 획득한 특수 보상을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.(보상 획득 시 청약철회가 불가합니다.)",
+            "sender": "임무 보급 담당자",
+            "title": "특수 임무 보상",
+            "uid": "1342351100085937"
+        },
+        {
+            "message": "Here's a special reward you've earned from a mission, {0}.\\nI hope it proves useful during your adventure.\\n\\n(Rewards cannot be refunded once you claim them.)",
+            "sender": "Mission Quartermaster",
+            "title": "Special Mission Reward",
+            "uid": "1335754030316738"
+        },
+        {
+            "message": "{0}が任務で獲得した特殊報酬をお届けします。\\n冒険に大いに役立ててください。",
+            "sender": "任務補給係",
+            "title": "特殊任務報酬",
+            "uid": "1343450611714288"
+        },
+        {
+            "message": "这是{0}通过任务获得的特殊奖励。\\n祝您冒险顺利。(领取奖励后，将无法退货。)",
+            "sender": "任务发放官",
+            "title": "特殊任务奖励",
+            "uid": "1361042797765545"
+        },
+        {
+            "message": "這是{0}您透過任務獲得的特殊獎勵。\\n祝您冒險順利。(領取獎勵後，將無法退貨。)",
+            "sender": "任務派發官",
+            "title": "特殊任務獎勵",
+            "uid": "1354445727996408"
+        },
+        {
+            "message": "Hier ist die Spezialbelohnung, die du auf einer Mission erworben hast,{0}.\\nIch hoffe, sie wird dir während deines Abenteuers gute Dienste erweisen.\\n\\n(Belohnungen können nach dem Einfordern nicht wiederhergestellt werden.)",
+            "sender": "Mission-Versorgungsoffizier",
+            "title": "Mission-Spezialbelohnung",
+            "uid": "1336853541944890"
+        },
+        {
+            "message": "Voici une prime spéciale gagnée lors d’une mission, {0}.\\nJ’espère qu’elle vous sera utile durant votre aventure.\\n\\n(Une fois récupérées, les primes ne peuvent plus être remboursées.)",
+            "sender": "Quartier-maître de mission",
+            "title": "Prime de mission spéciale",
+            "uid": "1339052565201335"
+        },
+        {
+            "message": "รางวัลพิเศษที่เจ้าได้รับจากภารกิจมาแล้ว {0}\\nหวังว่าเจ้าจะได้ใช้ประโยชน์จากมันในการผจญภัยนะ\\n\\n(เมื่อรับรางวัลแล้วจะไม่สามารถขอเงินคืนได้)",
+            "sender": "ผู้คุมภารกิจ",
+            "title": "รางวัลภารกิจพิเศษ",
+            "uid": "1354445727996391"
+        },
+        {
+            "message": "Ini hadiah spesial yang kamu dapatkan dari misi, {0}.\\nSemoga berguna untuk petualanganmu.\\n\\n(Hadiah tidak bisa direfund setelah diambil.)",
+            "sender": "Mission Quartermaster",
+            "title": "Hadiah Misi Spesial",
+            "uid": "1340152076829468"
+        },
+        {
+            "message": "{0}, confira uma recompensa especial pela sua missão.\\nEsperamos que sejam úteis na sua jornada de aventura.\\n\\n(Não é possível reembolso para recompensas resgatadas).",
+            "sender": "Contramestre de missão",
+            "title": "Recompensa de missão especial",
+            "uid": "1350047681483447"
+        },
+        {
+            "message": "오늘의 월정액 레드젬이 도착했습니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
+            "sender": "모험가 보급 담당자",
+            "title": "월정액 매일 매일 레드젬",
+            "uid": "1359463958630245"
+        },
+        {
+            "message": "You've received today's Monthly Perk Red Gems.\\nI hope they prove useful during your adventure.\\n\\n(Rewards cannot be refunded once you claim them.)",
+            "sender": "Adventurer Quartermaster",
+            "title": "Monthly Perk: Daily Red Gems",
+            "uid": "1344070795835182"
+        },
+        {
+            "message": "今日のレッドジェム(月額商品)が届きました。\\n冒険に大いに役立ててください。",
+            "sender": "冒険家補給係",
+            "title": "(月額)毎日レッドジェム",
+            "uid": "1360563470258396"
+        },
+        {
+            "message": "收到了今日的红宝石。\\n祝您冒险顺利。(领取奖励后，将无法退货。)",
+            "sender": "冒险家军需官",
+            "title": "[月卡]每日红宝石",
+            "uid": "1378155656309637"
+        },
+        {
+            "message": "今日的包月紅寶石送達囉。\\n祝您冒險順利。\\n\\n(領取獎勵後，將無法退貨。)",
+            "sender": "冒險家軍需官",
+            "title": "[包月]每日紅寶石",
+            "uid": "1362762493514836"
+        },
+        {
+            "message": "Hier sind deine heutigen Roten Juwelen aus dem Monatsvorteil-Paket.\\nIch hoffe, sie werden dir während deines Abenteuers gute Dienste erweisen.\\n\\n(Belohnungen können nach dem Einfordern nicht wiederhergestellt werden.)",
+            "sender": "Abenteurer-Versorgungsoffizier",
+            "title": "Monatsvorteil: Rote Juwelen (tägl.)",
+            "uid": "1345170307463318"
+        },
+        {
+            "message": "Vous avez reçu les gemmes rouges quotidiennes du bonus mensuel.\\nJ’espère qu’elles vous seront utiles durant votre aventure.\\n\\n(Une fois récupérées, les primes ne peuvent plus être remboursées.)",
+            "sender": "Quartier-maître aventurier",
+            "title": "Bonus mensuel : Gemmes rouges quotidiennes",
+            "uid": "1347369330719787"
+        },
+        {
+            "message": "เจ้ารับเพชรแดงจากแพ็ครายเดือนของวันนี้ไปแล้ว\\nหวังว่าเจ้าจะได้ใช้ประโยชน์จากมันในการผจญภัยนะ\\n\\n(เมื่อรับรางวัลแล้วจะไม่สามารถขอเงินคืนได้)",
+            "sender": "ผู้คุมเสบียงการผจญภัย",
+            "title": "แพ็ครายเดือน: เพชรแดงรายวัน",
+            "uid": "1362762493514827"
+        },
+        {
+            "message": "Kamu telah menerima Red Gem Benefit Bulanan, {0}.\\nSemoga berguna untuk petualanganmu.\\n\\n(Hadiah tidak bisa direfund setelah diambil.)",
+            "sender": "Adventurer Quartermaster",
+            "title": "Benefit Bulanan: Red Gem Harian",
+            "uid": "1357264935373760"
+        },
+        {
+            "message": "Você recebeu o brinde mensal de gemas vermelhas diárias para hoje.\\nEsperamos que sejam úteis na sua jornada de aventura.\\n\\n(Não é possível reembolso para recompensas resgatadas).",
+            "sender": "Contramestre da Aliança do Aventureiro",
+            "title": "Brinde mensal: gemas vermelhas diárias",
+            "uid": "1367160540027547"
+        },
+        {
+            "message": "{0}님의 성장을 축하드립니다. 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
+            "sender": "모험가 보급 담당자",
+            "title": "레벨 성장 패키지 상품",
+            "uid": "625501749960939"
+        },
+        {
+            "message": "{0}님의 성장을 축하드립니다. 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
+            "sender": "모험가 보급 담당자",
+            "title": "레벨 성장 패키지 상품",
+            "uid": "614506633678824"
+        },
+        {
+            "message": "{0}님의 성장을 축하드립니다. 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
+            "sender": "모험가 보급 담당자",
+            "title": "레벨 성장 패키지 상품",
+            "uid": "626601261589078"
+        },
+        {
+            "message": "{0}님의 성장을 축하드립니다. 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
+            "sender": "모험가 보급 담당자",
+            "title": "레벨 성장 패키지 상품",
+            "uid": "644193447640335"
+        },
+        {
+            "message": "{0}님의 성장을 축하드립니다. 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
+            "sender": "모험가 보급 담당자",
+            "title": "레벨 성장 패키지 상품",
+            "uid": "633198331358238"
+        },
+        {
+            "message": "{0}님의 성장을 축하드립니다. 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
+            "sender": "모험가 보급 담당자",
+            "title": "레벨 성장 패키지 상품",
+            "uid": "615606145306972"
+        },
+        {
+            "message": "{0}님의 성장을 축하드립니다. 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
+            "sender": "모험가 보급 담당자",
+            "title": "레벨 성장 패키지 상품",
+            "uid": "613407122050465"
+        },
+        {
+            "message": "{0}님의 성장을 축하드립니다. 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
+            "sender": "모험가 보급 담당자",
+            "title": "레벨 성장 패키지 상품",
+            "uid": "633198331358209"
+        },
+        {
+            "message": "{0}님의 성장을 축하드립니다. 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
+            "sender": "모험가 보급 담당자",
+            "title": "레벨 성장 패키지 상품",
+            "uid": "627700773217166"
+        },
+        {
+            "message": "{0}님의 성장을 축하드립니다. 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
+            "sender": "모험가 보급 담당자",
+            "title": "레벨 성장 패키지 상품",
+            "uid": "637596377871169"
+        },
+        {
+            "message": "머큐리 미션을 완료하셨군요. 축하드립니다! 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.",
+            "sender": "모험가 보급 담당자",
+            "title": "머큐리 미션 이벤트 상품",
+            "uid": "1437603494090404"
+        },
+        {
+            "message": "머큐리 미션을 완료하셨군요. 축하드립니다! 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.",
+            "sender": "모험가 보급 담당자",
+            "title": "머큐리 미션 이벤트 상품",
+            "uid": "1435404470833931"
+        },
+        {
+            "message": "머큐리 미션을 완료하셨군요. 축하드립니다! 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.",
+            "sender": "모험가 보급 담당자",
+            "title": "머큐리 미션 이벤트 상품",
+            "uid": "1436503982462329"
+        },
+        {
+            "message": "머큐리 미션을 완료하셨군요. 축하드립니다! 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.",
+            "sender": "모험가 보급 담당자",
+            "title": "머큐리 미션 이벤트 상품",
+            "uid": "1454096168513568"
+        },
+        {
+            "message": "머큐리 미션을 완료하셨군요. 축하드립니다! 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.",
+            "sender": "모험가 보급 담당자",
+            "title": "머큐리 미션 이벤트 상품",
+            "uid": "1451897145257109"
+        },
+        {
+            "message": "머큐리 미션을 완료하셨군요. 축하드립니다! 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.",
+            "sender": "모험가 보급 담당자",
+            "title": "머큐리 미션 이벤트 상품",
+            "uid": "1434304959205847"
+        },
+        {
+            "message": "머큐리 미션을 완료하셨군요. 축하드립니다! 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.",
+            "sender": "모험가 보급 담당자",
+            "title": "머큐리 미션 이벤트 상품",
+            "uid": "1432105935949374"
+        },
+        {
+            "message": "머큐리 미션을 완료하셨군요. 축하드립니다! 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.",
+            "sender": "모험가 보급 담당자",
+            "title": "머큐리 미션 이벤트 상품",
+            "uid": "1451897145257098"
+        },
+        {
+            "message": "머큐리 미션을 완료하셨군요. 축하드립니다! 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.",
+            "sender": "모험가 보급 담당자",
+            "title": "머큐리 미션 이벤트 상품",
+            "uid": "1439802517346901"
+        },
+        {
+            "message": "머큐리 미션을 완료하셨군요. 축하드립니다! 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.",
+            "sender": "모험가 보급 담당자",
+            "title": "머큐리 미션 이벤트 상품",
+            "uid": "1447499098744418"
+        }
+    ],
+    "pushMessageInfo": [
+        {
+            "message": "테스트 푸시 메시지",
+            "title": "테스트 푸시 제목",
+            "uid": "1446739086551091"
+        },
+        {
+            "message": "Test Push Message",
+            "title": "Test Push Title",
+            "uid": "1453336156320480"
+        },
+        {
+            "message": "파티원들이 모험가님을 기다리고있습니다. 지금 접속해서 캐릭터를 성장시켜주세요!!",
+            "title": "어서오세요!",
+            "uid": "901557742840753"
+        },
+        {
+            "message": "Your party members are waiting for you, adventurer! Log in now to level up your characters!",
+            "title": "Welcome!",
+            "uid": "894960673071554"
+        },
+        {
+            "message": "パーティーメンバーが待っていますよ！今すぐログインしてキャラクターを成長させましょう！",
+            "title": "ようこそ！",
+            "uid": "902657254469104"
+        },
+        {
+            "message": "队员们正在等您。立即登录游戏培养角色吧！",
+            "title": "叩叩！有人在吗？",
+            "uid": "920249440520361"
+        },
+        {
+            "message": "您的夥伴正在等您唷。立即登入遊戲成長角色吧！！",
+            "title": "叩叩！有人在嗎？",
+            "uid": "913652370751224"
+        },
+        {
+            "message": "Dein Team erwartet dich, Abenteuer! Logge dich ein und levele deine Charaktere auf!",
+            "title": "Willkommen!",
+            "uid": "896060184699706"
+        },
+        {
+            "message": "Vos coéquipiers vous attendent, aventurier ! Connectez-vous maintenant pour faire monter de niveau vos personnages !",
+            "title": "Bienvenue !",
+            "uid": "898259207956151"
+        },
+        {
+            "message": "สมาชิกปาร์ตี้กำลังรอเจ้าอยู่ นักผจญภัยเอ๋ย! ล็อกอินและอัปเลเวลตัวละครกันเลย!",
+            "title": "ยินดีต้อนรับ!",
+            "uid": "913652370751207"
+        },
+        {
+            "message": "Anggota partymu sedang menunggu, adventurer! Login sekarang untuk level up karaktermu!",
+            "title": "Selamat datang!",
+            "uid": "899358719584284"
+        },
+        {
+            "message": "Os membros do grupo estão esperando por você, aventureiro! Faça login agora mesmo para progredir seus personagens!",
+            "title": "Olá!",
+            "uid": "909254324238263"
+        },
+        {
+            "message": "탐사가 완료되었어요. 어서 고고학 연구소로 찾아와 주세요.",
+            "title": "탐사 완료!",
+            "uid": "3417090749137599"
+        },
+        {
+            "message": "Exploration is complete! Visit the Archeology Lab now!",
+            "title": "Exploration Complete!",
+            "uid": "3432483911932660"
+        },
+        {
+            "message": "探査が完了しました。今すぐ考古学研究所に行ってみましょう。",
+            "title": "探査完了！",
+            "uid": "3418190260765922"
+        },
+        {
+            "message": "完成了探查。快到考古学研究所吧！",
+            "title": "完成探查！",
+            "uid": "3400598074714427"
+        },
+        {
+            "message": "勘查已結束。請速速前往考古研究所！",
+            "title": "勘查完畢！",
+            "uid": "3415991237509482"
+        },
+        {
+            "message": "Die Erkundung ist abgeschlossen! Und jetzt auf ins Archäologie-Labor!",
+            "title": "Erkundung abgeschlossen!",
+            "uid": "3433583423560744"
+        },
+        {
+            "message": "Exploration terminée ! Rendez-vous au laboratoire archéologique !",
+            "title": "Exploration terminée !",
+            "uid": "3431384400304277"
+        },
+        {
+            "message": "การสำรวจเสร็จสิ้น! ไปห้องค้นคว้าโบราณคดีเลย!",
+            "title": "การสำรวจเสร็จสิ้น!",
+            "uid": "3415991237509493"
+        },
+        {
+            "message": "Eksplorasi selesai! Kunjungi Archeology Lab sekarang!",
+            "title": "Eksplorasi Selesai!",
+            "uid": "3419289772394066"
+        },
+        {
+            "message": "Exploração concluída! Siga já para o Laboratório de arqueologia!",
+            "title": "Exploração concluída!",
+            "uid": "3411593190996517"
+        },
+        {
+            "message": "새로운 던전에 입장할 수 있게되었습니다. 어떤 던전이 모험가님을 기다리고있을까요?!",
+            "title": "새로운 던전 입장 가능!",
+            "uid": "2805707371943819"
+        },
+        {
+            "message": "You can now enter a new dungeon. Let's discover what exciting adventures await you inside!",
+            "title": "New Dungeon Available!",
+            "uid": "2794712255661704"
+        },
+        {
+            "message": "新しいダンジョンに入場できます。どんなダンジョンが待ち受けているでしょうか！？",
+            "title": "新しいダンジョンに入場可能！",
+            "uid": "2806806883572214"
+        },
+        {
+            "message": "可进入新的副本。这一次会是怎样的副本呢？",
+            "title": "开放新副本！",
+            "uid": "2824399069623471"
+        },
+        {
+            "message": "可以進入新的副本囉。會是什麼樣的冒險在等著您呢？！",
+            "title": "開放新副本！",
+            "uid": "2813403953341374"
+        },
+        {
+            "message": "Jetzt kannst du einen neuen Dungeon betreten. Schauen wir mal, welche spannenden Abenteuer dort auf dich warten!",
+            "title": "Neuer Dungeon verfügbar!",
+            "uid": "2795811767290108"
+        },
+        {
+            "message": "Vous pouvez entrer dans un nouveau donjon. Allons voir quelles aventures excitantes vous attendent !",
+            "title": "Nouveau donjon disponible !",
+            "uid": "2793612744033601"
+        },
+        {
+            "message": "เจ้าสามารถเข้าดันเจี้ยนใหม่ได้แล้ว! ไปท้าพิสูจน์การผจญภัยอันน่าตื่นเต้นที่รอเจ้าอยู่กันเลย!",
+            "title": "มีดันเจี้ยนใหม่!",
+            "uid": "2813403953341345"
+        },
+        {
+            "message": "Kamu sekarang bisa masuk ke dungeon baru. Ayo kita lihat petualangan seru apa yang menantimu di dalam!",
+            "title": "Tersedia Dungeon Baru!",
+            "uid": "2807906395200302"
+        },
+        {
+            "message": "Você agora pode entrar na nova masmorra. Vamos lá, descobrir que aventuras instigantes lhe aguardam lá dentro!",
+            "title": "Nova masmorra disponível!",
+            "uid": "2817801999854305"
+        },
+        {
+            "message": "아직 클리어하지 않은 던전이 1시간 후에 사라집니다. 모험가님의 도움이 필요합니다!",
+            "title": "던전 종료 임박!",
+            "uid": "4062889922196156"
+        },
+        {
+            "message": "An uncleared dungeon is going to disappear in an hour! We need your help, adventurer!",
+            "title": "Dungeon Closing Soon!",
+            "uid": "4078283084991219"
+        },
+        {
+            "message": "まだクリアしていないダンジョンが1時間後に消えてしまいます。どうか手伝ってください！",
+            "title": "ダンジョン終了間近！",
+            "uid": "4061790410568001"
+        },
+        {
+            "message": "尚未通关的副本于1小时后消失。急需您的帮助！",
+            "title": "副本即将结束！",
+            "uid": "4079382596619320"
+        },
+        {
+            "message": "仍有副本尚未完成。只剩最後一個小時了！我們需要您的協助！",
+            "title": "副本即將結束！",
+            "uid": "4094775759414381"
+        },
+        {
+            "message": "Ein noch nicht abgeschlossener Dungeon wird in einer Stunde verschwinden. Abenteurer, wir brauchen deine Hilfe!",
+            "title": "Dungeon schließt bald!",
+            "uid": "4077183573362831"
+        },
+        {
+            "message": "Un donjon non complété disparaîtra dans une heure ! Nous avons besoin de votre aide, aventurier !",
+            "title": "Un donjon va bientôt fermer !",
+            "uid": "4074984550106614"
+        },
+        {
+            "message": "ดันเจี้ยนที่ยังไม่ได้เคลียร์จะหายไปในหนึ่งชั่วโมง! นักผจญภัยเอ๋ย เราต้องการความช่วยเหลือจากเจ้า!",
+            "title": "ดันเจี้ยนกำลังจะปิด!",
+            "uid": "4094775759414386"
+        },
+        {
+            "message": "Dungeon yang belum diselesaikan akan hilang dalam satu jam! Kami butuh bantuanmu, adventurer!",
+            "title": "Dungeon Akan Tutup!",
+            "uid": "4065088945452637"
+        },
+        {
+            "message": "Uma masmorra não concluída vai desaparecer dentro de uma hora! Ajude, aventureiro!",
+            "title": "Masmorra será encerrada em breve!",
+            "uid": "4090377712901434"
+        },
+        {
+            "message": "새로운 우편이 도착했습니다. 확인하러 가 볼까요~?",
+            "title": "새로운 우편!",
+            "uid": "1698698662530625"
+        },
+        {
+            "message": "Looks like you've got some new mail. Let's go take a look at the Mailbox!",
+            "title": "You've got new mail!",
+            "uid": "1692101592761234"
+        },
+        {
+            "message": "新着メールが届きました。チェックしに行きましょう！",
+            "title": "新着メール！",
+            "uid": "1699798174158720"
+        },
+        {
+            "message": "收到了新的邮件。要去看一下吗？",
+            "title": "您有新的邮件！",
+            "uid": "1682205988107481"
+        },
+        {
+            "message": "收到新的信件了。要去看一下嗎？",
+            "title": "您有新的信件！",
+            "uid": "1675608918338056"
+        },
+        {
+            "message": "Du scheinst Post bekommen zu haben. Schau mal ins Postfach!",
+            "title": "Du hast Post!",
+            "uid": "1693201104389578"
+        },
+        {
+            "message": "On dirait que quelqu’un vous a écrit. Allons voir votre boîte aux lettres !",
+            "title": "Vous avez reçu un message !",
+            "uid": "1695400127646055"
+        },
+        {
+            "message": "ท่าทางจะมีจดหมายมานะ ไปดูกล่องจดหมายกัน!",
+            "title": "ได้รับจดหมายใหม่!",
+            "uid": "1675608918338071"
+        },
+        {
+            "message": "Sepertinya kamu menerima pesan baru! Ayo kita lihat Mailbox!",
+            "title": "Kamu menerima pesan baru!",
+            "uid": "1696499639274156"
+        },
+        {
+            "message": "Parece que chegou uma mensagem para você, confira seu Correio!",
+            "title": "Você tem uma nova mensagem!",
+            "uid": "1671210871825351"
+        }
+    ],
+    "systemMessageInfo": [
+        {
+            "message": "프리셋1",
+            "uid": "2665078799152444"
+        },
+        {
+            "message": "preset1",
+            "uid": "2680471961947507"
+        },
+        {
+            "message": "preset1",
+            "uid": "2663979287524289"
+        },
+        {
+            "message": "preset1",
+            "uid": "2681571473575608"
+        },
+        {
+            "message": "preset1",
+            "uid": "2696964636370669"
+        },
+        {
+            "message": "preset1",
+            "uid": "2679372450319119"
+        },
+        {
+            "message": "preset1",
+            "uid": "2677173427062902"
+        },
+        {
+            "message": "preset1",
+            "uid": "2696964636370674"
+        },
+        {
+            "message": "preset1",
+            "uid": "2667277822408925"
+        },
+        {
+            "message": "preset1",
+            "uid": "2692566589857722"
+        },
+        {
+            "message": "한국어",
+            "uid": "1745817127113094"
+        },
+        {
+            "message": "English",
+            "uid": "1756812243395209"
+        },
+        {
+            "message": "日本語",
+            "uid": "1744717615485015"
+        },
+        {
+            "message": "简体中文",
+            "uid": "1727125429433710"
+        },
+        {
+            "message": "繁體中文",
+            "uid": "1738120545715827"
+        },
+        {
+            "message": "Deutsch",
+            "uid": "1755712731767121"
+        },
+        {
+            "message": "Français",
+            "uid": "1757911755023592"
+        },
+        {
+            "message": "ไทย",
+            "uid": "1738120545715820"
+        },
+        {
+            "message": "Bahasa Indonesia",
+            "uid": "1743618103856871"
+        },
+        {
+            "message": "Português",
+            "uid": "1733722499202892"
+        },
+        {
+            "message": "원활한 게임 플레이를 위해서는 패치 파일을 다운로드해야 합니다. 지금 {0}개의 파일을 다운로드하시겠습니까?",
+            "uid": "1995044879849984"
+        },
+        {
+            "message": "원활한 게임 플레이를 위해서는 패치 파일을 다운로드해야 합니다. 지금 {0}개의 파일을 다운로드하시겠습니까?",
+            "uid": "2001641949619407"
+        },
+        {
+            "message": "원활한 게임 플레이를 위해서는 패치 파일을 다운로드해야 합니다. 지금 {0}개의 파일을 다운로드하시겠습니까?",
+            "uid": "1993945368221917"
+        },
+        {
+            "message": "원활한 게임 플레이를 위해서는 패치 파일을 다운로드해야 합니다. 지금 {0}개의 파일을 다운로드하시겠습니까?",
+            "uid": "1976353182170596"
+        },
+        {
+            "message": "원활한 게임 플레이를 위해서는 패치 파일을 다운로드해야 합니다. 지금 {0}개의 파일을 다운로드하시겠습니까?",
+            "uid": "1982950251939785"
+        },
+        {
+            "message": "원활한 게임 플레이를 위해서는 패치 파일을 다운로드해야 합니다. 지금 {0}개의 파일을 다운로드하시겠습니까?",
+            "uid": "2000542437991051"
+        },
+        {
+            "message": "원활한 게임 플레이를 위해서는 패치 파일을 다운로드해야 합니다. 지금 {0}개의 파일을 다운로드하시겠습니까?",
+            "uid": "1998343414734842"
+        },
+        {
+            "message": "원활한 게임 플레이를 위해서는 패치 파일을 다운로드해야 합니다. 지금 {0}개의 파일을 다운로드하시겠습니까?",
+            "uid": "1982950251939798"
+        },
+        {
+            "message": "원활한 게임 플레이를 위해서는 패치 파일을 다운로드해야 합니다. 지금 {0}개의 파일을 다운로드하시겠습니까?",
+            "uid": "1997243903106481"
+        },
+        {
+            "message": "원활한 게임 플레이를 위해서는 패치 파일을 다운로드해야 합니다. 지금 {0}개의 파일을 다운로드하시겠습니까?",
+            "uid": "1987348298452734"
+        }
+    ]
+}

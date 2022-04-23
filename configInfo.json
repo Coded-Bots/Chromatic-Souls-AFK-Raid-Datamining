@@ -1,0 +1,1225 @@
+{
+    "configInfo": [
+        {
+            "uid": "4003243905901020",
+            "value": {
+                "intValue": 3,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "3330145080343904",
+            "value": {
+                "stringValue": "이것은 문자열",
+                "type": "Float"
+            }
+        },
+        {
+            "uid": "280739157966664",
+            "value": {
+                "type": "Bool",
+                "uidValue": "3978184656882596"
+            }
+        },
+        {
+            "uid": "2524234685535741",
+            "value": {
+                "intValue": 1,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "3500643646229331",
+            "value": {
+                "intValue": 150000,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "2712059756366161",
+            "value": {
+                "intValue": 20,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "1557001266909980",
+            "value": {
+                "intValue": 10,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "3296902540368605",
+            "value": {
+                "intValue": 8,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "3952930924057353",
+            "value": {
+                "intValue": 60000,
+                "type": "Numeric"
+            }
+        },
+        {
+            "arrayValue": [
+                {
+                    "intValue": 192,
+                    "type": "Numeric"
+                },
+                {
+                    "intValue": 111,
+                    "type": "Numeric"
+                },
+                {
+                    "intValue": 123,
+                    "type": "Numeric"
+                },
+                {
+                    "intValue": 222,
+                    "type": "Numeric"
+                }
+            ],
+            "uid": "355949657565061"
+        },
+        {
+            "arrayValue": [
+                {
+                    "type": "Bool",
+                    "uidValue": "4003243905901020"
+                },
+                {
+                    "type": "Bool",
+                    "uidValue": "3330145080343904"
+                }
+            ],
+            "uid": "1748582516577138"
+        },
+        {
+            "arrayValue": [
+                {
+                    "stringValue": "blablabla",
+                    "type": "Float"
+                },
+                {
+                    "stringValue": "   Very Very Good",
+                    "type": "Float"
+                }
+            ],
+            "uid": "1274324316056175"
+        },
+        {
+            "uid": "4454425403389328",
+            "value": {
+                "floatValue": 0.27,
+                "type": "Str"
+            }
+        },
+        {
+            "arrayValue": [
+                {
+                    "floatValue": 123.4,
+                    "type": "Str"
+                },
+                {
+                    "floatValue": 222.0,
+                    "type": "Str"
+                },
+                {
+                    "type": "Str"
+                },
+                {
+                    "floatValue": 32.0,
+                    "type": "Str"
+                },
+                {
+                    "floatValue": 0.08,
+                    "type": "Str"
+                }
+            ],
+            "uid": "4109637597441631"
+        },
+        {
+            "arrayValue": [
+                {
+                    "type": "Decimal"
+                },
+                {
+                    "type": "Decimal"
+                },
+                {
+                    "type": "Decimal"
+                },
+                {
+                    "boolValue": true,
+                    "type": "Decimal"
+                },
+                {
+                    "type": "Decimal"
+                },
+                {
+                    "type": "Decimal"
+                },
+                {
+                    "type": "Decimal"
+                },
+                {
+                    "type": "Decimal"
+                }
+            ],
+            "uid": "176331183753746"
+        },
+        {
+            "uid": "4199353297038632"
+        },
+        {
+            "uid": "1474990123736277",
+            "value": {
+                "intValue": 1231213213,
+                "type": "Numeric"
+            }
+        },
+        {
+            "arrayValue": [
+                {
+                    "type": "Decimal"
+                },
+                {
+                    "type": "Decimal"
+                }
+            ],
+            "uid": "700444714574420"
+        },
+        {
+            "arrayValue": [
+                {
+                    "stringValue": "True",
+                    "type": "Float"
+                }
+            ],
+            "uid": "3487492575415663"
+        },
+        {
+            "uid": "2253452989174041",
+            "value": {
+                "stringValue": "{\"key\":\"value\", \"array_key\":[\"elem1\", \"elem2\"]}",
+                "type": "Float"
+            }
+        },
+        {
+            "arrayValue": [
+                {
+                    "stringValue": "{\"key\": \"value\"}",
+                    "type": "Float"
+                },
+                {
+                    "stringValue": "{\"array_key\": [\"elem1\", \"elem2\"]}",
+                    "type": "Float"
+                },
+                {
+                    "stringValue": "{\"key2\": \"value2\"}",
+                    "type": "Float"
+                },
+                {
+                    "stringValue": "[{\"key3\": \"value3\"}]",
+                    "type": "Float"
+                }
+            ],
+            "uid": "3279893918715209"
+        },
+        {
+            "uid": "2468458055034752",
+            "value": {
+                "stringValue": "rhasdfasdfasdfasdf",
+                "type": "Float"
+            }
+        },
+        {
+            "uid": "4384795146750298",
+            "value": {
+                "intValue": 200,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "3470349895038288",
+            "value": {
+                "intValue": 200,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "4023141042904074",
+            "value": {
+                "consumeValue": [
+                    {
+                        "type": "CurrencyBlueGem",
+                        "value": 50
+                    },
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 50
+                    }
+                ],
+                "type": "Object"
+            }
+        },
+        {
+            "uid": "357800471766669",
+            "value": {
+                "consumeValue": [
+                    {
+                        "type": "CurrencyBlueGem",
+                        "value": 50
+                    },
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 50
+                    }
+                ],
+                "type": "Object"
+            }
+        },
+        {
+            "uid": "1134618307771226",
+            "value": {
+                "consumeValue": [
+                    {
+                        "type": "CurrencyBlueGem",
+                        "value": 100
+                    },
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 100
+                    }
+                ],
+                "type": "Object"
+            }
+        },
+        {
+            "uid": "3617676817774045",
+            "value": {
+                "consumeValue": [
+                    {
+                        "type": "CurrencyBlueGem",
+                        "value": 900
+                    },
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 900
+                    }
+                ],
+                "type": "Object"
+            }
+        },
+        {
+            "uid": "2954975060049681",
+            "value": {
+                "consumeValue": [
+                    {
+                        "type": "CurrencyBlueGem",
+                        "value": 50
+                    },
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 50
+                    }
+                ],
+                "type": "Object"
+            }
+        },
+        {
+            "uid": "2296854661370333",
+            "value": {
+                "consumeValue": [
+                    {
+                        "type": "CurrencyBlueGem",
+                        "value": 200
+                    },
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 200
+                    }
+                ],
+                "type": "Object"
+            }
+        },
+        {
+            "uid": "3915703504413554",
+            "value": {
+                "consumeValue": [
+                    {
+                        "type": "CurrencyBlueGem",
+                        "value": 1800
+                    },
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 1800
+                    }
+                ],
+                "type": "Object"
+            }
+        },
+        {
+            "uid": "1725849985593461",
+            "value": {
+                "intValue": 3,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "2515815624114598",
+            "value": {
+                "intValue": 120,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "887279874683127",
+            "value": {
+                "intValue": 10,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "2215617728930110",
+            "value": {
+                "type": "Bool",
+                "uidValue": "2170740396944576"
+            }
+        },
+        {
+            "uid": "2450930503479059",
+            "value": {
+                "type": "Bool",
+                "uidValue": "1082230293856654"
+            }
+        },
+        {
+            "uid": "962560731441703",
+            "value": {
+                "intValue": 1,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "222148031382782",
+            "value": {
+                "intValue": 1,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "3197376750446450",
+            "value": {
+                "intValue": 10,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "2553830888706529",
+            "value": {
+                "intValue": 20,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "66779239659901",
+            "value": {
+                "stringValue": "EGT_MythologyPlus",
+                "type": "Float"
+            }
+        },
+        {
+            "uid": "2575056532467358",
+            "value": {
+                "intValue": 240,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "1979139511156282",
+            "value": {
+                "stringValue": "EGT_Legendary",
+                "type": "Float"
+            }
+        },
+        {
+            "uid": "455318928526337",
+            "value": {
+                "stringValue": "EGT_Epic",
+                "type": "Float"
+            }
+        },
+        {
+            "uid": "4434470684841911",
+            "value": {
+                "stringValue": "EGT_MythologyPlus",
+                "type": "Float"
+            }
+        },
+        {
+            "uid": "2598664096121127",
+            "value": {
+                "intValue": 4,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "2745144942820556",
+            "value": {
+                "intValue": 4320,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "1873908243137020",
+            "value": {
+                "intValue": 1440,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "4446556955053484",
+            "value": {
+                "intValue": 1,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "1998740617293123",
+            "value": {
+                "intValue": 7,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "1616716894573650",
+            "value": {
+                "intValue": 28,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "1081548945947175",
+            "value": {
+                "intValue": 500,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "466475721055209",
+            "value": {
+                "intValue": 10,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "3741975216354329",
+            "value": {
+                "intValue": 10,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "580329951478683",
+            "value": {
+                "intValue": 30,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "4038930106835872",
+            "value": {
+                "intValue": 30,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "4176776724194759",
+            "value": {
+                "intValue": 5000,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "899148386145406",
+            "value": {
+                "intValue": 30,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "2313050449210831",
+            "value": {
+                "type": "Bool",
+                "uidValue": "2070205979074072"
+            }
+        },
+        {
+            "uid": "2436017773180075",
+            "value": {
+                "intValue": 50,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "2894823065385661",
+            "value": {
+                "intValue": 10,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "1239227577144609",
+            "value": {
+                "intValue": 500,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "3226405196183596",
+            "value": {
+                "intValue": 300,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "18046774654822",
+            "value": {
+                "intValue": 2000,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "3453030528504854",
+            "value": {
+                "intValue": 100,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "774561393716087",
+            "value": {
+                "intValue": 1000,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "3842410071826144",
+            "value": {
+                "intValue": 2000,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "4357072372524905",
+            "value": {
+                "stringValue": "44312.0",
+                "type": "Float"
+            }
+        },
+        {
+            "uid": "3040255523903238",
+            "value": {
+                "intValue": 20,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "1089733452109724",
+            "value": {
+                "intValue": 7,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "152335441534164",
+            "value": {
+                "intValue": 60,
+                "type": "Numeric"
+            }
+        },
+        {
+            "arrayValue": [
+                {
+                    "stringValue": "ko",
+                    "type": "Float"
+                },
+                {
+                    "stringValue": "en",
+                    "type": "Float"
+                },
+                {
+                    "stringValue": "zh-cn",
+                    "type": "Float"
+                },
+                {
+                    "stringValue": "zh-tw",
+                    "type": "Float"
+                },
+                {
+                    "stringValue": "de",
+                    "type": "Float"
+                },
+                {
+                    "stringValue": "fr",
+                    "type": "Float"
+                },
+                {
+                    "stringValue": "th",
+                    "type": "Float"
+                },
+                {
+                    "stringValue": "id",
+                    "type": "Float"
+                },
+                {
+                    "stringValue": "pt",
+                    "type": "Float"
+                }
+            ],
+            "uid": "1578745654173907"
+        },
+        {
+            "uid": "1837020116203711",
+            "value": {
+                "stringValue": "http://cafe.naver.com/chromaticsouls",
+                "type": "Float"
+            }
+        },
+        {
+            "uid": "1852413278998772",
+            "value": {
+                "stringValue": "http://cafe.naver.com/chromaticsouls",
+                "type": "Float"
+            }
+        },
+        {
+            "uid": "1838119627832034",
+            "value": {
+                "stringValue": "http://cafe.naver.com/chromaticsouls",
+                "type": "Float"
+            }
+        },
+        {
+            "uid": "852803495277205",
+            "value": {
+                "stringValue": "http://cafe.naver.com/chromaticsouls",
+                "type": "Float"
+            }
+        },
+        {
+            "uid": "840708867366973",
+            "value": {
+                "stringValue": "http://cafe.naver.com/chromaticsouls",
+                "type": "Float"
+            }
+        },
+        {
+            "uid": "566683956245105",
+            "value": {
+                "stringValue": "http://cafe.naver.com/chromaticsouls/book5074518",
+                "type": "Float"
+            }
+        },
+        {
+            "uid": "814988910158923",
+            "value": {
+                "stringValue": "http://www.withhive.com/help/inquire",
+                "type": "Float"
+            }
+        },
+        {
+            "uid": "2554480915915829",
+            "value": {
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "533869207522953",
+            "value": {
+                "stringValue": "http://terms.withhive.com/terms/policy/view/M31",
+                "type": "Float"
+            }
+        },
+        {
+            "uid": "2343829250390602",
+            "value": {
+                "intValue": 1150,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "4421942626610527",
+            "value": {
+                "intValue": 2150,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "2093399024637948",
+            "value": {
+                "intValue": 1150,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "1789582194240719",
+            "value": {
+                "intValue": -1500,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "3414833582253001",
+            "value": {
+                "intValue": -1500,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "3973364283823380",
+            "value": {
+                "intValue": -1500,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "2572677015536207",
+            "value": {
+                "intValue": -1500,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "4111180750468124",
+            "value": {
+                "intValue": 1250,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "2983039584350493",
+            "value": {
+                "intValue": 1250,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "3686368760939850",
+            "value": {
+                "intValue": 1250,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "2313505219343321",
+            "value": {
+                "intValue": -1500,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "880388740102355",
+            "value": {
+                "intValue": -1500,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "3161670117032402",
+            "value": {
+                "intValue": -1500,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "4354338284201045",
+            "value": {
+                "intValue": -1500,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "3686432321058517",
+            "value": {
+                "intValue": 2150,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "1101452819447882",
+            "value": {
+                "intValue": 2150,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "1767198224771120",
+            "value": {
+                "intValue": 1250,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "3407365212513651",
+            "value": {
+                "intValue": 2150,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "3515993057192806",
+            "value": {
+                "timeValue": "1646017200000",
+                "type": "Date"
+            }
+        },
+        {
+            "uid": "1374057922651024",
+            "value": {
+                "type": "Bool",
+                "uidValue": "721972904097054"
+            }
+        },
+        {
+            "uid": "4290477821253808",
+            "value": {
+                "type": "Bool",
+                "uidValue": "1669751927425783"
+            }
+        },
+        {
+            "uid": "535244621311246",
+            "value": {
+                "type": "Bool",
+                "uidValue": "245500087042167"
+            }
+        },
+        {
+            "uid": "1502807570740270",
+            "value": {
+                "intValue": 100,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "4268133164620160",
+            "value": {
+                "intValue": 50,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "2087545989840526",
+            "value": {
+                "intValue": 1440,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "1338728372737591",
+            "value": {
+                "intValue": 30,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "893360665844899",
+            "value": {
+                "type": "Bool",
+                "uidValue": "1953425928339816"
+            }
+        },
+        {
+            "uid": "852043014121335",
+            "value": {
+                "intValue": 20,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "113612228363521",
+            "value": {
+                "intValue": 300,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "885718253181025",
+            "value": {
+                "intValue": 300,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "3410614416639300",
+            "value": {
+                "intValue": 5,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "1541375028235093",
+            "value": {
+                "intValue": 480,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "2038579958967657",
+            "value": {
+                "intValue": 40,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "4466649596234805",
+            "value": {
+                "intValue": 40,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "2974596104901723",
+            "value": {
+                "intValue": 60,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "461293998064894",
+            "value": {
+                "intValue": 40,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "3375769763244840",
+            "value": {
+                "intValue": 40,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "3700071916362162",
+            "value": {
+                "intValue": 60,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "1462370096632724",
+            "value": {
+                "stringValue": "EGT_EpicPlus",
+                "type": "Float"
+            }
+        },
+        {
+            "uid": "80268133829991",
+            "value": {
+                "stringValue": "EGT_Legendary",
+                "type": "Float"
+            }
+        },
+        {
+            "uid": "3318708315566613",
+            "value": {
+                "intValue": 10,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "409501527081858",
+            "value": {
+                "intValue": 5,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "1929166278637726",
+            "value": {
+                "intValue": 1000,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "3000071836609190",
+            "value": {
+                "intValue": 480,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "978512310292525",
+            "value": {
+                "intValue": 2,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "436948218827840",
+            "value": {
+                "intValue": 3,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "128000246613290",
+            "value": {
+                "intValue": 250,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "563049207860327",
+            "value": {
+                "intValue": 2,
+                "type": "Numeric"
+            }
+        },
+        {
+            "uid": "612944204293192",
+            "value": {
+                "type": "Bool",
+                "uidValue": "1353738573056745"
+            }
+        },
+        {
+            "uid": "2701528701577037",
+            "value": {
+                "type": "Bool",
+                "uidValue": "3132248563067013"
+            }
+        },
+        {
+            "uid": "1651955736305665",
+            "value": {
+                "type": "Bool",
+                "uidValue": "1122991797640462"
+            }
+        },
+        {
+            "uid": "2607165387789959",
+            "value": {
+                "type": "Bool",
+                "uidValue": "3920793756079623"
+            }
+        },
+        {
+            "uid": "1080951865497743",
+            "value": {
+                "type": "Bool",
+                "uidValue": "1344556046095487"
+            }
+        },
+        {
+            "uid": "470143944852502",
+            "value": {
+                "type": "Bool",
+                "uidValue": "1662832392412017"
+            }
+        },
+        {
+            "uid": "4073576098703782",
+            "value": {
+                "type": "Bool",
+                "uidValue": "3855146913362829"
+            }
+        },
+        {
+            "uid": "3237290264921642",
+            "value": {
+                "type": "Bool",
+                "uidValue": "867853698793603"
+            }
+        },
+        {
+            "uid": "501905934382472",
+            "value": {
+                "type": "Bool",
+                "uidValue": "3682713468772279"
+            }
+        },
+        {
+            "uid": "2864565318960440",
+            "value": {
+                "type": "Bool",
+                "uidValue": "1357534222982080"
+            }
+        },
+        {
+            "uid": "875027666744500",
+            "value": {
+                "type": "Bool",
+                "uidValue": "1751301108267940"
+            }
+        },
+        {
+            "uid": "483469566707842",
+            "value": {
+                "type": "Bool",
+                "uidValue": "295339528379968"
+            }
+        },
+        {
+            "uid": "1384676830724978",
+            "value": {
+                "type": "Bool",
+                "uidValue": "4101233666433261"
+            }
+        },
+        {
+            "uid": "3075312291861638",
+            "value": {
+                "type": "Bool",
+                "uidValue": "4219044614136522"
+            }
+        },
+        {
+            "uid": "1928141353267884",
+            "value": {
+                "type": "Bool",
+                "uidValue": "2084633350428322"
+            }
+        },
+        {
+            "uid": "1921080499842995",
+            "value": {
+                "type": "Bool",
+                "uidValue": "1268448278649044"
+            }
+        },
+        {
+            "uid": "3566890846275967",
+            "value": {
+                "type": "Bool",
+                "uidValue": "3202565566106376"
+            }
+        },
+        {
+            "uid": "3187806680578417",
+            "value": {
+                "type": "Bool",
+                "uidValue": "3823034836341726"
+            }
+        },
+        {
+            "uid": "4323680520847205",
+            "value": {
+                "type": "Bool",
+                "uidValue": "3908021614210362"
+            }
+        },
+        {
+            "uid": "3931803027922580",
+            "value": {
+                "intValue": 1440,
+                "type": "Numeric"
+            }
+        }
+    ]
+}

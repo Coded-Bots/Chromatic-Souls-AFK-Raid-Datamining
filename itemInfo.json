@@ -1,0 +1,604 @@
+{
+    "itemInfo": [
+        {
+            "desc": "훈련소에서 스킬 강화에 사용되는 스크롤이다.",
+            "iconName": "item_00510001",
+            "itemType": "ItemScroll",
+            "name": "스킬 스크롤",
+            "uid": "2518827094883848"
+        },
+        {
+            "desc": "훈련소에서 고급 스킬 합성에 사용되는 희귀한 스크롤이다.",
+            "iconName": "item_00510009",
+            "itemType": "ItemScroll",
+            "name": "고급 크로매틱 스크롤",
+            "uid": "727544049310359"
+        },
+        {
+            "desc": "훈련소에서 희귀 스킬 합성에 사용되는 희귀한 스크롤이다.",
+            "iconName": "item_00510010",
+            "itemType": "ItemScroll",
+            "name": "희귀 크로매틱 스크롤",
+            "uid": "767263566160889"
+        },
+        {
+            "desc": "훈련소에서 영웅 스킬 합성에 사용되는 희귀한 스크롤이다.",
+            "iconName": "item_00510011",
+            "itemType": "ItemScroll",
+            "name": "영웅 크로매틱 스크롤",
+            "uid": "1110310261468222"
+        },
+        {
+            "desc": "훈련소에서 전설 스킬 합성에 사용되는 희귀한 스크롤이다.",
+            "iconName": "item_00510012",
+            "itemType": "ItemScroll",
+            "name": "전설 크로매틱 스크롤",
+            "uid": "4078367854218888"
+        },
+        {
+            "desc": "훈련소에서 초월 스킬 합성에 사용되는 희귀한 스크롤이다.",
+            "iconName": "item_00510018",
+            "itemType": "ItemScroll",
+            "name": "초월 크로매틱 스크롤",
+            "uid": "1773641149580274"
+        },
+        {
+            "desc": "훈련소에서 신화 스킬 합성에 사용되는 희귀한 스크롤이다.",
+            "iconName": "item_00510019",
+            "itemType": "ItemScroll",
+            "name": "신화 크로매틱 스크롤",
+            "uid": "1902755251260965"
+        },
+        {
+            "desc": "훈련소에서 화염 스킬 강화에 사용되는 스크롤이다.",
+            "iconName": "item_00510002",
+            "itemType": "ItemScroll",
+            "name": "화염 스킬 스크롤",
+            "uid": "1918028818961586"
+        },
+        {
+            "desc": "훈련소에서 냉기 스킬 강화에 사용되는 스크롤이다.",
+            "iconName": "item_00510003",
+            "itemType": "ItemScroll",
+            "name": "냉기 스킬 스크롤",
+            "uid": "2530750811117267"
+        },
+        {
+            "desc": "훈련소에서 번개 스킬 강화에 사용되는 스크롤이다.",
+            "iconName": "item_00510004",
+            "itemType": "ItemScroll",
+            "name": "번개 스킬 스크롤",
+            "uid": "2605758622405840"
+        },
+        {
+            "desc": "훈련소에서 대지 스킬 강화에 사용되는 스크롤이다.",
+            "iconName": "item_00510005",
+            "itemType": "ItemScroll",
+            "name": "대지 스킬 스크롤",
+            "uid": "3825431347052642"
+        },
+        {
+            "desc": "훈련소에서 신성 스킬 강화에 사용되는 스크롤이다.",
+            "iconName": "item_00510006",
+            "itemType": "ItemScroll",
+            "name": "신성 스킬 스크롤",
+            "uid": "471071997425060"
+        },
+        {
+            "desc": "훈련소에서 암흑 스킬 강화에 사용되는 스크롤이다.",
+            "iconName": "item_00510007",
+            "itemType": "ItemScroll",
+            "name": "암흑 스킬 스크롤",
+            "uid": "1191988281475294"
+        },
+        {
+            "desc": "제련소에서 장비 강화에 사용되는 광석이다",
+            "iconName": "item_00410001",
+            "itemType": "ItemStone",
+            "name": "철광석",
+            "uid": "262524326022751"
+        },
+        {
+            "desc": "연구소에서 사용하면 연구를 1회 진행할 수 있는 고대 연구 서적이다.",
+            "iconName": "item_00700001",
+            "name": "고대연구서적",
+            "uid": "2991384755912636",
+            "useParameter": "{\"rewardType\":\"Reward_SkillItem\", \"weight\":\"researchWeight\", \"gradeWeight\":\"researchWeight\"}"
+        },
+        {
+            "desc": "대장간에서 사용하면 제련을 1회 진행할 수 있는 고대 무기이다. ",
+            "iconName": "item_00700002",
+            "name": "고대무기",
+            "uid": "4435605369022685",
+            "useParameter": "{\"rewardType\":\"Reward_Equip\", \"weight\":\"productionWeight\", \"gradeWeight\":\"productionWeight\"}"
+        },
+        {
+            "desc": "연구소에서 사용하면 화염 속성 연구를 1회 진행할 수 있는 화염 고대 연구 서적이다.",
+            "iconName": "item_00700003",
+            "itemType": "ItemTicket",
+            "name": "화염 고대연구서적",
+            "uid": "2475676611810150",
+            "useParameter": "{\"rewardType\":\"Reward_SkillItem\", \"weight\":\"ancientBookFireWeight\", \"gradeWeight\":\"ancientBookWeight\"}"
+        },
+        {
+            "desc": "연구소에서 사용하면 냉기 속성 연구를 1회 진행할 수 있는 화염 고대 연구 서적이다.",
+            "iconName": "item_00700004",
+            "itemType": "ItemTicket",
+            "name": "냉기 고대연구서적",
+            "uid": "1672270273004887",
+            "useParameter": "{\"rewardType\":\"Reward_SkillItem\", \"weight\":\"ancientBookIceWeight\", \"gradeWeight\":\"ancientBookWeight\"}"
+        },
+        {
+            "desc": "연구소에서 사용하면 번개 속성 연구를 1회 진행할 수 있는 화염 고대 연구 서적이다.",
+            "iconName": "item_00700005",
+            "itemType": "ItemTicket",
+            "name": "번개 고대연구서적",
+            "uid": "2623505324200666",
+            "useParameter": "{\"rewardType\":\"Reward_SkillItem\", \"weight\":\"ancientBookLightningWeight\", \"gradeWeight\":\"ancientBookWeight\"}"
+        },
+        {
+            "desc": "연구소에서 사용하면 대지 속성 연구를 1회 진행할 수 있는 화염 고대 연구 서적이다.",
+            "iconName": "item_00700006",
+            "itemType": "ItemTicket",
+            "name": "대지 고대연구서적",
+            "uid": "890070798273406",
+            "useParameter": "{\"rewardType\":\"Reward_SkillItem\", \"weight\":\"ancientBookEarthWeight\", \"gradeWeight\":\"ancientBookWeight\"}"
+        },
+        {
+            "desc": "신성 속성 연구를 1회 진행할 수 있는 신성 고대 연구 서적이다.",
+            "iconName": "item_00700033",
+            "itemType": "ItemTicket",
+            "name": "신성 고대연구서적",
+            "uid": "2664792438453032",
+            "useParameter": "{\"rewardType\":\"Reward_SkillItem\", \"weight\":\"ancientBookHolyWeight\", \"gradeWeight\":\"legendaryWeight\"}"
+        },
+        {
+            "desc": "암흑 속성 연구를 1회 진행할 수 있는 암흑 고대 연구 서적이다.",
+            "iconName": "item_00700034",
+            "itemType": "ItemTicket",
+            "name": "암흑 고대연구서적",
+            "uid": "4347563457315994",
+            "useParameter": "{\"rewardType\":\"Reward_SkillItem\", \"weight\":\"ancientBookShadowWeight\", \"gradeWeight\":\"legendaryWeight\"}"
+        },
+        {
+            "desc": "신성 또는 암흑 속성 연구를 1회 진행할 수 있는 혼돈 고대 연구 서적이다.",
+            "iconName": "item_00700035",
+            "itemType": "ItemTicket",
+            "name": "혼돈 고대연구서적",
+            "uid": "1927727944130452",
+            "useParameter": "{\"rewardType\":\"Reward_SkillItem\", \"weight\":\"ancientBookHolyShadowWeight\", \"gradeWeight\":\"legendaryWeight\"}"
+        },
+        {
+            "desc": "고급 등급 스킬중 1개를 획득할 수 있다.",
+            "iconName": "item_00700009",
+            "itemType": "ItemTicket",
+            "name": "고급 스킬 뽑기권",
+            "uid": "1727100335429053",
+            "useParameter": "{\"rewardType\":\"Reward_SkillItem\", \"weight\":\"ancientBookWeight\", \"gradeWeight\":\"uncommonWeight\"}"
+        },
+        {
+            "desc": "고급+ 등급 스킬중 1개를 획득할 수 있다.",
+            "iconName": "item_00700010",
+            "itemType": "ItemTicket",
+            "name": "고급+ 스킬 뽑기권",
+            "uid": "514249471211353",
+            "useParameter": "{\"rewardType\":\"Reward_SkillItem\", \"weight\":\"ancientBookWeight\", \"gradeWeight\":\"uncommonPlusWeight\"}"
+        },
+        {
+            "desc": "희귀 등급 스킬중 1개를 획득할 수 있다.",
+            "iconName": "item_00700011",
+            "itemType": "ItemTicket",
+            "name": "희귀 스킬 뽑기권",
+            "uid": "3815706152683739",
+            "useParameter": "{\"rewardType\":\"Reward_SkillItem\", \"weight\":\"ancientBookWeight\", \"gradeWeight\":\"rareWeight\"}"
+        },
+        {
+            "desc": "희귀+ 등급 스킬중 1개를 획득할 수 있다.",
+            "iconName": "item_00700012",
+            "itemType": "ItemTicket",
+            "name": "희귀+ 스킬 뽑기권",
+            "uid": "1909348876678571",
+            "useParameter": "{\"rewardType\":\"Reward_SkillItem\", \"weight\":\"ancientBookWeight\", \"gradeWeight\":\"rarePlusWeight\"}"
+        },
+        {
+            "desc": "영웅 등급 스킬중 1개를 획득할 수 있다.",
+            "iconName": "item_00700013",
+            "itemType": "ItemTicket",
+            "name": "영웅 스킬 뽑기권",
+            "uid": "2593047991130596",
+            "useParameter": "{\"rewardType\":\"Reward_SkillItem\", \"weight\":\"ancientBookWeight\", \"gradeWeight\":\"epicWeight\"}"
+        },
+        {
+            "desc": "영웅+ 등급 스킬중 1개를 획득할 수 있다.",
+            "iconName": "item_00700014",
+            "itemType": "ItemTicket",
+            "name": "영웅+ 스킬 뽑기권",
+            "uid": "26071716348212",
+            "useParameter": "{\"rewardType\":\"Reward_SkillItem\", \"weight\":\"ancientBookWeight\", \"gradeWeight\":\"epicPlusWeight\"}"
+        },
+        {
+            "desc": "전설 등급 스킬중 1개를 획득할 수 있다.",
+            "iconName": "item_00700032",
+            "itemType": "ItemTicket",
+            "name": "전설 스킬 뽑기권",
+            "uid": "460048207280890",
+            "useParameter": "{\"rewardType\":\"Reward_SkillItem\", \"weight\":\"ancientBookWeight\", \"gradeWeight\":\"legendaryWeight\"}"
+        },
+        {
+            "desc": "고급 등급 장비중 1개를 획득할 수 있다.",
+            "iconName": "item_00700017",
+            "itemType": "ItemEquip",
+            "name": "고급 장비 뽑기권",
+            "uid": "4278000755824972",
+            "useParameter": "{\"equipGrade\":\"EGT_Uncommon\"}"
+        },
+        {
+            "desc": "희귀 등급 장비중 1개를 획득할 수 있다.",
+            "iconName": "item_00700019",
+            "itemType": "ItemEquip",
+            "name": "희귀 장비 뽑기권",
+            "uid": "2593377480713882",
+            "useParameter": "{\"equipGrade\":\"EGT_Rare\"}"
+        },
+        {
+            "desc": "영웅 등급 장비중 1개를 획득할 수 있다.",
+            "iconName": "item_00700021",
+            "itemType": "ItemEquip",
+            "name": "영웅 장비 뽑기권",
+            "uid": "3006795090320917",
+            "useParameter": "{\"equipGrade\":\"EGT_Epic\"}"
+        },
+        {
+            "desc": "고급 등급 성물중 1개를 획득할 수 있다.",
+            "iconName": "item_00700025",
+            "itemType": "ItemTicket",
+            "name": "고급 성물 뽑기권",
+            "uid": "1677012192316595",
+            "useParameter": "{\"rewardType\":\"Reward_Relic\", \"weight\":\"uncommonWeight\"}"
+        },
+        {
+            "desc": "고급,희귀 등급 성물중 1개를 획득할 수 있다.",
+            "iconName": "item_00700026",
+            "itemType": "ItemTicket",
+            "name": "고급+ 성물 뽑기권",
+            "uid": "3943195888558995",
+            "useParameter": "{\"rewardType\":\"Reward_Relic\", \"weight\":\"uncommonPlusWeight\"}"
+        },
+        {
+            "desc": "희귀 등급 성물중 1개를 획득할 수 있다.",
+            "iconName": "item_00700027",
+            "itemType": "ItemTicket",
+            "name": "희귀 성물 뽑기권",
+            "uid": "477135557562773",
+            "useParameter": "{\"rewardType\":\"Reward_Relic\", \"weight\":\"rareWeight\"}"
+        },
+        {
+            "desc": "희귀,영웅 등급 성물중 1개를 획득할 수 있다.",
+            "iconName": "item_00700028",
+            "itemType": "ItemTicket",
+            "name": "희귀+ 성물 뽑기권",
+            "uid": "3894754470226945",
+            "useParameter": "{\"rewardType\":\"Reward_Relic\", \"weight\":\"rarePlusWeight\"}"
+        },
+        {
+            "desc": "영웅 등급 성물중 1개를 획득할 수 있다.",
+            "iconName": "item_00700029",
+            "itemType": "ItemTicket",
+            "name": "영웅 성물 뽑기권",
+            "uid": "3626137920650186",
+            "useParameter": "{\"rewardType\":\"Reward_Relic\", \"weight\":\"epicWeight\"}"
+        },
+        {
+            "desc": "영웅,전설 등급 성물중 1개를 획득할 수 있다.",
+            "iconName": "item_00700030",
+            "itemType": "ItemTicket",
+            "name": "영웅+ 성물 뽑기권",
+            "uid": "1037785246464438",
+            "useParameter": "{\"rewardType\":\"Reward_Relic\", \"weight\":\"epicPlusWeight\"}"
+        },
+        {
+            "desc": "전설 등급 성물중 1개를 획득할 수 있다.",
+            "iconName": "item_00700031",
+            "itemType": "ItemTicket",
+            "name": "전설 성물 뽑기권",
+            "uid": "1370482051375124",
+            "useParameter": "{\"rewardType\":\"Reward_Relic\", \"weight\":\"legendaryWeight\"}"
+        },
+        {
+            "desc": "소량의 골드, 블루젬, 레드젬, 크로매틱 스크롤, 스킬 스크롤이 들어있는 초보자를 위한 선물 패키지이다.",
+            "iconName": "item_00990001",
+            "itemType": "ItemRewardItems",
+            "name": "초보자 선물",
+            "uid": "1782504930132407",
+            "useParameter": "[\"reward_item.reward_items.package.normal.1\", \"reward_item.reward_items.package.normal.2\", \"reward_item.reward_items.package.normal.4\", \"reward_item.reward_items.package.normal.5\"]"
+        },
+        {
+            "desc": "4개 속성의 고대연구서적이 1개씩 들어있다.",
+            "iconName": "item_00990003",
+            "itemType": "ItemRewardItems",
+            "name": "고대 서적 패키지",
+            "uid": "943957745258630",
+            "useParameter": "[\"reward_item.ticket.ancient_book.fire\", \"reward_item.ticket.ancient_book.ice\", \"reward_item.ticket.ancient_book.lighting\", \"reward_item.ticket.ancient_book.earth\"]"
+        },
+        {
+            "desc": "4개 속성 스킬 스크롤이 10개씩 들어있다.",
+            "iconName": "item_00990004",
+            "itemType": "ItemRewardItems",
+            "name": "속성 스킬 스크롤 꾸러미",
+            "uid": "588447118032685",
+            "useParameter": "[\"reward_item.item.scroll.normal.fire\", \"reward_item.item.scroll.normal.lightning\", \"reward_item.item.scroll.normal.ice\", \"reward_item.item.scroll.normal.earth\"]"
+        },
+        {
+            "desc": "사전 예약에 대한 감사의 마음을 담아 준비한 선물. 모험에 도움이 되는 다양한 아이템들이 들어있다. ",
+            "iconName": "item_00990005",
+            "itemType": "ItemRewardItems",
+            "name": "사전 예약 감사 꾸러미",
+            "uid": "3725373279780678",
+            "useParameter": "[\"reward_item.reward_items.package.normal.1\", \"reward_item.reward_items.package.normal.2\", \"reward_item.reward_items.package.normal.4\", \"reward_item.reward_items.package.normal.5\", \"reward_item.reward_items.package.normal.6\"]"
+        },
+        {
+            "desc": "4개 속성의 고대연구서적 파편이 1개씩 들어있다.",
+            "iconName": "item_00990003",
+            "itemType": "ItemRewardItems",
+            "name": "고대 서적 파편 패키지",
+            "uid": "2765459052661554",
+            "useParameter": "[\"reward_item.fragment.ancient_book.fire\", \"reward_item.fragment.ancient_book.ice\", \"reward_item.fragment.ancient_book.lighting\", \"reward_item.fragment.ancient_book.earth\"]"
+        },
+        {
+            "desc": "20개 획득 시 '고대연구서적'을 획득할 수 있다.",
+            "iconName": "item_00730001",
+            "itemType": "ItemFragment",
+            "name": "고대연구서적 파편",
+            "uid": "2070205979074072",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.ticket.ancient_book\"}"
+        },
+        {
+            "desc": "20개 획득 시 '고대무기'를 획득할 수 있다.",
+            "iconName": "item_00730002",
+            "itemType": "ItemFragment",
+            "name": "고대무기 파편",
+            "uid": "2436276600314097",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.ticket.ancient_equip\"}"
+        },
+        {
+            "desc": "20개 획득 시 '화염 고대연구서적'을 획득할 수 있다.",
+            "iconName": "item_00730003",
+            "itemType": "ItemFragment",
+            "name": "화염 고대연구서적 파편",
+            "uid": "1506748095624066",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.ticket.ancient_book.fire\"}"
+        },
+        {
+            "desc": "20개 획득 시 '냉기 고대연구서적'을 획득할 수 있다.",
+            "iconName": "item_00730004",
+            "itemType": "ItemFragment",
+            "name": "냉기 고대연구서적 파편",
+            "uid": "3113825473029667",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.ticket.ancient_book.ice\"}"
+        },
+        {
+            "desc": "20개 획득 시 '번개 고대연구서적'을 획득할 수 있다.",
+            "iconName": "item_00730005",
+            "itemType": "ItemFragment",
+            "name": "번개 고대연구서적 파편",
+            "uid": "3001522983149566",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.ticket.ancient_book.lighting\"}"
+        },
+        {
+            "desc": "20개 획득 시 '냉기 고대연구서적'을 획득할 수 있다.",
+            "iconName": "item_00730006",
+            "itemType": "ItemFragment",
+            "name": "대지 고대연구서적 파편",
+            "uid": "3074384718604466",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.ticket.ancient_book.earth\"}"
+        },
+        {
+            "desc": "20개 획득 시 '신성 고대연구서적'을 획득할 수 있다.",
+            "iconName": "item_00730017",
+            "itemType": "ItemFragment",
+            "name": "신성 고대연구서적 파편",
+            "uid": "3472675402993908",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.ticket.ancient_book.holy\"}"
+        },
+        {
+            "desc": "20개 획득 시 '암흑 고대연구서적'을 획득할 수 있다.",
+            "iconName": "item_00730018",
+            "itemType": "ItemFragment",
+            "name": "암흑 고대연구서적 파편",
+            "uid": "3549593115520590",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.ticket.ancient_book.shadow\"}"
+        },
+        {
+            "desc": "20개 획득 시 '고급 스킬 뽑기권'을 획득할 수 있다.",
+            "iconName": "item_00730008",
+            "itemType": "ItemFragment",
+            "name": "고급 스킬 뽑기권 파편",
+            "uid": "1714889798578641",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.ticket.skill.uncommon\"}"
+        },
+        {
+            "desc": "20개 획득 시 '희귀 스킬 뽑기권'을 획득할 수 있다.",
+            "iconName": "item_00730009",
+            "itemType": "ItemFragment",
+            "name": "희귀 스킬 뽑기권 파편",
+            "uid": "4181412523896943",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.ticket.skill.rare\"}"
+        },
+        {
+            "desc": "20개 획득 시 '영웅 스킬 뽑기권'을 획득할 수 있다.",
+            "iconName": "item_00730010",
+            "itemType": "ItemFragment",
+            "name": "영웅 스킬 뽑기권 파편",
+            "uid": "3987896587383192",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.ticket.skill.epic\"}"
+        },
+        {
+            "desc": "20개 획득 시 '전설 스킬 뽑기권'을 획득할 수 있다.",
+            "iconName": "item_00730016",
+            "itemType": "ItemFragment",
+            "name": "전설 스킬 뽑기권 파편",
+            "uid": "1544271809971950",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.ticket.skill.legendary\"}"
+        },
+        {
+            "desc": "20개 획득 시 '고급 장비 뽑기권'을 획득할 수 있다.",
+            "iconName": "item_00730013",
+            "itemType": "ItemFragment",
+            "name": "고급 장비 뽑기권 파편",
+            "uid": "2546578067011856",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.ticket.equip.uncommon\"}"
+        },
+        {
+            "desc": "20개 획득 시 '희귀 장비 뽑기권'을 획득할 수 있다.",
+            "iconName": "item_00730014",
+            "itemType": "ItemFragment",
+            "name": "희귀 장비 뽑기권 파편",
+            "uid": "3001118613721038",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.ticket.equip.rare\"}"
+        },
+        {
+            "desc": "20개 획득 시 '영웅 장비 뽑기권'을 획득할 수 있다.",
+            "iconName": "item_00730015",
+            "itemType": "ItemFragment",
+            "name": "영웅 장비 뽑기권 파편",
+            "uid": "4021467288232137",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.ticket.equip.epic\"}"
+        },
+        {
+            "desc": "20개 획득 시 '전설 장비 뽑기권'을 획득할 수 있다.",
+            "iconName": "item_00730019",
+            "itemType": "ItemFragment",
+            "name": "전설 장비 뽑기권 파편",
+            "uid": "1197859951919493",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.ticket.equip.legendary\"}"
+        },
+        {
+            "desc": "훈련소에서 고급 스킬 합성에 사용되는 희귀한 스크롤이다.",
+            "iconName": "item_00510014",
+            "itemType": "ItemFragment",
+            "name": "고급 크로매틱 스크롤 파편",
+            "uid": "2958001238234734",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.scroll.chromatic.uncommon\"}"
+        },
+        {
+            "desc": "훈련소에서 희귀 스킬 합성에 사용되는 희귀한 스크롤이다.",
+            "iconName": "item_00510015",
+            "itemType": "ItemFragment",
+            "name": "희귀 크로매틱 스크롤 파편",
+            "uid": "466595106887400",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.scroll.chromatic.rare\"}"
+        },
+        {
+            "desc": "훈련소에서 영웅 스킬 합성에 사용되는 희귀한 스크롤이다.",
+            "iconName": "item_00510016",
+            "itemType": "ItemFragment",
+            "name": "영웅 크로매틱 스크롤 파편",
+            "uid": "3580413567251671",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.scroll.chromatic.epic\"}"
+        },
+        {
+            "desc": "훈련소에서 전설 스킬 합성에 사용되는 희귀한 스크롤이다.",
+            "iconName": "item_00510017",
+            "itemType": "ItemFragment",
+            "name": "전설 크로매틱 스크롤 파편",
+            "uid": "1467238735841191",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.scroll.chromatic.legendary\"}"
+        },
+        {
+            "desc": "훈련소에서 초월 스킬 합성에 사용되는 희귀한 스크롤이다.",
+            "iconName": "item_00510020",
+            "itemType": "ItemFragment",
+            "name": "초월 크로매틱 스크롤 파편",
+            "uid": "968110154454165",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.scroll.chromatic.transcendence\"}"
+        },
+        {
+            "desc": "훈련소에서 신화 스킬 합성에 사용되는 희귀한 스크롤이다.",
+            "iconName": "item_00510021",
+            "itemType": "ItemFragment",
+            "name": "신화 크로매틱 스크롤 파편",
+            "uid": "2498542312030746",
+            "useParameter": "{\"count\":20, \"rewardType\":\"Reward_Item\", \"rewardUid\":\"item.scroll.chromatic.mythology\"}"
+        },
+        {
+            "desc": "현재 진행도에서 2시간 동안의 자동 전투 경험치 보상을 획득할 수 있다.",
+            "iconName": "icon_rewardEXPStone",
+            "itemType": "ItemStageReward",
+            "name": "경험의 돌",
+            "uid": "2418712405387626",
+            "useParameter": "{\"rewardMinute\":120, \"rewardTypes\":[\"Reward_Exp\"]}"
+        },
+        {
+            "desc": "현재 진행도에서 2시간 동안의 자동 전투 골드 보상을 획득할 수 있다.",
+            "iconName": "icon_rewardGoldStacks",
+            "itemType": "ItemStageReward",
+            "name": "황금 덩어리",
+            "uid": "1439240035421441",
+            "useParameter": "{\"rewardMinute\":120, \"rewardTypes\":[\"Reward_Gold\"]}"
+        },
+        {
+            "desc": "현재진행도에서 2시간 동안의 자동 전투 경험치와 골드 보상을 획득할 수 있다.",
+            "iconName": "item_00990002",
+            "itemType": "ItemStageReward",
+            "name": "잃어버린 시간",
+            "uid": "2326221097553262",
+            "useParameter": "{\"rewardMinute\":120, \"rewardTypes\":[\"Reward_Gold\", \"Reward_Exp\"]}"
+        },
+        {
+            "desc": "고급 장비 중 원하는 부위의 장비를 획득할 수 있다.",
+            "iconName": "item_00720014",
+            "itemType": "ItemEquipSlotChoice",
+            "name": "고급 장비 부위 선택권",
+            "uid": "4199118476587904",
+            "useParameter": "{\"equipGrade\":\"EGT_Uncommon\"}"
+        },
+        {
+            "desc": "희귀 장비 중 원하는 부위의 장비를 획득할 수 있다.",
+            "iconName": "item_00720015",
+            "itemType": "ItemEquipSlotChoice",
+            "name": "희귀 장비 부위 선택권",
+            "uid": "1660493721418142",
+            "useParameter": "{\"equipGrade\":\"EGT_Rare\"}"
+        },
+        {
+            "desc": "영웅 장비 중 원하는 부위의 장비를 획득할 수 있다.",
+            "iconName": "item_00720016",
+            "itemType": "ItemEquipSlotChoice",
+            "name": "영웅 장비 부위 선택권",
+            "uid": "3806739662718649",
+            "useParameter": "{\"equipGrade\":\"EGT_Epic\"}"
+        },
+        {
+            "desc": "고급 스킬 중 원하는 속성의 스킬을 획득할 수 있다.",
+            "iconName": "item_00720002",
+            "itemType": "ItemSkillAttributeChoice",
+            "name": "고급 스킬 속성 선택권",
+            "uid": "4376419692788529",
+            "useParameter": "{\"skillGrade\":\"EGT_Uncommon\", \"ticketName\":\"ancientBookWeight\"}"
+        },
+        {
+            "desc": "희귀 스킬 중 원하는 속성의 스킬을 획득할 수 있다.",
+            "iconName": "item_00720003",
+            "itemType": "ItemSkillAttributeChoice",
+            "name": "희귀 스킬 속성 선택권",
+            "uid": "631828026627535",
+            "useParameter": "{\"skillGrade\":\"EGT_Rare\", \"ticketName\":\"ancientBookWeight\"}"
+        },
+        {
+            "desc": "영웅 스킬 중 원하는 속성의 스킬을 획득할 수 있다.",
+            "iconName": "item_00720004",
+            "itemType": "ItemSkillAttributeChoice",
+            "name": "영웅 스킬 속성 선택권",
+            "uid": "719787066936056",
+            "useParameter": "{\"skillGrade\":\"EGT_Epic\", \"ticketName\":\"ancientBookWeight\"}"
+        },
+        {
+            "desc": "전설 스킬 중 원하는 속성의 스킬을 획득할 수 있다.",
+            "iconName": "item_00720017",
+            "itemType": "ItemSkillAttributeChoice",
+            "name": "전설 스킬 속성 선택권",
+            "uid": "218722699442638",
+            "useParameter": "{\"skillGrade\":\"EGT_Legendary\", \"ticketName\":\"ancientBookWeight\"}"
+        }
+    ]
+}

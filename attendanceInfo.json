@@ -1,0 +1,235 @@
+{
+    "attendanceDayInfo": [
+        {
+            "day": 1,
+            "name": "1일차",
+            "prolongConsumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 5
+                    }
+                ]
+            },
+            "rewardItemUid": "2347491345726241",
+            "uid": "1854983139955555"
+        },
+        {
+            "day": 2,
+            "name": "2일차",
+            "prolongConsumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 10
+                    }
+                ]
+            },
+            "rewardItemUid": "2347491345726242",
+            "uid": "1854983139955552"
+        },
+        {
+            "day": 3,
+            "name": "3일차",
+            "prolongConsumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 15
+                    }
+                ]
+            },
+            "rewardItemUid": "2347491345726243",
+            "uid": "1854983139955553"
+        },
+        {
+            "day": 4,
+            "name": "4일차",
+            "prolongConsumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 20
+                    }
+                ]
+            },
+            "rewardItemUid": "2347491345726244",
+            "uid": "1854983139955558"
+        },
+        {
+            "day": 5,
+            "name": "5일차",
+            "prolongConsumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 25
+                    }
+                ]
+            },
+            "rewardItemUid": "2347491345726245",
+            "uid": "1854983139955559"
+        },
+        {
+            "day": 6,
+            "name": "6일차",
+            "prolongConsumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 30
+                    }
+                ]
+            },
+            "rewardItemUid": "2347491345726246",
+            "uid": "1854983139955556"
+        },
+        {
+            "day": 7,
+            "name": "7일차",
+            "prolongConsumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 35
+                    }
+                ]
+            },
+            "rewardItemUid": "2347491345726247",
+            "uid": "1854983139955557"
+        },
+        {
+            "day": 8,
+            "name": "8일차",
+            "prolongConsumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 40
+                    }
+                ]
+            },
+            "rewardItemUid": "2347491345726248",
+            "uid": "1854983139955562"
+        },
+        {
+            "day": 9,
+            "name": "9일차",
+            "prolongConsumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 45
+                    }
+                ]
+            },
+            "rewardItemUid": "2347491345726249",
+            "uid": "1854983139955563"
+        },
+        {
+            "day": 10,
+            "name": "10일차",
+            "prolongConsumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 50
+                    }
+                ]
+            },
+            "rewardItemUid": "1974128605346083",
+            "uid": "1726609162629385"
+        },
+        {
+            "day": 11,
+            "name": "11일차",
+            "prolongConsumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 55
+                    }
+                ]
+            },
+            "rewardItemUid": "1974128605346082",
+            "uid": "1726609162629384"
+        },
+        {
+            "day": 12,
+            "name": "12일차",
+            "prolongConsumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 60
+                    }
+                ]
+            },
+            "rewardItemUid": "1974128605346081",
+            "uid": "1726609162629387"
+        },
+        {
+            "day": 13,
+            "name": "13일차",
+            "prolongConsumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 65
+                    }
+                ]
+            },
+            "rewardItemUid": "1974128605346080",
+            "uid": "1726609162629386"
+        },
+        {
+            "day": 14,
+            "name": "14일차",
+            "prolongConsumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 70
+                    }
+                ]
+            },
+            "rewardItemUid": "1974128605346087",
+            "uid": "1726609162629389"
+        },
+        {
+            "day": 15,
+            "name": "15일차",
+            "prolongConsumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 75
+                    }
+                ]
+            },
+            "uid": "1726609162629388"
+        }
+    ],
+    "attendanceSelectRewardInfo": [
+        {
+            "name": "정령의 선물",
+            "rewardItemUids": [
+                "2414108772515878",
+                "2414108772515877",
+                "2414108772515876",
+                "2414108772515875"
+            ],
+            "uid": "205779553735936"
+        },
+        {
+            "name": "두 갈래의 길",
+            "rewardItemUids": [
+                "4444728593990850",
+                "4444728593990849",
+                "4444728593990848",
+                "4444728593990855"
+            ],
+            "uid": "205779553735939"
+        }
+    ]
+}
