@@ -1,0 +1,21 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "No conversations made yet.",
+                    "uid": "2200659234824858"
+                },
+                {
+                    "text": "You can read in-game notices or claim rewards from Mail. Unclaimed mail will be deleted after 30 days.",
+                    "uid": "3074978794953605"
+                },
+                {
+                    "text": "You can send Notes to your friends and party members. Notes are limited to 100 characters.",
+                    "uid": "1460614026511395"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

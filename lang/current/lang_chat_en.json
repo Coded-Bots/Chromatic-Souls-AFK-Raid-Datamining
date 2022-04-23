@@ -1,0 +1,81 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Chat Channel {0}",
+                    "uid": "689770013885408"
+                },
+                {
+                    "text": "Season {0}",
+                    "uid": "2925185532804953"
+                },
+                {
+                    "text": "{0}",
+                    "uid": "3812778571521622"
+                },
+                {
+                    "text": "You've entered Chat Channel {0}.",
+                    "uid": "705738643852847"
+                },
+                {
+                    "text": "Block",
+                    "uid": "4047654676383434"
+                },
+                {
+                    "text": "Report",
+                    "uid": "1022830617856901"
+                },
+                {
+                    "text": "Block {0}?",
+                    "uid": "1336370912184937"
+                },
+                {
+                    "text": "Report {0}?",
+                    "uid": "1667126968524146"
+                },
+                {
+                    "text": "Remove from Block List",
+                    "uid": "2978900478818080"
+                },
+                {
+                    "text": "Remove {0} from Block List?",
+                    "uid": "1396619005358799"
+                },
+                {
+                    "text": "Select Channel",
+                    "uid": "2609532216883686"
+                },
+                {
+                    "text": "Block List",
+                    "uid": "2625061006283266"
+                },
+                {
+                    "text": "Enter your message.",
+                    "uid": "673854611652319"
+                },
+                {
+                    "text": "Send",
+                    "uid": "972622444925129"
+                },
+                {
+                    "text": "Party Chat",
+                    "uid": "3766669369277721"
+                },
+                {
+                    "text": "No block list.",
+                    "uid": "831273633445245"
+                },
+                {
+                    "text": "Unblock",
+                    "uid": "2871364739757384"
+                },
+                {
+                    "text": "Welcome back to the world of adventures!",
+                    "uid": "904386068732985"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

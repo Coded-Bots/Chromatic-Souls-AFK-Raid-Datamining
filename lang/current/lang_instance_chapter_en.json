@@ -1,0 +1,1449 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Eliminate Silent Troll Brawlers",
+                    "uid": "3831049323436511"
+                },
+                {
+                    "text": "Silent Troll Brawler Assault",
+                    "uid": "4192671644440070"
+                },
+                {
+                    "text": "Venomtail Manticore Leader Invasion",
+                    "uid": "1112894418703597"
+                },
+                {
+                    "text": "Eliminate Venomtail Manticore Leaders",
+                    "uid": "3956428714960612"
+                },
+                {
+                    "text": "Thunder Troll Brawler Assault",
+                    "uid": "34531307328259"
+                },
+                {
+                    "text": "Thunder Troll Brawler Invasion",
+                    "uid": "678755950137930"
+                },
+                {
+                    "text": "Eliminate Stormcliff Manticore Leaders",
+                    "uid": "3192161237089137"
+                },
+                {
+                    "text": "Stormcliff Manticore Leader Assault",
+                    "uid": "3572773707332264"
+                },
+                {
+                    "text": "Stormcliff Manticore Leader Invasion",
+                    "uid": "1583733039878647"
+                },
+                {
+                    "text": "Eliminate Firehide Troll Brawlers",
+                    "uid": "2731026070348578"
+                },
+                {
+                    "text": "Firehide Troll Brawler Assault",
+                    "uid": "3811968260886747"
+                },
+                {
+                    "text": "Flametail Manticore Leader Invasion",
+                    "uid": "4076995767958524"
+                },
+                {
+                    "text": "Eliminate Flametail Manticore Leaders",
+                    "uid": "3977858274537093"
+                },
+                {
+                    "text": "Silent Troll Brawler Assault",
+                    "uid": "1179543259241278"
+                },
+                {
+                    "text": "Silent Troll Brawler Invasion",
+                    "uid": "1696384457251415"
+                },
+                {
+                    "text": "Eliminate Venomtail Manticore Leaders",
+                    "uid": "589221404542216"
+                },
+                {
+                    "text": "Venomtail Manticore Leader Assault",
+                    "uid": "1897437722578385"
+                },
+                {
+                    "text": "Venomtail Manticore Leader Invasion",
+                    "uid": "2480278251540394"
+                },
+                {
+                    "text": "Eliminate Frosty Troll Brawlers",
+                    "uid": "937705373705565"
+                },
+                {
+                    "text": "Frosty Troll Brawler Assault",
+                    "uid": "892713867476832"
+                },
+                {
+                    "text": "Frozen Frost Giant Invasion",
+                    "uid": "3726213254875279"
+                },
+                {
+                    "text": "Eliminate Frozen Frost Giants",
+                    "uid": "1631747854264122"
+                },
+                {
+                    "text": "Thunder Troll Brawler Assault",
+                    "uid": "274877503744353"
+                },
+                {
+                    "text": "Thunder Troll Brawler Invasion",
+                    "uid": "1036842867126676"
+                },
+                {
+                    "text": "Eliminate Thunderous Storm Giants",
+                    "uid": "2460662574071411"
+                },
+                {
+                    "text": "Thunderous Storm Giant Assault",
+                    "uid": "4344338662549198"
+                },
+                {
+                    "text": "Thunderous Storm Giant Invasion",
+                    "uid": "3833020550758229"
+                },
+                {
+                    "text": "Eliminate Elite Black Draconian Dragoons",
+                    "uid": "2000991307520496"
+                },
+                {
+                    "text": "Silent Troll Brawler Assault",
+                    "uid": "3802904559726765"
+                },
+                {
+                    "text": "Adamantite Rock Giant Invasion",
+                    "uid": "4349407043620550"
+                },
+                {
+                    "text": "Eliminate Venomtail Manticore Leaders",
+                    "uid": "4413370236630979"
+                },
+                {
+                    "text": "Elite Bronze Draconian Dragoon Assault",
+                    "uid": "735443321405604"
+                },
+                {
+                    "text": "Thunder Troll Brawler Invasion",
+                    "uid": "1660046727563825"
+                },
+                {
+                    "text": "Eliminate Thunderous Storm Giants",
+                    "uid": "835491349318154"
+                },
+                {
+                    "text": "Stormcliff Manticore Leader Assault",
+                    "uid": "3147822250516151"
+                },
+                {
+                    "text": "Stormcliff Manticore Leader Invasion",
+                    "uid": "3448034129690728"
+                },
+                {
+                    "text": "Eliminate Elite Black Draconian Dragoons",
+                    "uid": "2108841715473955"
+                },
+                {
+                    "text": "Silent Troll Brawler Assault",
+                    "uid": "3039145587970282"
+                },
+                {
+                    "text": "Adamantite Rock Giant Invasion",
+                    "uid": "1048951247550737"
+                },
+                {
+                    "text": "Eliminate Venomtail Manticore Leaders",
+                    "uid": "3074183579098704"
+                },
+                {
+                    "text": "Elite Bronze Draconian Dragoon Assault",
+                    "uid": "4498005920124927"
+                },
+                {
+                    "text": "Thunder Troll Brawler Invasion",
+                    "uid": "2049461654901926"
+                },
+                {
+                    "text": "Eliminate Thunderous Storm Giants",
+                    "uid": "1784434147830157"
+                },
+                {
+                    "text": "Stormcliff Manticore Leader Assault",
+                    "uid": "3228488172504636"
+                },
+                {
+                    "text": "Stormcliff Manticore Leader Invasion",
+                    "uid": "2963481785859099"
+                },
+                {
+                    "text": "Eliminate Frostrage Tribe Chiefs",
+                    "uid": "3648931934856214"
+                },
+                {
+                    "text": "Frozen Frost Giant Assault",
+                    "uid": "3073906534910447"
+                },
+                {
+                    "text": "Elite Blue Draconian Dragoon Invasion",
+                    "uid": "526486377198400"
+                },
+                {
+                    "text": "Eliminate Frostwind Manticore Leaders",
+                    "uid": "4126170411149761"
+                },
+                {
+                    "text": "Stormsong Tribe Chief Assault",
+                    "uid": "2668291043004570"
+                },
+                {
+                    "text": "Thunderous Storm Giant Invasion",
+                    "uid": "4064759969320531"
+                },
+                {
+                    "text": "Eliminate Elite Bronze Draconian Dragoons",
+                    "uid": "2077969188305780"
+                },
+                {
+                    "text": "Stormcliff Manticore Leader Assault",
+                    "uid": "647439088950197"
+                },
+                {
+                    "text": "Stormcliff Manticore Leader Invasion",
+                    "uid": "3692031942584110"
+                },
+                {
+                    "text": "Eliminate Burstblood Tribe Chiefs",
+                    "uid": "2417173748321313"
+                },
+                {
+                    "text": "Flametail Manticore Leader Assault",
+                    "uid": "3179139111703892"
+                },
+                {
+                    "text": "Elite Red Draconian Dragoon Invasion",
+                    "uid": "662330265348147"
+                },
+                {
+                    "text": "Eliminate Steelrock Tribe Chiefs",
+                    "uid": "1939935272028022"
+                },
+                {
+                    "text": "Venomtail Manticore Leader Assault",
+                    "uid": "3080001618282525"
+                },
+                {
+                    "text": "Elite Black Draconian Dragoon Invasion",
+                    "uid": "1627656300596512"
+                },
+                {
+                    "text": "Eliminate Burstblood Tribe Chiefs",
+                    "uid": "4461155687995215"
+                },
+                {
+                    "text": "Flametail Manticore Leader Assault",
+                    "uid": "717487293641074"
+                },
+                {
+                    "text": "Elite Red Draconian Dragoon Invasion",
+                    "uid": "3586171053142329"
+                },
+                {
+                    "text": "Eliminate Elite Black Draconian Dragoons",
+                    "uid": "1012905639442132"
+                },
+                {
+                    "text": "Silent Troll Brawler Assault",
+                    "uid": "250940276059553"
+                },
+                {
+                    "text": "Adamantite Rock Giant Invasion",
+                    "uid": "2170781700649850"
+                },
+                {
+                    "text": "Eliminate Venomtail Manticore Leaders",
+                    "uid": "2294922215733455"
+                },
+                {
+                    "text": "Elite Bronze Draconian Dragoon Assault",
+                    "uid": "3965022455705248"
+                },
+                {
+                    "text": "Thunder Troll Brawler Invasion",
+                    "uid": "913768146020765"
+                },
+                {
+                    "text": "Eliminate Thunderous Storm Giants",
+                    "uid": "4277301427136758"
+                },
+                {
+                    "text": "Stormcliff Manticore Leader Assault",
+                    "uid": "755809596371755"
+                },
+                {
+                    "text": "Stormcliff Manticore Leader Invasion",
+                    "uid": "1304593158822540"
+                },
+                {
+                    "text": "Eliminate Venomtail Manticore Leaders",
+                    "uid": "3804007225659847"
+                },
+                {
+                    "text": "Adamantite Rock Giant Assault",
+                    "uid": "2442725305528430"
+                },
+                {
+                    "text": "Eroding Chromataur Invasion",
+                    "uid": "524053382280181"
+                },
+                {
+                    "text": "Eliminate Stormcliff Manticore Leaders",
+                    "uid": "1960191771329516"
+                },
+                {
+                    "text": "Thunderous Storm Giant Assault",
+                    "uid": "290091531357451"
+                },
+                {
+                    "text": "Dazzling Chromataur Invasion",
+                    "uid": "1181760451851986"
+                },
+                {
+                    "text": "Eliminate Frostwind Manticore Leaders",
+                    "uid": "2075536193387289"
+                },
+                {
+                    "text": "Frozen Frost Giant Assault",
+                    "uid": "3499304390690944"
+                },
+                {
+                    "text": "Frozen Chromataur Invasion",
+                    "uid": "2950520828240175"
+                },
+                {
+                    "text": "Eliminate Burstblood Tribe Chiefs",
+                    "uid": "1133554888149253"
+                },
+                {
+                    "text": "Elite Red Draconian Dragoon Assault",
+                    "uid": "2248517645524872"
+                },
+                {
+                    "text": "Flame Chromataur Invasion",
+                    "uid": "3355680698234071"
+                },
+                {
+                    "text": "Eliminate Steelrock Tribe Chiefs",
+                    "uid": "4390322311331234"
+                },
+                {
+                    "text": "Elite Black Draconian Dragoon Assault",
+                    "uid": "2682756620699625"
+                },
+                {
+                    "text": "Eroding Chromataur Invasion",
+                    "uid": "1232692381570684"
+                },
+                {
+                    "text": "Eliminate Stormsong Tribe Chief",
+                    "uid": "967664874498907"
+                },
+                {
+                    "text": "Elite Bronze Draconian Dragoon Assault",
+                    "uid": "1742494652247270"
+                },
+                {
+                    "text": "Dazzling Chromataur Invasion",
+                    "uid": "4292237984266701"
+                },
+                {
+                    "text": "Eliminate Steelrock Tribe Chiefs",
+                    "uid": "3061799088506442"
+                },
+                {
+                    "text": "Adamantite Rock Giant Assault",
+                    "uid": "2417574445696771"
+                },
+                {
+                    "text": "Venomtail Manticore Leader Invasion",
+                    "uid": "1835872225958628"
+                },
+                {
+                    "text": "Eliminate Stormsong Tribe Chief",
+                    "uid": "3495937557072109"
+                },
+                {
+                    "text": "Thunderous Storm Giant Assault",
+                    "uid": "2072115155438086"
+                },
+                {
+                    "text": "Stormcliff Manticore Leader Invasion",
+                    "uid": "1710492834434527"
+                },
+                {
+                    "text": "Eliminate Frostrage Tribe Chiefs",
+                    "uid": "286670493408304"
+                },
+                {
+                    "text": "Frozen Frost Giant Assault",
+                    "uid": "3579889234648713"
+                },
+                {
+                    "text": "Frostwind Manticore Leader Invasion",
+                    "uid": "3880101113823298"
+                },
+                {
+                    "text": "Eliminate Frozen Frost Giants",
+                    "uid": "3258735483029447"
+                },
+                {
+                    "text": "Elite Blue Draconian Dragoon Assault",
+                    "uid": "1897453562898030"
+                },
+                {
+                    "text": "Unleashed Water Spirit Invasion",
+                    "uid": "4482381267020277"
+                },
+                {
+                    "text": "Eliminate Thunderous Storm Giants",
+                    "uid": "1414920028699116"
+                },
+                {
+                    "text": "Elite Bronze Draconian Dragoon Assault",
+                    "uid": "4248419416097547"
+                },
+                {
+                    "text": "Unleashed Wind Spirit Invasion",
+                    "uid": "636488709221586"
+                },
+                {
+                    "text": "Eliminate Ultraheat Lava Giants",
+                    "uid": "1530264450756889"
+                },
+                {
+                    "text": "Elite Red Draconian Dragoon Assault",
+                    "uid": "2954032648060544"
+                },
+                {
+                    "text": "Unleashed Fire Spirit Invasion",
+                    "uid": "2405249085609775"
+                },
+                {
+                    "text": "Eliminate Mother Earthnet Spiders",
+                    "uid": "467633896811732"
+                },
+                {
+                    "text": "Adamantite Rock Giant Assault",
+                    "uid": "4209268160799649"
+                },
+                {
+                    "text": "Eroding Chromataur Invasion",
+                    "uid": "1625509958019450"
+                },
+                {
+                    "text": "Eliminate Mother Lightnet Spiders",
+                    "uid": "1749650473103055"
+                },
+                {
+                    "text": "Thunderous Storm Giant Assault",
+                    "uid": "3419750713074848"
+                },
+                {
+                    "text": "Dazzling Chromataur Invasion",
+                    "uid": "368496403390365"
+                },
+                {
+                    "text": "Eliminate Mother Aquanet Spiders",
+                    "uid": "3732029684506358"
+                },
+                {
+                    "text": "Frozen Frost Giant Assault",
+                    "uid": "210537853741355"
+                },
+                {
+                    "text": "Frozen Chromataur Invasion",
+                    "uid": "759321416192140"
+                },
+                {
+                    "text": "Eliminate Elite Red Draconian Dragoons",
+                    "uid": "1501329131727113"
+                },
+                {
+                    "text": "Flame Chromataur Assault",
+                    "uid": "1454077667367452"
+                },
+                {
+                    "text": "Crimson Demonic Croc Invasion",
+                    "uid": "1189050160295931"
+                },
+                {
+                    "text": "Eliminate Elite Black Draconian Dragoons",
+                    "uid": "250058199794398"
+                },
+                {
+                    "text": "Eroding Chromataur Assault",
+                    "uid": "1073444076698021"
+                },
+                {
+                    "text": "Plunderer Demonic Croc Invasion",
+                    "uid": "3877256742779176"
+                },
+                {
+                    "text": "Eliminate Elite Bronze Draconian Dragoons",
+                    "uid": "1888216075325559"
+                },
+                {
+                    "text": "Dazzling Chromataur Assault",
+                    "uid": "983238985584842"
+                },
+                {
+                    "text": "Chained Demonic Croc Invasion",
+                    "uid": "3496644272536049"
+                },
+                {
+                    "text": "Eliminate Unleashed Water Spirits",
+                    "uid": "2714078802156158"
+                },
+                {
+                    "text": "Mother Aquanet Spider Assault",
+                    "uid": "3230920000166039"
+                },
+                {
+                    "text": "Darkfrost Demonic Croc Invasion",
+                    "uid": "3531131879340616"
+                },
+                {
+                    "text": "Eliminate Unleashed Wind Spirits",
+                    "uid": "3965370854515113"
+                },
+                {
+                    "text": "Mother Lightnet Spider Assault",
+                    "uid": "2858207801806178"
+                },
+                {
+                    "text": "Chained Demonic Croc Invasion",
+                    "uid": "842925296857115"
+                },
+                {
+                    "text": "Eliminate Unleashed Fire Spirits",
+                    "uid": "1107931683502652"
+                },
+                {
+                    "text": "Mother Firenet Spider Assault",
+                    "uid": "4167477286198669"
+                },
+                {
+                    "text": "Crimson Demonic Croc Invasion",
+                    "uid": "4432504793270438"
+                },
+                {
+                    "text": "Eliminate Flame Chromataur",
+                    "uid": "4124927021079435"
+                },
+                {
+                    "text": "Unleashed Fire Spirit Assault",
+                    "uid": "512996314203474"
+                },
+                {
+                    "text": "Mother Firenet Spider Invasion",
+                    "uid": "1406772055738777"
+                },
+                {
+                    "text": "Eliminate Eroding Chromataur",
+                    "uid": "266559328509880"
+                },
+                {
+                    "text": "Unleashed Earth Spirit Assault",
+                    "uid": "3135243088011335"
+                },
+                {
+                    "text": "Mother Earthnet Spider Invasion",
+                    "uid": "1773961167879918"
+                },
+                {
+                    "text": "Eliminate Dazzling Chromataur",
+                    "uid": "4358888872002165"
+                },
+                {
+                    "text": "Unleashed Wind Spirit Assault",
+                    "uid": "3256144229514548"
+                },
+                {
+                    "text": "Mother Firenet Spider Invasion",
+                    "uid": "176364309088531"
+                },
+                {
+                    "text": "Eliminate Steelrock Tribe Chiefs",
+                    "uid": "1876749355598232"
+                },
+                {
+                    "text": "Venomtail Manticore Leader Assault",
+                    "uid": "1465479271720021"
+                },
+                {
+                    "text": "Eroding Chromataur Invasion",
+                    "uid": "1976797383510990"
+                },
+                {
+                    "text": "Eliminate Stormsong Tribe Chief",
+                    "uid": "4041684007024107"
+                },
+                {
+                    "text": "Stormcliff Manticore Leader Assault",
+                    "uid": "2901617660769356"
+                },
+                {
+                    "text": "Dazzling Chromataur Invasion",
+                    "uid": "3298437059649401"
+                },
+                {
+                    "text": "Eliminate Frostrage Tribe Chiefs",
+                    "uid": "711249397396146"
+                },
+                {
+                    "text": "Frostwind Manticore Leader Assault",
+                    "uid": "1358671975837071"
+                },
+                {
+                    "text": "Frozen Chromataur Invasion",
+                    "uid": "3028772215809120"
+                },
+                {
+                    "text": "Eliminate Steelrock Tribe Chiefs",
+                    "uid": "392433631075165"
+                },
+                {
+                    "text": "Venomtail Manticore Leader Assault",
+                    "uid": "347442124846432"
+                },
+                {
+                    "text": "Eroding Chromataur Invasion",
+                    "uid": "3180941512244879"
+                },
+                {
+                    "text": "Eliminate Stormsong Tribe Chief",
+                    "uid": "1086476111633722"
+                },
+                {
+                    "text": "Stormcliff Manticore Leader Assault",
+                    "uid": "4233205388484449"
+                },
+                {
+                    "text": "Dazzling Chromataur Invasion",
+                    "uid": "491571124496276"
+                },
+                {
+                    "text": "Eliminate Frostrage Tribe Chiefs",
+                    "uid": "1915390831441011"
+                },
+                {
+                    "text": "Frostwind Manticore Leader Assault",
+                    "uid": "3799066919918798"
+                },
+                {
+                    "text": "Frozen Chromataur Invasion",
+                    "uid": "3287748808127829"
+                },
+                {
+                    "text": "Eliminate Unleashed Fire Spirits",
+                    "uid": "2185754327718178"
+                },
+                {
+                    "text": "Mother Firenet Spider Assault",
+                    "uid": "3266696518256347"
+                },
+                {
+                    "text": "Crimson Demonic Croc Invasion",
+                    "uid": "3531724025328124"
+                },
+                {
+                    "text": "Eliminate Unleashed Earth Spirits",
+                    "uid": "3432586531906693"
+                },
+                {
+                    "text": "Mother Earthnet Spider Assault",
+                    "uid": "634271516610878"
+                },
+                {
+                    "text": "Plunderer Demonic Croc Invasion",
+                    "uid": "1151112714621015"
+                },
+                {
+                    "text": "Eliminate Unleashed Wind Spirits",
+                    "uid": "43949661911816"
+                },
+                {
+                    "text": "Mother Lightnet Spider Assault",
+                    "uid": "1352165979947985"
+                },
+                {
+                    "text": "Chained Demonic Croc Invasion",
+                    "uid": "1935006508909994"
+                },
+                {
+                    "text": "Eliminate Unleashed Water Spirits",
+                    "uid": "1859667781029058"
+                },
+                {
+                    "text": "Mother Aquanet Spider Assault",
+                    "uid": "1247176930423291"
+                },
+                {
+                    "text": "Darkfrost Demonic Croc Invasion",
+                    "uid": "1512204437494812"
+                },
+                {
+                    "text": "Eliminate Unleashed Wind Spirits",
+                    "uid": "1131570846825381"
+                },
+                {
+                    "text": "Mother Lightnet Spider Assault",
+                    "uid": "308184969921758"
+                },
+                {
+                    "text": "Chained Demonic Croc Invasion",
+                    "uid": "1946342845452919"
+                },
+                {
+                    "text": "Eliminate Unleashed Fire Spirits",
+                    "uid": "3935383512906536"
+                },
+                {
+                    "text": "Mother Firenet Spider Assault",
+                    "uid": "3554771042663409"
+                },
+                {
+                    "text": "Crimson Demonic Croc Invasion",
+                    "uid": "1041365755712202"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "2278539739473685"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "3880410859559820"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "1926533493605807"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "2711782376112286"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "4278645709630433"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "4315940897338536"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "4419215389885707"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "2424883097453722"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "770093964976173"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "2533113155033664"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "2883981270963449"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "3817510542889942"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "1026768231129415"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "2133918528241700"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "3697495101013901"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "3944930422034426"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "2843016898553195"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "3302713480076040"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "97678972612863"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "1081830689766130"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "3897737891113253"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "4459692279822584"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "1255641051821787"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "108855877203374"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "195668151980273"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "830298676281748"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "3661495914520247"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "2436398734528930"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "2083268892786287"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "2066821373212748"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "3872410034740385"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "4275871586750046"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "2605625903538635"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "4472676296519016"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "363858290086381"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "892768587928666"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "4382631232248321"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "2172730907800392"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "1994530423525547"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "3228116029285122"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "2945496336162101"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "1737200870021676"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "4286923131438159"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "2687527970614038"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "2035494795935801"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "4216280415823996"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "3245431171148165"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "715603199487698"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "603334331856699"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "3807385559857496"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "4333040289072337"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "1149982198382222"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "194439475890199"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "177991956316916"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "3397937296398747"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "2251152121780590"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "1212085561921969"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "4196133661701084"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "2239975217189823"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "2098248099707826"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "410555673684709"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "554758750428720"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "4109539068981619"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "84918649518830"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "1231703824136987"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "3028401240680504"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "2747921828793445"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "4435614254816562"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "73741744928063"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "2029900189439324"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "4014762884894121"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "1572873478574342"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "140433999382109"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "3432284946631476"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "352528746042199"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "2509947067903334"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "3830519796701833"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "737556931817616"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "2598904209226579"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "3969896189802258"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "3403520441300165"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "2686064472112071"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "1100627035646586"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "853191714626061"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "4192409396016320"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "2115409138074243"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "973207156502102"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "39677884575609"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "3963508609209964"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "883752408620431"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "2195384408336552"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "2158089220628449"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "591225887110302"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "4309576631974319"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "1759854370557836"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "157983250471701"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "722077920416994"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "1323691843318051"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "3682188198508384"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "4098761884122205"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "2887013204001076"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "4310856630782295"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "1964675325272934"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "3285248054071433"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "192285189187216"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "2053632466596179"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "3424624447171858"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "2858248698669765"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "4043246534258926"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "686432081506587"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "2483129498050104"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "2202650086163045"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "3890342512186162"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "4032069629668159"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "1484628446808924"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "3469491142263721"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "1027601735943942"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "3748731367766947"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "3727867184142070"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "4483187820920857"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "1204433468794820"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "4314803569366375"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "2729366132900634"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "1074577000423085"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "116824305414952"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "220098797962123"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "3668454071156580"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "2135805948441805"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "975866337578554"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "1990648440006467"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "2378819909668992"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "4418537934304313"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "566971481612054"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "2166366642436175"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "4120244008390188"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "3161755659053321"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "68792794169104"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "1930140071578067"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "1124177915654090"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "3975269489104093"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "2763520808982964"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "4187364235764183"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "2046682262769230"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "2414969514367889"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "2734367942742442"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "1293954635482039"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "2966357024614036"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "3078512644997993"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "636623238678214"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "1007055356823475"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "267045877362032"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "1530196612075045"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "3217889038098418"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "4056006857352959"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "536558947135730"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "3352466148482853"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "3914420537192184"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "710369309191387"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "4067183761943470"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "4153996036720369"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "285026933651348"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "3116224171889847"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "1987841412403264"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "2338709528333049"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "3272238800259542"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "481496488499015"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "1588646785611300"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "3152223358383501"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "3399658679404026"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "2297745155922795"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "2757441737445640"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "1661754865714144"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "37714963677721"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "3785993954269430"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "4372930339493735"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "1262560238922180"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "1132703770550445"
+                },
+                {
+                    "text": "This area has already been seized by {0}.\\nPlease get rid of it before things get out of hand.",
+                    "uid": "2787492903027994"
+                },
+                {
+                    "text": "{0}'s energy is out of control!\\nWe must defeat it before it continues to wreak havoc!",
+                    "uid": "278225568089483"
+                },
+                {
+                    "text": "Forces of {0} are closing in on the kingdom!\\nFend them off before it's too late!",
+                    "uid": "174951075542312"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

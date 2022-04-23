@@ -1,0 +1,85 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "N/A",
+                    "uid": "2047245007401764"
+                },
+                {
+                    "text": "View All Effects",
+                    "uid": "4209881240061421"
+                },
+                {
+                    "text": "Claim All",
+                    "uid": "4312017064559984"
+                },
+                {
+                    "text": "Gear Index",
+                    "uid": "1072847140176804"
+                },
+                {
+                    "text": "Skill Index",
+                    "uid": "1664823082377703"
+                },
+                {
+                    "text": "Relic Index",
+                    "uid": "2057322479255225"
+                },
+                {
+                    "text": "Gear Collection Effect",
+                    "uid": "4315851877436468"
+                },
+                {
+                    "text": "Skill Collection Effect",
+                    "uid": "3139346414838049"
+                },
+                {
+                    "text": "Relic Collection Effect",
+                    "uid": "2890545812705703"
+                },
+                {
+                    "text": "Obtain All",
+                    "uid": "3118090757409471"
+                },
+                {
+                    "text": "Index",
+                    "uid": "260289826703289"
+                },
+                {
+                    "text": "Complete a Collection to gain an effect.",
+                    "uid": "1276211379422511"
+                },
+                {
+                    "text": "You've already activated the highest effect.",
+                    "uid": "12903063911998"
+                },
+                {
+                    "text": "Complete a Collection of a higher grade to boost its effect.",
+                    "uid": "3234890829550101"
+                },
+                {
+                    "text": "Total Effects (Parts)",
+                    "uid": "2897769925576890"
+                },
+                {
+                    "text": "Total Effects (Collection)",
+                    "uid": "749804066724588"
+                },
+                {
+                    "text": "{0} Collection Effect",
+                    "uid": "1778403306040094"
+                },
+                {
+                    "text": "Total Effects (Element)",
+                    "uid": "3649193850618826"
+                },
+                {
+                    "text": "Earn bonus stats and Blue Gems when you obtain skills, gear, and Relics of higher grade.\nComplete collections of skills and gear to earn more bonus stats. Tutorial rewards are not added to the Index.",
+                    "uid": "3294258532111975"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

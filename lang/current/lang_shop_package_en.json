@@ -1,0 +1,65 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Free Pack",
+                    "uid": "857410906654827"
+                },
+                {
+                    "text": "Claim this Pack once a week for free.",
+                    "uid": "4397839171999209"
+                },
+                {
+                    "text": "Gear Set Pack",
+                    "uid": "3168631944457465"
+                },
+                {
+                    "text": "A pack that includes a (SR) Gear Part Select Ticket.",
+                    "uid": "877250241631539"
+                },
+                {
+                    "text": "[SR] Gear Pack",
+                    "uid": "2614317184704719"
+                },
+                {
+                    "text": "A pack that includes an [SR] Gear Ticket.",
+                    "uid": "3067316797764709"
+                },
+                {
+                    "text": "Hero Skill Pack",
+                    "uid": "2039128089391793"
+                },
+                {
+                    "text": "A pack that includes a [UR], [SSR], and [SR] Skill Ticket.",
+                    "uid": "2984707265366603"
+                },
+                {
+                    "text": "[SR] Skill Pack",
+                    "uid": "1366805402912248"
+                },
+                {
+                    "text": "A pack that includes an [R], [SR], and [SSR] Skill Ticket.",
+                    "uid": "535574081350666"
+                },
+                {
+                    "text": "Skill Upgrade Pack",
+                    "uid": "2468319308363469"
+                },
+                {
+                    "text": "A useful pack for enhancing and fusing skills.",
+                    "uid": "3563433360087695"
+                },
+                {
+                    "text": "Element Skill Scroll Pack",
+                    "uid": "3344338032466446"
+                },
+                {
+                    "text": "Contains various Element Skill Scrolls required to enhance skills.",
+                    "uid": "4333897673569748"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

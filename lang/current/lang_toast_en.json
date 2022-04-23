@@ -1,0 +1,621 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "You've acquired a skill that can inherit Skill Enhance Level.\\nProceed to Skill Lab > Inherit for more information.",
+                    "uid": "3995506198688116"
+                },
+                {
+                    "text": "Not enough Ancient Coins.",
+                    "uid": "1821406775673344"
+                },
+                {
+                    "text": "Not enough fusion materials.",
+                    "uid": "2979757942793403"
+                },
+                {
+                    "text": "Gear has been changed.",
+                    "uid": "2853524039515138"
+                },
+                {
+                    "text": "Already Max enhanced. You can enhance further when your character levels up.",
+                    "uid": "269598286545474"
+                },
+                {
+                    "text": "Not enough Gold.",
+                    "uid": "1542200380327427"
+                },
+                {
+                    "text": "Not enough Blue Gems.",
+                    "uid": "388761160468950"
+                },
+                {
+                    "text": "Chromatic Scrolls cannot be selected.",
+                    "uid": "4069245975242994"
+                },
+                {
+                    "text": "Chapter has been lowered to {0}.",
+                    "uid": "592496090051223"
+                },
+                {
+                    "text": "Highest Personal Progress",
+                    "uid": "632723546792545"
+                },
+                {
+                    "text": "No user to send a Note to.",
+                    "uid": "1218935262833981"
+                },
+                {
+                    "text": "You cannot send a Note to non-friends or non-party members.",
+                    "uid": "603620706824370"
+                },
+                {
+                    "text": "You cannot send a Note to yourself.",
+                    "uid": "2344523829609155"
+                },
+                {
+                    "text": "You're already friends with that user.",
+                    "uid": "2693305690209049"
+                },
+                {
+                    "text": "You've already sent a party invitation message.",
+                    "uid": "4254349253196224"
+                },
+                {
+                    "text": "You've already sent a party request.",
+                    "uid": "1939068936957405"
+                },
+                {
+                    "text": "Friend Deleted",
+                    "uid": "2508363067570723"
+                },
+                {
+                    "text": "Unable to send a party invitation to party members.",
+                    "uid": "2918142933587374"
+                },
+                {
+                    "text": "Unable to send a party invitation.",
+                    "uid": "4289251151996724"
+                },
+                {
+                    "text": "This gear cannot be used as material.",
+                    "uid": "3770308463371349"
+                },
+                {
+                    "text": "Select gear to fuse.",
+                    "uid": "3436277232027292"
+                },
+                {
+                    "text": "Unable to scrap.",
+                    "uid": "2051825062012319"
+                },
+                {
+                    "text": "Not enough Skill Scrolls for Enhance.",
+                    "uid": "834093353591236"
+                },
+                {
+                    "text": "Max enhanced.",
+                    "uid": "1166552354279163"
+                },
+                {
+                    "text": "Tap and hold the button to Enhance repeatedly.",
+                    "uid": "1528545363119681"
+                },
+                {
+                    "text": "Select a skill required for Fuse.",
+                    "uid": "3252607046725562"
+                },
+                {
+                    "text": "Max grade.",
+                    "uid": "1831849901124558"
+                },
+                {
+                    "text": "No fusions selected.",
+                    "uid": "866765685096505"
+                },
+                {
+                    "text": "Not enough Iron Ores required for Enhance.",
+                    "uid": "710625544990266"
+                },
+                {
+                    "text": "Max enhanced.",
+                    "uid": "3204318639481704"
+                },
+                {
+                    "text": "Max grade.",
+                    "uid": "1629588293435515"
+                },
+                {
+                    "text": "Complete Exploration first to claim rewards.",
+                    "uid": "3530218773378141"
+                },
+                {
+                    "text": "No Exploration to dispatch to.",
+                    "uid": "55218641341499"
+                },
+                {
+                    "text": "No Reliquary to research.",
+                    "uid": "888223774669364"
+                },
+                {
+                    "text": "Not enough Relics for Upgrade.",
+                    "uid": "443814686855435"
+                },
+                {
+                    "text": "No Relics to upgrade.",
+                    "uid": "1427877770856074"
+                },
+                {
+                    "text": "Purchase Successful",
+                    "uid": "2478577610645325"
+                },
+                {
+                    "text": "Unable to restock more for today.",
+                    "uid": "2834218639508453"
+                },
+                {
+                    "text": "General Shop items have been restocked.",
+                    "uid": "1193033240635035"
+                },
+                {
+                    "text": "Ancient Shop items have been restocked.",
+                    "uid": "2652386293105657"
+                },
+                {
+                    "text": "Black Market items have been restocked.",
+                    "uid": "3653940306865900"
+                },
+                {
+                    "text": "You've already purchased this item.",
+                    "uid": "4042178541939248"
+                },
+                {
+                    "text": "You don't have enough Fragments.",
+                    "uid": "2935000174067425"
+                },
+                {
+                    "text": "Settings have been loaded.",
+                    "uid": "357944780791285"
+                },
+                {
+                    "text": "Settings have been deleted.",
+                    "uid": "1078139832491340"
+                },
+                {
+                    "text": "Settings have been saved.",
+                    "uid": "2139151734394070"
+                },
+                {
+                    "text": "Your Talent has been reset.",
+                    "uid": "527022213309305"
+                },
+                {
+                    "text": "Points have been distributed.",
+                    "uid": "1792726398625397"
+                },
+                {
+                    "text": "No Talent selected.",
+                    "uid": "3543616577684748"
+                },
+                {
+                    "text": "Gear is already equipped.",
+                    "uid": "1474542561460093"
+                },
+                {
+                    "text": "Auto Battle Settings have been saved.",
+                    "uid": "2366612252437597"
+                },
+                {
+                    "text": "Boss Battle Settings have been saved.",
+                    "uid": "3361856343214018"
+                },
+                {
+                    "text": "Dungeon Battle Settings have been saved.",
+                    "uid": "3046923929057265"
+                },
+                {
+                    "text": "Quick Battle is no longer available for today.",
+                    "uid": "936883998435131"
+                },
+                {
+                    "text": "Reward has been sent to your Mailbox.",
+                    "uid": "4263316179882888"
+                },
+                {
+                    "text": "x{0} acquired.",
+                    "uid": "3927342396258166"
+                },
+                {
+                    "text": "You've already claimed your reward for this Feat.",
+                    "uid": "1044255588641796"
+                },
+                {
+                    "text": "x{0} acquired.",
+                    "uid": "2635818177119432"
+                },
+                {
+                    "text": "There are no rewards to claim.",
+                    "uid": "3334507589157462"
+                },
+                {
+                    "text": "Feat is in progress.",
+                    "uid": "2271548002962248"
+                },
+                {
+                    "text": "x{0} acquired.",
+                    "uid": "2619409423014735"
+                },
+                {
+                    "text": "Gift has been sent out.",
+                    "uid": "3061102407148783"
+                },
+                {
+                    "text": "You've already sent a gift.",
+                    "uid": "3937982698063654"
+                },
+                {
+                    "text": "Gift has been claimed.",
+                    "uid": "2943239296470073"
+                },
+                {
+                    "text": "Successfully exchanged gifts.",
+                    "uid": "2332407418571359"
+                },
+                {
+                    "text": "No gifts are available to receive or send.",
+                    "uid": "967498783651666"
+                },
+                {
+                    "text": "Successfully added a friend.",
+                    "uid": "790652735192708"
+                },
+                {
+                    "text": "That user's friend list is full.",
+                    "uid": "149866311944472"
+                },
+                {
+                    "text": "Your friend list is full.",
+                    "uid": "1370623873783454"
+                },
+                {
+                    "text": "Deleted a friend request.",
+                    "uid": "1007087364200234"
+                },
+                {
+                    "text": "Failed to add a friend.",
+                    "uid": "1265615467552635"
+                },
+                {
+                    "text": "No friend requests.",
+                    "uid": "2027576380417605"
+                },
+                {
+                    "text": "Delete All Friend Requests",
+                    "uid": "1641669054036657"
+                },
+                {
+                    "text": "Reset Recommended",
+                    "uid": "4220174133102217"
+                },
+                {
+                    "text": "Friend request sent.",
+                    "uid": "4376206361821553"
+                },
+                {
+                    "text": "Friend request failed.",
+                    "uid": "119113353275793"
+                },
+                {
+                    "text": "Too many Refresh attempts. Please try again later.",
+                    "uid": "2570694481195399"
+                },
+                {
+                    "text": "You've already sent a friend request to that user.",
+                    "uid": "1536063095538283"
+                },
+                {
+                    "text": "That user cannot receive any more friend requests.",
+                    "uid": "563786223446310"
+                },
+                {
+                    "text": "Mail deleted.",
+                    "uid": "1667493623169996"
+                },
+                {
+                    "text": "No mails to delete.",
+                    "uid": "3059346162539644"
+                },
+                {
+                    "text": "No mails to receive.",
+                    "uid": "912227054238481"
+                },
+                {
+                    "text": "Please enter text.",
+                    "uid": "2041803080740379"
+                },
+                {
+                    "text": "Successfully added to Block List.",
+                    "uid": "898579711805165"
+                },
+                {
+                    "text": "Successfully reported.",
+                    "uid": "680762435460001"
+                },
+                {
+                    "text": "You've moved to Channel {0}.",
+                    "uid": "1352671542058477"
+                },
+                {
+                    "text": "Removed from Block List.",
+                    "uid": "2156677347039800"
+                },
+                {
+                    "text": "You left the party.",
+                    "uid": "1866547633817000"
+                },
+                {
+                    "text": "Party Leader cannot leave the party.",
+                    "uid": "2757959625123522"
+                },
+                {
+                    "text": "You're now the Party Leader.",
+                    "uid": "708671976127237"
+                },
+                {
+                    "text": "Reset Party List",
+                    "uid": "3570526616949425"
+                },
+                {
+                    "text": "Party request sent.",
+                    "uid": "1712227943134851"
+                },
+                {
+                    "text": "You've joined a party.",
+                    "uid": "277640896670745"
+                },
+                {
+                    "text": "Party request deleted.",
+                    "uid": "2407732612254202"
+                },
+                {
+                    "text": "Party Leader has been changed.",
+                    "uid": "1383527434387261"
+                },
+                {
+                    "text": "Removed the Vice-Party Leader.",
+                    "uid": "1772893911070987"
+                },
+                {
+                    "text": "Dismissed the Vice-Party Leader.",
+                    "uid": "2539183187927347"
+                },
+                {
+                    "text": "A party member has been kicked out.",
+                    "uid": "2425673392946483"
+                },
+                {
+                    "text": "Party settings have been saved.",
+                    "uid": "299827704272603"
+                },
+                {
+                    "text": "Party invitation message sent.",
+                    "uid": "2458124326955398"
+                },
+                {
+                    "text": "That user is unable to join due to duplicate classes.",
+                    "uid": "2784164191081646"
+                },
+                {
+                    "text": "Party member limit reached.",
+                    "uid": "1599142365306570"
+                },
+                {
+                    "text": "That user is unable to join the party.",
+                    "uid": "2586255513252792"
+                },
+                {
+                    "text": "No search results.",
+                    "uid": "2516660747352210"
+                },
+                {
+                    "text": "Other action is in progress.",
+                    "uid": "1786062504126555"
+                },
+                {
+                    "text": "Invalid Skill Slot {0}.",
+                    "uid": "1035562379285634"
+                },
+                {
+                    "text": "An error occurred while saving the preset.",
+                    "uid": "3639913976391133"
+                },
+                {
+                    "text": "Invalid gear slot.",
+                    "uid": "3330345056830879"
+                },
+                {
+                    "text": "No Feats.",
+                    "uid": "4297159623391515"
+                },
+                {
+                    "text": "Stage does not exist.",
+                    "uid": "3424752287495898"
+                },
+                {
+                    "text": "League does not exist.",
+                    "uid": "2761992349755033"
+                },
+                {
+                    "text": "Rank does not exist.",
+                    "uid": "3671454735281558"
+                },
+                {
+                    "text": "There are no Rank Rewards.",
+                    "uid": "809129750649052"
+                },
+                {
+                    "text": "There are no League Rewards.",
+                    "uid": "507182066268357"
+                },
+                {
+                    "text": "<color=#00ff00>Max Level</color> reached.",
+                    "uid": "3707457982879686"
+                },
+                {
+                    "text": "U. Labyrinth is not available yet.",
+                    "uid": "340919167163411"
+                },
+                {
+                    "text": "Ancient Fortress is not available yet.",
+                    "uid": "1337043264946606"
+                },
+                {
+                    "text": "You've already cleared this dungeon.",
+                    "uid": "2503735838023663"
+                },
+                {
+                    "text": "You can only challenge dungeons that are available after you've joined a party.",
+                    "uid": "3519099013790326"
+                },
+                {
+                    "text": "You've already cleared this dungeon.",
+                    "uid": "2342554033900206"
+                },
+                {
+                    "text": "This user cannot be blocked.",
+                    "uid": "917745525723863"
+                },
+                {
+                    "text": "This user cannot be reported.",
+                    "uid": "2173645528143054"
+                },
+                {
+                    "text": "Unable to save party name.",
+                    "uid": "2604964876820158"
+                },
+                {
+                    "text": "Unable to save party introduction.",
+                    "uid": "740594944023936"
+                },
+                {
+                    "text": "No party members to invite.",
+                    "uid": "2149785485257752"
+                },
+                {
+                    "text": "You have no applicants.",
+                    "uid": "3749460275556869"
+                },
+                {
+                    "text": "Unable to send a friend request to this user.",
+                    "uid": "2146343360329416"
+                },
+                {
+                    "text": "You need to stay connected to at least one account.",
+                    "uid": "3618765385982616"
+                },
+                {
+                    "text": "{0} purchased.",
+                    "uid": "657101765648844"
+                },
+                {
+                    "text": "{0} purchased. Please check your Mailbox.",
+                    "uid": "4109836090615006"
+                },
+                {
+                    "text": "You've already claimed a free pack.",
+                    "uid": "1572806178375746"
+                },
+                {
+                    "text": "Expired offer.",
+                    "uid": "3631554010287293"
+                },
+                {
+                    "text": "Settings Saved",
+                    "uid": "1745664105764578"
+                },
+                {
+                    "text": "Select the Day 15 Check-In reward.",
+                    "uid": "3778658502151089"
+                },
+                {
+                    "text": "{0} claimed. Please check your Vault.",
+                    "uid": "2489957713376756"
+                },
+                {
+                    "text": "Already cleared for today.",
+                    "uid": "534797480935619"
+                },
+                {
+                    "text": "Ancient Fortress is closed. Please come back tomorrow.",
+                    "uid": "3660682451969155"
+                },
+                {
+                    "text": "No presets.",
+                    "uid": "626188968443921"
+                },
+                {
+                    "text": "Increase the skill's grade to enhance it further.",
+                    "uid": "1544846334142168"
+                },
+                {
+                    "text": "Increase the gear's grade to enhance it further.",
+                    "uid": "1774745010487139"
+                },
+                {
+                    "text": "Successfully reported.",
+                    "uid": "2132188471038792"
+                },
+                {
+                    "text": "You've been reported due to profanity. You've been blocked from chatting for {0} d.",
+                    "uid": "143494267352615"
+                },
+                {
+                    "text": "Not enough currency.",
+                    "uid": "4494804711632781"
+                },
+                {
+                    "text": "Weekly Craft attempts have been used up.",
+                    "uid": "2439953629965515"
+                },
+                {
+                    "text": "Not enough material.",
+                    "uid": "3927535224184600"
+                },
+                {
+                    "text": "Not enough Iron Ores.",
+                    "uid": "1963432450457955"
+                },
+                {
+                    "text": "Not enough Mythril. ",
+                    "uid": "778950224465912"
+                },
+                {
+                    "text": "Not enough Soul Stones.",
+                    "uid": "2978006644694473"
+                },
+                {
+                    "text": "You've already cleared the entire U. Labyrinth.",
+                    "uid": "503838634306743"
+                },
+                {
+                    "text": "Gear that's being crafted cannot be selected.",
+                    "uid": "3935240187518104"
+                },
+                {
+                    "text": "No notes to delete.",
+                    "uid": "1880631079355529"
+                },
+                {
+                    "text": "{0} participated in the party. Please welcome us!",
+                    "uid": "4038697409582746"
+                },
+                {
+                    "text": "You have joined a new party!",
+                    "uid": "1061495210711458"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

@@ -1,0 +1,973 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "A scroll used for upgrading skills at the Skill Lab.",
+                    "uid": "635542509998621"
+                },
+                {
+                    "text": "A rare scroll used for upgrading skills at the Skill Lab.",
+                    "uid": "3249984399906438"
+                },
+                {
+                    "text": "A rare scroll used for fusing [R] skills at the Skill Lab.",
+                    "uid": "2479702784639656"
+                },
+                {
+                    "text": "A rare scroll used for fusing [N] skills at the Skill Lab.",
+                    "uid": "2544313673969993"
+                },
+                {
+                    "text": "A rare scroll used for fusing [SR] skills at the Skill Lab.",
+                    "uid": "1867789915267330"
+                },
+                {
+                    "text": "A rare scroll used for fusing [UR] skills at the Skill Lab.",
+                    "uid": "2728242916858164"
+                },
+                {
+                    "text": "A rare scroll used for fusing [SSR] skills at the Skill Lab.",
+                    "uid": "1459647198836316"
+                },
+                {
+                    "text": "A scroll used for upgrading Fire skills at the Skill Lab.",
+                    "uid": "2082099348442767"
+                },
+                {
+                    "text": "A scroll used for upgrading Ice skills at the Skill Lab.",
+                    "uid": "4238084674729324"
+                },
+                {
+                    "text": "A scroll used for upgrading Lightning skills at the Skill Lab.",
+                    "uid": "3966110401161085"
+                },
+                {
+                    "text": "A scroll used for upgrading Earth skills at the Skill Lab.",
+                    "uid": "4415581969610487"
+                },
+                {
+                    "text": "Iron ore used for enhancing gear at the Refinery.",
+                    "uid": "2139546926368088"
+                },
+                {
+                    "text": "A special type of currency available from Instance Dungeons. Used for purchasing items at the Ancient Shop.",
+                    "uid": "4223078624642951"
+                },
+                {
+                    "text": "This research ticket allows you to learn a random skill when used at the Tower of Knowledge.",
+                    "uid": "3625759602571897"
+                },
+                {
+                    "text": "This ticket allows you to obtain a random piece of gear at the Forge. ",
+                    "uid": "3871923081929406"
+                },
+                {
+                    "text": "This ancient Fire research book allows you to perform Fire Element research once.",
+                    "uid": "1919437093053531"
+                },
+                {
+                    "text": "This ancient Ice research book allows you to perform Ice Element research once.",
+                    "uid": "3548982499228456"
+                },
+                {
+                    "text": "This ancient Lightning research book allows you to perform Lightning Element research once.",
+                    "uid": "300453417501079"
+                },
+                {
+                    "text": "This ancient Earth research book allows you to perform Earth Element research once",
+                    "uid": "2480163985340507"
+                },
+                {
+                    "text": "This ancient Holy research book allows you to perform Holy Element research once.",
+                    "uid": "32750770668453"
+                },
+                {
+                    "text": "This ancient Dark research book allows you to perform Dark Element research once.",
+                    "uid": "1940019407531607"
+                },
+                {
+                    "text": "This ancient Chaos research book allows you to perform Holy or Dark Element research once.",
+                    "uid": "2112519982544649"
+                },
+                {
+                    "text": "Allows you to obtain an [N] Skill.",
+                    "uid": "685636777552967"
+                },
+                {
+                    "text": "Allows you to obtain an [N+] Skill.",
+                    "uid": "4302799597863459"
+                },
+                {
+                    "text": "Allows you to obtain an [R] Skill.",
+                    "uid": "2254925365336654"
+                },
+                {
+                    "text": "Allows you to obtain an [R+] Skill.",
+                    "uid": "1882244106187482"
+                },
+                {
+                    "text": "Allows you to obtain an [SR] Skill.",
+                    "uid": "2028140510830240"
+                },
+                {
+                    "text": "Allows you to obtain an [SR+] Skill.",
+                    "uid": "2532400864499712"
+                },
+                {
+                    "text": "Allows you to obtain an [SSR] Skill.",
+                    "uid": "3030020068050286"
+                },
+                {
+                    "text": "Allows you to obtain an [N] piece of gear.",
+                    "uid": "3293558006705256"
+                },
+                {
+                    "text": "Allows you to obtain an [N+] piece of gear.",
+                    "uid": "120339754221688"
+                },
+                {
+                    "text": "Allows you to obtain an [R] piece of gear.",
+                    "uid": "1034275635710625"
+                },
+                {
+                    "text": "Allows you to obtain an [R+] piece of gear.",
+                    "uid": "713012586126449"
+                },
+                {
+                    "text": "Allows you to obtain an [SR] piece of gear.",
+                    "uid": "634506481574535"
+                },
+                {
+                    "text": "Allows you to obtain an [SR+] piece of gear.",
+                    "uid": "3383013529928035"
+                },
+                {
+                    "text": "Allows you to obtain an [SSR] piece of gear.",
+                    "uid": "2105888016631750"
+                },
+                {
+                    "text": "Allows you to obtain an [N] Relic.",
+                    "uid": "4002830530039861"
+                },
+                {
+                    "text": "Allows you to obtain an [N] or [R] Relic.",
+                    "uid": "1103527408563541"
+                },
+                {
+                    "text": "Allows you to obtain an [R] Relic.",
+                    "uid": "4158889989987516"
+                },
+                {
+                    "text": "Allows you to obtain an [R] or [SR] Relic.",
+                    "uid": "1947342235862812"
+                },
+                {
+                    "text": "Allows you to obtain an [SR] Relic.",
+                    "uid": "2538152370839670"
+                },
+                {
+                    "text": "Allows you to obtain an [SR] or [SSR] Relic.",
+                    "uid": "2415129505091954"
+                },
+                {
+                    "text": "Allows you to obtain an [SSR] Relic.",
+                    "uid": "1456695709466455"
+                },
+                {
+                    "text": "Contains 4 different Ancient Tomes.",
+                    "uid": "1654380199049315"
+                },
+                {
+                    "text": "A beginner's gift containing a small amount of Gold, Blue Gems, Iron Ores, and Skill Scrolls.",
+                    "uid": "3198469975811304"
+                },
+                {
+                    "text": "Contains 4 different Ancient Tome Fragments.",
+                    "uid": "37477474002967"
+                },
+                {
+                    "text": "Collect 20 to obtain a Research Ticket.",
+                    "uid": "955438189371341"
+                },
+                {
+                    "text": "Collect 20 to obtain a Craft Ticket.",
+                    "uid": "619413379687370"
+                },
+                {
+                    "text": "Collect 20 to obtain an Ancient Tome: Fire.",
+                    "uid": "2800706283135231"
+                },
+                {
+                    "text": "Collect 20 to obtain an Ancient Tome: Ice.",
+                    "uid": "1203248308024860"
+                },
+                {
+                    "text": "Collect 20 to obtain an Ancient Tome: Lightning.",
+                    "uid": "1150349186529235"
+                },
+                {
+                    "text": "Collect 20 to obtain an Ancient Tome: Earth.",
+                    "uid": "3798831999853351"
+                },
+                {
+                    "text": "Collect 20 to obtain a Chromatic Scroll.",
+                    "uid": "2060324237558439"
+                },
+                {
+                    "text": "Collect 20 to obtain an [N] Skill Ticket.",
+                    "uid": "914025719935915"
+                },
+                {
+                    "text": "Collect 20 to obtain an [R] Skill Ticket.",
+                    "uid": "3333815225728162"
+                },
+                {
+                    "text": "Collect 20 to obtain an [SR] Skill Ticket.",
+                    "uid": "389935124520060"
+                },
+                {
+                    "text": "Collect 20 to obtain an [SSR] Skill Ticket.",
+                    "uid": "698378904593930"
+                },
+                {
+                    "text": "Collect 20 to obtain an [N] Gear Ticket.",
+                    "uid": "3489533645078620"
+                },
+                {
+                    "text": "Collect 20 to obtain an [R] Gear Ticket.",
+                    "uid": "2165497674700781"
+                },
+                {
+                    "text": "Collect 20 to obtain a [SR] Gear Ticket.",
+                    "uid": "2209004058441107"
+                },
+                {
+                    "text": "Collect 20 to obtain an [SSR] Gear Ticket.",
+                    "uid": "2086141787082834"
+                },
+                {
+                    "text": "Earn Auto Battle EXP rewards for 2 hours from your current adventure progress.",
+                    "uid": "1582296170993583"
+                },
+                {
+                    "text": "Earn Auto Battle Gold rewards for 2 hours from your current adventure progress.",
+                    "uid": "1086224932507498"
+                },
+                {
+                    "text": "Earn Auto Battle EXP and Gold rewards for 2 hours from your current adventure progress.",
+                    "uid": "3883836387997051"
+                },
+                {
+                    "text": "Select an [N] Skill of any Element you want.",
+                    "uid": "1589076675953403"
+                },
+                {
+                    "text": "Select an [R] Skill of any Element you want.",
+                    "uid": "1642192623948690"
+                },
+                {
+                    "text": "Select an [SR] Skill of any Element you want.",
+                    "uid": "466304858675596"
+                },
+                {
+                    "text": "Select an [SSR] Skill of any Element you want.",
+                    "uid": "2941144667453370"
+                },
+                {
+                    "text": "Select any [N] gear part you want.",
+                    "uid": "4480599336364116"
+                },
+                {
+                    "text": "Select any [R] gear part you want.",
+                    "uid": "1225022253180005"
+                },
+                {
+                    "text": "Select any [SR] gear part you want.",
+                    "uid": "210550023715371"
+                },
+                {
+                    "text": "Select any [SSR] gear part you want.",
+                    "uid": "4482028423053626"
+                },
+                {
+                    "text": "Skill Scroll",
+                    "uid": "4299115736276359"
+                },
+                {
+                    "text": "Chromatic Scroll",
+                    "uid": "2981704080154636"
+                },
+                {
+                    "text": "[R] Chromatic Scroll",
+                    "uid": "3346117464809546"
+                },
+                {
+                    "text": "[N] Chromatic Scroll",
+                    "uid": "3507485035996107"
+                },
+                {
+                    "text": "[SR] Chromatic Scroll",
+                    "uid": "1713857465080912"
+                },
+                {
+                    "text": "[UR] Chromatic Scroll",
+                    "uid": "1738683275755118"
+                },
+                {
+                    "text": "[SSR] Chromatic Scroll",
+                    "uid": "3707048436533750"
+                },
+                {
+                    "text": "[USR] Chromatic Scroll",
+                    "uid": "4415750215119909"
+                },
+                {
+                    "text": "Fire Skill Scroll",
+                    "uid": "986985296718541"
+                },
+                {
+                    "text": "Ice Skill Scroll",
+                    "uid": "2017070717766630"
+                },
+                {
+                    "text": "Lightning Skill Scroll",
+                    "uid": "311334281403367"
+                },
+                {
+                    "text": "Earth Skill Scroll",
+                    "uid": "364981955299733"
+                },
+                {
+                    "text": "Iron Ore",
+                    "uid": "1000452409515162"
+                },
+                {
+                    "text": "Ancient Coin",
+                    "uid": "2952044017502405"
+                },
+                {
+                    "text": "Research Ticket",
+                    "uid": "50146965124699"
+                },
+                {
+                    "text": "Craft Ticket",
+                    "uid": "331494816584964"
+                },
+                {
+                    "text": "Ancient Tome: Fire",
+                    "uid": "938673544976097"
+                },
+                {
+                    "text": "Ancient Tome: Ice",
+                    "uid": "4415397179398346"
+                },
+                {
+                    "text": "Ancient Tome: Lightning",
+                    "uid": "753453030561077"
+                },
+                {
+                    "text": "Ancient Tome: Earth",
+                    "uid": "1499400437263073"
+                },
+                {
+                    "text": "[N] Skill Ticket",
+                    "uid": "3636726820960645"
+                },
+                {
+                    "text": "[N+] Skill Ticket",
+                    "uid": "2055397361823625"
+                },
+                {
+                    "text": "[R] Skill Ticket",
+                    "uid": "3464387332081972"
+                },
+                {
+                    "text": "[R+] Skill Ticket",
+                    "uid": "4437509647949544"
+                },
+                {
+                    "text": "[SR] Skill Ticket",
+                    "uid": "2507528402967170"
+                },
+                {
+                    "text": "[SR+] Skill Ticket",
+                    "uid": "3011788756636898"
+                },
+                {
+                    "text": "[SSR] Skill Ticket",
+                    "uid": "3958007057973588"
+                },
+                {
+                    "text": "[N] Gear Ticket",
+                    "uid": "4159972686874890"
+                },
+                {
+                    "text": "[N+] Gear Ticket",
+                    "uid": "1795994956033722"
+                },
+                {
+                    "text": "[R] Gear Ticket",
+                    "uid": "1575235837601219"
+                },
+                {
+                    "text": "[R+] Gear Ticket",
+                    "uid": "2978007008217587"
+                },
+                {
+                    "text": "[SR] Gear Ticket",
+                    "uid": "3867071501804485"
+                },
+                {
+                    "text": "[SR+] Gear Ticket",
+                    "uid": "3950361012553161"
+                },
+                {
+                    "text": "[SSR] Gear Ticket",
+                    "uid": "4370882438722892"
+                },
+                {
+                    "text": "[N] Relic Ticket",
+                    "uid": "1051740486632191"
+                },
+                {
+                    "text": "[N+] Relic Ticket",
+                    "uid": "2374562015704095"
+                },
+                {
+                    "text": "[R] Relic Ticket",
+                    "uid": "3591541509019990"
+                },
+                {
+                    "text": "[R+] Relic Ticket",
+                    "uid": "1661468731717302"
+                },
+                {
+                    "text": "[SR] Relic Ticket",
+                    "uid": "264362854065052"
+                },
+                {
+                    "text": "[SR+] Relic Ticket",
+                    "uid": "2226012682802656"
+                },
+                {
+                    "text": "[SSR] Relic Ticket",
+                    "uid": "1628220345704437"
+                },
+                {
+                    "text": "Ancient Tome Pack",
+                    "uid": "2221727681674441"
+                },
+                {
+                    "text": "Beginner's Gift",
+                    "uid": "4064884655980938"
+                },
+                {
+                    "text": "Ancient Tome Fragment Pack",
+                    "uid": "490477087062965"
+                },
+                {
+                    "text": "Research Ticket Fragment",
+                    "uid": "2050552241095575"
+                },
+                {
+                    "text": "Craft Ticket Fragment",
+                    "uid": "4265394419913656"
+                },
+                {
+                    "text": "Ancient Tome: Fire Fragment",
+                    "uid": "3640732684227933"
+                },
+                {
+                    "text": "Ancient Tome: Ice Fragment",
+                    "uid": "917374803879350"
+                },
+                {
+                    "text": "Ancient Tome: Lightning Fragment",
+                    "uid": "626981170689945"
+                },
+                {
+                    "text": "Ancient Tome: Earth Fragment",
+                    "uid": "2246322415890789"
+                },
+                {
+                    "text": "Chromatic Scroll Fragment",
+                    "uid": "507814653595877"
+                },
+                {
+                    "text": "[N] Skill Ticket Fragment",
+                    "uid": "4472046171331601"
+                },
+                {
+                    "text": "[R] Skill Ticket Fragment",
+                    "uid": "2898407798719728"
+                },
+                {
+                    "text": "[SR] Skill Ticket Fragment",
+                    "uid": "4326186270922774"
+                },
+                {
+                    "text": "[SSR] Skill Ticket Fragment",
+                    "uid": "1529610226155512"
+                },
+                {
+                    "text": "[N] Gear Ticket Fragment",
+                    "uid": "1233335255405558"
+                },
+                {
+                    "text": "[R] Gear Ticket Fragment",
+                    "uid": "445862007760055"
+                },
+                {
+                    "text": "[SR] Gear Ticket Fragment",
+                    "uid": "1685636042602073"
+                },
+                {
+                    "text": "[SSR] Gear Ticket Fragment",
+                    "uid": "1897024964793536"
+                },
+                {
+                    "text": "EXP Stone",
+                    "uid": "768657096091373"
+                },
+                {
+                    "text": "Gold Lump",
+                    "uid": "228606345363288"
+                },
+                {
+                    "text": "Lost Time",
+                    "uid": "2903072839919361"
+                },
+                {
+                    "text": "[N] Skill Element Select Ticket",
+                    "uid": "608313127875713"
+                },
+                {
+                    "text": "[R] Skill Element Select Ticket",
+                    "uid": "1171600824837376"
+                },
+                {
+                    "text": "[SR] Skill Element Select Ticket",
+                    "uid": "778565643555846"
+                },
+                {
+                    "text": "[SSR] Skill Element Select Ticket",
+                    "uid": "992810581844936"
+                },
+                {
+                    "text": "[N] Gear Part Select Ticket",
+                    "uid": "3491039695260814"
+                },
+                {
+                    "text": "[R] Gear Part Select Ticket",
+                    "uid": "772022640120015"
+                },
+                {
+                    "text": "[SR] Gear Part Select Ticket",
+                    "uid": "3768570475111057"
+                },
+                {
+                    "text": "[SSR] Gear Part Select Ticket",
+                    "uid": "2533694337445192"
+                },
+                {
+                    "text": "[N] Chromatic Scroll Fragment",
+                    "uid": "2670093848348908"
+                },
+                {
+                    "text": "[R] Chromatic Scroll Fragment",
+                    "uid": "865249336100427"
+                },
+                {
+                    "text": "[SR] Chromatic Scroll Fragment",
+                    "uid": "4189187400533767"
+                },
+                {
+                    "text": "[SSR] Chromatic Scroll Fragment",
+                    "uid": "1937779361132789"
+                },
+                {
+                    "text": "[UR] Chromatic Scroll Fragment",
+                    "uid": "2374669089755011"
+                },
+                {
+                    "text": "Collect 20 to obtain an [N] Chromatic Scroll.",
+                    "uid": "3219849144922726"
+                },
+                {
+                    "text": "Collect 20 to obtain an [R] Chromatic Scroll.",
+                    "uid": "4405677601444809"
+                },
+                {
+                    "text": "Collect 20 to obtain an [SR] Chromatic Scroll.",
+                    "uid": "525614174256029"
+                },
+                {
+                    "text": "Collect 20 to obtain an [SSR] Chromatic Scroll.",
+                    "uid": "1766254724894807"
+                },
+                {
+                    "text": "Collect 20 to obtain an [UR] Chromatic Scroll.",
+                    "uid": "2115183864686689"
+                },
+                {
+                    "text": "Holy Skill Scroll",
+                    "uid": "2821201693882523"
+                },
+                {
+                    "text": "Dark Skill Scroll",
+                    "uid": "4303734658211289"
+                },
+                {
+                    "text": "A scroll used for upgrading Holy skills at the Skill Lab.",
+                    "uid": "1893214703959225"
+                },
+                {
+                    "text": "A scroll used for upgrading Dark skills at the Skill Lab.",
+                    "uid": "323503046679827"
+                },
+                {
+                    "text": "Element Skill Scroll Bundle",
+                    "uid": "4501341768286292"
+                },
+                {
+                    "text": "Contains a Skill Scroll for each of the four Elements.",
+                    "uid": "3573354778362990"
+                },
+                {
+                    "text": "A rare scroll used for fusing [R] skills at the Skill Lab.",
+                    "uid": "2580337851307800"
+                },
+                {
+                    "text": "A rare scroll used for fusing [SR] skills at the Skill Lab.",
+                    "uid": "2177719244435282"
+                },
+                {
+                    "text": "A rare scroll used for fusing [SSR] skills at the Skill Lab.",
+                    "uid": "118881737297123"
+                },
+                {
+                    "text": "A rare scroll used for fusing [UR] skills at the Skill Lab.",
+                    "uid": "1260399648225605"
+                },
+                {
+                    "text": "A rare scroll used for fusing [USR] skills at the Skill Lab.",
+                    "uid": "3153510080417767"
+                },
+                {
+                    "text": "A rare scroll used for fusing [LR] skills at the Skill Lab.",
+                    "uid": "4160387867075054"
+                },
+                {
+                    "text": "Allows you to obtain an [R] Skill.",
+                    "uid": "1866539388913486"
+                },
+                {
+                    "text": "Allows you to obtain an [R+] Skill.",
+                    "uid": "2175316162031578"
+                },
+                {
+                    "text": "Allows you to obtain an [SR] Skill.",
+                    "uid": "3482695534429332"
+                },
+                {
+                    "text": "Allows you to obtain an [SR+] Skill.",
+                    "uid": "1675911521725828"
+                },
+                {
+                    "text": "Allows you to obtain an [SSR] Skill.",
+                    "uid": "1216831384154985"
+                },
+                {
+                    "text": "Allows you to obtain an [SSR+] Skill.",
+                    "uid": "4029219617108009"
+                },
+                {
+                    "text": "Allows you to obtain a [UR] Skill.",
+                    "uid": "1082850107015639"
+                },
+                {
+                    "text": "Allows you to obtain an [SSR+] piece of gear.",
+                    "uid": "1488487467210274"
+                },
+                {
+                    "text": "Allows you to obtain a [UR] piece of gear.",
+                    "uid": "193564131567090"
+                },
+                {
+                    "text": "Allows you to obtain an [SSR] or [UR] Relic.",
+                    "uid": "2739612902019027"
+                },
+                {
+                    "text": "Allows you to obtain a [UR] Relic.",
+                    "uid": "890056635206345"
+                },
+                {
+                    "text": "Collect 20 to obtain an [R] Skill Ticket.",
+                    "uid": "1840850772251258"
+                },
+                {
+                    "text": "Collect 20 to obtain an [SR] Skill Ticket.",
+                    "uid": "1955431431604096"
+                },
+                {
+                    "text": "Collect 20 to obtain an [SSR] Skill Ticket.",
+                    "uid": "740200803501733"
+                },
+                {
+                    "text": "Collect 20 to obtain a [UR] Skill Ticket.",
+                    "uid": "3441857522745635"
+                },
+                {
+                    "text": "Collect 20 to obtain a [UR] Gear Ticket.",
+                    "uid": "1302666500881694"
+                },
+                {
+                    "text": "Collect 20 to obtain an [R] Chromatic Scroll.",
+                    "uid": "3569298880190155"
+                },
+                {
+                    "text": "Collect 20 to obtain an [SR] Chromatic Scroll.",
+                    "uid": "3054465795064013"
+                },
+                {
+                    "text": "Collect 20 to obtain an [SSR] Chromatic Scroll.",
+                    "uid": "1906910057260864"
+                },
+                {
+                    "text": "Collect 20 to obtain an [UR] Chromatic Scroll.",
+                    "uid": "985020773821264"
+                },
+                {
+                    "text": "Collect 20 to obtain a [USR] Chromatic Scroll.",
+                    "uid": "2464112378851766"
+                },
+                {
+                    "text": "Collect 20 to obtain an [LR] Chromatic Scroll.",
+                    "uid": "1698229651254055"
+                },
+                {
+                    "text": "Select any [UR] gear part you want.",
+                    "uid": "4364829045746646"
+                },
+                {
+                    "text": "Select an [R] Skill of any Element you want.",
+                    "uid": "1926322905998314"
+                },
+                {
+                    "text": "Select an [SR] Skill of any Element you want.",
+                    "uid": "21624648186704"
+                },
+                {
+                    "text": "Select an [SSR] Skill of any Element you want.",
+                    "uid": "1913580759396757"
+                },
+                {
+                    "text": "Select a [UR] Skill of any Element you want.",
+                    "uid": "2519831426401939"
+                },
+                {
+                    "text": "[R] Chromatic Scroll",
+                    "uid": "33868402571610"
+                },
+                {
+                    "text": "[SR] Chromatic Scroll",
+                    "uid": "1988602422145984"
+                },
+                {
+                    "text": "[SSR] Chromatic Scroll",
+                    "uid": "686229219922249"
+                },
+                {
+                    "text": "[UR] Chromatic Scroll",
+                    "uid": "807400035165615"
+                },
+                {
+                    "text": "[LR] Chromatic Scroll",
+                    "uid": "584775229627860"
+                },
+                {
+                    "text": "[R] Skill Ticket",
+                    "uid": "3076001355658804"
+                },
+                {
+                    "text": "[R+] Skill Ticket",
+                    "uid": "226982076423144"
+                },
+                {
+                    "text": "[SR] Skill Ticket",
+                    "uid": "2493135893326286"
+                },
+                {
+                    "text": "[SR+] Skill Ticket",
+                    "uid": "440061275903390"
+                },
+                {
+                    "text": "[SSR] Skill Ticket",
+                    "uid": "2180002746181099"
+                },
+                {
+                    "text": "[SSR+] Skill Ticket",
+                    "uid": "770266328585643"
+                },
+                {
+                    "text": "[UR] Skill Ticket",
+                    "uid": "1254374743253621"
+                },
+                {
+                    "text": "[SSR] Gear Ticket",
+                    "uid": "1053080040201840"
+                },
+                {
+                    "text": "[UR] Gear Ticket",
+                    "uid": "4447309277792"
+                },
+                {
+                    "text": "[SSR+] Relic Ticket",
+                    "uid": "2216244886179737"
+                },
+                {
+                    "text": "[UR] Relic Ticket",
+                    "uid": "1853227997232459"
+                },
+                {
+                    "text": "[R] Skill Ticket Fragment",
+                    "uid": "2988741382129544"
+                },
+                {
+                    "text": "[SR] Skill Ticket Fragment",
+                    "uid": "2434819323741282"
+                },
+                {
+                    "text": "[SSR] Skill Ticket Fragment",
+                    "uid": "568676167263759"
+                },
+                {
+                    "text": "[UR] Skill Ticket Fragment",
+                    "uid": "1194455286705801"
+                },
+                {
+                    "text": "[UR] Gear Ticket Fragment",
+                    "uid": "2547312839730020"
+                },
+                {
+                    "text": "[R] Chromatic Scroll Fragment",
+                    "uid": "2623719704215345"
+                },
+                {
+                    "text": "[SR] Chromatic Scroll Fragment",
+                    "uid": "4149579846788247"
+                },
+                {
+                    "text": "[SSR] Chromatic Scroll Fragment",
+                    "uid": "2104822972575778"
+                },
+                {
+                    "text": "[UR] Chromatic Scroll Fragment",
+                    "uid": "1429224293855378"
+                },
+                {
+                    "text": "[USR] Chromatic Scroll Fragment",
+                    "uid": "3005072580742364"
+                },
+                {
+                    "text": "[LR] Chromatic Scroll Fragment",
+                    "uid": "145720067291493"
+                },
+                {
+                    "text": "[UR] Gear Part Select Ticket",
+                    "uid": "120714643444732"
+                },
+                {
+                    "text": "[R] Skill Element Select Ticket",
+                    "uid": "1068704318854104"
+                },
+                {
+                    "text": "[SR] Skill Element Select Ticket",
+                    "uid": "465828168220818"
+                },
+                {
+                    "text": "[SSR] Skill Element Select Ticket",
+                    "uid": "3466090343359583"
+                },
+                {
+                    "text": "[UR] Skill Element Select Ticket",
+                    "uid": "1996463410562905"
+                },
+                {
+                    "text": "Ancient Tome: Holy",
+                    "uid": "4364825761800975"
+                },
+                {
+                    "text": "Ancient Tome: Dark",
+                    "uid": "2111544043769589"
+                },
+                {
+                    "text": "Ancient Tome: Chaos",
+                    "uid": "3075691344570763"
+                },
+                {
+                    "text": "Ancient Tome: Holy Fragment",
+                    "uid": "1709686304986539"
+                },
+                {
+                    "text": "Ancient Tome: Dark Fragment",
+                    "uid": "2738436594787145"
+                },
+                {
+                    "text": "Collect 20 to obtain an Ancient Tome: Holy.",
+                    "uid": "465039966138409"
+                },
+                {
+                    "text": "Collect 20 to obtain an Ancient Tome: Dark.",
+                    "uid": "2171089112162019"
+                },
+                {
+                    "text": "Pre-Registration Bundle",
+                    "uid": "3437377719499961"
+                },
+                {
+                    "text": "A gift to show our appreciation for players who've pre-registered. Contains various items that'll prove useful during your adventure. ",
+                    "uid": "3960745735339251"
+                },
+                {
+                    "text": "Scroll",
+                    "uid": "3166494487094795"
+                },
+                {
+                    "text": "Draw Ticket",
+                    "uid": "3796324640353404"
+                },
+                {
+                    "text": "Bundle",
+                    "uid": "1115984762811348"
+                },
+                {
+                    "text": "Fragment",
+                    "uid": "3202884234668944"
+                },
+                {
+                    "text": "Stage Reward",
+                    "uid": "1890393207586300"
+                },
+                {
+                    "text": "Skill Select Ticket",
+                    "uid": "1980586369287596"
+                },
+                {
+                    "text": "Gear Select Ticket",
+                    "uid": "2851663423023265"
+                },
+                {
+                    "text": "Iron Ore",
+                    "uid": "4341917162660775"
+                },
+                {
+                    "text": "Items you've obtained can be found at the <color=#00ff00>Vault</color>.",
+                    "uid": "3849421912027966"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

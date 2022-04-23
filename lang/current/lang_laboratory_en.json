@@ -1,0 +1,41 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "No skills to enhance.",
+                    "uid": "2636924296270181"
+                },
+                {
+                    "text": "No skills to inherit.",
+                    "uid": "894316371328628"
+                },
+                {
+                    "text": "No skills to fuse.",
+                    "uid": "1301068574313211"
+                },
+                {
+                    "text": "No skills to reset.",
+                    "uid": "2880268203850334"
+                },
+                {
+                    "text": "You can use Skill Scrolls to enhance skills. Enhancing skills increases their stats. There's a enhance cap based on skill grade. There's also a cap based on your character's level.",
+                    "uid": "1558212275278051"
+                },
+                {
+                    "text": "If you obtain a skill with a higher grade than one you've already enhanced, you can transfer its Enhance Level to the skill you've just obtained.",
+                    "uid": "2899468732880544"
+                },
+                {
+                    "text": "Fuse skills to create one of higher grade. Fusion material varies by skill grade. You'll need 2 skills of the same grade and Element, or 1 identical skill of the same grade to perform a fusion.",
+                    "uid": "2038461720033405"
+                },
+                {
+                    "text": "You can reset enhanced skills to Lv. 1. In this case, you can get back every Skill Scroll you've used to enhance your skills. Resets require Blue Gems.",
+                    "uid": "357533222068346"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

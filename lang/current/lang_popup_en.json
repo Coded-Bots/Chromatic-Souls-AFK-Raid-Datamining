@@ -1,0 +1,33 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Acquired",
+                    "uid": "4410270504142971"
+                },
+                {
+                    "text": "Obtain Skill",
+                    "uid": "939967338711517"
+                },
+                {
+                    "text": "Obtain Gear",
+                    "uid": "853613292972146"
+                },
+                {
+                    "text": "Get a random entity from the Element selected.",
+                    "uid": "1764445182852775"
+                },
+                {
+                    "text": "Get a random entity from the part selected.",
+                    "uid": "1136295645385416"
+                },
+                {
+                    "text": "Items Obtained",
+                    "uid": "679023548496463"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

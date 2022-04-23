@@ -1,0 +1,169 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Guardian Shield",
+                    "uid": "182808943933815"
+                },
+                {
+                    "text": "Massive Slash",
+                    "uid": "3048250695773150"
+                },
+                {
+                    "text": "Absorb",
+                    "uid": "3022368803319296"
+                },
+                {
+                    "text": "Bash",
+                    "uid": "2785864212300029"
+                },
+                {
+                    "text": "Shout",
+                    "uid": "233860922149590"
+                },
+                {
+                    "text": "Defense Stance",
+                    "uid": "368192859365395"
+                },
+                {
+                    "text": "Berserk Stance",
+                    "uid": "3447972779791412"
+                },
+                {
+                    "text": "Shield Thrust",
+                    "uid": "429603301194625"
+                },
+                {
+                    "text": "Shout",
+                    "uid": "2349444725784922"
+                },
+                {
+                    "text": "Bond",
+                    "uid": "3327071638288199"
+                },
+                {
+                    "text": "Flying Daggers",
+                    "uid": "1016376044499239"
+                },
+                {
+                    "text": "Ambush",
+                    "uid": "4444772981424974"
+                },
+                {
+                    "text": "Gash",
+                    "uid": "3933454869634005"
+                },
+                {
+                    "text": "False Edge",
+                    "uid": "2006059977567595"
+                },
+                {
+                    "text": "Cut Throat",
+                    "uid": "993148186352608"
+                },
+                {
+                    "text": "Tear Wound",
+                    "uid": "4111620897855839"
+                },
+                {
+                    "text": "Tussle",
+                    "uid": "315102881747587"
+                },
+                {
+                    "text": "Hack",
+                    "uid": "3472732811508465"
+                },
+                {
+                    "text": "Assault",
+                    "uid": "959327524557258"
+                },
+                {
+                    "text": "Adrenaline",
+                    "uid": "3853345281751592"
+                },
+                {
+                    "text": "Explosion",
+                    "uid": "13172477578387"
+                },
+                {
+                    "text": "Advent of Monarch",
+                    "uid": "74582919407617"
+                },
+                {
+                    "text": "Touch of Mana",
+                    "uid": "2667348421532288"
+                },
+                {
+                    "text": "Summon Meteor",
+                    "uid": "3956835502560051"
+                },
+                {
+                    "text": "Arcane Orb",
+                    "uid": "1970044721545300"
+                },
+                {
+                    "text": "Beatdown",
+                    "uid": "3252061297836623"
+                },
+                {
+                    "text": "Torrent",
+                    "uid": "1870907228123933"
+                },
+                {
+                    "text": "Magic Block",
+                    "uid": "730840881869430"
+                },
+                {
+                    "text": "Arcane Arrows",
+                    "uid": "1712948678474923"
+                },
+                {
+                    "text": "Quicken Mind",
+                    "uid": "2261732240925708"
+                },
+                {
+                    "text": "Might",
+                    "uid": "3444492290833925"
+                },
+                {
+                    "text": "Light Spring",
+                    "uid": "3543629784255356"
+                },
+                {
+                    "text": "Retribution",
+                    "uid": "3278602277183579"
+                },
+                {
+                    "text": "Warmth",
+                    "uid": "4053432054931942"
+                },
+                {
+                    "text": "Tranquility",
+                    "uid": "2099575759580877"
+                },
+                {
+                    "text": "Touch of Healing",
+                    "uid": "1837158725005282"
+                },
+                {
+                    "text": "Blooming Life",
+                    "uid": "4325475847426715"
+                },
+                {
+                    "text": "Retroact",
+                    "uid": "86882606701756"
+                },
+                {
+                    "text": "Loop",
+                    "uid": "1693029725355262"
+                },
+                {
+                    "text": "Queen of Forest",
+                    "uid": "2868993872271078"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

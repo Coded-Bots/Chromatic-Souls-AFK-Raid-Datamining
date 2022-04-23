@@ -1,0 +1,61 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Accel Reward",
+                    "uid": "602111818195094"
+                },
+                {
+                    "text": "Get rewards for {0} min of battle.\\nGain attack buffs for {1} min thanks to higher training effects.",
+                    "uid": "2727542759909529"
+                },
+                {
+                    "text": "Challenge the stage boss 5 times repeatedly.\\nAuto Challenge stops once you fail.",
+                    "uid": "378582955456223"
+                },
+                {
+                    "text": "Reset {0}",
+                    "uid": "567390608445498"
+                },
+                {
+                    "text": "Start",
+                    "uid": "1268849891623287"
+                },
+                {
+                    "text": "Gain 120-minutes worth of Battle Rewards.",
+                    "uid": "1151719420880409"
+                },
+                {
+                    "text": "The number of Accel Rewards you can receive from party members does not reset even if party members are replaced. No rewards are available once you exceed the limit.",
+                    "uid": "4369673364662033"
+                },
+                {
+                    "text": "{0} has used Accel.",
+                    "uid": "2646054747840509"
+                },
+                {
+                    "text": "Accel hasn't been processed.",
+                    "uid": "799841005489309"
+                },
+                {
+                    "text": "Accel Reward Count",
+                    "uid": "2037916218914137"
+                },
+                {
+                    "text": "Clear Goblin Base: Zone 15 to unlock.",
+                    "uid": "2330637755231501"
+                },
+                {
+                    "text": "Buff: Increases damage for 10 min.",
+                    "uid": "3659494381802563"
+                },
+                {
+                    "text": "2 h",
+                    "uid": "813633521177498"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

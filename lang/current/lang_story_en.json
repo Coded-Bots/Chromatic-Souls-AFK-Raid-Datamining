@@ -1,0 +1,1729 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "<b>All right, rookies. I'm sure you're all aware that the suburbs of Rohan have been teeming with monsters recently.</b>",
+                    "uid": "810938032655989"
+                },
+                {
+                    "text": "<b>That's why some nobles have asked us, the Adventurer Alliance, to...</b>",
+                    "uid": "1375032702601026"
+                },
+                {
+                    "text": "<b>You know... Investigate this sudden flood of monsters.</b>",
+                    "uid": "141447096841451"
+                },
+                {
+                    "text": "<b>They're requesting our help for something like that?</b>",
+                    "uid": "2811044002812481"
+                },
+                {
+                    "text": "<b>What's the Rohan army doing then?</b>",
+                    "uid": "404338968595582"
+                },
+                {
+                    "text": "<b>Hehe, you really want to know why, Sarah?</b>",
+                    "uid": "3935948353900452"
+                },
+                {
+                    "text": "<b>Looks like their little monster problem is way bigger than they expected.</b>",
+                    "uid": "4295501731188546"
+                },
+                {
+                    "text": "<b>And they're having a hard time getting their defenses ready!</b>",
+                    "uid": "3731407061243509"
+                },
+                {
+                    "text": "<b>Must be pretty serious then...</b>",
+                    "uid": "3946955021884047"
+                },
+                {
+                    "text": "<b>Are you sure you don't want to deal with this personally?</b>",
+                    "uid": "3324807997183102"
+                },
+                {
+                    "text": "<b>Sarah, my dear, being the best bard in the continent comes first.</b>",
+                    "uid": "3521612706951816"
+                },
+                {
+                    "text": "<b>In fact, I was recently inspired to write a brand-new song.</b>",
+                    "uid": "3061916125428971"
+                },
+                {
+                    "text": "<b>Someone as elegant as me shouldn't have to handle things in person unless I don't have a choice in the matter!</b>",
+                    "uid": "4163829648910202"
+                },
+                {
+                    "text": "<b>Besides, outdoor activities aren't good for my skin.</b>",
+                    "uid": "3916394327889677"
+                },
+                {
+                    "text": "<b>That's why I figured this job would be perfect for you rookies instead!</b>",
+                    "uid": "3423767588217373"
+                },
+                {
+                    "text": "<b>Ugh... Is it okay for you to be slacking this much as leader of the Adventurer Alliance?</b>",
+                    "uid": "821112616212503"
+                },
+                {
+                    "text": "<b>They put me in this position because I was so perfect for the job!</b>",
+                    "uid": "2610253758166857"
+                },
+                {
+                    "text": "<b>You already know this, Sarah.</b>",
+                    "uid": "1571177126616358"
+                },
+                {
+                    "text": "<b>All I care about is composing sweet-sounding melodies</b>",
+                    "uid": "1941609244761619"
+                },
+                {
+                    "text": "<b>and maintaining this absolute beauty of mine.</b>",
+                    "uid": "4302386617901392"
+                },
+                {
+                    "text": "<b>I'm sorry that our leader is so irresponsible...</b>",
+                    "uid": "1342276339810002"
+                },
+                {
+                    "text": "<b>But I'm counting on you guys! This mission is vital for all of us.</b>",
+                    "uid": "4395770805102084"
+                },
+                {
+                    "text": "<b>Looks like the monster outbreak is even worse than we thought.</b>",
+                    "uid": "3219327294289720"
+                },
+                {
+                    "text": "<b>Still, we were able to get a better grasp of the situation thanks to everyone's bravery!</b>",
+                    "uid": "122940681055282"
+                },
+                {
+                    "text": "<b>This should buy Rohan more time to prepare... A job well done!</b>",
+                    "uid": "2938847882402661"
+                },
+                {
+                    "text": "<b>Sarah, wait. It's too early to celebrate.</b>",
+                    "uid": "264667798537279"
+                },
+                {
+                    "text": "<b>We know what numbers we're dealing with...</b>",
+                    "uid": "1763799532183558"
+                },
+                {
+                    "text": "<b>But we still don't know what the cause of all this is!</b>",
+                    "uid": "4205688938503337"
+                },
+                {
+                    "text": "<b>I guess your little friends will need to help us once again...</b>",
+                    "uid": "2720063156970577"
+                },
+                {
+                    "text": "<b>...You're saying you want them to look for what's causing the monster outbreak?</b>",
+                    "uid": "3493956827125435"
+                },
+                {
+                    "text": "<b>Oscar, that's way too dangerous for rookies!</b>",
+                    "uid": "2194408427755736"
+                },
+                {
+                    "text": "<b>Can't you just lead us instead?</b>",
+                    "uid": "1632454039046405"
+                },
+                {
+                    "text": "<b>Why can't you show more responsibility?</b>",
+                    "uid": "3606225694756434"
+                },
+                {
+                    "text": "<b>Heh, can you really say I'm being irresponsible?</b>",
+                    "uid": "2603303283722236"
+                },
+                {
+                    "text": "<b>Or am I just appreciating the potential of your friends here?</b>",
+                    "uid": "370603485742793"
+                },
+                {
+                    "text": "<b>After all, they look like they'll become some fine adventurers in the future.</b>",
+                    "uid": "3835126481562790"
+                },
+                {
+                    "text": "<b>But to do that, they need to take on dangerous missions to gain experience.</b>",
+                    "uid": "1213297477829382"
+                },
+                {
+                    "text": "<b>It's not like I'm just giving them tedious work.</b>",
+                    "uid": "3655186884149161"
+                },
+                {
+                    "text": "<b>It takes a lot to get a compliment out of me, so you all be flattered.</b>",
+                    "uid": "2532548904792496"
+                },
+                {
+                    "text": "<b>Then I'm going with them.</b>",
+                    "uid": "777767440050922"
+                },
+                {
+                    "text": "<b>Really? Are you sure, Sarah?</b>",
+                    "uid": "2417110333379796"
+                },
+                {
+                    "text": "<b>I'm dead serious. I've traveled with countless adventurers.</b>",
+                    "uid": "4228942276144366"
+                },
+                {
+                    "text": "<b>At least I can act as a guide for them!</b>",
+                    "uid": "3189875716285745"
+                },
+                {
+                    "text": "<b>Hmm... Okay, I expect you to be watching them closely then. I want a full report when you get back.</b>",
+                    "uid": "2253783274881308"
+                },
+                {
+                    "text": "<b>Who knows, maybe you'll be the next inspiration for my new song!</b>",
+                    "uid": "1564409007027749"
+                },
+                {
+                    "text": "<b>Okay, now you're just being silly.</b>",
+                    "uid": "3425911795106779"
+                },
+                {
+                    "text": "<b>All right, everyone! Let's get out there and do our best, so Oscar here feels the urge to write a song!</b>",
+                    "uid": "2126363395737080"
+                },
+                {
+                    "text": "<b>So, we know that there's been an endless flood of monsters, but...</b>",
+                    "uid": "3118136423439775"
+                },
+                {
+                    "text": "<b>We still don't have a clue as to what the cause could be.</b>",
+                    "uid": "284658106644284"
+                },
+                {
+                    "text": "<b>Sarah!</b>",
+                    "uid": "1721959516573262"
+                },
+                {
+                    "text": "<b>...Beth?</b>",
+                    "uid": "4379362878048280"
+                },
+                {
+                    "text": "<b>What brings you here?</b>",
+                    "uid": "3650546742908125"
+                },
+                {
+                    "text": "<b>Huh? What do you mean?</b>",
+                    "uid": "4215030386918228"
+                },
+                {
+                    "text": "<b>Oscar asked me to help you, so here I am!</b>",
+                    "uid": "2261153020964215"
+                },
+                {
+                    "text": "<b>I mean, yeah. You're the best in the alliance when it comes to recon...</b>",
+                    "uid": "3451849928647165"
+                },
+                {
+                    "text": "<b>That Oscar... Guess he had something in mind after all.</b>",
+                    "uid": "4330468958330928"
+                },
+                {
+                    "text": "<b>Aw, really? Thanks!</b>",
+                    "uid": "3011217531367814"
+                },
+                {
+                    "text": "<b>Anyway, are these the rookies he mentioned?</b>",
+                    "uid": "949507310317097"
+                },
+                {
+                    "text": "<b>Yup! One day, they'll become fine heroes like you and Oscar!</b>",
+                    "uid": "1512085797721535"
+                },
+                {
+                    "text": "<b>Wow! Really?</b>",
+                    "uid": "526098516351688"
+                },
+                {
+                    "text": "<b>Your words mean a lot to me! Looking forward to working with you all!</b>",
+                    "uid": "2735998840799617"
+                },
+                {
+                    "text": "<b>Alrighty then, I'll infiltrate their ranks, just like Oscar asked me to.</b>",
+                    "uid": "3425539622495934"
+                },
+                {
+                    "text": "<b>Do you think you could grab their attention for me?</b>",
+                    "uid": "2640290739989455"
+                },
+                {
+                    "text": "<b>No problem! Leave it to us!</b>",
+                    "uid": "1298863944713397"
+                },
+                {
+                    "text": "<b>Nicely done!</b>",
+                    "uid": "990819385784546"
+                },
+                {
+                    "text": "<b>Did you manage to find out anything, Beth?</b>",
+                    "uid": "426724715839253"
+                },
+                {
+                    "text": "<b>Hmm, not sure...</b>",
+                    "uid": "2567400366251275"
+                },
+                {
+                    "text": "<b>But...</b>",
+                    "uid": "859967352477854"
+                },
+                {
+                    "text": "<b>But?</b>",
+                    "uid": "3551735037083972"
+                },
+                {
+                    "text": "<b>I think...</b>",
+                    "uid": "2921376876119675"
+                },
+                {
+                    "text": "<b>I saw some Dragoons!</b>",
+                    "uid": "1903324573997976"
+                },
+                {
+                    "text": "<b>Dragoons? You mean you saw Draconians?</b>",
+                    "uid": "3749520839893454"
+                },
+                {
+                    "text": "<b>They must've completely disappeared after the Dragon War...</b>",
+                    "uid": "642098119389471"
+                },
+                {
+                    "text": "<b>I definitely saw them though!</b>",
+                    "uid": "4437594880775877"
+                },
+                {
+                    "text": "<b>And there were a lot!</b>",
+                    "uid": "500371001907474"
+                },
+                {
+                    "text": "<b>...Where in the world did they come from?</b>",
+                    "uid": "1771631371293328"
+                },
+                {
+                    "text": "<b>Beth, I think we'll need to look into this a bit more.</b>",
+                    "uid": "2378653021830564"
+                },
+                {
+                    "text": "<b>Okay, back to infiltrating I go!</b>",
+                    "uid": "4189664915623290"
+                },
+                {
+                    "text": "<b>Mind grabbing their attention again like last time?</b>",
+                    "uid": "3942229594602765"
+                },
+                {
+                    "text": "<b>You got it!</b>",
+                    "uid": "700847390680451"
+                },
+                {
+                    "text": "<b>Beth!</b>",
+                    "uid": "2239425694866025"
+                },
+                {
+                    "text": "<b>We finally caught up with you. Are you okay?</b>",
+                    "uid": "4301135915916742"
+                },
+                {
+                    "text": "<b>Yep! Fit as a fiddle!</b>",
+                    "uid": "2127270074482068"
+                },
+                {
+                    "text": "<b>Thanks for luring them out for me! Made my job a lot easier!</b>",
+                    "uid": "3052939524916541"
+                },
+                {
+                    "text": "<b>And I was right! They were Dragoons, a lot of them in fact!</b>",
+                    "uid": "1895280992610474"
+                },
+                {
+                    "text": "<b>That's insane. Could Dragons really be involved in all of this?</b>",
+                    "uid": "1253064050652408"
+                },
+                {
+                    "text": "<b>They went into hiding after losing the Dragon War... Why did they decide to show up now of all times?</b>",
+                    "uid": "1000341411583950"
+                },
+                {
+                    "text": "<b>We need to let the Adventurer Alliance and Rohan know about this!</b>",
+                    "uid": "1368628663182609"
+                },
+                {
+                    "text": "<b>I'm on it!</b>",
+                    "uid": "172197447810171"
+                },
+                {
+                    "text": "<b>I've got too many monsters on my tail, though!</b>",
+                    "uid": "2254791200968466"
+                },
+                {
+                    "text": "<b>Could you take care of them for me?</b>",
+                    "uid": "1688415452466373"
+                },
+                {
+                    "text": "<b>Sure, just leave that to us!</b>",
+                    "uid": "2396518318450463"
+                },
+                {
+                    "text": "<b>Make sure to let Oscar know about the Draconians too!</b>",
+                    "uid": "794842079069542"
+                },
+                {
+                    "text": "<b>Okay, Beth should've escaped safely by now.</b>",
+                    "uid": "578458244570309"
+                },
+                {
+                    "text": "<b>We should also get going ourse- Wait, who's that?</b>",
+                    "uid": "2956682421129404"
+                },
+                {
+                    "text": "<b>Whoa! I thought you were a monster! I almost attacked you.</b>",
+                    "uid": "4393983831058382"
+                },
+                {
+                    "text": "<b>Judging from your outfit, you're from the Adventurer Alliance. Am I wrong?</b>",
+                    "uid": "258671455286545"
+                },
+                {
+                    "text": "<b>Yes. We're investigating the cause of the monster flood.</b>",
+                    "uid": "3565839867284603"
+                },
+                {
+                    "text": "<b>Monster flood? This ain't no flood... It's a war.</b>",
+                    "uid": "1818971430022749"
+                },
+                {
+                    "text": "<b>Do you happen to have any clues as to what's going on?</b>",
+                    "uid": "1778970966675994"
+                },
+                {
+                    "text": "<b>I don't know all the details, but...</b>",
+                    "uid": "254038302570180"
+                },
+                {
+                    "text": "<b>All I can tell you is that a massive army of disgusting Orcs is coming this way.</b>",
+                    "uid": "3532792654696217"
+                },
+                {
+                    "text": "<b>Orcs? Massive army?</b>",
+                    "uid": "2798336201542307"
+                },
+                {
+                    "text": "<b>Yep, I'm only spouting facts here,</b>",
+                    "uid": "1632627608695957"
+                },
+                {
+                    "text": "<b>especially since my job is to hunt those things down.</b>",
+                    "uid": "2196722278641250"
+                },
+                {
+                    "text": "<b>If you don't believe me, see for yourself.</b>",
+                    "uid": "3651152578697938"
+                },
+                {
+                    "text": "<b>Won't be long now before those disgusting creatures march in!</b>",
+                    "uid": "1677380922987909"
+                },
+                {
+                    "text": "<b>What? The Orcs are really here!</b>",
+                    "uid": "2984405105809539"
+                },
+                {
+                    "text": "<b>And the Draconians too! What the heck is going on?</b>",
+                    "uid": "557805736381120"
+                },
+                {
+                    "text": "<b>Is this going to be a repeat of the Dragon War?</b>",
+                    "uid": "1722187682361357"
+                },
+                {
+                    "text": "<b>Rohan is definitely not prepared for an invasion of this magnitude...</b>",
+                    "uid": "1969623003381882"
+                },
+                {
+                    "text": "<b>Bring it on, you filthy Orcs!</b>",
+                    "uid": "158611109589156"
+                },
+                {
+                    "text": "<b>That's the person we saw a while ago!</b>",
+                    "uid": "1130601351654782"
+                },
+                {
+                    "text": "<b>And she's fighting the Orcs alone!</b>",
+                    "uid": "720348571516032"
+                },
+                {
+                    "text": "<b>You there! Don't stand and watch! Run while you still can!</b>",
+                    "uid": "3412099770829590"
+                },
+                {
+                    "text": "<b>This place is about to turn into a bloodbath.</b>",
+                    "uid": "2760066596151353"
+                },
+                {
+                    "text": "<b>Run away...?</b>",
+                    "uid": "621357459069063"
+                },
+                {
+                    "text": "<b>No! I can't let you fight all by yourself!</b>",
+                    "uid": "3820994626796090"
+                },
+                {
+                    "text": "<b>Hmph, trying to be all brave at a time like this.</b>",
+                    "uid": "2897302708015944"
+                },
+                {
+                    "text": "<b>Well, don't just stand there! Follow me!</b>",
+                    "uid": "2719102223741099"
+                },
+                {
+                    "text": "<b>No! Don't just run in head first like that!</b>",
+                    "uid": "2408860309000948"
+                },
+                {
+                    "text": "<b>Ugh, let's go everyone!</b>",
+                    "uid": "524363173208605"
+                },
+                {
+                    "text": "<b>Hey... Are you hurt?</b>",
+                    "uid": "534639649250790"
+                },
+                {
+                    "text": "<b>You shouldn't have jumped in so recklessly like that...</b>",
+                    "uid": "1855212378049289"
+                },
+                {
+                    "text": "<b>Orcs are a tough bunch to deal with.</b>",
+                    "uid": "1456977527978932"
+                },
+                {
+                    "text": "<b>...It wasn't the Orcs.</b>",
+                    "uid": "4321234262020554"
+                },
+                {
+                    "text": "<b>Minotaurs suddenly appeared out of nowhere.</b>",
+                    "uid": "2668726208100061"
+                },
+                {
+                    "text": "<b>Minotaurs?</b>",
+                    "uid": "4415594645361915"
+                },
+                {
+                    "text": "<b>They don't usually tag along with the Orcs...</b>",
+                    "uid": "2252062617895655"
+                },
+                {
+                    "text": "<b>They don't, and that's what confused me.</b>",
+                    "uid": "3515435676322861"
+                },
+                {
+                    "text": "<b>I barely managed to fend them off, but they're a persistent bunch, so they'll definitely be back.</b>",
+                    "uid": "666625181429914"
+                },
+                {
+                    "text": "<b>It won't be long before they get here. I need to get ready for battle...</b>",
+                    "uid": "1685990416296227"
+                },
+                {
+                    "text": "<b>No, you can't fight in that state!</b>",
+                    "uid": "2420446869450137"
+                },
+                {
+                    "text": "<b>We'll lead the way. Just stick close to us!</b>",
+                    "uid": "1665126232671350"
+                },
+                {
+                    "text": "<b>Darn it...</b>",
+                    "uid": "2122152943536012"
+                },
+                {
+                    "text": "<b>Is everyone ready?</b>",
+                    "uid": "909634487105875"
+                },
+                {
+                    "text": "<b>Brace yourselves! This battle's going to be fierce!</b>",
+                    "uid": "820677345782630"
+                },
+                {
+                    "text": "<b>Camille, what on earth happened to you....</b>",
+                    "uid": "2585483194044477"
+                },
+                {
+                    "text": "<b>Ugh, I've got nothing else to say...</b>",
+                    "uid": "4204111703189939"
+                },
+                {
+                    "text": "<b>I told you that we needed to get in touch with Rohan and ask for their help.</b>",
+                    "uid": "1771969363993961"
+                },
+                {
+                    "text": "<b>But instead, you insisted on going out there alone, and now look what happened...</b>",
+                    "uid": "3833679585044678"
+                },
+                {
+                    "text": "<b>Oh, and you are...?</b>",
+                    "uid": "913027598924572"
+                },
+                {
+                    "text": "<b>O-Oh, my name is Rebecca.</b>",
+                    "uid": "3282475452018061"
+                },
+                {
+                    "text": "<b>I'm Camille's old friend, a-and I was worried about her.</b>",
+                    "uid": "1718898879245860"
+                },
+                {
+                    "text": "<b>She's very shy.</b>",
+                    "uid": "3402490893894102"
+                },
+                {
+                    "text": "<b>Anyway, nice to meet you Rebecca. Is Camille okay?</b>",
+                    "uid": "2468961621967609"
+                },
+                {
+                    "text": "<b>Y-Yes! She's safe for now...</b>",
+                    "uid": "41093248095747"
+                },
+                {
+                    "text": "<b>But it's going to be dangerous if I don't treat her right away.</b>",
+                    "uid": "3661582855316930"
+                },
+                {
+                    "text": "<b>The problem is, there are monsters everywhere.</b>",
+                    "uid": "3097488185371893"
+                },
+                {
+                    "text": "<b>We'll clear the way, so make sure to take her someplace safe!</b>",
+                    "uid": "3473245272823778"
+                },
+                {
+                    "text": "<b>Thank you... And sorry for the trouble...</b>",
+                    "uid": "7422095594124"
+                },
+                {
+                    "text": "<b>Don't be. It's our job to fight monsters anyway.</b>",
+                    "uid": "3342393239517086"
+                },
+                {
+                    "text": "<b>Everyone, let's go!</b>",
+                    "uid": "546226625920011"
+                },
+                {
+                    "text": "<b>T-Thank you so much. Camille is safe now.</b>",
+                    "uid": "4107125931134893"
+                },
+                {
+                    "text": "<b>The situation could've been much worse for her...</b>",
+                    "uid": "1258315436241946"
+                },
+                {
+                    "text": "<b>Hmph, it's just a scratch.</b>",
+                    "uid": "132577398928096"
+                },
+                {
+                    "text": "<b>Don't be silly, Camille. You could've died out there!</b>",
+                    "uid": "2256816487483382"
+                },
+                {
+                    "text": "<b>(She doesn't stutter when she talks to her friend.)</b>",
+                    "uid": "2713843198348044"
+                },
+                {
+                    "text": "<b>I've never seen you this angry, Rebecca. Maybe I made a big mistake.</b>",
+                    "uid": "465893487546813"
+                },
+                {
+                    "text": "<b>You did!</b>",
+                    "uid": "2371421275350839"
+                },
+                {
+                    "text": "<b>You should also say thanks to these people for helping you.</b>",
+                    "uid": "1714089878547014"
+                },
+                {
+                    "text": "<b>...Thanks. You saved my life.</b>",
+                    "uid": "1344512517230832"
+                },
+                {
+                    "text": "<b>No worries. Just doing our job.</b>",
+                    "uid": "4295355677967218"
+                },
+                {
+                    "text": "<b>I appreciate how you fight for Rohan too.</b>",
+                    "uid": "2607663251943845"
+                },
+                {
+                    "text": "<b>...I only fought for myself.</b>",
+                    "uid": "4107018095473810"
+                },
+                {
+                    "text": "<b>One thing's for sure though, things definitely aren't normal around here.</b>",
+                    "uid": "4248745212955807"
+                },
+                {
+                    "text": "<b>R-Right. I've been sensing...Elemental Spirits of sorts.</b>",
+                    "uid": "3220855557687953"
+                },
+                {
+                    "text": "<b>But only Dragons are capable of summoning them...</b>",
+                    "uid": "2852568306089294"
+                },
+                {
+                    "text": "<b>Draconians, Minotaurs, and now Elemental Spirits...</b>",
+                    "uid": "1006372040193816"
+                },
+                {
+                    "text": "<b>Have the Dragons really returned?</b>",
+                    "uid": "277555905053661"
+                },
+                {
+                    "text": "<b>That's what we need to find out.</b>",
+                    "uid": "3948544571328268"
+                },
+                {
+                    "text": "<b>Looks like I'll need to infiltrate deeper into the enemy ranks and...</b>",
+                    "uid": "1994667205374255"
+                },
+                {
+                    "text": "<b>What are you talking about?! You need to be treated first!</b>",
+                    "uid": "2346673451242133"
+                },
+                {
+                    "text": "<b>...I really want to fight, but I'd just be a burden to you.</b>",
+                    "uid": "4487349101654155"
+                },
+                {
+                    "text": "<b>I guess I'll head back to Rohan and let the Adventurer Alliance know how bad the situation is.</b>",
+                    "uid": "2779916087880734"
+                },
+                {
+                    "text": "<b>Good idea, Camille.</b>",
+                    "uid": "968084145116356"
+                },
+                {
+                    "text": "<b>Hmph, but you can bet I'll be back as soon as I'm all patched up.</b>",
+                    "uid": "2696700035767735"
+                },
+                {
+                    "text": "<b>That'd be a big help!</b>",
+                    "uid": "791172247963709"
+                },
+                {
+                    "text": "<b>I hope Oscar realizes how bad things have gotten...</b>",
+                    "uid": "4137113343028138"
+                },
+                {
+                    "text": "<b>See, I knew you all had things under control!</b>",
+                    "uid": "2518144710182486"
+                },
+                {
+                    "text": "<b>I told you that I'm a good judge of character, Sarah.</b>",
+                    "uid": "1584615438255993"
+                },
+                {
+                    "text": "<b>Hey, Oscar!</b>",
+                    "uid": "4231002025792455"
+                },
+                {
+                    "text": "<b>I-I asked him to come.</b>",
+                    "uid": "2398129268306445"
+                },
+                {
+                    "text": "<b>I-I thought it'd be best if he saw the situation for himself...</b>",
+                    "uid": "2003347647368584"
+                },
+                {
+                    "text": "<b>I admit I'm a sucker when it comes to girls like her.</b>",
+                    "uid": "4288871889026583"
+                },
+                {
+                    "text": "<b>Anyway, there are quite a lot of Elemental Spirits.</b>",
+                    "uid": "4272424369453300"
+                },
+                {
+                    "text": "<b>The balance of nature will be disrupted if we just let them be.</b>",
+                    "uid": "2387927233660957"
+                },
+                {
+                    "text": "<b>I don't know. Seems like too much work if you ask me.</b>",
+                    "uid": "4321910264403466"
+                },
+                {
+                    "text": "<b>What?! That's not something you of all people should be saying!</b>",
+                    "uid": "3266546263344976"
+                },
+                {
+                    "text": "<b>That's why I came all the way here.</b>",
+                    "uid": "535336772059942"
+                },
+                {
+                    "text": "<b>I didn't say I wouldn't take care of this! Am I not even allowed to complain?!</b>",
+                    "uid": "729638079557599"
+                },
+                {
+                    "text": "<b>Anyway, Rebecca and I will take care of the Spirits in this area.</b>",
+                    "uid": "3807113201589884"
+                },
+                {
+                    "text": "<b>You guys go visit Duku.</b>",
+                    "uid": "2583912631968384"
+                },
+                {
+                    "text": "<b>He may know a thing or two.</b>",
+                    "uid": "2195741162305859"
+                },
+                {
+                    "text": "<b>Duku? That eccentric wizard?</b>",
+                    "uid": "120031029233209"
+                },
+                {
+                    "text": "<b>I heard he's very skilled.</b>",
+                    "uid": "3873546793455972"
+                },
+                {
+                    "text": "<b>Aren't you on bad terms with him though?</b>",
+                    "uid": "2484921519521415"
+                },
+                {
+                    "text": "<b>Well... He should know how bad the situation since I'm here in person.</b>",
+                    "uid": "2340898670741197"
+                },
+                {
+                    "text": "<b>I don't think he'd refuse to cooperate even if he hates me.</b>",
+                    "uid": "257267141097800"
+                },
+                {
+                    "text": "<b>Maybe...?</b>",
+                    "uid": "79066656822955"
+                },
+                {
+                    "text": "<b>Ugh, you should've made up with him if you weren't sure!</b>",
+                    "uid": "2742386156113926"
+                },
+                {
+                    "text": "<b>Anyway, let's go... I know where he is.</b>",
+                    "uid": "3112818274259443"
+                },
+                {
+                    "text": "<b>He should be around here somewhere...</b>",
+                    "uid": "2167352460035607"
+                },
+                {
+                    "text": "<b>I think the monsters are getting stronger as time passes...</b>",
+                    "uid": "2150904940462324"
+                },
+                {
+                    "text": "<b>How is Duku able to live alone in a place like this?</b>",
+                    "uid": "3956493601989961"
+                },
+                {
+                    "text": "<b>Wait, has he already been...?</b>",
+                    "uid": "2917416970439462"
+                },
+                {
+                    "text": "<b>Haha. You speak nonsense, fairy.</b>",
+                    "uid": "1145026834354000"
+                },
+                {
+                    "text": "<b>Monsters can never break through my barrier.</b>",
+                    "uid": "714744527923077"
+                },
+                {
+                    "text": "<b>Duku. Long time no see.</b>",
+                    "uid": "1437465485883068"
+                },
+                {
+                    "text": "<b>Quite the contrary. It hasn't been that long.</b>",
+                    "uid": "4129216685196562"
+                },
+                {
+                    "text": "<b>Fortunately, that arrogant bard isn't here with you.</b>",
+                    "uid": "3562840936694469"
+                },
+                {
+                    "text": "<b>Ugh, can't you guys patch things up already?</b>",
+                    "uid": "2046622932038267"
+                },
+                {
+                    "text": "<b>I do agree with the arrogant part, though.</b>",
+                    "uid": "2874766895812046"
+                },
+                {
+                    "text": "<b>Judging from all of these rookies you've brought with you, I assume you're here because of the monster invasion?</b>",
+                    "uid": "3591605442025780"
+                },
+                {
+                    "text": "<b>Oscar is all bark and no bite. I know he doesn't have a clue about all this.</b>",
+                    "uid": "511849241436503"
+                },
+                {
+                    "text": "<b>Can't argue with that.</b>",
+                    "uid": "3128189180116176"
+                },
+                {
+                    "text": "<b>Still, how come his way of talking sounds so familiar?</b>",
+                    "uid": "1436056320381641"
+                },
+                {
+                    "text": "<b>But it's understandable. Rohan is cut off from the outside world because of monsters.</b>",
+                    "uid": "4150514805797783"
+                },
+                {
+                    "text": "<b>Unfortunately, Fairy, I'm afraid the Chromatic Dragon is about to be resurrected.</b>",
+                    "uid": "4134067286224500"
+                },
+                {
+                    "text": "<b>Wait, what?!</b>",
+                    "uid": "4183553181174666"
+                },
+                {
+                    "text": "<b>What terrible timing. Monsters are rushing in as we speak.</b>",
+                    "uid": "3259861262394584"
+                },
+                {
+                    "text": "<b>We'll continue this discussion once we've defeated them.</b>",
+                    "uid": "3339152219965658"
+                },
+                {
+                    "text": "<b>Looks like the monster attacks have grown more violent, hahaha.</b>",
+                    "uid": "4484007745527536"
+                },
+                {
+                    "text": "<b>Duku, what was that thing you mentioned earlier?!</b>",
+                    "uid": "2447730183537450"
+                },
+                {
+                    "text": "<b>About the Chromatic Dragon resurrecting!</b>",
+                    "uid": "3605388715843517"
+                },
+                {
+                    "text": "<b>A huge war has already broken out in the central continent.</b>",
+                    "uid": "1007316876277047"
+                },
+                {
+                    "text": "<b>Only the country bumpkins from Rohan are acting carefree, without realizing what's coming for them.</b>",
+                    "uid": "1958276466330670"
+                },
+                {
+                    "text": "<b>No way... Then these monsters are...?</b>",
+                    "uid": "524086798951129"
+                },
+                {
+                    "text": "<b>Yes, they must be ones that are led by one of the Dragons that serve the Chromatic One.</b>",
+                    "uid": "4293251093593955"
+                },
+                {
+                    "text": "<b>I bet that ignorant fool Oscar never imagined anything like this would happen.</b>",
+                    "uid": "459297912708000"
+                },
+                {
+                    "text": "<b>This is terrible... If the Dragon army makes their way in...</b>",
+                    "uid": "1866510926844122"
+                },
+                {
+                    "text": "<b>Would Rohan even be able to withstand their attack?</b>",
+                    "uid": "3170473386487591"
+                },
+                {
+                    "text": "<b>Hang on, you said you set up a barrier for yourself.</b>",
+                    "uid": "1748932074195332"
+                },
+                {
+                    "text": "<b>Maybe we can use it to stop their advances!</b>",
+                    "uid": "342552746285345"
+                },
+                {
+                    "text": "<b>That is absolute blasphemy!</b>",
+                    "uid": "1076846842273614"
+                },
+                {
+                    "text": "<b>Do I look like I've got much time on my hands?!</b>",
+                    "uid": "1445134093872273"
+                },
+                {
+                    "text": "<b>Duku, I know you don't get along well with Oscar...</b>",
+                    "uid": "248702878499835"
+                },
+                {
+                    "text": "<b>But millions of lives are at stake here!</b>",
+                    "uid": "2331296631658130"
+                },
+                {
+                    "text": "<b>This has nothing to do with Oscar!</b>",
+                    "uid": "4143145059715132"
+                },
+                {
+                    "text": "<b>I'm collecting samples of Venom Spiders here.</b>",
+                    "uid": "2473023749140127"
+                },
+                {
+                    "text": "<b>Studying them will take my magic to the next level.</b>",
+                    "uid": "871347509759206"
+                },
+                {
+                    "text": "<b>This is far more important than Rohan's little problem.</b>",
+                    "uid": "2191920238557705"
+                },
+                {
+                    "text": "<b>How could you say such a thing! You only care about yourself!</b>",
+                    "uid": "4209578651581220"
+                },
+                {
+                    "text": "<b>In fact, you're just the same as Oscar!</b>",
+                    "uid": "1269555596982925"
+                },
+                {
+                    "text": "<b>How dare you insult me like that!</b>",
+                    "uid": "2531773020431107"
+                },
+                {
+                    "text": "<b>How many do you need?</b>",
+                    "uid": "456041766932473"
+                },
+                {
+                    "text": "<b>We'll catch them for you!</b>",
+                    "uid": "1389571038858966"
+                },
+                {
+                    "text": "<b>Hmph, even I have trouble catching those creatures.</b>",
+                    "uid": "4379872491566828"
+                },
+                {
+                    "text": "<b>Fine then. Try and catch some if you can.</b>",
+                    "uid": "978854211783260"
+                },
+                {
+                    "text": "<b>Hear that?</b>",
+                    "uid": "3384568277160498"
+                },
+                {
+                    "text": "<b>Let's exterminate every Venom Spider in the area!</b>",
+                    "uid": "1696875851137381"
+                },
+                {
+                    "text": "<b>Here, we caught every Venom Spider we came across.</b>",
+                    "uid": "1197259721477697"
+                },
+                {
+                    "text": "<b>Good enough for you?</b>",
+                    "uid": "3294154314631294"
+                },
+                {
+                    "text": "<b>Haha, yes. These shall do quite nicely.</b>",
+                    "uid": "2492457912551276"
+                },
+                {
+                    "text": "<b>I am now one step closer to finding a solution for my problem.</b>",
+                    "uid": "3700753378691701"
+                },
+                {
+                    "text": "<b>...Hey! What are you doing? You're supposed to help fend off monsters with us!</b>",
+                    "uid": "644358441415555"
+                },
+                {
+                    "text": "<b>Silence! This is a crucial moment for science!</b>",
+                    "uid": "1247384140791574"
+                },
+                {
+                    "text": "<b>Hey, you crazy old geezer!</b>",
+                    "uid": "3059232568848512"
+                },
+                {
+                    "text": "<b>...Vanessa?</b>",
+                    "uid": "1656278996758074"
+                },
+                {
+                    "text": "<b>I can't believe that stupid research of yours is preventing you from seeing what's really important!</b>",
+                    "uid": "4348866730336100"
+                },
+                {
+                    "text": "<b>Nonsense! I know my priorities! Nothing's more important than my research!</b>",
+                    "uid": "3632028184122174"
+                },
+                {
+                    "text": "<b>I might as well chop you down here and now.</b>",
+                    "uid": "2754149819932705"
+                },
+                {
+                    "text": "<b>Vanessa? What brings you here?</b>",
+                    "uid": "1487365688730955"
+                },
+                {
+                    "text": "<b>That's my line, Sarah. What are you doing in a dangerous place like this?</b>",
+                    "uid": "1317014923846485"
+                },
+                {
+                    "text": "<b>You see, I'm with these adventurers.</b>",
+                    "uid": "965008677978607"
+                },
+                {
+                    "text": "<b>Oh, well I'll be!</b>",
+                    "uid": "2935683872598489"
+                },
+                {
+                    "text": "<b>Hi. I'm Vanessa from the Adventurer Alliance headquarters.</b>",
+                    "uid": "3869213144524982"
+                },
+                {
+                    "text": "<b>So, it looks like Duku here is refusing to cooperate, huh.</b>",
+                    "uid": "4130772010901752"
+                },
+                {
+                    "text": "<b>Old man, I'm going to burn those dead spiders to a crisp if you just sit back and do nothing!</b>",
+                    "uid": "926720782900955"
+                },
+                {
+                    "text": "<b>D-Don't you dare!</b>",
+                    "uid": "4370347510429937"
+                },
+                {
+                    "text": "<b>Look, whatever your research is, can't you save it for AFTER you help get rid of the monsters?!</b>",
+                    "uid": "4272358331062527"
+                },
+                {
+                    "text": "<b>Haha, even if I do cooperate with you...</b>",
+                    "uid": "3568817622192421"
+                },
+                {
+                    "text": "<b>Do you think really think the monsters are going to wait for me to place a barrier?</b>",
+                    "uid": "2305666887479408"
+                },
+                {
+                    "text": "<b>Heh, who do you think I am?</b>",
+                    "uid": "601442022484059"
+                },
+                {
+                    "text": "<b>Let's wipe out the monsters so Duku can place a barrier!</b>",
+                    "uid": "3805493250484856"
+                },
+                {
+                    "text": "<b>Everyone, follow me!</b>",
+                    "uid": "4045068750013041"
+                },
+                {
+                    "text": "<b>All right, let's go!</b>",
+                    "uid": "3947079570645631"
+                },
+                {
+                    "text": "<b>Hmph, reckless lot.</b>",
+                    "uid": "3243538861775525"
+                },
+                {
+                    "text": "<b>How do you like that? You can't use monsters as an excuse anymore.</b>",
+                    "uid": "566649928316634"
+                },
+                {
+                    "text": "<b>And Sarah, your friends fought admirably!</b>",
+                    "uid": "37739630474349"
+                },
+                {
+                    "text": "<b>Haha, you ignorant fools care about nothing but violence.</b>",
+                    "uid": "2993390095066467"
+                },
+                {
+                    "text": "<b>Oh stop your complaining. Hurry up and set up that barrier of yours.</b>",
+                    "uid": "3727825427794137"
+                },
+                {
+                    "text": "<b>We're going to see a more brutal offense coming our way.</b>",
+                    "uid": "1740702713600716"
+                },
+                {
+                    "text": "<b>Wait, you're telling me they're going to get even stronger?</b>",
+                    "uid": "4002146119409955"
+                },
+                {
+                    "text": "<b>Vanessa, what do you know about all this?</b>",
+                    "uid": "1857042847229792"
+                },
+                {
+                    "text": "<b>Those monsters are on their way to occupy the ruins in the far east of Rohan.</b>",
+                    "uid": "3981281935785078"
+                },
+                {
+                    "text": "<b>Those ruins once served the Green Dragon, the Chromatic Dragon's right hand.</b>",
+                    "uid": "64618693638887"
+                },
+                {
+                    "text": "<b>It's also where the Chromatic Dragon's power is still sealed.</b>",
+                    "uid": "1457848220437828"
+                },
+                {
+                    "text": "<b>The Chromatic Dragon's power? You mean...</b>",
+                    "uid": "2982780884543642"
+                },
+                {
+                    "text": "<b>Exactly. They're trying to release the seal in the ruins.</b>",
+                    "uid": "370239057057960"
+                },
+                {
+                    "text": "<b>Attacking Rohan is just bait to try and draw our attention away.</b>",
+                    "uid": "518168105466444"
+                },
+                {
+                    "text": "<b>The headquarters saw through their plan and sent me to Rohan,</b>",
+                    "uid": "534615625039983"
+                },
+                {
+                    "text": "<b>so that I could kick Oscar's butt into high gear and get him to be useful for once.</b>",
+                    "uid": "887745466782626"
+                },
+                {
+                    "text": "<b>Interesting. They all know what kind of person Oscar is.</b>",
+                    "uid": "2924023028772712"
+                },
+                {
+                    "text": "<b>But unsealing the ruins and unleashing the Chromatic Dragon's power?</b>",
+                    "uid": "1056972635792331"
+                },
+                {
+                    "text": "<b>Are they trying to bring about the Dragon War once again?</b>",
+                    "uid": "2727218319003742"
+                },
+                {
+                    "text": "<b>If that happens, millions of people will lose their lives!</b>",
+                    "uid": "2323756766994081"
+                },
+                {
+                    "text": "<b>Well, that's why we have the Adventurer Alliance! We're here to stop things like that from happening!</b>",
+                    "uid": "648077779825831"
+                },
+                {
+                    "text": "<b>Duku! Hurry up and place the barrier!</b>",
+                    "uid": "3206469601272453"
+                },
+                {
+                    "text": "<b>I'm working on it! You can't rush science!</b>",
+                    "uid": "1099843723915999"
+                },
+                {
+                    "text": "<b>Ugh, of all people, why is she the one visiting me...</b>",
+                    "uid": "4177318845948284"
+                },
+                {
+                    "text": "<b>I'm going to escort Duku while he's placing the barrier.</b>",
+                    "uid": "1111020628506510"
+                },
+                {
+                    "text": "<b>You guys go on ahead and cut off the monster invasion!</b>",
+                    "uid": "564372761980987"
+                },
+                {
+                    "text": "<b>All right!</b>",
+                    "uid": "2758132878019357"
+                },
+                {
+                    "text": "<b>Over there! I see them!</b>",
+                    "uid": "4374579624725371"
+                },
+                {
+                    "text": "<b>That's some good eyesight you've got there. We didn't have to find the enemy this early, though...</b>",
+                    "uid": "1387198002011077"
+                },
+                {
+                    "text": "<b>Oscar!</b>",
+                    "uid": "2095300867995167"
+                },
+                {
+                    "text": "<b>Sigh... I can't believe I have to come here and get my hands dirty...</b>",
+                    "uid": "1814197357412745"
+                },
+                {
+                    "text": "<b>Anyway, you guys did a wonderful job.</b>",
+                    "uid": "493624628614246"
+                },
+                {
+                    "text": "<b>Oscar, the reason monsters are acting so strangely is...</b>",
+                    "uid": "3988610585808939"
+                },
+                {
+                    "text": "<b>Oh that? Vanessa already told me.</b>",
+                    "uid": "1873111767161217"
+                },
+                {
+                    "text": "<b>Plotting to resurrect the Chromatic Dragon? That's the most outrageous thing I've ever heard.</b>",
+                    "uid": "3731281032305068"
+                },
+                {
+                    "text": "<b>Still, I get it. Things have gotten severe enough for me to have to get involved.</b>",
+                    "uid": "1777403666351055"
+                },
+                {
+                    "text": "<b>Rebecca and I will head to the ruins and strengthen the seal.</b>",
+                    "uid": "718596564198018"
+                },
+                {
+                    "text": "<b>I see. Then let's...!</b>",
+                    "uid": "1989856933583872"
+                },
+                {
+                    "text": "<b>Sarah, rushing things won't solve everything.</b>",
+                    "uid": "135582381173087"
+                },
+                {
+                    "text": "<b>As for yours truly, I prefer a more elegant approach.</b>",
+                    "uid": "3213057503205372"
+                },
+                {
+                    "text": "<b>What kind of nonsense are you spouting now?!</b>",
+                    "uid": "4215979914239570"
+                },
+                {
+                    "text": "<b>First, we need to locate the ruins.</b>",
+                    "uid": "2804162647238872"
+                },
+                {
+                    "text": "<b>Beth went to scout the area, but she hasn't come back yet.</b>",
+                    "uid": "3329817376453713"
+                },
+                {
+                    "text": "<b>I want you guys to look for her.</b>",
+                    "uid": "146759285763598"
+                },
+                {
+                    "text": "<b>...What about you?</b>",
+                    "uid": "3678368671068788"
+                },
+                {
+                    "text": "<b>Rebecca and I need to save our energy.</b>",
+                    "uid": "3493144434951945"
+                },
+                {
+                    "text": "<b>Our job is to strengthen the seal once we find the ruins.</b>",
+                    "uid": "400181570067728"
+                },
+                {
+                    "text": "<b>I-I don't mind going out there...</b>",
+                    "uid": "1455566691552714"
+                },
+                {
+                    "text": "<b>Shhh. Just do as I say.</b>",
+                    "uid": "3094909584881588"
+                },
+                {
+                    "text": "<b>Acting rash just makes things worse.</b>",
+                    "uid": "15153384292311"
+                },
+                {
+                    "text": "<b>Ugh, why's he gotta be so untrustworthy...</b>",
+                    "uid": "2746358290266513"
+                },
+                {
+                    "text": "<b>Well, let's go look for Beth.</b>",
+                    "uid": "363730409323181"
+                },
+                {
+                    "text": "<b>Sarah!</b>",
+                    "uid": "2212262934536980"
+                },
+                {
+                    "text": "<b>Beth! You're all right!</b>",
+                    "uid": "4386128775971654"
+                },
+                {
+                    "text": "<b>Of course!</b>",
+                    "uid": "4016551414655472"
+                },
+                {
+                    "text": "<b>I even found the ruins, just like Oscar asked me to!</b>",
+                    "uid": "252961266746419"
+                },
+                {
+                    "text": "<b>You're so skilled for your size.</b>",
+                    "uid": "776102521997989"
+                },
+                {
+                    "text": "<b>You're wasting your talents by working with Oscar... Why don't you come work for HQ?</b>",
+                    "uid": "2985656033568149"
+                },
+                {
+                    "text": "<b>Who might you be?</b>",
+                    "uid": "2633649787700271"
+                },
+                {
+                    "text": "<b>Vanessa! You made it here too!</b>",
+                    "uid": "482162376354401"
+                },
+                {
+                    "text": "<b>Yeah, Duku finished placing the barrier,</b>",
+                    "uid": "622732056609675"
+                },
+                {
+                    "text": "<b>and I thought you could use more manpower.</b>",
+                    "uid": "519457564062504"
+                },
+                {
+                    "text": "<b>Can't let Oscar hog all the spotlight.</b>",
+                    "uid": "1477210259070637"
+                },
+                {
+                    "text": "<b>So kid, you found the ruins?</b>",
+                    "uid": "3131999391548186"
+                },
+                {
+                    "text": "<b>Hey, don't call me a kid!</b>",
+                    "uid": "3358980882707725"
+                },
+                {
+                    "text": "<b>Anyway, they're in the far east!</b>",
+                    "uid": "1795404309935524"
+                },
+                {
+                    "text": "<b>You can't miss them!</b>",
+                    "uid": "688254012823239"
+                },
+                {
+                    "text": "<b>That's right in the middle of enemy territory.</b>",
+                    "uid": "2545467052657273"
+                },
+                {
+                    "text": "<b>It's gonna be really tough to break through.</b>",
+                    "uid": "2194598936727488"
+                },
+                {
+                    "text": "<b>Still, I live for these kinds of fights!</b>",
+                    "uid": "117598678785411"
+                },
+                {
+                    "text": "<b>Everyone, let's press onward!</b>",
+                    "uid": "3738088286006594"
+                },
+                {
+                    "text": "<b>...How come everyone in the alliance is so weird?</b>",
+                    "uid": "2723504579018291"
+                },
+                {
+                    "text": "<b>The monsters won't go down without a fight. Fine by me!</b>",
+                    "uid": "2897832861766117"
+                },
+                {
+                    "text": "<b>What? How can you be enjoying this?</b>",
+                    "uid": "1381614857109659"
+                },
+                {
+                    "text": "<b>Because it means that we're heading in the right direction.</b>",
+                    "uid": "3699362750003377"
+                },
+                {
+                    "text": "<b>Stop staring at me like I'm a total weirdo.</b>",
+                    "uid": "234829682491502"
+                },
+                {
+                    "text": "<b>Still fighting in that unrefined style, Vanessa?</b>",
+                    "uid": "2926597367097428"
+                },
+                {
+                    "text": "<b>Oscar... You're too late. Don't even try to piggyback on this.</b>",
+                    "uid": "3241582127815461"
+                },
+                {
+                    "text": "<b>Don't you know? The main character always appears for the grand finale!</b>",
+                    "uid": "3945122836685567"
+                },
+                {
+                    "text": "<b>Still, I guess I can't claim to be the main character this time around...</b>",
+                    "uid": "3956299741276078"
+                },
+                {
+                    "text": "<b>I honestly didn't expect you guys to do this much.</b>",
+                    "uid": "4043112016052977"
+                },
+                {
+                    "text": "<b>Imagine a bunch of rookies fighting a major threat at the forefront of the Adventurer Alliance...</b>",
+                    "uid": "3803536516524792"
+                },
+                {
+                    "text": "<b>Well, I was their leader this whole time!</b>",
+                    "uid": "4445753458482858"
+                },
+                {
+                    "text": "<b>...Anyway, I witnessed a great adventure that has inspired me to write a new song.</b>",
+                    "uid": "2814261873661261"
+                },
+                {
+                    "text": "<b>Your achievements will be remembered forever in my lyrics.</b>",
+                    "uid": "1654322262798010"
+                },
+                {
+                    "text": "<b>How about less talking and more getting ready?</b>",
+                    "uid": "4346909996376036"
+                },
+                {
+                    "text": "<b>The ruins are right there in front of our noses, but we're still not there yet.</b>",
+                    "uid": "593394232153273"
+                },
+                {
+                    "text": "<b>Besides, there'll be nobody to listen to your song if we fail to fend them off!</b>",
+                    "uid": "1245427406831510"
+                },
+                {
+                    "text": "<b>Woman, you seriously need to learn to speak more elegantly.</b>",
+                    "uid": "3057275834888448"
+                },
+                {
+                    "text": "<b>But what you're saying is also true. Time for us to take action.</b>",
+                    "uid": "1503395772379573"
+                },
+                {
+                    "text": "<b>Here we are.</b>",
+                    "uid": "2274408707500238"
+                },
+                {
+                    "text": "<b>I feel the power of the Chromatic Dragon raging beneath the ruins.</b>",
+                    "uid": "2642695959098897"
+                },
+                {
+                    "text": "<b>T-The seal has been significantly weakened.</b>",
+                    "uid": "3670585614366751"
+                },
+                {
+                    "text": "<b>Do you really think that only you and I can stop this?</b>",
+                    "uid": "3528858496884754"
+                },
+                {
+                    "text": "<b>I mean, a swarm of monsters are already on their way here...</b>",
+                    "uid": "2962482748382661"
+                },
+                {
+                    "text": "<b>Just focus on strengthening the seal, Rebecca. We'll handle the monsters.</b>",
+                    "uid": "2157866516309075"
+                },
+                {
+                    "text": "<b>Yeah. We'll be all goners if the seal is broken.</b>",
+                    "uid": "4477728767950332"
+                },
+                {
+                    "text": "<b>Hmm... This is proving to be quite difficult.</b>",
+                    "uid": "977051551614034"
+                },
+                {
+                    "text": "<b>Wish we had a skillful wizard with us...</b>",
+                    "uid": "864782683983035"
+                },
+                {
+                    "text": "<b>Haha, I knew it was too much for you.</b>",
+                    "uid": "90889013828177"
+                },
+                {
+                    "text": "<b>Old man?! Where the heck did you come from?!</b>",
+                    "uid": "455887828016535"
+                },
+                {
+                    "text": "<b>The seal in these ruins is powerful enough to suppress the Chromatic Dragon's power.</b>",
+                    "uid": "927882707458248"
+                },
+                {
+                    "text": "<b>You can't strengthen the seal with that pretentious magic of yours.</b>",
+                    "uid": "749682223183403"
+                },
+                {
+                    "text": "<b>Follow me. Let me show you the way.</b>",
+                    "uid": "3827323813602494"
+                },
+                {
+                    "text": "<b>O-Okay!</b>",
+                    "uid": "492352669679532"
+                },
+                {
+                    "text": "<b>I hate to admit it... But I can't be an expert in every field.</b>",
+                    "uid": "1983267828942978"
+                },
+                {
+                    "text": "<b>Maybe I should just follow your lead this time, Duku.</b>",
+                    "uid": "1700648135819957"
+                },
+                {
+                    "text": "<b>...This is why I hate you.</b>",
+                    "uid": "2866356728666307"
+                },
+                {
+                    "text": "<b>I can't believe you decided to come all the way here...</b>",
+                    "uid": "1925046893418862"
+                },
+                {
+                    "text": "<b>Don't get me wrong. I didn't come here to look after you.</b>",
+                    "uid": "364929857210040"
+                },
+                {
+                    "text": "<b>I was simply interested in the magic in these ruins.</b>",
+                    "uid": "84450445322981"
+                },
+                {
+                    "text": "<b>Okay then, let's get rid of the ruin monsters!</b>",
+                    "uid": "1913869988828095"
+                },
+                {
+                    "text": "<b>Stop them from disrupting the seal!</b>",
+                    "uid": "3870028433339356"
+                },
+                {
+                    "text": "<b>We've driven the monsters out of the ruins!</b>",
+                    "uid": "475506260326430"
+                },
+                {
+                    "text": "<b>Oscar and Rebecca should be able to strengthen the seal now.</b>",
+                    "uid": "2042369593844577"
+                },
+                {
+                    "text": "<b>Haha, how strange...</b>",
+                    "uid": "4193857005190447"
+                },
+                {
+                    "text": "<b>The magic in the ruins belongs to the Green Dragon...</b>",
+                    "uid": "606358293633122"
+                },
+                {
+                    "text": "<b>Out of all these monsters, how come I don't see any of the Green Dragon's minions?</b>",
+                    "uid": "42263623687829"
+                },
+                {
+                    "text": "<b>...Stop jinxing it.</b>",
+                    "uid": "1207972216534179"
+                },
+                {
+                    "text": "<b>Monsters always pop out when someone says things like that.</b>",
+                    "uid": "2468772138078895"
+                },
+                {
+                    "text": "<b>The Green Dragon, huh. I'd love to be able to challenge it someday.</b>",
+                    "uid": "2820778383946773"
+                },
+                {
+                    "text": "<b>I'm really curious how strong the Dragons are.</b>",
+                    "uid": "3384873053892066"
+                },
+                {
+                    "text": "<b>Oh, Vanessa...</b>",
+                    "uid": "354579914441128"
+                },
+                {
+                    "text": "<b>I'm just saying.</b>",
+                    "uid": "3254021020585374"
+                },
+                {
+                    "text": "<b>Okay old man, can you place a barrier here?</b>",
+                    "uid": "48959551022055"
+                },
+                {
+                    "text": "<b>We don't want to let a single monster inside the ruins.</b>",
+                    "uid": "1442189077820996"
+                },
+                {
+                    "text": "<b>Haha, trying to exploit me, I see.</b>",
+                    "uid": "2498529275020155"
+                },
+                {
+                    "text": "<b>Then make sure to protect this area so that my work isn't disrupted.</b>",
+                    "uid": "3326673238793934"
+                },
+                {
+                    "text": "<b>Camille and I can take care of that.</b>",
+                    "uid": "1889371828864956"
+                },
+                {
+                    "text": "<b>And you guys... Go on ahead to block off the monsters.</b>",
+                    "uid": "219250518289951"
+                },
+                {
+                    "text": "<b>We've gotta keep them out of this area.</b>",
+                    "uid": "77523400807954"
+                },
+                {
+                    "text": "<b>Roger that.</b>",
+                    "uid": "1348783770193808"
+                },
+                {
+                    "text": "<b>Everyone, this is the final stretch. Just a little more, and we've got this!</b>",
+                    "uid": "3210131047602771"
+                },
+                {
+                    "text": "<b>We did it!</b>",
+                    "uid": "3849110321083027"
+                },
+                {
+                    "text": "<b>This will keep the seal tight for a while.</b>",
+                    "uid": "827669037168285"
+                },
+                {
+                    "text": "<b>But you know how persistent monsters are, hahaha...</b>",
+                    "uid": "2761652067910794"
+                },
+                {
+                    "text": "<b>Yeah, as long as the Green Dragon is hiding out there, they'll keep attacking us.</b>",
+                    "uid": "2712166172960628"
+                },
+                {
+                    "text": "<b>They must be cooking up another scheme.</b>",
+                    "uid": "2363614878345553"
+                },
+                {
+                    "text": "<b>Hmm, let them come! Now that the great Oscar's here...!</b>",
+                    "uid": "1733711920537296"
+                },
+                {
+                    "text": "<b>I mean, now that the exceptional adventurers recognized by the great Oscar are here...!</b>",
+                    "uid": "3876534174768019"
+                },
+                {
+                    "text": "<b>Oscar, don't think you can get away from this that easily.</b>",
+                    "uid": "41579060802761"
+                },
+                {
+                    "text": "<b>The climax is over, Sarah.</b>",
+                    "uid": "2756037546218903"
+                },
+                {
+                    "text": "<b>As the main protagonist, I should leave after I get a round of applause.</b>",
+                    "uid": "2789075921595786"
+                },
+                {
+                    "text": "<b>No one here gave you such a thing!</b>",
+                    "uid": "1865384002815704"
+                },
+                {
+                    "text": "<b>...Anyway, it's true that we can't let our guard down.</b>",
+                    "uid": "3248637420030247"
+                },
+                {
+                    "text": "<b>Monsters will keep trying to make their way into the ruins!</b>",
+                    "uid": "1827096107737988"
+                },
+                {
+                    "text": "<b>Look, someone's coming this way!</b>",
+                    "uid": "1944674960386778"
+                },
+                {
+                    "text": "<b>There you guys are!</b>",
+                    "uid": "537461946250656"
+                },
+                {
+                    "text": "<b>Monsters are swamping the area again!</b>",
+                    "uid": "602250832493785"
+                },
+                {
+                    "text": "<b>Guess they want a rematch!</b>",
+                    "uid": "3135175265244399"
+                },
+                {
+                    "text": "<b>Is everyone ready?</b>",
+                    "uid": "1950102195548334"
+                },
+                {
+                    "text": "<b>Hmm... I honestly didn't expect a lot from this at first...</b>",
+                    "uid": "1797338970797048"
+                },
+                {
+                    "text": "<b>But it looks like this epic tale's going to have an equally epic song to go with it!</b>",
+                    "uid": "3096887370166747"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

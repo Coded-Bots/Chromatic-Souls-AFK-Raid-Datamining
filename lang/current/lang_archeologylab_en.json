@@ -1,0 +1,25 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Your Exploration Level increases when you take on Explorations.\nYour chances of coming across higher-grade Explorations increases as your Exploration Level goes up.\nMore types of Explorations are available each time you clear a Chapter.",
+                    "uid": "2914616282156185"
+                },
+                {
+                    "text": "Research Reliquaries to obtain Relics. The Relics that appear are fixed based on the type of Reliquary. Expand your selection of Chapters to enable a variety of Explorations and obtain more potential Relics.",
+                    "uid": "3879411146681345"
+                },
+                {
+                    "text": "Upgrade Relics to increase their grades. Upgrading Relics boosts their main stats. Each Relic comes with its own natural grade. You'll need the required number of identical Relics in order to upgrade one.",
+                    "uid": "4204699598797692"
+                },
+                {
+                    "text": "Clear Goblin Base: Zone 1 to enter.",
+                    "uid": "1504305103597075"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

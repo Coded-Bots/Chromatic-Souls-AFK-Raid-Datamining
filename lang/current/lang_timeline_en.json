@@ -1,0 +1,29 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Time Spent:",
+                    "uid": "4338767847864138"
+                },
+                {
+                    "text": "s",
+                    "uid": "4444182714257559"
+                },
+                {
+                    "text": "No boss battle history. Try challenging bosses.",
+                    "uid": "3381430650700995"
+                },
+                {
+                    "text": "You can view the skill patterns of a boss and your allies in your current zone. Tap a skill to view detailed skill effects that have been used in battle. Tap the nametags of characters to view their damage dealt, damage taken, and healing done.",
+                    "uid": "3882921919910145"
+                },
+                {
+                    "text": "Clear Royal Castle Entrance: Zone 1 to unlock.",
+                    "uid": "4444993959624908"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

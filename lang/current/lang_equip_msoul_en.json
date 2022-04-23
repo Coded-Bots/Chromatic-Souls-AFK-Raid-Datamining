@@ -1,0 +1,89 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Adventurer",
+                    "uid": "674073274614573"
+                },
+                {
+                    "text": "Adventurer",
+                    "uid": "890077495869949"
+                },
+                {
+                    "text": "Adventurer",
+                    "uid": "2135681599089617"
+                },
+                {
+                    "text": "Adventurer",
+                    "uid": "4254055689506111"
+                },
+                {
+                    "text": "Mercenary",
+                    "uid": "3375759649778800"
+                },
+                {
+                    "text": "Mercenary",
+                    "uid": "1126582086889216"
+                },
+                {
+                    "text": "Mercenary",
+                    "uid": "4307324008844612"
+                },
+                {
+                    "text": "Mercenary",
+                    "uid": "2086986401105382"
+                },
+                {
+                    "text": "Knight",
+                    "uid": "577478460682527"
+                },
+                {
+                    "text": "Knight",
+                    "uid": "577798524438447"
+                },
+                {
+                    "text": "Knight",
+                    "uid": "1788218255555555"
+                },
+                {
+                    "text": "Knight",
+                    "uid": "133130105754317"
+                },
+                {
+                    "text": "Arbiter",
+                    "uid": "2210259691576458"
+                },
+                {
+                    "text": "Arbiter",
+                    "uid": "453658009354842"
+                },
+                {
+                    "text": "Arbiter",
+                    "uid": "321442287775846"
+                },
+                {
+                    "text": "Arbiter",
+                    "uid": "1569268494803652"
+                },
+                {
+                    "text": "Conqueror",
+                    "uid": "3034815069822129"
+                },
+                {
+                    "text": "Conqueror",
+                    "uid": "3037416212135041"
+                },
+                {
+                    "text": "Conqueror",
+                    "uid": "2871185619795277"
+                },
+                {
+                    "text": "Conqueror",
+                    "uid": "3553762368885091"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

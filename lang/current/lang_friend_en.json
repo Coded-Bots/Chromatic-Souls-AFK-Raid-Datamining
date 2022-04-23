@@ -1,0 +1,101 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Friend List",
+                    "uid": "3458988172563393"
+                },
+                {
+                    "text": "Friend Request",
+                    "uid": "780732814325790"
+                },
+                {
+                    "text": "Find Friends",
+                    "uid": "3187409282230872"
+                },
+                {
+                    "text": "Receive/Send All",
+                    "uid": "227727535018604"
+                },
+                {
+                    "text": "Daily Gift Limit: {0}/{1}",
+                    "uid": "894113799298144"
+                },
+                {
+                    "text": "{0}/{1}",
+                    "uid": "1537943286794037"
+                },
+                {
+                    "text": "You have no friends yet.",
+                    "uid": "2792640948570096"
+                },
+                {
+                    "text": "Use Find Friends to look for friends.",
+                    "uid": "2759233067457705"
+                },
+                {
+                    "text": "Decline All",
+                    "uid": "332751545252699"
+                },
+                {
+                    "text": "Accept All",
+                    "uid": "3818782777502242"
+                },
+                {
+                    "text": "You have no friend requests.",
+                    "uid": "3312025336527761"
+                },
+                {
+                    "text": "Enter a character's name.",
+                    "uid": "3963695612481385"
+                },
+                {
+                    "text": "Recommended",
+                    "uid": "1021483247934737"
+                },
+                {
+                    "text": "Reset Cooldown: {0}",
+                    "uid": "3759353199142100"
+                },
+                {
+                    "text": "No search results.",
+                    "uid": "2087090764359087"
+                },
+                {
+                    "text": "Delete Friend",
+                    "uid": "1763833336974088"
+                },
+                {
+                    "text": "Remove this friend from your Friend List?",
+                    "uid": "396066354837905"
+                },
+                {
+                    "text": "Send a friend request to {0}?",
+                    "uid": "44031622958419"
+                },
+                {
+                    "text": "Friend Request",
+                    "uid": "2085705781341084"
+                },
+                {
+                    "text": "Enter an ID to search.",
+                    "uid": "997947736607003"
+                },
+                {
+                    "text": "Exchange Notes and gifts with your friends. You can send gifts once a day. Gift times are reset at 12 AM daily.",
+                    "uid": "3919071168627212"
+                },
+                {
+                    "text": "Make use of chat channels to meet more adventurers.",
+                    "uid": "3731779229598735"
+                },
+                {
+                    "text": "Clear Royal Castle Entrance: Zone 3 to unlock.",
+                    "uid": "3333932805176241"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

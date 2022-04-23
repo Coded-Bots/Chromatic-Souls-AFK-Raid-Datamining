@@ -1,0 +1,25 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Normal Gem Plus",
+                    "uid": "1307582652718340"
+                },
+                {
+                    "text": "Receive Red Gems daily when you log in.\\n1 additional purchase can be made, and this only extends the duration of the offer.",
+                    "uid": "344411290692286"
+                },
+                {
+                    "text": "Premium Gem Plus",
+                    "uid": "668280514080497"
+                },
+                {
+                    "text": "Receive a large amount of Red Gems daily when you log in.\\n1 additional purchase can be made, and this only extends the duration of the offer.",
+                    "uid": "1895334666877067"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

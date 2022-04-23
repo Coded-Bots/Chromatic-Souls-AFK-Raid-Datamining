@@ -1,0 +1,393 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "HP",
+                    "uid": "2439451626117408"
+                },
+                {
+                    "text": "ATK",
+                    "uid": "2352517598687263"
+                },
+                {
+                    "text": "ACC",
+                    "uid": "517601912645631"
+                },
+                {
+                    "text": "RCV",
+                    "uid": "3059696264234021"
+                },
+                {
+                    "text": "DEF",
+                    "uid": "1814169473199093"
+                },
+                {
+                    "text": "CRIT HIT",
+                    "uid": "2098065974357171"
+                },
+                {
+                    "text": "EVA",
+                    "uid": "3212415014080169"
+                },
+                {
+                    "text": "ATK SPD",
+                    "uid": "3341080097001493"
+                },
+                {
+                    "text": "Knight",
+                    "uid": "1280466969042608"
+                },
+                {
+                    "text": "Rogue",
+                    "uid": "3229658381690280"
+                },
+                {
+                    "text": "Mage",
+                    "uid": "2220192201624080"
+                },
+                {
+                    "text": "Druid",
+                    "uid": "2814499864710978"
+                },
+                {
+                    "text": "Auto Battle Settings",
+                    "uid": "3121477459308098"
+                },
+                {
+                    "text": "Auto Battle Settings",
+                    "uid": "772614070052856"
+                },
+                {
+                    "text": "Passives",
+                    "uid": "3101327127333883"
+                },
+                {
+                    "text": "Unique Effect",
+                    "uid": "597728568682185"
+                },
+                {
+                    "text": "Set Effect",
+                    "uid": "1851856490012530"
+                },
+                {
+                    "text": "Advanced Class Passive",
+                    "uid": "3664021288905719"
+                },
+                {
+                    "text": "Upgrade Passive",
+                    "uid": "3243377486644564"
+                },
+                {
+                    "text": "Talent Passive",
+                    "uid": "149693511582312"
+                },
+                {
+                    "text": "Talent",
+                    "uid": "1264166150915814"
+                },
+                {
+                    "text": "Learn",
+                    "uid": "1665728410695032"
+                },
+                {
+                    "text": "Advance",
+                    "uid": "3451338132921269"
+                },
+                {
+                    "text": "Reset",
+                    "uid": "3448232760458762"
+                },
+                {
+                    "text": "<color=#96f269>Free</color>",
+                    "uid": "4493609779249774"
+                },
+                {
+                    "text": "Talent learned.",
+                    "uid": "2888488455806601"
+                },
+                {
+                    "text": "You have no Talent Points.",
+                    "uid": "2580454371073019"
+                },
+                {
+                    "text": "Advance",
+                    "uid": "611569815241962"
+                },
+                {
+                    "text": "Advancement Reward",
+                    "uid": "566571594907052"
+                },
+                {
+                    "text": "Requirements",
+                    "uid": "1661612171443041"
+                },
+                {
+                    "text": "Reset",
+                    "uid": "402292585298217"
+                },
+                {
+                    "text": "Delete character?",
+                    "uid": "787738141099991"
+                },
+                {
+                    "text": "Enter 'Delete Now' to proceed.\\nDeleted characters cannot be recovered.",
+                    "uid": "313420408463421"
+                },
+                {
+                    "text": "Select Talent to spend points on and learn.",
+                    "uid": "2668721195629484"
+                },
+                {
+                    "text": "Points: {0}",
+                    "uid": "2943293335311122"
+                },
+                {
+                    "text": "Reach Character Lv. {0}",
+                    "uid": "1769921766463143"
+                },
+                {
+                    "text": "Advance",
+                    "uid": "1604289761289491"
+                },
+                {
+                    "text": "No gear to equip.",
+                    "uid": "2536577880627616"
+                },
+                {
+                    "text": "There are some items in your Mailbox. Please empty your Mailbox then try again.",
+                    "uid": "3593263950402484"
+                },
+                {
+                    "text": "Unable to delete while you're in a party. Please leave the party first then try again.",
+                    "uid": "2303294508720343"
+                },
+                {
+                    "text": "CRIT DMG",
+                    "uid": "230046091499160"
+                },
+                {
+                    "text": "Equipped",
+                    "uid": "2375415281735355"
+                },
+                {
+                    "text": "Unique effects are displayed when you equip gear that have one.",
+                    "uid": "2278535470296722"
+                },
+                {
+                    "text": "Set effects are displayed when you equip gear of the same set.",
+                    "uid": "1765365287785751"
+                },
+                {
+                    "text": "Advancement is available at Lv. 50.",
+                    "uid": "2885068509774473"
+                },
+                {
+                    "text": "Upgrade your characters and learn Special Talents.\\nUpgrade is available at Lv. 10.",
+                    "uid": "2332062067858694"
+                },
+                {
+                    "text": "{0}",
+                    "uid": "652753761017132"
+                },
+                {
+                    "text": "{0} Talent Point(s)",
+                    "uid": "1696151950552556"
+                },
+                {
+                    "text": "Appearance Change",
+                    "uid": "1461882343949320"
+                },
+                {
+                    "text": "Special Talent",
+                    "uid": "979928675001239"
+                },
+                {
+                    "text": "{0} Acquired",
+                    "uid": "1447832652222376"
+                },
+                {
+                    "text": "You've reset your Special Talent Points.",
+                    "uid": "2722581279967521"
+                },
+                {
+                    "text": "RSL",
+                    "uid": "1252188613765807"
+                },
+                {
+                    "text": "Create",
+                    "uid": "2248447693658838"
+                },
+                {
+                    "text": "Select a trainee.",
+                    "uid": "2111990671683818"
+                },
+                {
+                    "text": "Main Skill",
+                    "uid": "2353431801437926"
+                },
+                {
+                    "text": "Enter your character's name (4-12)",
+                    "uid": "2988252811924325"
+                },
+                {
+                    "text": "Knight",
+                    "uid": "4005070671569651"
+                },
+                {
+                    "text": "Rogue",
+                    "uid": "3176155951762362"
+                },
+                {
+                    "text": "Mage",
+                    "uid": "1819285601242593"
+                },
+                {
+                    "text": "Druid",
+                    "uid": "2437121964975072"
+                },
+                {
+                    "text": "Mail deleted.",
+                    "uid": "4419699063210331"
+                },
+                {
+                    "text": "You've deleted all read mail.",
+                    "uid": "414858256603524"
+                },
+                {
+                    "text": "No Talent Points to retrieve.",
+                    "uid": "2803832916397718"
+                },
+                {
+                    "text": "Select a Talent to distribute points to.",
+                    "uid": "2049260659194197"
+                },
+                {
+                    "text": "Talent Points are applied once you tap the Learn button.",
+                    "uid": "2671058787624569"
+                },
+                {
+                    "text": "Advancement requirements not met.",
+                    "uid": "2709711823373137"
+                },
+                {
+                    "text": "Select Trainee",
+                    "uid": "3539006147697640"
+                },
+                {
+                    "text": "Contributes to your Basic Attack and skill damage and healing done.\\nThe higher the ATK, the more damage and healing you will do.\t\t\t",
+                    "uid": "4043620594144332"
+                },
+                {
+                    "text": "Characters fall when their HP drops to 0.",
+                    "uid": "2694882558653353"
+                },
+                {
+                    "text": "Represents your Basic Attack cycle.\\nThe lower the value, the faster you will perform Basic Attacks.\t\t\t\t",
+                    "uid": "2380342275479494"
+                },
+                {
+                    "text": "Affects all incoming damage.\\nThe higher your DEF, the less damage you will take.\t\t\t\t",
+                    "uid": "737868491020858"
+                },
+                {
+                    "text": "Affects your character's ACC Rate.\\nThe higher the value, the less likely your attacks will miss.\t\t\t\t",
+                    "uid": "3595722691137068"
+                },
+                {
+                    "text": "Affects your character's EVA Rate.\\nThe higher the value, the less likely you'll be hit.\t\t\t\t",
+                    "uid": "1373210403901806"
+                },
+                {
+                    "text": "Affects your character's CRIT Rate.\\nThe higher the value, the more likely you'll land CRIT HITS.\t\t\t\t",
+                    "uid": "2377477191401408"
+                },
+                {
+                    "text": "Affects your character's chances of being hit by a CRIT HIT.\\nThe higher the value, the less likely you'll be hit by a CRIT HIT.\t\t\t\t",
+                    "uid": "1982562716532700"
+                },
+                {
+                    "text": "CRIT Rate {0}%",
+                    "uid": "1417605362602333"
+                },
+                {
+                    "text": "Anti-CRIT Rate {0}%",
+                    "uid": "3731886833174265"
+                },
+                {
+                    "text": "ACC Rate {0}%",
+                    "uid": "806260174223849"
+                },
+                {
+                    "text": "EVA Rate {0}%",
+                    "uid": "4380373589119335"
+                },
+                {
+                    "text": "You can select the skills and Relics you wish to use for Auto Battle against normal monsters in your current zone. As your characters perform Basic Attack skills and gain MP, they'll use skills and Relics based on the order in which they're equipped.",
+                    "uid": "3815917884183303"
+                },
+                {
+                    "text": "You can select Normal Talents for your characters, which boost their stats. Normal Talents can be obtained by leveling up or advancing your characters.",
+                    "uid": "4148364061521528"
+                },
+                {
+                    "text": "Advance your characters to obtain Normal and Special Talents. Their appearances may change once they advance.",
+                    "uid": "1032307448510429"
+                },
+                {
+                    "text": "Max upgraded.",
+                    "uid": "708670312794964"
+                },
+                {
+                    "text": "Clear Royal Castle Entrance: Zone 2 to enter.",
+                    "uid": "3649181502648610"
+                },
+                {
+                    "text": "Knight is a Tank character that specializes in fending off monsters and protecting his allies at the forefront of battle.",
+                    "uid": "1078776364257487"
+                },
+                {
+                    "text": "Rogue is a DPS character that utilizes various combat techniques and deals consistent damage to turn the tide of battle in your favor.",
+                    "uid": "535881935702767"
+                },
+                {
+                    "text": "Mage is a DPS character that annihilates enemies with powerful bursts of damage.",
+                    "uid": "3679063824766379"
+                },
+                {
+                    "text": "Druid is a Healer character that uses the power of nature to heal and support her party members.",
+                    "uid": "341490012164293"
+                },
+                {
+                    "text": "[UR] Gear Passive",
+                    "uid": "234201019809622"
+                },
+                {
+                    "text": "[UR] Gear Potential Passive",
+                    "uid": "4481535722121630"
+                },
+                {
+                    "text": "Equip [UR] gear to receive passive effects.",
+                    "uid": "4214981990251683"
+                },
+                {
+                    "text": "Max out [UR] gear to receive passive effects.",
+                    "uid": "1051132337649535"
+                },
+                {
+                    "text": "CRIT DMG",
+                    "uid": "3198315543235200"
+                },
+                {
+                    "text": "Affects the damage that occurs during CRIT HITS\\nThe higher the value, the higher the damage based on your ATK.",
+                    "uid": "1078765356149257"
+                },
+                {
+                    "text": "CRIT DMG {0}%",
+                    "uid": "1246991457502664"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

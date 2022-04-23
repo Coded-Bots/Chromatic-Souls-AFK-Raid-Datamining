@@ -1,0 +1,25 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Use Red Gem x{0} to perform <color=#00ff00>Skill Research 1 time</color>?",
+                    "uid": "4332461698865309"
+                },
+                {
+                    "text": "Use Red Gem x{0} to perform <color=#00ff00>Skill Research 10 times</color>?",
+                    "uid": "37018277417719"
+                },
+                {
+                    "text": "Use Red Gem x{0} to <color=#00ff00>Extend Check-In</color>?",
+                    "uid": "3535958277851390"
+                },
+                {
+                    "text": "Use Red Gem x{0} to <color=#00ff00>Accelerate</color>?",
+                    "uid": "197156044665480"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

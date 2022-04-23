@@ -1,0 +1,37 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Disconnected from the network.\\nReconnect?",
+                    "uid": "4455647111517828"
+                },
+                {
+                    "text": "Successfully logged in.",
+                    "uid": "4217712696030780"
+                },
+                {
+                    "text": "You are not connected to the internet.\\nPlease check your network status.",
+                    "uid": "60462180444355"
+                },
+                {
+                    "text": "There is no Wi-Fi connection. {0} of mobile data will be used if you continue to download. Proceed?",
+                    "uid": "776839610002314"
+                },
+                {
+                    "text": "Download will be canceled as using mobile data is not allowed.\\nPlease try again using Wi-Fi.",
+                    "uid": "3575165705611600"
+                },
+                {
+                    "text": "Disconnected from the server.\\nPlease check your internet connection.",
+                    "uid": "381144223960745"
+                },
+                {
+                    "text": "You've leveled up.",
+                    "uid": "3221608752324599"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

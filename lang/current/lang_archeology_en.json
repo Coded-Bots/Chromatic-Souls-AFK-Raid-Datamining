@@ -1,0 +1,105 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Archeology Level",
+                    "uid": "926082385428946"
+                },
+                {
+                    "text": "Complete",
+                    "uid": "1850921082710813"
+                },
+                {
+                    "text": "Exploring ({0})",
+                    "uid": "1886412219261240"
+                },
+                {
+                    "text": "Claim Reward",
+                    "uid": "3759943895437945"
+                },
+                {
+                    "text": "Claim All",
+                    "uid": "763179053421150"
+                },
+                {
+                    "text": "Explore All",
+                    "uid": "1359198917168454"
+                },
+                {
+                    "text": "Explore",
+                    "uid": "1413798641519761"
+                },
+                {
+                    "text": "Complete Now",
+                    "uid": "2050260461743274"
+                },
+                {
+                    "text": "Use to instantly complete Exploration.",
+                    "uid": "3831839794506913"
+                },
+                {
+                    "text": "Research",
+                    "uid": "3203374613829119"
+                },
+                {
+                    "text": "Research All",
+                    "uid": "1778025989487104"
+                },
+                {
+                    "text": "Upgrade",
+                    "uid": "2171220778926164"
+                },
+                {
+                    "text": "Research/Upgrade Complete",
+                    "uid": "118852277894975"
+                },
+                {
+                    "text": "Complete",
+                    "uid": "3320886388427756"
+                },
+                {
+                    "text": "Upgrade Complete",
+                    "uid": "3025504952302970"
+                },
+                {
+                    "text": "Explore",
+                    "uid": "3374158341204357"
+                },
+                {
+                    "text": "Researched <color=#00ff00>Relic</color> is found at <color=#00ff00>Archeology -> Upgrade</color>.",
+                    "uid": "2871355233175941"
+                },
+                {
+                    "text": "<color=#00ff00>Reliquaries</color> you've obtained can be found at the <color=#00ff00>Archeology Lab - Research</color>.",
+                    "uid": "3637546756106976"
+                },
+                {
+                    "text": "No Reliquary to research.",
+                    "uid": "2778939357151087"
+                },
+                {
+                    "text": "Auto Upgrade",
+                    "uid": "4213134096229811"
+                },
+                {
+                    "text": "You have no Reliquaries.",
+                    "uid": "334029042830669"
+                },
+                {
+                    "text": "Upgrade List",
+                    "uid": "3359580807428975"
+                },
+                {
+                    "text": "No Reliquary to research.",
+                    "uid": "335808226563915"
+                },
+                {
+                    "text": "No Relics to upgrade.",
+                    "uid": "406967718450717"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

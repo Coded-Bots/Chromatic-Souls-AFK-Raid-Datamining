@@ -1,0 +1,21 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "U. Labyrinth is a World Dungeon that consists of 30 floors. Monsters become stronger as you descend further. You can earn more rewards by clearing deeper floors.",
+                    "uid": "521644089090391"
+                },
+                {
+                    "text": "U. Labyrinth floors you've cleared are reset every 30 days. After the reset, you'll be able to earn rewards again. Clear the current floor to advance to the next one.",
+                    "uid": "4374757151275887"
+                },
+                {
+                    "text": "Clear Goblin Base: Zone 7 to enter.",
+                    "uid": "2073419601065822"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

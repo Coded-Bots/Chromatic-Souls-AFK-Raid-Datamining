@@ -1,0 +1,329 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Apprentice Knight I",
+                    "uid": "3225948307314572"
+                },
+                {
+                    "text": "Apprentice Knight II",
+                    "uid": "3341292729372601"
+                },
+                {
+                    "text": "Apprentice Knight III",
+                    "uid": "472608969871346"
+                },
+                {
+                    "text": "Apprentice Knight IV",
+                    "uid": "280084904588007"
+                },
+                {
+                    "text": "Apprentice Knight V",
+                    "uid": "2201080002143704"
+                },
+                {
+                    "text": "Veteran Knight I",
+                    "uid": "3197163729722517"
+                },
+                {
+                    "text": "Veteran Knight II",
+                    "uid": "3708481841513486"
+                },
+                {
+                    "text": "Veteran Knight III",
+                    "uid": "417451941578419"
+                },
+                {
+                    "text": "Veteran Knight IV",
+                    "uid": "2934260787934164"
+                },
+                {
+                    "text": "Veteran Knight V",
+                    "uid": "3418403518569458"
+                },
+                {
+                    "text": "Elite Knight I",
+                    "uid": "1783487650700217"
+                },
+                {
+                    "text": "Elite Knight II",
+                    "uid": "1668143228642188"
+                },
+                {
+                    "text": "Elite Knight III",
+                    "uid": "1119359666191403"
+                },
+                {
+                    "text": "Elite Knight IV",
+                    "uid": "2150676762841102"
+                },
+                {
+                    "text": "Elite Knight V",
+                    "uid": "1639358651050133"
+                },
+                {
+                    "text": "Royal Knight I",
+                    "uid": "643274923471320"
+                },
+                {
+                    "text": "Royal Knight II",
+                    "uid": "3225879453286119"
+                },
+                {
+                    "text": "Royal Knight III",
+                    "uid": "2534331770469498"
+                },
+                {
+                    "text": "Royal Knight IV",
+                    "uid": "614490345879201"
+                },
+                {
+                    "text": "Royal Knight V",
+                    "uid": "407924304660933"
+                },
+                {
+                    "text": "Apprentice Rogue I",
+                    "uid": "4499602216670188"
+                },
+                {
+                    "text": "Apprentice Rogue II",
+                    "uid": "111347011357465"
+                },
+                {
+                    "text": "Apprentice Rogue III",
+                    "uid": "3721170897192658"
+                },
+                {
+                    "text": "Apprentice Rogue IV",
+                    "uid": "1839818043630023"
+                },
+                {
+                    "text": "Apprentice Rogue V",
+                    "uid": "3474733911499064"
+                },
+                {
+                    "text": "Veteran Rogue I",
+                    "uid": "3063463827620853"
+                },
+                {
+                    "text": "Veteran Rogue II",
+                    "uid": "478536123498606"
+                },
+                {
+                    "text": "Veteran Rogue III",
+                    "uid": "3384538892077715"
+                },
+                {
+                    "text": "Veteran Rogue IV",
+                    "uid": "1960719185133236"
+                },
+                {
+                    "text": "Veteran Rogue V",
+                    "uid": "4188186172259154"
+                },
+                {
+                    "text": "Elite Rogue I",
+                    "uid": "578362286423961"
+                },
+                {
+                    "text": "Elite Rogue II",
+                    "uid": "463017864366188"
+                },
+                {
+                    "text": "Elite Rogue III",
+                    "uid": "3296517251764619"
+                },
+                {
+                    "text": "Elite Rogue IV",
+                    "uid": "945551398565102"
+                },
+                {
+                    "text": "Elite Rogue V",
+                    "uid": "3530479102687349"
+                },
+                {
+                    "text": "Master Rogue I",
+                    "uid": "3941749186565560"
+                },
+                {
+                    "text": "Master Rogue II",
+                    "uid": "2306833318696519"
+                },
+                {
+                    "text": "Master Rogue III",
+                    "uid": "1329206406193242"
+                },
+                {
+                    "text": "Master Rogue IV",
+                    "uid": "3912964608973441"
+                },
+                {
+                    "text": "Master Rogue V",
+                    "uid": "3706398567755173"
+                },
+                {
+                    "text": "Apprentice Mage I",
+                    "uid": "1723755159963216"
+                },
+                {
+                    "text": "Apprentice Mage II",
+                    "uid": "434005728694669"
+                },
+                {
+                    "text": "Apprentice Mage III",
+                    "uid": "699033235766438"
+                },
+                {
+                    "text": "Apprentice Mage IV",
+                    "uid": "758413296338467"
+                },
+                {
+                    "text": "Apprentice Mage V",
+                    "uid": "181315329464708"
+                },
+                {
+                    "text": "Veteran Mage I",
+                    "uid": "4202122455785745"
+                },
+                {
+                    "text": "Veteran Mage II",
+                    "uid": "1688717168834794"
+                },
+                {
+                    "text": "Veteran Mage III",
+                    "uid": "4001048070032535"
+                },
+                {
+                    "text": "Veteran Mage IV",
+                    "uid": "4301259949207112"
+                },
+                {
+                    "text": "Veteran Mage V",
+                    "uid": "2470846608818526"
+                },
+                {
+                    "text": "Elite Mage I",
+                    "uid": "3294232485722149"
+                },
+                {
+                    "text": "Elite Mage II",
+                    "uid": "1594445524432808"
+                },
+                {
+                    "text": "Elite Mage III",
+                    "uid": "4109004484349687"
+                },
+                {
+                    "text": "Elite Mage IV",
+                    "uid": "4022329419925826"
+                },
+                {
+                    "text": "Elite Mage V",
+                    "uid": "3722117540751241"
+                },
+                {
+                    "text": "Archmage I",
+                    "uid": "3674866076391580"
+                },
+                {
+                    "text": "Archmage II",
+                    "uid": "3409838569320059"
+                },
+                {
+                    "text": "Archmage III",
+                    "uid": "2214343461540614"
+                },
+                {
+                    "text": "Archmage IV",
+                    "uid": "3638165863174637"
+                },
+                {
+                    "text": "Archmage V",
+                    "uid": "3432753494921761"
+                },
+                {
+                    "text": "Apprentice Druid I",
+                    "uid": "3199436805897022"
+                },
+                {
+                    "text": "Apprentice Druid II",
+                    "uid": "3716278003907159"
+                },
+                {
+                    "text": "Apprentice Druid III",
+                    "uid": "2609114951197960"
+                },
+                {
+                    "text": "Apprentice Druid IV",
+                    "uid": "3043353926372713"
+                },
+                {
+                    "text": "Apprentice Druid V",
+                    "uid": "247319989633826"
+                },
+                {
+                    "text": "Veteran Druid I",
+                    "uid": "1328262180171995"
+                },
+                {
+                    "text": "Veteran Druid II",
+                    "uid": "1593289687243772"
+                },
+                {
+                    "text": "Veteran Druid III",
+                    "uid": "149235662569293"
+                },
+                {
+                    "text": "Veteran Druid IV",
+                    "uid": "2103091957920358"
+                },
+                {
+                    "text": "Veteran Druid V",
+                    "uid": "2346525020834296"
+                },
+                {
+                    "text": "Elite Druid I",
+                    "uid": "3244883894807943"
+                },
+                {
+                    "text": "Elite Druid II",
+                    "uid": "476248163219246"
+                },
+                {
+                    "text": "Elite Druid III",
+                    "uid": "1935254936955829"
+                },
+                {
+                    "text": "Elite Druid IV",
+                    "uid": "4497314256390828"
+                },
+                {
+                    "text": "Elite Druid V",
+                    "uid": "4234567827876299"
+                },
+                {
+                    "text": "Elder Druid I",
+                    "uid": "904133218248338"
+                },
+                {
+                    "text": "Elder Druid II",
+                    "uid": "2079383936605913"
+                },
+                {
+                    "text": "Elder Druid III",
+                    "uid": "1814302225204032"
+                },
+                {
+                    "text": "Elder Druid IV",
+                    "uid": "4361722382916079"
+                },
+                {
+                    "text": "Elder Druid V",
+                    "uid": "115356483943567"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

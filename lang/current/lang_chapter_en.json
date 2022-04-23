@@ -1,0 +1,89 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Royal Castle Entrance",
+                    "uid": "759070605426054"
+                },
+                {
+                    "text": "Goblin Base",
+                    "uid": "397448284422495"
+                },
+                {
+                    "text": "Paradise of Light",
+                    "uid": "3477225570766768"
+                },
+                {
+                    "text": "Vangor Fields",
+                    "uid": "4262159825445617"
+                },
+                {
+                    "text": "Orcish Habitat",
+                    "uid": "1748754538494410"
+                },
+                {
+                    "text": "Heathens' Hideout",
+                    "uid": "1104529895684739"
+                },
+                {
+                    "text": "West Preservation Area",
+                    "uid": "522827675946596"
+                },
+                {
+                    "text": "York Encampment",
+                    "uid": "1838959629607589"
+                },
+                {
+                    "text": "Necromancy Lab",
+                    "uid": "1015573752703966"
+                },
+                {
+                    "text": "Dry Plains",
+                    "uid": "4205402037194416"
+                },
+                {
+                    "text": "Nymphish Occupation",
+                    "uid": "1125624750850143"
+                },
+                {
+                    "text": "Abandoned Land",
+                    "uid": "1487247071853702"
+                },
+                {
+                    "text": "Eye of the Storm",
+                    "uid": "2911069473487725"
+                },
+                {
+                    "text": "Hell's Gate",
+                    "uid": "1251004142374244"
+                },
+                {
+                    "text": "Forgotten Shelter",
+                    "uid": "1832706362112387"
+                },
+                {
+                    "text": "South Bloodfield",
+                    "uid": "2476931004922058"
+                },
+                {
+                    "text": "Eroding Road",
+                    "uid": "486736664502769"
+                },
+                {
+                    "text": "Echo Shelter",
+                    "uid": "867349134745896"
+                },
+                {
+                    "text": "Haven of Souls",
+                    "uid": "3381908094662775"
+                },
+                {
+                    "text": "Ashen Plateau",
+                    "uid": "1681187189886631"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

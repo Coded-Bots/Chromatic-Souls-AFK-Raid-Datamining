@@ -1,0 +1,141 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "You've reached the final stage. Unable to challenge further.",
+                    "uid": "99761254977125"
+                },
+                {
+                    "text": "An error occurred while connecting to App Store.",
+                    "uid": "3638902191456896"
+                },
+                {
+                    "text": "An error occurred while connecting to Google Play.",
+                    "uid": "1063375808571265"
+                },
+                {
+                    "text": "No selectable markets.",
+                    "uid": "3020389688807513"
+                },
+                {
+                    "text": "An error occurred while selecting market to proceed with purchase.",
+                    "uid": "793336377054352"
+                },
+                {
+                    "text": "An error occurred while processing purchase from App Store.",
+                    "uid": "2376537121712134"
+                },
+                {
+                    "text": "An error occurred while processing purchase from Google Play.",
+                    "uid": "2087946805500671"
+                },
+                {
+                    "text": "An error occurred while processing completed purchase information received from Google Play.",
+                    "uid": "4091450981722222"
+                },
+                {
+                    "text": "An error occurred while processing purchase recovery from Google Play.",
+                    "uid": "17490540544659"
+                },
+                {
+                    "text": "Please check if the item to be processed as a completed purchase was purchased through an invalid route.\nIf the error occurs continuously when closing an item that was purchased through a valid route, please contact Hive.",
+                    "uid": "1188939597745457"
+                },
+                {
+                    "text": "Insufficient information to execute showConflictSelection API.",
+                    "uid": "1897410582371137"
+                },
+                {
+                    "text": "You have canceled conflict relief.",
+                    "uid": "3464116842263360"
+                },
+                {
+                    "text": "An error occurred on the provider's side while attempting to connect during account switching.",
+                    "uid": "379271874507778"
+                },
+                {
+                    "text": "Invalid communication response data for switching accounts.",
+                    "uid": "922658863574736"
+                },
+                {
+                    "text": "Insufficient information to execute ShowProfile API.",
+                    "uid": "2403396252411854"
+                },
+                {
+                    "text": "Web view display ended.",
+                    "uid": "584486724379074"
+                },
+                {
+                    "text": "An error occurred while displaying web view.",
+                    "uid": "1587137044029949"
+                },
+                {
+                    "text": "An error occurred while connecting to provider.",
+                    "uid": "2473111607743010"
+                },
+                {
+                    "text": "You have already read the permission notice, or logged in from a region where displaying the permission notice is not required.",
+                    "uid": "3418009296654754"
+                },
+                {
+                    "text": "An error occurred while logging in with Facebook.",
+                    "uid": "427522284174101"
+                },
+                {
+                    "text": "You have canceled connecting to a Facebook account.",
+                    "uid": "202773554292059"
+                },
+                {
+                    "text": "Unable to receive user information from Facebook after logging in.",
+                    "uid": "202715610454641"
+                },
+                {
+                    "text": "You have canceled connecting to an Apple account.",
+                    "uid": "829832243023765"
+                },
+                {
+                    "text": "Failed to log in with Apple.\r\nThis issue may occur if your current device is not connected to an Apple account.",
+                    "uid": "3084633600856077"
+                },
+                {
+                    "text": "Failed to log in with Apple.",
+                    "uid": "2066439025358731"
+                },
+                {
+                    "text": "Invalid login request information received from Apple.",
+                    "uid": "3232724926902723"
+                },
+                {
+                    "text": "Invalid login request information sent to Apple.",
+                    "uid": "2923138017417108"
+                },
+                {
+                    "text": "Failed to log in with Google.",
+                    "uid": "3174426149241150"
+                },
+                {
+                    "text": "You have canceled logging in with Google.",
+                    "uid": "1220117677011543"
+                },
+                {
+                    "text": "Multiple purchases have already been made.",
+                    "uid": "4488745892288139"
+                },
+                {
+                    "text": "You've already claimed today's free Blue Gems.",
+                    "uid": "1354438997058577"
+                },
+                {
+                    "text": "A dungeon is already available.",
+                    "uid": "829323661084979"
+                },
+                {
+                    "text": "If you aren't logged in with Google, please log in from your device's settings and then restart the game.",
+                    "uid": "4461140038861048"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

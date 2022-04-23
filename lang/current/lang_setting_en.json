@@ -1,0 +1,93 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Adventure Battle Settings are NOT synced with your party members.",
+                    "uid": "1401362177983738"
+                },
+                {
+                    "text": "Boss Battle Settings are <color=#88FF88>synced</color> with your party members.",
+                    "uid": "3833100928248865"
+                },
+                {
+                    "text": "Dungeon Battle Settings are NOT synced with your party members.",
+                    "uid": "3425978800221399"
+                },
+                {
+                    "text": "Dungeon Battle Settings are NOT synced with your party members.",
+                    "uid": "2705730228044712"
+                },
+                {
+                    "text": "Select a skill to swap.",
+                    "uid": "3279610891904261"
+                },
+                {
+                    "text": "No skills to equip.",
+                    "uid": "2885885537935403"
+                },
+                {
+                    "text": "Select a Relic to swap.",
+                    "uid": "923847750768439"
+                },
+                {
+                    "text": "No Relics to equip.",
+                    "uid": "1763903722680465"
+                },
+                {
+                    "text": "Credits",
+                    "uid": "203116629012908"
+                },
+                {
+                    "text": "한국어",
+                    "uid": "1353417600480013"
+                },
+                {
+                    "text": "English",
+                    "uid": "1355616623736486"
+                },
+                {
+                    "text": "日本語",
+                    "uid": "1354517112108404"
+                },
+                {
+                    "text": "简体中文",
+                    "uid": "2750176272885593"
+                },
+                {
+                    "text": "繁体中文",
+                    "uid": "2764469924052281"
+                },
+                {
+                    "text": "Deutsch",
+                    "uid": "1356716135364638"
+                },
+                {
+                    "text": "Français",
+                    "uid": "1358915158621075"
+                },
+                {
+                    "text": "ไทย",
+                    "uid": "1339123949313315"
+                },
+                {
+                    "text": "Bahasa Indonesia",
+                    "uid": "1351218577223576"
+                },
+                {
+                    "text": "Português",
+                    "uid": "1343521995826275"
+                },
+                {
+                    "text": "Game will restart in order to apply the new language.",
+                    "uid": "4230075101168511"
+                },
+                {
+                    "text": "Language updated.",
+                    "uid": "1783173815516351"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

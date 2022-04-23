@@ -1,0 +1,489 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Fire Dragon's Heart",
+                    "uid": "3326846808991563"
+                },
+                {
+                    "text": "Fire Dragon's Heart",
+                    "uid": "4500011826734098"
+                },
+                {
+                    "text": "Fire Dragon's Heart",
+                    "uid": "1171662917721177"
+                },
+                {
+                    "text": "Fire Dragon's Heart",
+                    "uid": "1438804001949560"
+                },
+                {
+                    "text": "Lightning Dragon's Heart",
+                    "uid": "856973179727175"
+                },
+                {
+                    "text": "Lightning Dragon's Heart",
+                    "uid": "3999290886966254"
+                },
+                {
+                    "text": "Lightning Dragon's Heart",
+                    "uid": "2080618963718005"
+                },
+                {
+                    "text": "Lightning Dragon's Heart",
+                    "uid": "3516757352767340"
+                },
+                {
+                    "text": "Earth Dragon's Heart",
+                    "uid": "1720289743926913"
+                },
+                {
+                    "text": "Earth Dragon's Heart",
+                    "uid": "235059595153204"
+                },
+                {
+                    "text": "Earth Dragon's Heart",
+                    "uid": "1658879302097683"
+                },
+                {
+                    "text": "Ice Dragon's Heart",
+                    "uid": "1524547364881878"
+                },
+                {
+                    "text": "Ice Dragon's Heart",
+                    "uid": "2526240665613326"
+                },
+                {
+                    "text": "Ice Dragon's Heart",
+                    "uid": "3601443356058343"
+                },
+                {
+                    "text": "Ice Dragon's Heart",
+                    "uid": "1018838826243544"
+                },
+                {
+                    "text": "Divine Dragon's Heart",
+                    "uid": "2159051553472441"
+                },
+                {
+                    "text": "Divine Dragon's Heart",
+                    "uid": "2965761064191337"
+                },
+                {
+                    "text": "Divine Dragon's Heart",
+                    "uid": "1515696825062396"
+                },
+                {
+                    "text": "Divine Dragon's Heart",
+                    "uid": "1250669317990619"
+                },
+                {
+                    "text": "Divine Dragon's Heart",
+                    "uid": "3121843943715646"
+                },
+                {
+                    "text": "Demonic Dragon's Heart",
+                    "uid": "1895315610055987"
+                },
+                {
+                    "text": "Demonic Dragon's Heart",
+                    "uid": "1066400890248954"
+                },
+                {
+                    "text": "Demonic Dragon's Heart",
+                    "uid": "3650159093029153"
+                },
+                {
+                    "text": "Demonic Dragon's Heart",
+                    "uid": "2860641645304352"
+                },
+                {
+                    "text": "Sacred Flame",
+                    "uid": "96089954849054"
+                },
+                {
+                    "text": "Sacred Flame",
+                    "uid": "3704572715907767"
+                },
+                {
+                    "text": "Sacred Flame",
+                    "uid": "4004784595082344"
+                },
+                {
+                    "text": "Sacred Flame",
+                    "uid": "4443606702695241"
+                },
+                {
+                    "text": "Sacred Storm",
+                    "uid": "1661472719515018"
+                },
+                {
+                    "text": "Sacred Storm",
+                    "uid": "735751979457347"
+                },
+                {
+                    "text": "Sacred Storm",
+                    "uid": "1561424691602468"
+                },
+                {
+                    "text": "Sacred Storm",
+                    "uid": "125286302553133"
+                },
+                {
+                    "text": "Sacred Naissance",
+                    "uid": "3075934597461048"
+                },
+                {
+                    "text": "Sacred Naissance",
+                    "uid": "2664664513582837"
+                },
+                {
+                    "text": "Sacred Naissance",
+                    "uid": "79736809460590"
+                },
+                {
+                    "text": "Sacred Naissance",
+                    "uid": "2430702662660107"
+                },
+                {
+                    "text": "Sacred Tsunami",
+                    "uid": "3074084225027937"
+                },
+                {
+                    "text": "Sacred Tsunami",
+                    "uid": "3836049588410260"
+                },
+                {
+                    "text": "Sacred Tsunami",
+                    "uid": "756269667984499"
+                },
+                {
+                    "text": "Sacred Tsunami",
+                    "uid": "2596845748734390"
+                },
+                {
+                    "text": "Sacred Light",
+                    "uid": "4391208598831616"
+                },
+                {
+                    "text": "Sacred Light",
+                    "uid": "4154704007812349"
+                },
+                {
+                    "text": "Sacred Light",
+                    "uid": "1602700717661910"
+                },
+                {
+                    "text": "Sacred Light",
+                    "uid": "1737032654877715"
+                },
+                {
+                    "text": "Sacred Shadow",
+                    "uid": "4427598037536806"
+                },
+                {
+                    "text": "Sacred Shadow",
+                    "uid": "2372542675389311"
+                },
+                {
+                    "text": "Sacred Shadow",
+                    "uid": "948720334363088"
+                },
+                {
+                    "text": "Sacred Shadow",
+                    "uid": "3427087630185617"
+                },
+                {
+                    "text": "Flame Demon King's Soul",
+                    "uid": "404939571306874"
+                },
+                {
+                    "text": "Flame Demon King's Soul",
+                    "uid": "1233854291113907"
+                },
+                {
+                    "text": "Flame Demon King's Soul",
+                    "uid": "3750663137469652"
+                },
+                {
+                    "text": "Flame Demon King's Soul",
+                    "uid": "3651525644048285"
+                },
+                {
+                    "text": "Lightning Demon King's Soul",
+                    "uid": "1795194880370046"
+                },
+                {
+                    "text": "Lightning Demon King's Soul",
+                    "uid": "2312036078379927"
+                },
+                {
+                    "text": "Lightning Demon King's Soul",
+                    "uid": "2612247957554504"
+                },
+                {
+                    "text": "Lightning Demon King's Soul",
+                    "uid": "3046486932729001"
+                },
+                {
+                    "text": "Earth Demon King's Soul",
+                    "uid": "4304550023931256"
+                },
+                {
+                    "text": "Earth Demon King's Soul",
+                    "uid": "3893279940052789"
+                },
+                {
+                    "text": "Earth Demon King's Soul",
+                    "uid": "2434273166316206"
+                },
+                {
+                    "text": "Earth Demon King's Soul",
+                    "uid": "1688993203602763"
+                },
+                {
+                    "text": "Ice Demon King's Soul",
+                    "uid": "585374038165801"
+                },
+                {
+                    "text": "Ice Demon King's Soul",
+                    "uid": "2231534494523836"
+                },
+                {
+                    "text": "Ice Demon King's Soul",
+                    "uid": "1966528107878299"
+                },
+                {
+                    "text": "Ice Demon King's Soul",
+                    "uid": "3837681613177342"
+                },
+                {
+                    "text": "Light Demon King's Soul",
+                    "uid": "1693313404806384"
+                },
+                {
+                    "text": "Light Demon King's Soul",
+                    "uid": "3495226657012653"
+                },
+                {
+                    "text": "Light Demon King's Soul",
+                    "uid": "4041729140906438"
+                },
+                {
+                    "text": "Light Demon King's Soul",
+                    "uid": "4105692333916867"
+                },
+                {
+                    "text": "Dark Demon King's Soul",
+                    "uid": "965569048675922"
+                },
+                {
+                    "text": "Dark Demon King's Soul",
+                    "uid": "73900128181387"
+                },
+                {
+                    "text": "Dark Demon King's Soul",
+                    "uid": "1744000368153452"
+                },
+                {
+                    "text": "Dark Demon King's Soul",
+                    "uid": "307861979104117"
+                },
+                {
+                    "text": "Fire Lord's Essence",
+                    "uid": "895801311924565"
+                },
+                {
+                    "text": "Fire Lord's Essence",
+                    "uid": "1307071395802776"
+                },
+                {
+                    "text": "Fire Lord's Essence",
+                    "uid": "2482322114160295"
+                },
+                {
+                    "text": "Fire Lord's Essence",
+                    "uid": "141571437600690"
+                },
+                {
+                    "text": "Lightning Lord's Essence",
+                    "uid": "2615027493803529"
+                },
+                {
+                    "text": "Lightning Lord's Essence",
+                    "uid": "2567776029443868"
+                },
+                {
+                    "text": "Lightning Lord's Essence",
+                    "uid": "2302748522372347"
+                },
+                {
+                    "text": "Lightning Lord's Essence",
+                    "uid": "1363756561870814"
+                },
+                {
+                    "text": "Earth Lord's Essence",
+                    "uid": "3181551960519115"
+                },
+                {
+                    "text": "Earth Lord's Essence",
+                    "uid": "4354716978261650"
+                },
+                {
+                    "text": "Earth Lord's Essence",
+                    "uid": "1026368069248729"
+                },
+                {
+                    "text": "Earth Lord's Essence",
+                    "uid": "1293509153477112"
+                },
+                {
+                    "text": "Ice Lord's Essence",
+                    "uid": "2060021971142924"
+                },
+                {
+                    "text": "Ice Lord's Essence",
+                    "uid": "2175366393200953"
+                },
+                {
+                    "text": "Ice Lord's Essence",
+                    "uid": "3810282261070194"
+                },
+                {
+                    "text": "Ice Lord's Essence",
+                    "uid": "3617758195786855"
+                },
+                {
+                    "text": "Divine Lord's Essence",
+                    "uid": "1133667054924275"
+                },
+                {
+                    "text": "Divine Lord's Essence",
+                    "uid": "304752335116986"
+                },
+                {
+                    "text": "Divine Lord's Essence",
+                    "uid": "3451481611967713"
+                },
+                {
+                    "text": "Divine Lord's Essence",
+                    "uid": "4069317975700192"
+                },
+                {
+                    "text": "Dark Lord's Essence",
+                    "uid": "3873774090284637"
+                },
+                {
+                    "text": "Dark Lord's Essence",
+                    "uid": "3828782584055904"
+                },
+                {
+                    "text": "Dark Lord's Essence",
+                    "uid": "2158682344083855"
+                },
+                {
+                    "text": "Dark Lord's Essence",
+                    "uid": "64216943472698"
+                },
+                {
+                    "text": "Arbiter's Passion",
+                    "uid": "253794240401667"
+                },
+                {
+                    "text": "Arbiter's Passion",
+                    "uid": "898018883211338"
+                },
+                {
+                    "text": "Arbiter's Passion",
+                    "uid": "3411424170162545"
+                },
+                {
+                    "text": "Arbiter's Passion",
+                    "uid": "2626489915483696"
+                },
+                {
+                    "text": "Arbiter's Wrath",
+                    "uid": "3780823891998143"
+                },
+                {
+                    "text": "Arbiter's Wrath",
+                    "uid": "1613754603597414"
+                },
+                {
+                    "text": "Arbiter's Wrath",
+                    "uid": "4163497935616845"
+                },
+                {
+                    "text": "Arbiter's Wrath",
+                    "uid": "1096036697295684"
+                },
+                {
+                    "text": "Arbiter's Indomitability",
+                    "uid": "487344619888133"
+                },
+                {
+                    "text": "Arbiter's Indomitability",
+                    "uid": "1602307377263752"
+                },
+                {
+                    "text": "Arbiter's Indomitability",
+                    "uid": "2709470429972951"
+                },
+                {
+                    "text": "Arbiter's Indomitability",
+                    "uid": "3744112043070114"
+                },
+                {
+                    "text": "Arbiter's Dispassion",
+                    "uid": "1023579885329578"
+                },
+                {
+                    "text": "Arbiter's Dispassion",
+                    "uid": "93276012833507"
+                },
+                {
+                    "text": "Arbiter's Dispassion",
+                    "uid": "2612381766122564"
+                },
+                {
+                    "text": "Arbiter's Dispassion",
+                    "uid": "1176243377073229"
+                },
+                {
+                    "text": "Arbiter's Justice",
+                    "uid": "2757521242354125"
+                },
+                {
+                    "text": "Arbiter's Justice",
+                    "uid": "3765774576374160"
+                },
+                {
+                    "text": "Arbiter's Justice",
+                    "uid": "2374847198735423"
+                },
+                {
+                    "text": "Arbiter's Justice",
+                    "uid": "2604857750610474"
+                },
+                {
+                    "text": "Arbiter's Unholiness",
+                    "uid": "251622351904843"
+                },
+                {
+                    "text": "Arbiter's Unholiness",
+                    "uid": "1424787369647378"
+                },
+                {
+                    "text": "Arbiter's Unholiness",
+                    "uid": "2600038088004953"
+                },
+                {
+                    "text": "Arbiter's Unholiness",
+                    "uid": "2867179172233336"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

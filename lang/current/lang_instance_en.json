@@ -1,0 +1,117 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "U. Labyrinth",
+                    "uid": "596092855498695"
+                },
+                {
+                    "text": "{0} left",
+                    "uid": "3256972724210890"
+                },
+                {
+                    "text": "Spawns in {0}",
+                    "uid": "2954774519421055"
+                },
+                {
+                    "text": "Respawn",
+                    "uid": "2408210052762766"
+                },
+                {
+                    "text": "Danger Level {0}",
+                    "uid": "2525117974734571"
+                },
+                {
+                    "text": "The higher the Danger Level, the higher the chances of finding higher grade dungeons.\\nDanger Level changes based on Clear status when a dungeon's duration ends.",
+                    "uid": "3360997469532616"
+                },
+                {
+                    "text": "Clear Reward",
+                    "uid": "1739733593817608"
+                },
+                {
+                    "text": "Party Reward",
+                    "uid": "963549575461773"
+                },
+                {
+                    "text": "No Party Reward",
+                    "uid": "2756066630751727"
+                },
+                {
+                    "text": "Skill Settings",
+                    "uid": "2182278648862287"
+                },
+                {
+                    "text": "Dungeon List",
+                    "uid": "337656032271835"
+                },
+                {
+                    "text": "Stage {0}",
+                    "uid": "2693801310264399"
+                },
+                {
+                    "text": "Affix",
+                    "uid": "211081364354776"
+                },
+                {
+                    "text": "World Affix",
+                    "uid": "1536043440272314"
+                },
+                {
+                    "text": "Abandon current battle?",
+                    "uid": "3809144327273701"
+                },
+                {
+                    "text": "{0} m left",
+                    "uid": "1538572702809280"
+                },
+                {
+                    "text": "{0} h left",
+                    "uid": "878048055669630"
+                },
+                {
+                    "text": "{0} d left",
+                    "uid": "3794770564355362"
+                },
+                {
+                    "text": "Spawns in {0} m",
+                    "uid": "295930589029889"
+                },
+                {
+                    "text": "Spawns in {0} h",
+                    "uid": "3961111073000785"
+                },
+                {
+                    "text": "Spawns in {0} d",
+                    "uid": "4478472822823339"
+                },
+                {
+                    "text": "Spawns soon",
+                    "uid": "3108481333426169"
+                },
+                {
+                    "text": "Unlimited",
+                    "uid": "3326107270820293"
+                },
+                {
+                    "text": "Ancient Fortress",
+                    "uid": "1936451095202022"
+                },
+                {
+                    "text": "Challenging",
+                    "uid": "1515117477976804"
+                },
+                {
+                    "text": "{0}F",
+                    "uid": "3725932412524643"
+                },
+                {
+                    "text": "Challenge Successful",
+                    "uid": "2945030564289014"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Refinery",
+                    "uid": "2935178313864629"
+                },
+                {
+                    "text": "Training Field",
+                    "uid": "79526091522608"
+                },
+                {
+                    "text": "Archeology Lab",
+                    "uid": "3788054440348203"
+                },
+                {
+                    "text": "Forge",
+                    "uid": "3905156035936443"
+                },
+                {
+                    "text": "Skill Lab",
+                    "uid": "3883693574993322"
+                },
+                {
+                    "text": "Vault",
+                    "uid": "3673150843377670"
+                },
+                {
+                    "text": "Shop",
+                    "uid": "3267699743846345"
+                },
+                {
+                    "text": "Adv League",
+                    "uid": "3195648142203415"
+                },
+                {
+                    "text": "Tower of Knowledge",
+                    "uid": "3484127982914756"
+                },
+                {
+                    "text": "Adventurer Alliance League",
+                    "uid": "2267843382041549"
+                },
+                {
+                    "text": "To Refinery",
+                    "uid": "1074474950575675"
+                },
+                {
+                    "text": "To Tower of Knowledge",
+                    "uid": "2051052333122720"
+                },
+                {
+                    "text": "To Forge",
+                    "uid": "4407386103957801"
+                },
+                {
+                    "text": "To Skill Lab",
+                    "uid": "4434679411232006"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

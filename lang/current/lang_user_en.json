@@ -1,0 +1,21 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Basic Info",
+                    "uid": "823552611035974"
+                },
+                {
+                    "text": "Settings",
+                    "uid": "3687321045778604"
+                },
+                {
+                    "text": "Party",
+                    "uid": "3162011241499964"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

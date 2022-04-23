@@ -1,0 +1,29 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Tap the screen.",
+                    "uid": "1198463696233999"
+                },
+                {
+                    "text": "Use local game data",
+                    "uid": "4228408776692670"
+                },
+                {
+                    "text": "Enter your ID.",
+                    "uid": "394387560842349"
+                },
+                {
+                    "text": "Enter your password.",
+                    "uid": "344513682294061"
+                },
+                {
+                    "text": "Reset successful.",
+                    "uid": "2302932468014096"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

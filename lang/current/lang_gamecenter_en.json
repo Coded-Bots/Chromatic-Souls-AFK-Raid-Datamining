@@ -1,0 +1,25 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "You have canceled connecting to a Game Center account.",
+                    "uid": "1246990586777387"
+                },
+                {
+                    "text": "You have previously canceled logging in with Game Center.",
+                    "uid": "2554909554453488"
+                },
+                {
+                    "text": "An error occurred while logging in with Game Center.",
+                    "uid": "314814349029121"
+                },
+                {
+                    "text": "Unable to receive token information from Game Center server.",
+                    "uid": "4324230755352288"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

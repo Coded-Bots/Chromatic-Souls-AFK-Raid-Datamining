@@ -1,0 +1,169 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Boss",
+                    "uid": "3546513630519604"
+                },
+                {
+                    "text": "Timeline",
+                    "uid": "4241878332121762"
+                },
+                {
+                    "text": "Skill",
+                    "uid": "149887543933634"
+                },
+                {
+                    "text": "Battle Log",
+                    "uid": "886208023612127"
+                },
+                {
+                    "text": "Challenge",
+                    "uid": "3360431181504154"
+                },
+                {
+                    "text": "Challenging...",
+                    "uid": "1250554056070531"
+                },
+                {
+                    "text": "Exploring...",
+                    "uid": "4459412419195517"
+                },
+                {
+                    "text": "Auto Exploring...",
+                    "uid": "289438236981552"
+                },
+                {
+                    "text": "Auto Challenging...",
+                    "uid": "3913670939134562"
+                },
+                {
+                    "text": "\\nx{0}",
+                    "uid": "231308086713233"
+                },
+                {
+                    "text": "Accel",
+                    "uid": "2553438595741563"
+                },
+                {
+                    "text": "Party",
+                    "uid": "3481381870105821"
+                },
+                {
+                    "text": "{0} Stage {1}",
+                    "uid": "391778564213167"
+                },
+                {
+                    "text": "{0}/min",
+                    "uid": "2395968622976290"
+                },
+                {
+                    "text": "Stage {0}",
+                    "uid": "1834130427768971"
+                },
+                {
+                    "text": "Searching for nearby enemies.",
+                    "uid": "4362076483277127"
+                },
+                {
+                    "text": "Traces of a powerful enemy have been detected.",
+                    "uid": "1111872818198270"
+                },
+                {
+                    "text": "Stage Clear",
+                    "uid": "1834742582320618"
+                },
+                {
+                    "text": "Defeated",
+                    "uid": "1695593158279307"
+                },
+                {
+                    "text": "Moving to {0}.",
+                    "uid": "3160141751540120"
+                },
+                {
+                    "text": "Boss Challenge has not been processed.",
+                    "uid": "2755786330887340"
+                },
+                {
+                    "text": "Auto Battle Reward",
+                    "uid": "1762952197968289"
+                },
+                {
+                    "text": "View Battle Log",
+                    "uid": "698903222346355"
+                },
+                {
+                    "text": "Battle History",
+                    "uid": "754839369082043"
+                },
+                {
+                    "text": "You've obtained the following rewards while you were away:",
+                    "uid": "377225567965860"
+                },
+                {
+                    "text": "Accelerator",
+                    "uid": "960281668389864"
+                },
+                {
+                    "text": "Battle History",
+                    "uid": "1238564306742248"
+                },
+                {
+                    "text": "Start",
+                    "uid": "1954489197813228"
+                },
+                {
+                    "text": "Exit",
+                    "uid": "2920195934544783"
+                },
+                {
+                    "text": "No previous battle history.",
+                    "uid": "1272527037785875"
+                },
+                {
+                    "text": "Element Efficacy Info",
+                    "uid": "3735022431728493"
+                },
+                {
+                    "text": "Zone {0}/{1}",
+                    "uid": "3526414354523644"
+                },
+                {
+                    "text": "The Adventurer League server lasts for 15 days. Users in the server compete only against each other. Rewards are sent out every 5 days based on your current Adventure progress.\nYour characters are transferred to the main server once the Adventurer League ends.",
+                    "uid": "3310838339826633"
+                },
+                {
+                    "text": "Adventurer Rank is determined by your party with the fastest Adventure progress. Your Adventurer Rank may change when you change your party. Earn Blue Gems as rewards based on your score. Rank Reward Blue Gems are only available once.",
+                    "uid": "187448295920618"
+                },
+                {
+                    "text": "Fighter Rank is determined by your character CP. Earn Blue Gems as rewards based on your score. Rank Reward Blue Gems are only available once.",
+                    "uid": "1597166756146001"
+                },
+                {
+                    "text": "Tactician Rank is determined by your dungeon clear score. This score increases as you defeat various monsters. Earn Blue Gems as rewards based on your score. Rank Reward Blue Gems are only available once.",
+                    "uid": "1388108704107314"
+                },
+                {
+                    "text": "Collector Rank is determined by your collection of skills, gear, and Relics. Earn Blue Gems as rewards based on your score. Rank Reward Blue Gems are only available once.",
+                    "uid": "4190954622030079"
+                },
+                {
+                    "text": "Clear Goblin Base: Zone 20 to enter.",
+                    "uid": "3726790955878832"
+                },
+                {
+                    "text": "Earn stage rewards each time you win in Auto Battle.",
+                    "uid": "3128665995950887"
+                },
+                {
+                    "text": "Battle Reward",
+                    "uid": "2041248202291606"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

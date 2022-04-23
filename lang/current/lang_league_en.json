@@ -1,0 +1,705 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "테스트 리그 1기",
+                    "uid": "4394619586759645"
+                },
+                {
+                    "text": "테스트 리그 2기",
+                    "uid": "3182870906638516"
+                },
+                {
+                    "text": "테스트 리그 3기",
+                    "uid": "103114706049239"
+                },
+                {
+                    "text": "테스트 리그 4기",
+                    "uid": "2260533027910374"
+                },
+                {
+                    "text": "테스트 리그 5기",
+                    "uid": "3581105756708873"
+                },
+                {
+                    "text": "테스트 리그 6기",
+                    "uid": "488142891824656"
+                },
+                {
+                    "text": "테스트 리그 7기",
+                    "uid": "2349490169233619"
+                },
+                {
+                    "text": "테스트 리그 8기",
+                    "uid": "3720482149809298"
+                },
+                {
+                    "text": "TEST League 9기",
+                    "uid": "3154106401307205"
+                },
+                {
+                    "text": "FGT League",
+                    "uid": "3332260207257269"
+                },
+                {
+                    "text": "테스트 리그 10기",
+                    "uid": "3614879900380290"
+                },
+                {
+                    "text": "테스트 리그 11기",
+                    "uid": "170087375162831"
+                },
+                {
+                    "text": "테스트 리그 12기",
+                    "uid": "2123964741116844"
+                },
+                {
+                    "text": "Adventurer League Season 1",
+                    "uid": "265795475972993"
+                },
+                {
+                    "text": "Adventurer League Season 2",
+                    "uid": "955336257669310"
+                },
+                {
+                    "text": "Adventurer League Season 3",
+                    "uid": "2381294294620715"
+                },
+                {
+                    "text": "Adventurer League Season 4",
+                    "uid": "2559494778895560"
+                },
+                {
+                    "text": "Adventurer League Season 5",
+                    "uid": "139526681168461"
+                },
+                {
+                    "text": "Adventurer League Season 6",
+                    "uid": "3483186697675706"
+                },
+                {
+                    "text": "Adventurer League Season 7",
+                    "uid": "411203250612506"
+                },
+                {
+                    "text": "Adventurer League Season 8",
+                    "uid": "3260013745505453"
+                },
+                {
+                    "text": "Adventurer League Season 9",
+                    "uid": "3389870213877188"
+                },
+                {
+                    "text": "Adventurer League Season 10",
+                    "uid": "1996640687078247"
+                },
+                {
+                    "text": "Adventurer League Season 11",
+                    "uid": "1409704301853942"
+                },
+                {
+                    "text": "Adventurer League Season 12",
+                    "uid": "2165024938632729"
+                },
+                {
+                    "text": "Adventurer League Season 13",
+                    "uid": "3789064840669152"
+                },
+                {
+                    "text": "Adventurer League Season 14",
+                    "uid": "1430568485478819"
+                },
+                {
+                    "text": "Adventurer League Season 15",
+                    "uid": "828954562577762"
+                },
+                {
+                    "text": "Adventurer League Season 16",
+                    "uid": "264859892632469"
+                },
+                {
+                    "text": "Adventurer League Season 17",
+                    "uid": "654212556288467"
+                },
+                {
+                    "text": "Adventurer League Season 18",
+                    "uid": "3296464906250000"
+                },
+                {
+                    "text": "Adventurer League Season 19",
+                    "uid": "1885828143763721"
+                },
+                {
+                    "text": "Adventurer League Season 20",
+                    "uid": "565255414965222"
+                },
+                {
+                    "text": "Adventurer League Season 21",
+                    "uid": "2911436720474583"
+                },
+                {
+                    "text": "Adventurer League Season 22",
+                    "uid": "1487593293693364"
+                },
+                {
+                    "text": "Adventurer League Season 23",
+                    "uid": "2699341973814493"
+                },
+                {
+                    "text": "Adventurer League Season 24",
+                    "uid": "4351850027734986"
+                },
+                {
+                    "text": "Adventurer League Season 25",
+                    "uid": "4446210411076347"
+                },
+                {
+                    "text": "Adventurer League Season 26",
+                    "uid": "3428158108954648"
+                },
+                {
+                    "text": "Adventurer League Season 27",
+                    "uid": "3621743666666896"
+                },
+                {
+                    "text": "Adventurer League Season 28",
+                    "uid": "979491316705363"
+                },
+                {
+                    "text": "Adventurer League Season 29",
+                    "uid": "890534175382118"
+                },
+                {
+                    "text": "Adventurer League Season 30",
+                    "uid": "2211106904180617"
+                },
+                {
+                    "text": "Adventurer League Season 31",
+                    "uid": "1812872054110260"
+                },
+                {
+                    "text": "Adventurer League Season 32",
+                    "uid": "3236715480891479"
+                },
+                {
+                    "text": "Adventurer League Season 33",
+                    "uid": "173529160781386"
+                },
+                {
+                    "text": "Adventurer League Season 34",
+                    "uid": "3024620734231389"
+                },
+                {
+                    "text": "Adventurer League Season 35",
+                    "uid": "3753436869371544"
+                },
+                {
+                    "text": "Adventurer League Season 36",
+                    "uid": "267889544122747"
+                },
+                {
+                    "text": "Adventurer League Season 37",
+                    "uid": "475228432555385"
+                },
+                {
+                    "text": "Adventurer League Season 38",
+                    "uid": "1408757704481878"
+                },
+                {
+                    "text": "Adventurer League Season 39",
+                    "uid": "2550959686054019"
+                },
+                {
+                    "text": "Adventurer League Season 40",
+                    "uid": "124360316625600"
+                },
+                {
+                    "text": "Adventurer League Season 41",
+                    "uid": "1288742262605837"
+                },
+                {
+                    "text": "Adventurer League Season 42",
+                    "uid": "1536177583626362"
+                },
+                {
+                    "text": "Adventurer League Season 43",
+                    "uid": "3121615020091847"
+                },
+                {
+                    "text": "Adventurer League Season 44",
+                    "uid": "4228765317204132"
+                },
+                {
+                    "text": "Adventurer League Season 45",
+                    "uid": "3103860966116161"
+                },
+                {
+                    "text": "Adventurer League Season 46",
+                    "uid": "697155931899262"
+                },
+                {
+                    "text": "Adventurer League Season 47",
+                    "uid": "3556658964856174"
+                },
+                {
+                    "text": "Adventurer League Season 48",
+                    "uid": "2517592404997553"
+                },
+                {
+                    "text": "Adventurer League Season 49",
+                    "uid": "1996541928647352"
+                },
+                {
+                    "text": "Adventurer League Season 50",
+                    "uid": "199844512103835"
+                },
+                {
+                    "text": "Adventurer League Season 51",
+                    "uid": "3403754942783410"
+                },
+                {
+                    "text": "Adventurer League Season 52",
+                    "uid": "1716062516760293"
+                },
+                {
+                    "text": "Adventurer League Season 53",
+                    "uid": "998040877406172"
+                },
+                {
+                    "text": "Adventurer League Season 54",
+                    "uid": "3545482060265407"
+                },
+                {
+                    "text": "Adventurer League Season 55",
+                    "uid": "541014166541190"
+                },
+                {
+                    "text": "Adventurer League Season 56",
+                    "uid": "2982903572860969"
+                },
+                {
+                    "text": "Adventurer League Season 57",
+                    "uid": "2321919447495143"
+                },
+                {
+                    "text": "Adventurer League Season 58",
+                    "uid": "3715148974294084"
+                },
+                {
+                    "text": "Adventurer League Season 59",
+                    "uid": "3585292505922349"
+                },
+                {
+                    "text": "Adventurer League Season 60",
+                    "uid": "736482011029402"
+                },
+                {
+                    "text": "Adventurer League Season 61",
+                    "uid": "1755847245895715"
+                },
+                {
+                    "text": "Adventurer League Season 62",
+                    "uid": "4114343601086048"
+                },
+                {
+                    "text": "Adventurer League Season 63",
+                    "uid": "2490303699049625"
+                },
+                {
+                    "text": "Adventurer League Season 64",
+                    "uid": "1734983062270838"
+                },
+                {
+                    "text": "Adventurer League Season 65",
+                    "uid": "238132407181487"
+                },
+                {
+                    "text": "Adventurer League Season 66",
+                    "uid": "2192009773135500"
+                },
+                {
+                    "text": "Adventurer League Season 67",
+                    "uid": "1094269501257812"
+                },
+                {
+                    "text": "Adventurer League Season 68",
+                    "uid": "3643991762674295"
+                },
+                {
+                    "text": "Adventurer League Season 69",
+                    "uid": "3958526235299434"
+                },
+                {
+                    "text": "Adventurer League Season 70",
+                    "uid": "331089042986749"
+                },
+                {
+                    "text": "Adventurer League Season 71",
+                    "uid": "1209708072670512"
+                },
+                {
+                    "text": "Adventurer League Season 72",
+                    "uid": "260888763852915"
+                },
+                {
+                    "text": "Adventurer League Season 73",
+                    "uid": "4394056273077894"
+                },
+                {
+                    "text": "Adventurer League Season 74",
+                    "uid": "2332346052027177"
+                },
+                {
+                    "text": "Adventurer League Season 75",
+                    "uid": "347483356572380"
+                },
+                {
+                    "text": "Adventurer League Season 76",
+                    "uid": "2894924539431615"
+                },
+                {
+                    "text": "Adventurer League Season 77",
+                    "uid": "2934734985088557"
+                },
+                {
+                    "text": "Adventurer League Season 78",
+                    "uid": "85924490195610"
+                },
+                {
+                    "text": "Adventurer League Season 79",
+                    "uid": "1671361926661351"
+                },
+                {
+                    "text": "Adventurer League Season 80",
+                    "uid": "3064591453460292"
+                },
+                {
+                    "text": "Adventurer League Season 81",
+                    "uid": "1839746178215833"
+                },
+                {
+                    "text": "Adventurer League Season 82",
+                    "uid": "1084425541437046"
+                },
+                {
+                    "text": "Adventurer League Season 83",
+                    "uid": "1105289725061923"
+                },
+                {
+                    "text": "Adventurer League Season 84",
+                    "uid": "3463786080252256"
+                },
+                {
+                    "text": "Adventurer League Season 85",
+                    "uid": "4443180759586069"
+                },
+                {
+                    "text": "Adventurer League Season 86",
+                    "uid": "503675802160866"
+                },
+                {
+                    "text": "Adventurer League Season 87",
+                    "uid": "2230814954914269"
+                },
+                {
+                    "text": "Adventurer League Season 88",
+                    "uid": "3883323008834762"
+                },
+                {
+                    "text": "Adventurer League Season 89",
+                    "uid": "2442909701574359"
+                },
+                {
+                    "text": "Adventurer League Season 90",
+                    "uid": "1019066274793140"
+                },
+                {
+                    "text": "Adventurer League Season 91",
+                    "uid": "1417301124863497"
+                },
+                {
+                    "text": "Adventurer League Season 92",
+                    "uid": "96728396064998"
+                },
+                {
+                    "text": "Adventurer League Season 93",
+                    "uid": "185685537388243"
+                },
+                {
+                    "text": "Adventurer League Season 94",
+                    "uid": "2827937887349776"
+                },
+                {
+                    "text": "Adventurer League Season 95",
+                    "uid": "990301769461829"
+                },
+                {
+                    "text": "Adventurer League Season 96",
+                    "uid": "1556677517963922"
+                },
+                {
+                    "text": "Adventurer League Season 97",
+                    "uid": "2921343194976964"
+                },
+                {
+                    "text": "Adventurer League Season 98",
+                    "uid": "1528113668178023"
+                },
+                {
+                    "text": "Adventurer League Season 99",
+                    "uid": "4446275859082778"
+                },
+                {
+                    "text": "Adventurer League Season 100",
+                    "uid": "2791486726605229"
+                },
+                {
+                    "text": "Master Adventurer",
+                    "uid": "2102625138001124"
+                },
+                {
+                    "text": "Master III Adventurer",
+                    "uid": "1338357660129649"
+                },
+                {
+                    "text": "Master II Adventurer",
+                    "uid": "3328552000548938"
+                },
+                {
+                    "text": "Master I Adventurer",
+                    "uid": "1977245746477023"
+                },
+                {
+                    "text": "Expert III Adventurer",
+                    "uid": "553423405450800"
+                },
+                {
+                    "text": "Expert II Adventurer",
+                    "uid": "3762690469114605"
+                },
+                {
+                    "text": "Expert I Adventurer",
+                    "uid": "2338868067480582"
+                },
+                {
+                    "text": "Adept III Adventurer",
+                    "uid": "3534363175260027"
+                },
+                {
+                    "text": "Adept II Adventurer",
+                    "uid": "3799390682331548"
+                },
+                {
+                    "text": "Adept I Adventurer",
+                    "uid": "505963049543258"
+                },
+                {
+                    "text": "Apprentice III Adventurer",
+                    "uid": "3089721252323457"
+                },
+                {
+                    "text": "Apprentice II Adventurer",
+                    "uid": "1604491103549748"
+                },
+                {
+                    "text": "Apprentice I Adventurer",
+                    "uid": "3028310810494227"
+                },
+                {
+                    "text": "Adventurer Rank",
+                    "uid": "2318783473854886"
+                },
+                {
+                    "text": "Fighter Rank",
+                    "uid": "1539676740736223"
+                },
+                {
+                    "text": "Tactician Rank",
+                    "uid": "2358132382986838"
+                },
+                {
+                    "text": "Collector Rank",
+                    "uid": "3400370890267441"
+                },
+                {
+                    "text": "Adventurer",
+                    "uid": "740879797974842"
+                },
+                {
+                    "text": "Fighter",
+                    "uid": "2683943186313655"
+                },
+                {
+                    "text": "Tactician",
+                    "uid": "3487454426212234"
+                },
+                {
+                    "text": "Collector",
+                    "uid": "714757283711497"
+                },
+                {
+                    "text": "Rank Rwd",
+                    "uid": "760992404785125"
+                },
+                {
+                    "text": "Shows party ranks based on fastest stage progress.",
+                    "uid": "3246254951395181"
+                },
+                {
+                    "text": "Shows character ranks based on highest CP.",
+                    "uid": "3159738636168460"
+                },
+                {
+                    "text": "Shows character ranks based on highest Gear/Skill/Relic collection score.",
+                    "uid": "2697487269916738"
+                },
+                {
+                    "text": "Shows character ranks based on highest dungeon clear score.",
+                    "uid": "2193674087047269"
+                },
+                {
+                    "text": "Top {0}%",
+                    "uid": "1476366507807832"
+                },
+                {
+                    "text": "{0} pts",
+                    "uid": "3916780354327758"
+                },
+                {
+                    "text": "Best: {0}",
+                    "uid": "1474423214108741"
+                },
+                {
+                    "text": "All",
+                    "uid": "2311932334099625"
+                },
+                {
+                    "text": "11th-100th",
+                    "uid": "3238333081794966"
+                },
+                {
+                    "text": "2nd-10th",
+                    "uid": "3180546535349062"
+                },
+                {
+                    "text": "1st",
+                    "uid": "2338320628328661"
+                },
+                {
+                    "text": "Adventurer Rank Reward",
+                    "uid": "4091536962137133"
+                },
+                {
+                    "text": "Fighter Rank Reward",
+                    "uid": "3765045330615418"
+                },
+                {
+                    "text": "Tactician Rank Reward",
+                    "uid": "4174435504531261"
+                },
+                {
+                    "text": "Collector Rank Reward",
+                    "uid": "1930501955391976"
+                },
+                {
+                    "text": "Main Server",
+                    "uid": "365471931092478"
+                },
+                {
+                    "text": "Adventurer Alliance League: Day {0} is in progress.\\nClaim your rank reward after calculation is complete.",
+                    "uid": "438986195895344"
+                },
+                {
+                    "text": "Time Left Until Stage {0} Reward: {1}",
+                    "uid": "3650607424583220"
+                },
+                {
+                    "text": "View Rewards",
+                    "uid": "1184600340989670"
+                },
+                {
+                    "text": "Stage 3 Reward Info",
+                    "uid": "816480901584774"
+                },
+                {
+                    "text": "When your character's Alliance ends,\\nyou can receive the following Completion Rewards based on your <color=#22cc22>Rank</color>.",
+                    "uid": "224279880452812"
+                },
+                {
+                    "text": "You can send the rewards you've obtained to <color=#22cc22>other characters</color> in your account.",
+                    "uid": "937563310151953"
+                },
+                {
+                    "text": "Your Adventurer Alliance League Rank has <color=#00ff00>increased</color>.",
+                    "uid": "2885427208260468"
+                },
+                {
+                    "text": "Your Adventurer Alliance League Rank has <color=#00ff00>dropped</color>.",
+                    "uid": "2977311773546827"
+                },
+                {
+                    "text": "No changes to Adventurer Alliance League Rank.",
+                    "uid": "3637068871347746"
+                },
+                {
+                    "text": "Season {0}",
+                    "uid": "853019217448957"
+                },
+                {
+                    "text": "When the Adventurer Alliance League ends, your rewards and characters are transferred to the main server.",
+                    "uid": "3507890704690604"
+                },
+                {
+                    "text": "Change",
+                    "uid": "4013714996747340"
+                },
+                {
+                    "text": "When your character's League ends, you can receive the following Stage 3 Reward based on your <color=#96f269>Rank</color>.",
+                    "uid": "275550587816989"
+                },
+                {
+                    "text": "You can send the rewards you've obtained to <color=#96f269>other characters</color> in your account.",
+                    "uid": "4033162692687219"
+                },
+                {
+                    "text": "Congratulations!\\nYou placed <color=#96f269>#{2}</color> on Day {0} of <color=#96f269>{1}</color>.",
+                    "uid": "4147507037888323"
+                },
+                {
+                    "text": "Congratulations!\\nYou placed <color=#96f269>{2:f1}%</color> on Day {0} of <color=#96f269>{1}</color>.",
+                    "uid": "1138015741521214"
+                },
+                {
+                    "text": "Adventurer League Rank",
+                    "uid": "2116456972143954"
+                },
+                {
+                    "text": "Claim",
+                    "uid": "643752788200339"
+                },
+                {
+                    "text": "You can receive rewards from the selected character's Mailbox.",
+                    "uid": "3822258869794304"
+                },
+                {
+                    "text": "Send rewards to {0}?",
+                    "uid": "1158224213279019"
+                },
+                {
+                    "text": "Day {0} Reward",
+                    "uid": "630517693353361"
+                },
+                {
+                    "text": "Your Location",
+                    "uid": "2959432368215451"
+                },
+                {
+                    "text": "Characters are transferred to the main server once the Alliance period ends.",
+                    "uid": "1668495619576514"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

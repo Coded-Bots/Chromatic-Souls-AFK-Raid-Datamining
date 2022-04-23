@@ -1,0 +1,201 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "System Settings",
+                    "uid": "1840478932080715"
+                },
+                {
+                    "text": "Info",
+                    "uid": "3445549162433572"
+                },
+                {
+                    "text": "Settings",
+                    "uid": "3686429233131438"
+                },
+                {
+                    "text": "Resolution",
+                    "uid": "1556496687537670"
+                },
+                {
+                    "text": "Graphics",
+                    "uid": "2478608435764004"
+                },
+                {
+                    "text": "FPS",
+                    "uid": "3996935600814255"
+                },
+                {
+                    "text": "High",
+                    "uid": "2572536859618612"
+                },
+                {
+                    "text": "Low",
+                    "uid": "1962887863984694"
+                },
+                {
+                    "text": "BGM",
+                    "uid": "1391141815643694"
+                },
+                {
+                    "text": "SFX",
+                    "uid": "466667300792635"
+                },
+                {
+                    "text": "Voice Chat",
+                    "uid": "4466651937269120"
+                },
+                {
+                    "text": "Alerts",
+                    "uid": "650588539895644"
+                },
+                {
+                    "text": "All Push Alerts",
+                    "uid": "4209137020171183"
+                },
+                {
+                    "text": "Notices",
+                    "uid": "1008750771622202"
+                },
+                {
+                    "text": "Night Alerts",
+                    "uid": "961562764932400"
+                },
+                {
+                    "text": "Login",
+                    "uid": "2966711903706036"
+                },
+                {
+                    "text": "Dungeon",
+                    "uid": "1335459862447044"
+                },
+                {
+                    "text": "Mail",
+                    "uid": "1873238296886015"
+                },
+                {
+                    "text": "Exploration",
+                    "uid": "1556590582338437"
+                },
+                {
+                    "text": "[Com2uS Holdings] You've agreed to receive notice alerts on {0}.",
+                    "uid": "650511366690271"
+                },
+                {
+                    "text": "[Com2uS Holdings] You've declined to receive notice alerts on {0}.",
+                    "uid": "1004804361095478"
+                },
+                {
+                    "text": "[Com2uS Holdings] You've agreed to receive night alerts on {0}.",
+                    "uid": "1883427348363647"
+                },
+                {
+                    "text": "[Com2uS Holdings] You've declined to receive night alerts on {0}.",
+                    "uid": "3354453887851478"
+                },
+                {
+                    "text": "User Info",
+                    "uid": "285231220522353"
+                },
+                {
+                    "text": "Game Info",
+                    "uid": "1893426372231864"
+                },
+                {
+                    "text": "CS Code",
+                    "uid": "472726360847852"
+                },
+                {
+                    "text": "Connect your account to save your gameplay data!",
+                    "uid": "2589281499878450"
+                },
+                {
+                    "text": "Change Character",
+                    "uid": "3577430221215213"
+                },
+                {
+                    "text": "Hive",
+                    "uid": "2556044185195450"
+                },
+                {
+                    "text": "Language",
+                    "uid": "2188193367009732"
+                },
+                {
+                    "text": "Logout",
+                    "uid": "4004532465313122"
+                },
+                {
+                    "text": "Support",
+                    "uid": "3971932728453700"
+                },
+                {
+                    "text": "Community",
+                    "uid": "1850169611955543"
+                },
+                {
+                    "text": "Help",
+                    "uid": "614306652849489"
+                },
+                {
+                    "text": "Privacy Policy",
+                    "uid": "161457802241373"
+                },
+                {
+                    "text": "www.withhive.com",
+                    "uid": "718945926052951"
+                },
+                {
+                    "text": "Log out from Facebook?",
+                    "uid": "396392881536404"
+                },
+                {
+                    "text": "Log out from Google?",
+                    "uid": "2911200188546013"
+                },
+                {
+                    "text": "Log out from Hive?",
+                    "uid": "2576861353942706"
+                },
+                {
+                    "text": "Log out from Apple?",
+                    "uid": "3268234851876680"
+                },
+                {
+                    "text": "Log out from Apple Game Center?",
+                    "uid": "171130627485333"
+                },
+                {
+                    "text": "[Com2uS Holdings] You've agreed to receive all alerts on {0}.",
+                    "uid": "601692497179286"
+                },
+                {
+                    "text": "[Com2uS Holdings] You've declined to receive all alerts on {0}.",
+                    "uid": "1775748971427219"
+                },
+                {
+                    "text": "Failed to save settings.",
+                    "uid": "3745533257395288"
+                },
+                {
+                    "text": "Connected",
+                    "uid": "408275762992093"
+                },
+                {
+                    "text": "Connect",
+                    "uid": "3912020450066051"
+                },
+                {
+                    "text": "Mid",
+                    "uid": "3060200468749966"
+                },
+                {
+                    "text": "Clear Royal Castle Entrance: Zone 3 to unlock.",
+                    "uid": "2643653233081526"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

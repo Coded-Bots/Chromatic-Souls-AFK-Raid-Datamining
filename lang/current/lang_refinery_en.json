@@ -1,0 +1,37 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "No gear to enhance.",
+                    "uid": "4324665340497297"
+                },
+                {
+                    "text": "No gear to fuse.",
+                    "uid": "705846308128715"
+                },
+                {
+                    "text": "No gear to scrap.",
+                    "uid": "1441980945958570"
+                },
+                {
+                    "text": "You can use Iron Ores to enhance gear. Enhancing gear increases its stats. There's also a cap based on gear grade.",
+                    "uid": "3595517266564388"
+                },
+                {
+                    "text": "Fuse gear to create higher grade pieces. To fuse gear, you need maxed-out pieces of gear that are the same grade and part.",
+                    "uid": "1317831899202934"
+                },
+                {
+                    "text": "Scrap gear to obtain Iron Ores. Use this to get back all of the Iron Ores you've used for enhancing gear.",
+                    "uid": "3649813561464951"
+                },
+                {
+                    "text": "Clear Royal Castle Entrance: Zone 4 to enter.",
+                    "uid": "2005562274444717"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

@@ -1,0 +1,365 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "{0} has logged in. ",
+                    "uid": "2423370158663135"
+                },
+                {
+                    "text": "{0} has joined your party.",
+                    "uid": "3385632396342484"
+                },
+                {
+                    "text": "{0} has left your party.",
+                    "uid": "3540648076856305"
+                },
+                {
+                    "text": "{0} has been kicked from the party by the party leader.",
+                    "uid": "698740909308785"
+                },
+                {
+                    "text": "{0} used Accel {1} time(s) and earned {2}-hour rewards.",
+                    "uid": "2306626998640552"
+                },
+                {
+                    "text": "{0} has completed Boss Battle {1} time(s) as a party and reached {2}.",
+                    "uid": "321185313076544"
+                },
+                {
+                    "text": "{0} has completed Dungeon Battle {1} time(s) as a party and reached {2}.",
+                    "uid": "924655904254724"
+                },
+                {
+                    "text": "Your party has failed Auto Battle {0} time(s).",
+                    "uid": "766257627412147"
+                },
+                {
+                    "text": "{0} has acquired {1}.",
+                    "uid": "1917661830985936"
+                },
+                {
+                    "text": "{0} has acquired {1}.",
+                    "uid": "2303230195304999"
+                },
+                {
+                    "text": "{0} has obtained {1} and {2} more skill(s).",
+                    "uid": "3671763632212888"
+                },
+                {
+                    "text": "{0} has obtained {1} and {2} more item(s).",
+                    "uid": "1806810324507931"
+                },
+                {
+                    "text": "Your party has entered {0}.",
+                    "uid": "3280999025086528"
+                },
+                {
+                    "text": "Your party's progress has been lowered to {0}.",
+                    "uid": "3437127848460388"
+                },
+                {
+                    "text": "Invite",
+                    "uid": "1894813569342730"
+                },
+                {
+                    "text": "Your Party",
+                    "uid": "3346146199447283"
+                },
+                {
+                    "text": "Invitations",
+                    "uid": "3475108697506265"
+                },
+                {
+                    "text": "Assign Leader",
+                    "uid": "1990793497312397"
+                },
+                {
+                    "text": "Assign Subleader",
+                    "uid": "3941308002930411"
+                },
+                {
+                    "text": "Expel",
+                    "uid": "2770599736331679"
+                },
+                {
+                    "text": "Required Class",
+                    "uid": "1329387060524319"
+                },
+                {
+                    "text": "CP Difference",
+                    "uid": "1750057079642221"
+                },
+                {
+                    "text": "Search",
+                    "uid": "2518169774594207"
+                },
+                {
+                    "text": "Applicants",
+                    "uid": "2431423521640631"
+                },
+                {
+                    "text": "Invite",
+                    "uid": "2908969698994356"
+                },
+                {
+                    "text": "You've invited {0}.",
+                    "uid": "2199590117354617"
+                },
+                {
+                    "text": "CP +/-{0}%",
+                    "uid": "3107403812289907"
+                },
+                {
+                    "text": "Max Chapter Difference: 2",
+                    "uid": "944562315319703"
+                },
+                {
+                    "text": "Anyone",
+                    "uid": "4490951174745499"
+                },
+                {
+                    "text": "Party List",
+                    "uid": "896939768907593"
+                },
+                {
+                    "text": "#{0}, {0}-{0}",
+                    "uid": "3050792798680723"
+                },
+                {
+                    "text": "Online",
+                    "uid": "2587612989762263"
+                },
+                {
+                    "text": "Inactive",
+                    "uid": "2293253821454562"
+                },
+                {
+                    "text": "Just Now",
+                    "uid": "4454349733199060"
+                },
+                {
+                    "text": "All",
+                    "uid": "2060576726757337"
+                },
+                {
+                    "text": "Auto Join",
+                    "uid": "366547244421781"
+                },
+                {
+                    "text": "Manual Join",
+                    "uid": "1629747705179810"
+                },
+                {
+                    "text": "Upon Approval",
+                    "uid": "2783748057003628"
+                },
+                {
+                    "text": "Sign Up",
+                    "uid": "4498486820325874"
+                },
+                {
+                    "text": "{0}'s Party",
+                    "uid": "496717361158200"
+                },
+                {
+                    "text": "Recruiting party members.",
+                    "uid": "1354335948302410"
+                },
+                {
+                    "text": "Party Settings",
+                    "uid": "297363455181363"
+                },
+                {
+                    "text": "Enter your party name.",
+                    "uid": "2192968762473523"
+                },
+                {
+                    "text": "Enter your party description.",
+                    "uid": "2742724059047345"
+                },
+                {
+                    "text": "Public",
+                    "uid": "3335937879436837"
+                },
+                {
+                    "text": "Party leader's approval is required",
+                    "uid": "94643466131418"
+                },
+                {
+                    "text": "Private",
+                    "uid": "4390601683233162"
+                },
+                {
+                    "text": "Password",
+                    "uid": "3577677415305796"
+                },
+                {
+                    "text": "4-8 numbers",
+                    "uid": "4006860411920623"
+                },
+                {
+                    "text": "Save Settings",
+                    "uid": "895579641419910"
+                },
+                {
+                    "text": "Invitations",
+                    "uid": "2235122269525288"
+                },
+                {
+                    "text": "Decline",
+                    "uid": "2173223494668318"
+                },
+                {
+                    "text": "Accept",
+                    "uid": "1631249592297431"
+                },
+                {
+                    "text": "All dungeons in progress will be closed when you join. Proceed anyway?",
+                    "uid": "1712943362417192"
+                },
+                {
+                    "text": "You declined {0}'s party request.",
+                    "uid": "438459630224816"
+                },
+                {
+                    "text": "You joined {0}'s party.",
+                    "uid": "3853148681906038"
+                },
+                {
+                    "text": "No party search results.",
+                    "uid": "2436297753146849"
+                },
+                {
+                    "text": "ID: #{0}",
+                    "uid": "1634956882357004"
+                },
+                {
+                    "text": "Unknown Party",
+                    "uid": "3774029199883839"
+                },
+                {
+                    "text": "Party's Chapter will be lowered since {0}'s Chapter is lower than your Party's Chapter. Allow {1} to join?",
+                    "uid": "3467956888787873"
+                },
+                {
+                    "text": "Take over the Party Leader position from {0}?",
+                    "uid": "3174589350805696"
+                },
+                {
+                    "text": "Transfer the Party Leader position to {0}?",
+                    "uid": "3006408492578845"
+                },
+                {
+                    "text": "Assign {0} to the Vice-Party Leader position?",
+                    "uid": "4330494587141011"
+                },
+                {
+                    "text": "Dismiss {0} from the Vice-Party Leader position?",
+                    "uid": "3298771615588578"
+                },
+                {
+                    "text": "Kick {0}?",
+                    "uid": "425623303304490"
+                },
+                {
+                    "text": "You've accepted a party invitation from {0}.",
+                    "uid": "3746214394991381"
+                },
+                {
+                    "text": "Enter a password.",
+                    "uid": "2864540846133673"
+                },
+                {
+                    "text": "Password should be 4 or more characters.",
+                    "uid": "2189776877188380"
+                },
+                {
+                    "text": "Password should be 8 or fewer characters.",
+                    "uid": "2189776877188368"
+                },
+                {
+                    "text": "View Info",
+                    "uid": "2934235700987944"
+                },
+                {
+                    "text": "Write Note",
+                    "uid": "1752211512349246"
+                },
+                {
+                    "text": "Succeed Party Leader",
+                    "uid": "2036196288602263"
+                },
+                {
+                    "text": "Dismiss Vice-Party Leader",
+                    "uid": "1903546006844279"
+                },
+                {
+                    "text": "Leave the party?",
+                    "uid": "3937390110040670"
+                },
+                {
+                    "text": "Party Progress Info",
+                    "uid": "870206560184286"
+                },
+                {
+                    "text": "Daily Avg Success: <color=#00ff00>{0}</color>",
+                    "uid": "624608079104500"
+                },
+                {
+                    "text": "Daily Avg. Accels: <color=#00ff00>{0}</color>",
+                    "uid": "364575925792214"
+                },
+                {
+                    "text": "Lv. {0} Adventurer Party",
+                    "uid": "3255365623638417"
+                },
+                {
+                    "text": "Lv. {0} Accel Party",
+                    "uid": "2262859146136229"
+                },
+                {
+                    "text": "Based on last 7 days",
+                    "uid": "1237580184302728"
+                },
+                {
+                    "text": "No received invitations.",
+                    "uid": "1468318176082978"
+                },
+                {
+                    "text": "You'll <color=#96f269>leave</color> your current party once you join another one.",
+                    "uid": "1556612330475810"
+                },
+                {
+                    "text": "(4-8 numbers)",
+                    "uid": "2059400223820881"
+                },
+                {
+                    "text": "Enter a Party ID.",
+                    "uid": "1721932547001356"
+                },
+                {
+                    "text": "Personal Progress Info",
+                    "uid": "3653206475350561"
+                },
+                {
+                    "text": "Lv. {0} Adventurer",
+                    "uid": "615190636664928"
+                },
+                {
+                    "text": "Lv. {0} Accel Adventurer",
+                    "uid": "3687207568447932"
+                },
+                {
+                    "text": "Recruit party members who will help you take on Adventure and World Dungeon battles. Once you join a party, all members will have their progress adjusted to the lower of the two categories. If a Chapter is changed due to a change in party, any ongoing dungeons will end.",
+                    "uid": "3758590962025346"
+                },
+                {
+                    "text": "Clear Goblin Base: Zone 1 to unlock.",
+                    "uid": "3376591638554435"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

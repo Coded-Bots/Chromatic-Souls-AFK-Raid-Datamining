@@ -1,0 +1,2913 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "All right, rookie. Let me go over the <b>basics of adventuring</b>.",
+                    "uid": "2107408326710057"
+                },
+                {
+                    "text": "While your characters remain idle in the Adventure tab, they'll encounter normal monsters and engage in <b>Auto Battle</b>.",
+                    "uid": "984770347353392"
+                },
+                {
+                    "text": "You can earn <b>EXP and Gold</b> from Auto Battle.",
+                    "uid": "35951038535795"
+                },
+                {
+                    "text": "We're at the Royal Castle Entrance. ",
+                    "uid": "106151317669629"
+                },
+                {
+                    "text": "This is where you can <b>consistently earn the rewards</b> displayed here regardless of your Auto Battle results.",
+                    "uid": "869331775940692"
+                },
+                {
+                    "text": "By fighting further away from the Royal Castle Entrance, you can earn <b>more</b> EXP and Gold.",
+                    "uid": "3419054037357175"
+                },
+                {
+                    "text": "That's why it's important for you to explore distant regions in order to progress even faster!",
+                    "uid": "1642097158846641"
+                },
+                {
+                    "text": "Make use of <b>Challenge</b> if you want to travel to distant regions.",
+                    "uid": "2617790478554265"
+                },
+                {
+                    "text": "Your goal in <b>Challenges</b> is to <b>eliminate bosses</b> in designated zones.",
+                    "uid": "1862469841775478"
+                },
+                {
+                    "text": "You can move on to the <b>next zone</b> once you manage to take them down.",
+                    "uid": "1883334025400355"
+                },
+                {
+                    "text": "As you expand your adventure area, you can earn more <b>EXP and Gold</b> as well as <b>materials and gear</b>.",
+                    "uid": "4241830380590688"
+                },
+                {
+                    "text": "What? Don't believe me?",
+                    "uid": "3712779285426989"
+                },
+                {
+                    "text": "Then why not see for yourself! <b>Challenge</b> the boss in this zone.",
+                    "uid": "863968790534042"
+                },
+                {
+                    "text": "You fought well! Great job!",
+                    "uid": "4095384220540891"
+                },
+                {
+                    "text": "Still, things will get rough if you have to fight that sort of monster all the time.",
+                    "uid": "2948599045922478"
+                },
+                {
+                    "text": "Things will get easier once you <b>know your enemies</b>!",
+                    "uid": "3035411320699377"
+                },
+                {
+                    "text": "Let's check out the <b>info for the boss</b> you're about to challenge in this area!",
+                    "uid": "2937422141331967"
+                },
+                {
+                    "text": "Here's where you can view <b>boss information</b> collected by our scouts.",
+                    "uid": "1710740177210291"
+                },
+                {
+                    "text": "Now that we know how this boss works, let's give it <b>another go</b>!",
+                    "uid": "4305620415382364"
+                },
+                {
+                    "text": "Next, let me introduce the <b>Accel</b> feature, which helps you progress more effectively on your adventure.",
+                    "uid": "1372726473764763"
+                },
+                {
+                    "text": "Tap the <b>Accel</b> button.",
+                    "uid": "2888944478421221"
+                },
+                {
+                    "text": "Using <b>Accel</b> instantly nets you the same amount of rewards <b>equivalent to playing 2 hours worth of battles</b>.",
+                    "uid": "1713896128202118"
+                },
+                {
+                    "text": "In addition, you'll also get a <b>powerful attack buff for 10 minutes</b>, so make sure to use it wisely!",
+                    "uid": "3708137243381352"
+                },
+                {
+                    "text": "I'll let you use it for <b>free</b> <b>once a day</b>.",
+                    "uid": "1841086850400971"
+                },
+                {
+                    "text": "Just note that you'll need <b>Red Gems</b> if you want to use Accel more than once!",
+                    "uid": "3511332533612382"
+                },
+                {
+                    "text": "Nice! Fighting the Mutant Firehide Troll should be a cinch for you.",
+                    "uid": "1518105499792957"
+                },
+                {
+                    "text": "Wait, do you see the <b>Boss</b> icon here?",
+                    "uid": "3423633287596983"
+                },
+                {
+                    "text": "Since the icon's changed, a <b>new boss</b> will appear starting from Zone 4 of the Royal Castle Entrance.",
+                    "uid": "2766301890793158"
+                },
+                {
+                    "text": "A new boss usually means a whole new level of challenge.",
+                    "uid": "704591669742441"
+                },
+                {
+                    "text": "It might be difficult for you to take down this new boss using your <b>previous settings</b>.",
+                    "uid": "3136734008938419"
+                },
+                {
+                    "text": "Here's a <b>tip</b> for defeating them though. Try tapping the <b>Skill</b> button!",
+                    "uid": "3659875264189989"
+                },
+                {
+                    "text": "This is where you can view the <b>skills of you and your party members</b> and adjust your settings.",
+                    "uid": "1655971425678561"
+                },
+                {
+                    "text": "<b>Skills</b> refer to <b>various abilities</b> that deal damage to monsters and heal your party members.",
+                    "uid": "1796541105933835"
+                },
+                {
+                    "text": "Make sure to explore a wide range of skills as some skills can even stun monsters or block them from casting skills!",
+                    "uid": "1693266613386664"
+                },
+                {
+                    "text": "Each time your characters perform a <b>Basic Attack</b>, they <b>recover 1 MP</b>. Once you have enough MP, <b>skills are cast automatically</b>.",
+                    "uid": "2651019308394797"
+                },
+                {
+                    "text": "Each characters can use <b>4 skills</b> in one battle.",
+                    "uid": "4305808440872346"
+                },
+                {
+                    "text": "Skills are triggered based on the <b>order displayed</b> here in this Boss Battle, so it's important to take their types and order into consideration.",
+                    "uid": "276625625681914"
+                },
+                {
+                    "text": "After the fourth skill is cast, the order is <b>reset back to the first skill</b>.",
+                    "uid": "29190304661389"
+                },
+                {
+                    "text": "<b>Info regarding boss skills</b> is displayed here. You can view even more details by tapping the skill info icon. This is helpful when <b>preparing for any incoming attacks</b>.",
+                    "uid": "149205746537430"
+                },
+                {
+                    "text": "You can <b>drag</b> skills around to <b>swap their order</b>. Be sure to also check the order of the boss's skills beforehand.",
+                    "uid": "1291407728109571"
+                },
+                {
+                    "text": "Let's learn about how to <b>swap</b> skills! Tap the glowing area.",
+                    "uid": "3897313628342451"
+                },
+                {
+                    "text": "Here you can see the <b>highest-level skills</b> that you have.",
+                    "uid": "4184212907001015"
+                },
+                {
+                    "text": "Don't forget to <b>upgrade skills</b> at the Skill Lab to better equip yourself against even harder bosses!",
+                    "uid": "1353015668762516"
+                },
+                {
+                    "text": "Let's <b>select a skill</b> to swap this time. Tap the highlighted skill icon.",
+                    "uid": "1121026586890922"
+                },
+                {
+                    "text": "Tap the <b>Swap</b> button.",
+                    "uid": "3852160270614086"
+                },
+                {
+                    "text": "Nice! You just <b>swapped</b> a skill in the <b>first slot</b>.",
+                    "uid": "1446305347307818"
+                },
+                {
+                    "text": "Tap the <b>'X' button</b> to exit the Skill Swap window.",
+                    "uid": "804088405349752"
+                },
+                {
+                    "text": "All you need to do is tap the <b>Save Settings</b> button, and you're <b>done</b>! Easy, right?",
+                    "uid": "4047811008173856"
+                },
+                {
+                    "text": "Before you engage a boss, make sure to <b>look over it</b> beforehand and <b>adjust your skills</b> accordingly. Remember this drill, and your adventure is sure to go a lot smoother!",
+                    "uid": "833845542290692"
+                },
+                {
+                    "text": "Let's dive deeper into how a battle actually works. Tap the <b>Timeline</b>.",
+                    "uid": "205652232375541"
+                },
+                {
+                    "text": "The Timeline is where you can see the skill timings of <b>bosses</b> and your <b>allies</b> in greater detail!",
+                    "uid": "2205758202532033"
+                },
+                {
+                    "text": "You'll definitely gain an edge in battle if you <b>assign your skills based on when bosses decide to use theirs</b>!",
+                    "uid": "3330662553620004"
+                },
+                {
+                    "text": "Tap the <b>nametags</b> of your allies to see their <b>damage dealt, damage received, and healing</b>. All of this helps you better assess the situation.",
+                    "uid": "2223512256507719"
+                },
+                {
+                    "text": "Admittedly, I'm not the best at assigning skills or <b>predicting</b> when a boss will do one, but I'm sure you'll do just fine!",
+                    "uid": "3152804867958747"
+                },
+                {
+                    "text": "If you find that you're having trouble against bosses alone, you can <b>recruit party members</b> you help fight alongside you. ",
+                    "uid": "4105013129038413"
+                },
+                {
+                    "text": "An adventure's not an adventure without a <b>party</b>! Let's tap the <b>Party</b> button.",
+                    "uid": "3959855620603075"
+                },
+                {
+                    "text": "This is where you can view <b>info for your party</b>. Right now, you're the only one in it, but once you accept party members or join a party, you'll be able to see even more information.",
+                    "uid": "1585851561616300"
+                },
+                {
+                    "text": "Let me teach you how to <b>recruit party members</b> or <b>join a party</b>!",
+                    "uid": "4316549309780810"
+                },
+                {
+                    "text": "To <b>recruit</b> party members, tap the <b>Invite</b> button.",
+                    "uid": "2876136002520407"
+                },
+                {
+                    "text": "<b>Adventurers that you can invite to your party</b> will be shown here.",
+                    "uid": "618911838334291"
+                },
+                {
+                    "text": "Select <b>specific classes</b> for your party or set your <b>criteria</b> to <b>search for specific adventurers</b>.",
+                    "uid": "1423528070407877"
+                },
+                {
+                    "text": "You can see <b>adventurers that apply</b> for your party in <b>Applicants</b>.",
+                    "uid": "3510181342311231"
+                },
+                {
+                    "text": "Make sure to check this list often because you'll never know when you'll come across good talent!",
+                    "uid": "962740159451996"
+                },
+                {
+                    "text": "Let me teach you how to <b>join a party</b>. Tap the 'X' button.",
+                    "uid": "164543794149659"
+                },
+                {
+                    "text": "Tap the <b>Party List</b> tab.",
+                    "uid": "134786657208655"
+                },
+                {
+                    "text": "This will display a <b>list of parties</b> you're able to join.",
+                    "uid": "2345993576666539"
+                },
+                {
+                    "text": "Parties are suggested to you based on their <b>current progress and CP</b>, so you should have no trouble finding one that's <b>appropriate for your level</b>.",
+                    "uid": "920035539715134"
+                },
+                {
+                    "text": "<b>Tap a party</b> on the Party List to <b>apply</b>.",
+                    "uid": "1636874085929060"
+                },
+                {
+                    "text": "Some parties allow you to <b>join automatically</b>, but others require <b>approval</b> before you can join.",
+                    "uid": "248248811994503"
+                },
+                {
+                    "text": "This information shows the party's <b>current progress</b>. You can compare it with your own. ",
+                    "uid": "2989320016277213"
+                },
+                {
+                    "text": "When you join a party, <b>all members will have their progress adjusted to the lower of the two</b>, so keep this in mind when you form a new party or join one.",
+                    "uid": "138228442827210"
+                },
+                {
+                    "text": "That's it for parties! Now, go out there with your party and overcome whatever stands in your way!",
+                    "uid": "3586442948712720"
+                },
+                {
+                    "text": "Nice! You can now enter the <b>Domain</b>!",
+                    "uid": "516114513620519"
+                },
+                {
+                    "text": "Want to see what you can do there? Let's check it out!",
+                    "uid": "2373327553454553"
+                },
+                {
+                    "text": "The Domain is where you'll find <b>buildings that help you progress</b>.",
+                    "uid": "3348308753605777"
+                },
+                {
+                    "text": "At first, you won't have access to every building... ",
+                    "uid": "2980021502007118"
+                },
+                {
+                    "text": "But as you continue <b>further along on your adventure</b>, you'll eventually gain access to more of them, so make sure to keep at it!",
+                    "uid": "4376198408873631"
+                },
+                {
+                    "text": "See, isn't it a lot easier when you adjust your skills based on <b>Element</b>?",
+                    "uid": "4177014090654357"
+                },
+                {
+                    "text": "It's important to use different skills and change your settings,",
+                    "uid": "237509133229154"
+                },
+                {
+                    "text": "but it's also crucial that you <b>enhance</b> those same skills and <b>improve their stats</b>.",
+                    "uid": "1814090113695883"
+                },
+                {
+                    "text": "Let me teach you how to <b>enhance skills</b> this time! ",
+                    "uid": "1710815621148712"
+                },
+                {
+                    "text": "Follow me to the <b>Domain</b>!",
+                    "uid": "106657099922462"
+                },
+                {
+                    "text": "Even if you get your hands on new skills, they might not be that effective against powerful monsters unless you <b>enhance</b> or <b>fuse</b> them.",
+                    "uid": "2246135908972416"
+                },
+                {
+                    "text": "Let me give you a quick rundown on skills. Follow me to the <b>Skill Lab</b>.",
+                    "uid": "434287480915478"
+                },
+                {
+                    "text": "This is the <b>Enhance</b> tab. You can <b>enhance your skills</b> here.",
+                    "uid": "843182336881978"
+                },
+                {
+                    "text": "Enhancing skills <b>increases their level</b>. ",
+                    "uid": "4244889561197483"
+                },
+                {
+                    "text": "Enhancing skills boosts their effects and allows you to take on more powerful monsters!",
+                    "uid": "4423090045472328"
+                },
+                {
+                    "text": "Let's try <b>enhancing a skill</b> now.",
+                    "uid": "1318353530475422"
+                },
+                {
+                    "text": "<b>Tap</b> a skill.",
+                    "uid": "2922512051701672"
+                },
+                {
+                    "text": "Once you tap the <b>Enhance Skill</b> button, your enhance is <b>complete</b>. Easy, right?",
+                    "uid": "885110893836821"
+                },
+                {
+                    "text": "Enhancing skills requires <b>Skill Scrolls</b>, <b>Gold</b>, and <b>Element Skill Scrolls</b>.",
+                    "uid": "2029955303058294"
+                },
+                {
+                    "text": "You can obtain <b>Skill Scrolls</b> and <b>Gold</b> from <b>Auto Battle in Adventure</b>.",
+                    "uid": "2785275939837081"
+                },
+                {
+                    "text": "<b>Element Skill Scrolls</b> can be found in the <b>Ancient Fortress</b>. It's important for you to collect them on a regular basis!",
+                    "uid": "3019695487878377"
+                },
+                {
+                    "text": "This is the <b>Enhance</b> tab. You can <b>enhance your skills</b> here.",
+                    "uid": "1248656064757929"
+                },
+                {
+                    "text": "Enhancing skills <b>increases their level</b>. ",
+                    "uid": "126018085401264"
+                },
+                {
+                    "text": "Enhancing skills boosts their effects and allows you to take on more powerful monsters!",
+                    "uid": "3680798403954163"
+                },
+                {
+                    "text": "Let's try <b>enhancing a skill</b> now.",
+                    "uid": "2874836248030186"
+                },
+                {
+                    "text": "<b>Tap</b> a skill.",
+                    "uid": "10579513988564"
+                },
+                {
+                    "text": "Once you tap the <b>Enhance Skill</b> button, your enhance is <b>complete</b>. Easy, right?",
+                    "uid": "783344896894513"
+                },
+                {
+                    "text": "Enhancing skills requires <b>Skill Scrolls</b>, <b>Gold</b>, and <b>Element Skill Scrolls</b>.",
+                    "uid": "1421181706199203"
+                },
+                {
+                    "text": "You can obtain <b>Skill Scrolls</b> and <b>Gold</b> from <b>Auto Battle in Adventure</b>.",
+                    "uid": "3779678061389536"
+                },
+                {
+                    "text": "<b>Element Skill Scrolls</b> can be found in the <b>Ancient Fortress</b>. It's important for you to collect them on a regular basis!",
+                    "uid": "3250626966225837"
+                },
+                {
+                    "text": "Did you know that skills come with a cool <b>Inherit</b> feature? Let's move to the <b>Inherit tab</b>.",
+                    "uid": "2130748553575108"
+                },
+                {
+                    "text": "This is where you can use the Inherit feature for your skills.",
+                    "uid": "2529943180367072"
+                },
+                {
+                    "text": "When you obtain a <b>higher grade skill than one you've already enhanced</b>,",
+                    "uid": "171446825176739"
+                },
+                {
+                    "text": "you can <b>pass on the enhanced skill's level to the higher grade one</b>.",
+                    "uid": "4073432529646178"
+                },
+                {
+                    "text": "In return, the <b>level of the enhanced skill</b> resets to <b>1</b>.",
+                    "uid": "3509337859700885"
+                },
+                {
+                    "text": "Basically, you can easily <b>switch over</b> to a new skill that's <b>stronger</b>!",
+                    "uid": "2122593676392517"
+                },
+                {
+                    "text": "I'll let you know when you're able to use this feature, so make sure to visit the Skill Lab when the time comes.",
+                    "uid": "2688969424894610"
+                },
+                {
+                    "text": "Skills can also be <b>fused</b>! Let's move to the <b>Fuse tab</b>.",
+                    "uid": "3156188862813219"
+                },
+                {
+                    "text": "You can <b>fuse your skills</b> in this tab.",
+                    "uid": "3722261064412647"
+                },
+                {
+                    "text": "Keep in mind that skills also need to be <b>identical</b> and the <b>same element</b>.",
+                    "uid": "611890963841092"
+                },
+                {
+                    "text": "Let me show you how it's done.",
+                    "uid": "3990586240123617"
+                },
+                {
+                    "text": "Don't worry! I'll take you through the process step by step.",
+                    "uid": "2423722906605470"
+                },
+                {
+                    "text": "First, <b>select a skill to fuse</b>.",
+                    "uid": "3021530320534499"
+                },
+                {
+                    "text": "Next, <b>select a skill</b> to be used as <b>material</b>.",
+                    "uid": "477211301135876"
+                },
+                {
+                    "text": "Tap the <b>Fuse</b> button to complete the process!",
+                    "uid": "65879855942381"
+                },
+                {
+                    "text": "Fusing skills increases the <b>grade of the target skill</b>.",
+                    "uid": "2307647469394635"
+                },
+                {
+                    "text": "A higher grade skill is <b>more effective</b> and can be enhanced to <b>higher levels</b>.",
+                    "uid": "4152857426263095"
+                },
+                {
+                    "text": "Make sure to collect as many skills as you can to produce higher-level skills!",
+                    "uid": "1321660188024596"
+                },
+                {
+                    "text": "We're almost done! Let's learn how to <b>reset</b> skills.",
+                    "uid": "1089671106153002"
+                },
+                {
+                    "text": "You can <b>reset the Enhance Level</b> of skills here.",
+                    "uid": "3495526029459270"
+                },
+                {
+                    "text": "Once you do, you can <b>get back</b> every <b>Skill Scroll</b> and <b>Element Skill Scroll</b> you've used to enhance your skills.",
+                    "uid": "589040484355711"
+                },
+                {
+                    "text": "However, <b>Gold you've used won't be refunded</b>, so think carefully when you decide to reset your skills.",
+                    "uid": "574874043339164"
+                },
+                {
+                    "text": "Whew! That about wraps it up for the Skill Lab. I'm looking forward to seeing how much more powerful you get with this feature!",
+                    "uid": "3909848120587390"
+                },
+                {
+                    "text": "Now then, allow me to show you how to make your <b>gear</b> more <b>powerful</b>.",
+                    "uid": "4200406651624164"
+                },
+                {
+                    "text": "Follow me to the <b>Refinery</b>!",
+                    "uid": "1507818918046138"
+                },
+                {
+                    "text": "You can <b>enhance</b>, <b>fuse</b> and <b>scrap</b> your gear in the Refinery.",
+                    "uid": "1098924062079638"
+                },
+                {
+                    "text": "Let's learn about <b>enhancing gear</b> first.",
+                    "uid": "2698319222903759"
+                },
+                {
+                    "text": "<b>Enhancing gear</b> increases their <b>main stats and sub stats</b>.",
+                    "uid": "148596961487276"
+                },
+                {
+                    "text": "<b>Each part</b> comes with a <b>different stat</b>, so be sure to check them first before enhancing!",
+                    "uid": "2296396691047754"
+                },
+                {
+                    "text": "Here's how it's done.",
+                    "uid": "643888637127261"
+                },
+                {
+                    "text": "<b>Select</b> gear to enhance.",
+                    "uid": "855983383787351"
+                },
+                {
+                    "text": "After that, all you need to do is press the <b>Enhance</b> button!",
+                    "uid": "1241011569562768"
+                },
+                {
+                    "text": "You'll need <b>Iron Ores and Gold</b> to enhance gear.",
+                    "uid": "3906975079045317"
+                },
+                {
+                    "text": "Iron Ores can be obtained from Adventure and Dungeons.",
+                    "uid": "4164208807443557"
+                },
+                {
+                    "text": "You can <b>enhance</b>, <b>fuse</b> and <b>scrap</b> your gear in the Refinery.",
+                    "uid": "3964422610319341"
+                },
+                {
+                    "text": "Let's learn about <b>enhancing gear</b> first.",
+                    "uid": "4375754055512836"
+                },
+                {
+                    "text": "<b>Enhancing gear</b> increases their <b>main stats and sub stats</b>.",
+                    "uid": "1293695740434599"
+                },
+                {
+                    "text": "<b>Each part</b> comes with a <b>different stat</b>, so be sure to check them first before enhancing!",
+                    "uid": "4084438052195126"
+                },
+                {
+                    "text": "Here's how it's done.",
+                    "uid": "3150908780268633"
+                },
+                {
+                    "text": "<b>Select</b> gear to enhance.",
+                    "uid": "2416473447540963"
+                },
+                {
+                    "text": "After that, all you need to do is press the <b>Enhance</b> button!",
+                    "uid": "930869851542789"
+                },
+                {
+                    "text": "You'll need <b>Iron Ores and Gold</b> to enhance gear.",
+                    "uid": "1901719096218620"
+                },
+                {
+                    "text": "Iron Ores can be obtained from Adventure and Dungeons.",
+                    "uid": "2018478969466961"
+                },
+                {
+                    "text": "Time to learn about how to <b>fuse gear</b>.",
+                    "uid": "2261696666361991"
+                },
+                {
+                    "text": "You can <b>fuse gear</b> in the Fuse tab.",
+                    "uid": "1972516309146435"
+                },
+                {
+                    "text": "Fusing gear yields new pieces that are <b>higher grade</b>.",
+                    "uid": "2360687778808960"
+                },
+                {
+                    "text": "If this happens, the <b>gear's level resets to 1</b>, but it'll be more <b>effective in Enhance</b> than the grade before it.",
+                    "uid": "806807716300085"
+                },
+                {
+                    "text": "You need <b>two maxed-out pieces of gear</b> that are the <b>same grade and part</b> to fuse them.",
+                    "uid": "1089427409423106"
+                },
+                {
+                    "text": "Fusing gear also <b>affects their stats</b>.",
+                    "uid": "1864979529593516"
+                },
+                {
+                    "text": "The <b>material gear's main stats</b> affect <b>those of the target gear's</b>.",
+                    "uid": "4414701791009999"
+                },
+                {
+                    "text": "The <b>material gear's sub stats</b> affect <b>those of the target gear's</b>.",
+                    "uid": "3355894688856962"
+                },
+                {
+                    "text": "Sometimes <b>completely different stats</b> are applied at a rare chance, but it all depends on the <b>material gear</b>. Keep this in mind when you choose material.",
+                    "uid": "3073274995733941"
+                },
+                {
+                    "text": "Allow me to show you the <b>Scrap</b> feature this time. Don't worry, it's really easy to use!",
+                    "uid": "2122309083097387"
+                },
+                {
+                    "text": "You can <b>scrap your gear</b> in the <b>Scrap</b> tab.",
+                    "uid": "24564318425351"
+                },
+                {
+                    "text": "Scrapping a piece of gear will make it disappear.",
+                    "uid": "1966695714113795"
+                },
+                {
+                    "text": "In return, you'll receive <b>Iron Ores</b> based on the <b>Enhance grade and level</b>.",
+                    "uid": "4043695972055872"
+                },
+                {
+                    "text": "That's it for the Refinery!",
+                    "uid": "4394564087985657"
+                },
+                {
+                    "text": "Gear is at the <b>core of an adventurer's strength</b>. Make sure to visit the Refinery often!",
+                    "uid": "824493732541654"
+                },
+                {
+                    "text": "You've just earned a piece of <b>gear</b> from the last battle! Let's learn how to <b>equip</b> gear.",
+                    "uid": "4198204135047342"
+                },
+                {
+                    "text": "Follow me to the <b>Character</b> tab!",
+                    "uid": "4172860789440284"
+                },
+                {
+                    "text": "This is where you can view your <b>CP</b> and all sorts of other <b>stats</b>.",
+                    "uid": "114028748984022"
+                },
+                {
+                    "text": "<b>CP</b> increases each time you <b>upgrade your gear, skills, and Relics</b>. It also goes up when your <b>stats increase</b>.",
+                    "uid": "3684099104428025"
+                },
+                {
+                    "text": "CP is an indicator for <b>how strong you are</b> compared to others. Make sure to hone your skills and increase your CP to remain competitive!",
+                    "uid": "2934036361706276"
+                },
+                {
+                    "text": "Let's learn how to <b>equip gear</b>.",
+                    "uid": "1826886064593991"
+                },
+                {
+                    "text": "You can equip gear by tapping a <b>gear slot</b>.",
+                    "uid": "4102831313540616"
+                },
+                {
+                    "text": "Gear comes in <b>six different parts</b>, and each part needs to be <b>evenly upgraded</b> in order for you to gain <b>essential stats</b> for your adventure.",
+                    "uid": "1206032472746612"
+                },
+                {
+                    "text": "Let's <b>equip</b> the head piece you've just obtained.",
+                    "uid": "1255518367696778"
+                },
+                {
+                    "text": "<b>Tap</b> the <b>head slot</b>.",
+                    "uid": "200154366638288"
+                },
+                {
+                    "text": "If you tap a gear slot, you can see the <b>list of gear</b> you have.",
+                    "uid": "740721304883196"
+                },
+                {
+                    "text": "<b>Select</b> a piece of head gear.",
+                    "uid": "3632948892969667"
+                },
+                {
+                    "text": "Tap <b>Equip</b>.",
+                    "uid": "807154896749284"
+                },
+                {
+                    "text": "See how it's equipped? Now you just need to do the same for the rest of the parts.",
+                    "uid": "1516274387486763"
+                },
+                {
+                    "text": "Make sure to visit the Character menu whenever you earn new pieces of gear!",
+                    "uid": "4179593886777734"
+                },
+                {
+                    "text": "You now have access to the <b>Ancient Fortress</b>.",
+                    "uid": "613647520366871"
+                },
+                {
+                    "text": "Hurry! Let's head to the World Map!",
+                    "uid": "2402788662321225"
+                },
+                {
+                    "text": "It's a World Dungeon that nets you Skill Scrolls of different <b>Elements</b>.",
+                    "uid": "3757627071559070"
+                },
+                {
+                    "text": "Different Elements of the fortress appear <b>every day</b>, so you might want to clear this dungeon <b>on a daily basis</b> if you want to enhance your skills!",
+                    "uid": "2972378189052591"
+                },
+                {
+                    "text": "The <b>difficulty and rewards</b> for the Ancient Fortress increase <b>based on your party's level</b>.",
+                    "uid": "422655927636108"
+                },
+                {
+                    "text": "That means the more progress you make, the better rewards you'll get! On the contrary, bosses will be a lot tougher...",
+                    "uid": "3324384434920469"
+                },
+                {
+                    "text": "Speaking of which, why don't we try <b>challenging</b> the <b>Ancient Fortress</b> ourselves?",
+                    "uid": "4490093027766819"
+                },
+                {
+                    "text": "Looks like the <b>U. Labyrinth</b> has been discovered.",
+                    "uid": "2514325687853828"
+                },
+                {
+                    "text": "Let's go check it out!",
+                    "uid": "2223009684536118"
+                },
+                {
+                    "text": "You now have access to the <b>U. Labyrinth</b>!",
+                    "uid": "592659171910942"
+                },
+                {
+                    "text": "It's a World Dungeon consisting of <b>50 floors</b>.",
+                    "uid": "1761287655358476"
+                },
+                {
+                    "text": "You can earn more rewards by clearing <b>deeper floors</b>.",
+                    "uid": "4311009916774959"
+                },
+                {
+                    "text": "You can only receive your rewards <b>once</b> when you clear the U. Labyrinth. The U. Labyrinth also <b>resets every 30 days</b>. ",
+                    "uid": "723511205217634"
+                },
+                {
+                    "text": "Once it resets, you can challenge the Labyrinth <b>again from the first floor</b> and earn <b>new rewards</b>.",
+                    "uid": "159416535272341"
+                },
+                {
+                    "text": "Basically, you're going to want to try and reach the <b>deepest floor possible within 30 days</b>!",
+                    "uid": "3683621483309024"
+                },
+                {
+                    "text": "Since it's available now, how about we dive right in?",
+                    "uid": "3046267846134191"
+                },
+                {
+                    "text": "You're finally outside the Royal Castle Entrance! I expected nothing less from you!",
+                    "uid": "1788147608139810"
+                },
+                {
+                    "text": "You now have access to the <b>World Map</b>! Let's take a look!",
+                    "uid": "1418570246823628"
+                },
+                {
+                    "text": "This is the <b>World Map</b>.",
+                    "uid": "2095156961003440"
+                },
+                {
+                    "text": "You can access a wide range of <b>World Dungeons</b> in the World Map.",
+                    "uid": "3217794940360105"
+                },
+                {
+                    "text": "For now, you can enter an <b>Instance Dungeon</b>.",
+                    "uid": "775905534040326"
+                },
+                {
+                    "text": "Each time you clear an area, an <b>Instance Dungeon</b> is <b>randomly</b> generated in the area.",
+                    "uid": "25841023636727"
+                },
+                {
+                    "text": "See this <b>exclamation mark</b> here?",
+                    "uid": "1216537931319677"
+                },
+                {
+                    "text": "By tapping it, you can <b>accept a dungeon quest</b>.",
+                    "uid": "340375496261866"
+                },
+                {
+                    "text": "Once you accept the quest, a <b>dungeon is generated</b>, and a <b>time limit</b> will appear.",
+                    "uid": "434735879602971"
+                },
+                {
+                    "text": "Once time is up, the dungeon will disappear, and you won't be able to access it anymore. Be sure to <b>clear it before time runs out</b>.",
+                    "uid": "2231433296146488"
+                },
+                {
+                    "text": "Don't worry, though. You can always just <b>accept the next quest</b> and enter a new dungeon!",
+                    "uid": "503634024984462"
+                },
+                {
+                    "text": "Look here! This indicates the <b>Danger Level</b> of the world your party is in.",
+                    "uid": "4460585785829435"
+                },
+                {
+                    "text": "The <b>higher the Danger Level</b>, the <b>higher the dungeon grade</b>, which lets you come across <b>better rewards</b> and stronger monsters.",
+                    "uid": "69255026089938"
+                },
+                {
+                    "text": "Danger Level <b>increases</b> each time your party clears a <b>dungeon</b> and decreases whenever an uncleared dungeon closes.",
+                    "uid": "2599082997750405"
+                },
+                {
+                    "text": "In other words, playing dungeons consistently is key to getting better rewards!",
+                    "uid": "3569932242426236"
+                },
+                {
+                    "text": "Let's accept a quest this time! <b>Tap the exclamation mark</b> on the dungeon.",
+                    "uid": "298155812896294"
+                },
+                {
+                    "text": "Tapping the exclamation mark will show you more details about a quest.",
+                    "uid": "4454494729458713"
+                },
+                {
+                    "text": "Once you tap OK, you'll accept the quest and <b>enter an Instance Dungeon</b>.",
+                    "uid": "3699174092679926"
+                },
+                {
+                    "text": "Keep in mind that a quest accepted by a party member is <b>shared with the rest of the party</b>.",
+                    "uid": "3720038276304803"
+                },
+                {
+                    "text": "Tap OK to accept the <b>quest</b>!",
+                    "uid": "1045883908960941"
+                },
+                {
+                    "text": "How about we check out new dungeon that was created?",
+                    "uid": "1175740377332676"
+                },
+                {
+                    "text": "Tap the <b>Instance Dungeon</b>.",
+                    "uid": "2987572320097054"
+                },
+                {
+                    "text": "When you enter a dungeon, you can see its <b>boss</b> as well as the <b>rewards</b>.",
+                    "uid": "2505205196950278"
+                },
+                {
+                    "text": "See the <b>Party Reward and Clear Reward</b>? Here's how they work.",
+                    "uid": "443494975899561"
+                },
+                {
+                    "text": "Clear a dungeon to <b>instantly</b> earn a <b>Clear Reward</b>. ",
+                    "uid": "3709018052500692"
+                },
+                {
+                    "text": "<b>Clear a dungeon with party members</b> to earn the <b>Party Reward</b>. The Party Reward is given to <b>everyone in the party</b>.",
+                    "uid": "1755140686546679"
+                },
+                {
+                    "text": "That means you'll earn the most rewards when your entire party manages to clear a dungeon.",
+                    "uid": "2069675159171818"
+                },
+                {
+                    "text": "Party Rewards also include <b>Ancient Coins</b>. Use them to buy various items at the <b>Ancient Shop</b>.",
+                    "uid": "2945837594229629"
+                },
+                {
+                    "text": "Let's give it a try!",
+                    "uid": "3960732959056440"
+                },
+                {
+                    "text": "Tap Challenge to take on the Instance Dungeon.",
+                    "uid": "2550358554678899"
+                },
+                {
+                    "text": "You now have access to the <b>Tower of Knowledge</b> in your Domain.",
+                    "uid": "3550418511084997"
+                },
+                {
+                    "text": "All right then! I'll show you how you can <b>obtain skills</b>. To the Tower of Knowledge!",
+                    "uid": "4258521377069087"
+                },
+                {
+                    "text": "You can obtain skills by <b>researching</b> them in the Tower of Knowledge.",
+                    "uid": "2034200506428795"
+                },
+                {
+                    "text": "To research skills, you'll need <b>Research Tickets</b>, as well as <b>Blue Gems or Red Gems</b>.",
+                    "uid": "1939840123087434"
+                },
+                {
+                    "text": "<b>Research Mileage</b> is accrued each time you research skills, which will earn you even more rewards.",
+                    "uid": "675279689466029"
+                },
+                {
+                    "text": "Let's try researching some skills.",
+                    "uid": "805136157837764"
+                },
+                {
+                    "text": "Hope you end up getting some good ones!",
+                    "uid": "3328569873185014"
+                },
+                {
+                    "text": "You can obtain skills by <b>researching</b> them in the Tower of Knowledge.",
+                    "uid": "942915877853908"
+                },
+                {
+                    "text": "To research skills, you'll need <b>Research Tickets</b>, as well as <b>Blue Gems or Red Gems</b>.",
+                    "uid": "179735419582845"
+                },
+                {
+                    "text": "<b>Research Mileage</b> is accrued each time you research skills, which will earn you even more rewards.",
+                    "uid": "109535140449011"
+                },
+                {
+                    "text": "Let's try researching some skills.",
+                    "uid": "4242702649673990"
+                },
+                {
+                    "text": "Hope you end up getting some good ones!",
+                    "uid": "196129733168476"
+                },
+                {
+                    "text": "You can now enter the <b>Archeology Lab</b>.",
+                    "uid": "4065742646667013"
+                },
+                {
+                    "text": "This is where all sorts of archeologists will support you on your adventure. Let's head inside.",
+                    "uid": "1970293673901070"
+                },
+                {
+                    "text": "In the Archeology Lab, you can go on an <b>Exploration</b> or <b>research Reliquaries</b> to <b>upgrade Relics</b>.",
+                    "uid": "1047789326785930"
+                },
+                {
+                    "text": "I'll start by going over <b>Exploration</b>.",
+                    "uid": "3617405923413917"
+                },
+                {
+                    "text": "This is the <b>list of available Explorations</b>.",
+                    "uid": "1391038356764890"
+                },
+                {
+                    "text": "After you begin an Exploration, you can <b>earn the rewards</b> on the left after a <b>certain amount of time</b>.",
+                    "uid": "2695000816408359"
+                },
+                {
+                    "text": "If you're in a hurry, you can use <b>Gems</b> to <b>instantly complete</b> an Exploration you're on!",
+                    "uid": "1273459504116100"
+                },
+                {
+                    "text": "Normally, Explorations take a while to complete, but I'll let you complete one right away this time.",
+                    "uid": "48614228871897"
+                },
+                {
+                    "text": "Wanna see how it works?",
+                    "uid": "982143500798390"
+                },
+                {
+                    "text": "Tap the <b>Exploration</b> button.",
+                    "uid": "4487424969999264"
+                },
+                {
+                    "text": "Exploration is complete! Let's go ahead and <b>claim</b> our rewards!",
+                    "uid": "1289448313076805"
+                },
+                {
+                    "text": "You've just earned a reward for completing an Exploration!",
+                    "uid": "601374272194382"
+                },
+                {
+                    "text": "Whenever you complete an Exploration, you can <b>go on another</b> right after.",
+                    "uid": "3258777633669400"
+                },
+                {
+                    "text": "I'll show you how to increase your <b>slots</b> so you can do more Explorations.",
+                    "uid": "4276829935791099"
+                },
+                {
+                    "text": "Check it out. Your <b>Exploration Level</b> and the number of <b>archeologists currently exploring</b> are displayed.",
+                    "uid": "2529961498529245"
+                },
+                {
+                    "text": "You can increase your <b>Exploration Level</b> by <b>earning EXP</b> each time you complete an Exploration.",
+                    "uid": "4443204451813483"
+                },
+                {
+                    "text": "A <b>higher level means you can go on more Explorations</b>.",
+                    "uid": "399301405965832"
+                },
+                {
+                    "text": "That's it for Exploration! Let's take a look at the <b>Research</b> feature.",
+                    "uid": "202496696197118"
+                },
+                {
+                    "text": "In the <b>Research</b> tab, you can <b>research Reliquaries</b> you earn from Exploration.",
+                    "uid": "1173190430202562"
+                },
+                {
+                    "text": "<b>Researching Reliquaries</b> nets you <b>Relics</b>!",
+                    "uid": "2056300450351875"
+                },
+                {
+                    "text": "I'll tell you more about the <b>Relics</b> in the <b>Upgrade</b> tab. Let's head on over there.",
+                    "uid": "724580166382728"
+                },
+                {
+                    "text": "<b>Relics</b> are imbued with special abilities and <b>used alongside skills</b>.",
+                    "uid": "4229678681904492"
+                },
+                {
+                    "text": "Once you set them up with skills, they are <b>used automatically when skills are triggered</b>, similar to passive skills.",
+                    "uid": "1149922481314959"
+                },
+                {
+                    "text": "Each Relic comes with a <b>unique ability</b>.",
+                    "uid": "1498469190619458"
+                },
+                {
+                    "text": "How about we try <b>upgrading</b> a Relic? Tap the <b>Relic</b>.",
+                    "uid": "4458579468710848"
+                },
+                {
+                    "text": "To upgrade a Relic, you'll need an <b>identical one that's the same grade</b>.",
+                    "uid": "2868529526961755"
+                },
+                {
+                    "text": "Once you collect <b>sufficient Relics</b> for a given grade, you can proceed by tapping <b>Upgrade</b>.",
+                    "uid": "1568981127592056"
+                },
+                {
+                    "text": "As it just so happens, we have two [R] Relics. Let's <b>upgrade</b> them right away!",
+                    "uid": "2694719164906098"
+                },
+                {
+                    "text": "You've just earned an <b>[R+]</b> Relic!",
+                    "uid": "113453365485894"
+                },
+                {
+                    "text": "Upgrading a Relic increases its <b>grade</b> and <b>stats</b>.",
+                    "uid": "3991542084551369"
+                },
+                {
+                    "text": "You can obtain Relics from Exploration.",
+                    "uid": "1180075316915408"
+                },
+                {
+                    "text": "Whew, the Archeology Lab is full of all sorts of neat things, huh. Shall we head back into the fray then?",
+                    "uid": "3322897571146131"
+                },
+                {
+                    "text": "In the Archeology Lab, you can go on an <b>Exploration</b> or <b>research Reliquaries</b> to <b>upgrade Relics</b>.",
+                    "uid": "3534705205723796"
+                },
+                {
+                    "text": "I'll start by going over <b>Exploration</b>.",
+                    "uid": "4460374656158269"
+                },
+                {
+                    "text": "This is the <b>list of available Explorations</b>.",
+                    "uid": "1575403537933235"
+                },
+                {
+                    "text": "After you begin an Exploration, you can <b>earn the rewards</b> on the left after a <b>certain amount of time</b>.",
+                    "uid": "835394058471792"
+                },
+                {
+                    "text": "If you're in a hurry, you can use <b>Gems</b> to <b>instantly complete</b> an Exploration you're on!",
+                    "uid": "3646860826107753"
+                },
+                {
+                    "text": "Normally, Explorations take a while to complete, but I'll let you complete one right away this time.",
+                    "uid": "1204971419787974"
+                },
+                {
+                    "text": "Wanna see how it works?",
+                    "uid": "2802085502054911"
+                },
+                {
+                    "text": "Tap the <b>Exploration</b> button.",
+                    "uid": "2267314378214394"
+                },
+                {
+                    "text": "Exploration is complete! Let's go ahead and <b>claim</b> our rewards!",
+                    "uid": "2139894499069910"
+                },
+                {
+                    "text": "You've just earned a reward for completing an Exploration!",
+                    "uid": "3282096480642051"
+                },
+                {
+                    "text": "Whenever you complete an Exploration, you can <b>go on another</b> right after.",
+                    "uid": "1834891790547701"
+                },
+                {
+                    "text": "I'll show you how to increase your <b>slots</b> so you can do more Explorations.",
+                    "uid": "1646554208054293"
+                },
+                {
+                    "text": "Check it out. Your <b>Exploration Level</b> and the number of <b>archeologists currently exploring</b> are displayed.",
+                    "uid": "1294547962186415"
+                },
+                {
+                    "text": "You can increase your <b>Exploration Level</b> by <b>earning EXP</b> each time you complete an Exploration.",
+                    "uid": "3248425328140428"
+                },
+                {
+                    "text": "A <b>higher level means you can go on more Explorations</b>.",
+                    "uid": "3646660178211041"
+                },
+                {
+                    "text": "That's it for Exploration! Let's take a look at the <b>Research</b> feature.",
+                    "uid": "3787229858466315"
+                },
+                {
+                    "text": "In the <b>Research</b> tab, you can <b>research Reliquaries</b> you earn from Exploration.",
+                    "uid": "2054456432411100"
+                },
+                {
+                    "text": "<b>Researching Reliquaries</b> nets you <b>Relics</b>!",
+                    "uid": "98297987899839"
+                },
+                {
+                    "text": "I'll tell you more about the <b>Relics</b> in the <b>Upgrade</b> tab. Let's head on over there.",
+                    "uid": "2772478071765221"
+                },
+                {
+                    "text": "<b>Relics</b> are imbued with special abilities and <b>used alongside skills</b>.",
+                    "uid": "3574007960002481"
+                },
+                {
+                    "text": "Once you set them up with skills, they are <b>used automatically when skills are triggered</b>, similar to passive skills.",
+                    "uid": "2801242577096532"
+                },
+                {
+                    "text": "Each Relic comes with a <b>unique ability</b>.",
+                    "uid": "847365211142519"
+                },
+                {
+                    "text": "How about we try <b>upgrading</b> a Relic? Tap the <b>Relic</b>.",
+                    "uid": "781581244838564"
+                },
+                {
+                    "text": "To upgrade a Relic, you'll need an <b>identical one that's the same grade</b>.",
+                    "uid": "1180775871630528"
+                },
+                {
+                    "text": "Once you collect <b>sufficient Relics</b> for a given grade, you can proceed by tapping <b>Upgrade</b>.",
+                    "uid": "1531643987560313"
+                },
+                {
+                    "text": "As it just so happens, we have two [R] Relics. Let's <b>upgrade</b> them right away!",
+                    "uid": "2375718511605135"
+                },
+                {
+                    "text": "You've just earned an <b>[R+]</b> Relic!",
+                    "uid": "306252797005976"
+                },
+                {
+                    "text": "Upgrading a Relic increases its <b>grade</b> and <b>stats</b>.",
+                    "uid": "3406898852285970"
+                },
+                {
+                    "text": "You can obtain Relics from Exploration.",
+                    "uid": "2840523103783877"
+                },
+                {
+                    "text": "Whew, the Archeology Lab is full of all sorts of neat things, huh. Shall we head back into the fray then?",
+                    "uid": "715147652972476"
+                },
+                {
+                    "text": "Welcome! You must be a first-time customer here!",
+                    "uid": "456187197679260"
+                },
+                {
+                    "text": "The Shop consists of the <b>General Shop, Black Market, and Ancient Shop</b>.",
+                    "uid": "4270412557196197"
+                },
+                {
+                    "text": "The <b>General Shop</b> allows you to buy common items using <b>Gold and Blue Gems</b>.",
+                    "uid": "1454505355849074"
+                },
+                {
+                    "text": "You can buy rare items using <b>Blue Gems and Red Gems</b> in the <b>Black Market</b>.",
+                    "uid": "1628315717904731"
+                },
+                {
+                    "text": "The <b>Ancient Shop</b> only deals with extremely rare <b>items of the highest grade</b>.",
+                    "uid": "328767318535032"
+                },
+                {
+                    "text": "That's why, in order to buy them, you'll need <b>Ancient Coins</b>.",
+                    "uid": "568342818063217"
+                },
+                {
+                    "text": "You already know how to earn Ancient Coins, right? You can earn them by clearing dungeons with your party members.",
+                    "uid": "481530543286318"
+                },
+                {
+                    "text": "That's it for the Shop!",
+                    "uid": "4034170580603191"
+                },
+                {
+                    "text": "You know, I kinda feel like doing some shopping myself! See you later!",
+                    "uid": "1202973342364692"
+                },
+                {
+                    "text": "Since you're in the Domain, let me explain what the <b>Adventurer Alliance</b> is.",
+                    "uid": "2864661665214383"
+                },
+                {
+                    "text": "This is the <b>Adventurer Alliance</b>. It's an important place for every new adventurer.",
+                    "uid": "750469441576616"
+                },
+                {
+                    "text": "<b>Tap</b> <b>Adventurer Alliance</b>.",
+                    "uid": "853743934123787"
+                },
+                {
+                    "text": "Welcome to the <b>Adventurer Alliance</b>!",
+                    "uid": "444849078157543"
+                },
+                {
+                    "text": "Did you forget? You're already a member!",
+                    "uid": "1137717370215547"
+                },
+                {
+                    "text": "You'll be in the <b>Adventurer Alliance League</b> for the first <b>15 days</b>.",
+                    "uid": "119665068093848"
+                },
+                {
+                    "text": "After that, you can <b>officially</b> join the Adventurer Alliance and go exploring with <b>any adventurer in the Rohan Kingdom</b>.",
+                    "uid": "2334148585587985"
+                },
+                {
+                    "text": "<b>Every 5 days</b>, the Adventurer Alliance League selects the <b>best adventurer</b> and provides a reward.",
+                    "uid": "1965861333989326"
+                },
+                {
+                    "text": "As for how to win... They choose the adventurer who has the <b>highest progress</b>.",
+                    "uid": "3362038240855839"
+                },
+                {
+                    "text": "So keep a trying for a chance to win! Oh, don't forget my share when you win. After all, it'll be all thanks to my advice!",
+                    "uid": "528559924060348"
+                },
+                {
+                    "text": "Let's learn how to <b>equip</b> <b>Relics</b> earned from the Archeology Lab.",
+                    "uid": "1815189211233459"
+                },
+                {
+                    "text": "Remember how you can use Relics alongside skills? Tap the <b>Skill</b> button.",
+                    "uid": "3886646499407977"
+                },
+                {
+                    "text": "You can equip Relics by tapping the <b>highlighted area</b> here. Let's give it a try.",
+                    "uid": "3542501797152426"
+                },
+                {
+                    "text": "Once you equip a Relic, it's <b>automatically</b> used when the <b>skill in the first slot</b> is triggered.",
+                    "uid": "1098809436712205"
+                },
+                {
+                    "text": "Let's equip one now. Tap a <b>Relic slot</b>.",
+                    "uid": "1346244757732730"
+                },
+                {
+                    "text": "Equipping Relics works the same way as skills.",
+                    "uid": "1218824878588246"
+                },
+                {
+                    "text": "Tap a <b>Relic</b>.",
+                    "uid": "4209126331296108"
+                },
+                {
+                    "text": "Then hit <b>Equip</b>. Voila! Wasn't that easy?",
+                    "uid": "92901014877510"
+                },
+                {
+                    "text": "Don't forget to tap <b>Save Settings</b> to save everything!",
+                    "uid": "2422634800813332"
+                },
+                {
+                    "text": "Tap the <b>X</b> button.",
+                    "uid": "3348304251247805"
+                },
+                {
+                    "text": "All you need to do is tap the <b>Save Settings button</b>, and you're done! Easy, right?",
+                    "uid": "353340638680409"
+                },
+                {
+                    "text": "It's important to <b>pair the right Relics with your skills</b>. ",
+                    "uid": "288551752437280"
+                },
+                {
+                    "text": "Okay then, make sure you've got the right Relics on before you go fight powerful monsters!",
+                    "uid": "1166854468731117"
+                },
+                {
+                    "text": "Let's learn how to <b>equip</b> <b>Relics</b> earned from the Archeology Lab.",
+                    "uid": "3470679211701995"
+                },
+                {
+                    "text": "Remember how you can use Relics alongside skills? Tap the <b>Skill</b> button.",
+                    "uid": "1636676490302529"
+                },
+                {
+                    "text": "You can equip Relics by tapping the <b>highlighted area</b> here. Let's give it a try.",
+                    "uid": "200665190091074"
+                },
+                {
+                    "text": "Once you equip a Relic, it's <b>automatically</b> used when the <b>skill in the first slot</b> is triggered.",
+                    "uid": "2676525726118645"
+                },
+                {
+                    "text": "Let's equip one now. Tap a <b>Relic slot</b>.",
+                    "uid": "3240620396063682"
+                },
+                {
+                    "text": "Equipping Relics works the same way as skills.",
+                    "uid": "2269926662058238"
+                },
+                {
+                    "text": "Tap a <b>Relic</b>.",
+                    "uid": "1297936419992612"
+                },
+                {
+                    "text": "Then hit <b>Equip</b>. Voila! Wasn't that easy?",
+                    "uid": "3463895557787566"
+                },
+                {
+                    "text": "Don't forget to tap <b>Save Settings</b> to save everything!",
+                    "uid": "3438552212180508"
+                },
+                {
+                    "text": "Tap the <b>X</b> button.",
+                    "uid": "2749177944326949"
+                },
+                {
+                    "text": "All you need to do is tap the <b>Save Settings button</b>, and you're done! Easy, right?",
+                    "uid": "1934510142067233"
+                },
+                {
+                    "text": "It's important to <b>pair the right Relics with your skills</b>. ",
+                    "uid": "2534776403845864"
+                },
+                {
+                    "text": "Okay then, make sure you've got the right Relics on before you go fight powerful monsters!",
+                    "uid": "497375245981013"
+                },
+                {
+                    "text": "Congratulations on successfully finishing the <b>Adventurer Alliance League</b>!",
+                    "uid": "1624515320944637"
+                },
+                {
+                    "text": "You're now an official member of the Adventurer Alliance. Welcome to the team!",
+                    "uid": "2387695779215700"
+                },
+                {
+                    "text": "The Adventurer Alliance recognizes the <b>best adventurer in each field</b> and rewards them accordingly.",
+                    "uid": "433818413261687"
+                },
+                {
+                    "text": "<b>Adventurer Rank</b> is a contest to see which adventurer has the <b>highest progress</b>.",
+                    "uid": "1183882923665286"
+                },
+                {
+                    "text": "<b>Fighter Rank</b> is a contest to see which adventurer has the <b>highest CP</b>.",
+                    "uid": "3625772329985065"
+                },
+                {
+                    "text": "<b>Tactician Rank</b> is a contest to see <b>which adventurer is the highest level and has the highest dungeon cleared in terms of grade</b>.",
+                    "uid": "2503134350628400"
+                },
+                {
+                    "text": "<b>Collector Rank</b> is a contest to see which adventurer has the <b>most varied and highest-grade gear, skills, and Relics collected</b>.",
+                    "uid": "1554315041810803"
+                },
+                {
+                    "text": "You can only receive a Rank Reward <b>once</b> when you <b>reach a respective rank</b>.",
+                    "uid": "4046623699907506"
+                },
+                {
+                    "text": "That's it for the Adventurer Alliance. Looking forward to your success in the days to come!",
+                    "uid": "2358931273884389"
+                },
+                {
+                    "text": "Now that you've equipped new pieces of <b>gear</b>, you can deal with <b>stronger monsters</b>.",
+                    "uid": "3439802835381605"
+                },
+                {
+                    "text": "Go to the <b>Adventure</b> tab and see how far you can go in <b>Challenge</b>!",
+                    "uid": "765622751516223"
+                },
+                {
+                    "text": "Once you make it through this challenge, you'll be able to access <b>Royal Castle Entrance: Zone 4</b>.",
+                    "uid": "971287384011280"
+                },
+                {
+                    "text": "Tap the <b>Challenge</b> button to <b>engage in battle</b>!",
+                    "uid": "2743677520096998"
+                },
+                {
+                    "text": "Okay then, let's test if the skills you've swapped in work on this boss!",
+                    "uid": "2936063060782671"
+                },
+                {
+                    "text": "Let's tap the <b>Challenge</b> button!",
+                    "uid": "1594636265506613"
+                },
+                {
+                    "text": "Hey, looks like you've made quite a progress.",
+                    "uid": "3487461072672710"
+                },
+                {
+                    "text": "Guess it's time to show you what <b>Talent Passives</b> are. Follow me to the <b>Character</b> menu.",
+                    "uid": "1313595231238036"
+                },
+                {
+                    "text": "You now have access to <b>Talent Passives</b>!",
+                    "uid": "3711883832134379"
+                },
+                {
+                    "text": "Curious about how they work? Allow me to show you. Tap the <b>Talent Passive</b> button.",
+                    "uid": "1877881110734913"
+                },
+                {
+                    "text": "You can freely <b>boost your stats</b> using <b>Normal Talent Points</b> in the Talent Passive tab.",
+                    "uid": "441869810523458"
+                },
+                {
+                    "text": "The <b>three icons</b> here show which <b>stats</b> you can boost at the moment.",
+                    "uid": "3401980088614848"
+                },
+                {
+                    "text": "Choose your stats wisely since this will determine your overall stat distribution.",
+                    "uid": "1324979830672771"
+                },
+                {
+                    "text": "Once you've selected <b>the stats you want</b>, tap <b>Learn</b> to get started.",
+                    "uid": "1204139134101442"
+                },
+                {
+                    "text": "Normal Talent Points are then used to obtain the stats you've selected.",
+                    "uid": "4474153155712363"
+                },
+                {
+                    "text": "The stats you choose will ultimately determine how your characters ends up.",
+                    "uid": "2657904488288583"
+                },
+                {
+                    "text": "These points are given <b>each time you level up or advance your characters</b>. Make sure to put them to good use.",
+                    "uid": "3765054785400868"
+                },
+                {
+                    "text": "Let's move on to <b>Advancement</b> this time! Tap the <b>Advance</b> tap to proceed.",
+                    "uid": "2574199470443739"
+                },
+                {
+                    "text": "When you meet the <b>Advancement Requirements</b>, you can advance to a <b>class of a higher grade</b>.",
+                    "uid": "1402070950218268"
+                },
+                {
+                    "text": "You get <b>Normal Talent Points and Special Talent Points</b>.",
+                    "uid": "1416237391234815"
+                },
+                {
+                    "text": "Also, as I mentioned previously, <b>Normal Talent Points</b> allow you to increase your <b>stats</b>.",
+                    "uid": "2400389108388082"
+                },
+                {
+                    "text": "<b>Special Talent Points</b> allow you to obtain special <b>Continuous Effects</b>.",
+                    "uid": "712696682364709"
+                },
+                {
+                    "text": "You need to fulfill <b>Requirements</b> in order to advance.",
+                    "uid": "189555427113139"
+                },
+                {
+                    "text": "Then you can earn the <b>Advancement Rewards</b> shown here.",
+                    "uid": "4401628507475489"
+                },
+                {
+                    "text": "You can <b>advance</b> your characters every <b>10 levels</b>. A <b>special Advancement</b> is enabled every <b>50 levels</b>.",
+                    "uid": "3134844376273739"
+                },
+                {
+                    "text": "Special Advancements may be quite tricky, but it changes your character's <b>appearance</b> drastically.",
+                    "uid": "498295141883624"
+                },
+                {
+                    "text": "Don't forget to advance your characters if you want to become stronger!",
+                    "uid": "2964493611389269"
+                },
+                {
+                    "text": "I wonder what kind of buildings we'll come across in the next zone?",
+                    "uid": "2455470946919602"
+                },
+                {
+                    "text": "Now then, on to the <b>boss battle</b>!",
+                    "uid": "49756881542364"
+                },
+                {
+                    "text": "With your enhanced skills, you'll have a much easier time taking down tougher monsters.",
+                    "uid": "1371076446367313"
+                },
+                {
+                    "text": "Tap <b>Challenge</b> to move on to the <b>next zone</b>!",
+                    "uid": "2144970116522171"
+                },
+                {
+                    "text": "Looks like you're a bonafide challenger now!",
+                    "uid": "2635762586685461"
+                },
+                {
+                    "text": "All right then! Let's hurry and <b>take out the boss</b> here!",
+                    "uid": "272838609726987"
+                },
+                {
+                    "text": "You can obtain skills by <b>researching</b> them in the <b>Tower of Knowledge</b>.",
+                    "uid": "1960577275733893"
+                },
+                {
+                    "text": "To research skills, you'll need <b>Research Tickets</b>, as well as <b>Blue Gems or Red Gems</b>.",
+                    "uid": "2931426520409724"
+                },
+                {
+                    "text": "<b>Research Mileage</b> is accrued each time you research skills, which will earn you even more rewards.",
+                    "uid": "4368727930338446"
+                },
+                {
+                    "text": "Let's <b>research skills</b> this time.",
+                    "uid": "3822080063812923"
+                },
+                {
+                    "text": "Hope you end up getting some good ones!",
+                    "uid": "1512240552480797"
+                },
+                {
+                    "text": "Nice! An <b>[R+] grade</b> dungeon has opened for the first time!",
+                    "uid": "1020192864450633"
+                },
+                {
+                    "text": "The <b>chance</b> to spawn dungeons of a <b>higher grade</b> increases as your party's <b>Danger Level</b> increases.",
+                    "uid": "2712325724185168"
+                },
+                {
+                    "text": "Your party's Danger Level increases whenever you clear dungeons of a higher grade.",
+                    "uid": "351548351045395"
+                },
+                {
+                    "text": "Sometimes you'll run into a <b>[UR] grade</b> dungeon as you clear dungeons consistently.",
+                    "uid": "3767689725243658"
+                },
+                {
+                    "text": "[UR] dungeons net you <b>[UR] grade rewards</b>, so keep at it until you get everything you need!",
+                    "uid": "1833706694501149"
+                },
+                {
+                    "text": "All right, let's keep going!",
+                    "uid": "3718203830293492"
+                },
+                {
+                    "text": "Congratulations! You got a new <b>party member</b>!",
+                    "uid": "1206129152357426"
+                },
+                {
+                    "text": "It's time for you to learn <b>how to adjust Skill Settings along with your party members</b>.",
+                    "uid": "4022036353704805"
+                },
+                {
+                    "text": "Tap the <b>Skill</b> button.",
+                    "uid": "2505818349048347"
+                },
+                {
+                    "text": "See the <b>nicknames</b> of your party members?",
+                    "uid": "4050800859036116"
+                },
+                {
+                    "text": "When you tap a <b>nickname</b>, you can adjust the <b>Skill Settings</b> for that party member.",
+                    "uid": "2096923493082103"
+                },
+                {
+                    "text": "Allow me to demonstrate. <b>Tap</b> a party member's <b>nickname</b>.",
+                    "uid": "1585552662345576"
+                },
+                {
+                    "text": "You can <b>swap the skills</b> of your party members here. ",
+                    "uid": "1388747952576606"
+                },
+                {
+                    "text": "It's the <b>same as how you would swap your own skills</b>.",
+                    "uid": "3699744885983343"
+                },
+                {
+                    "text": "You can <b>drag skills around to swap their order</b>.",
+                    "uid": "4051751131851221"
+                },
+                {
+                    "text": "You can also <b>tap a skill to swap it with another</b>.",
+                    "uid": "432385120505059"
+                },
+                {
+                    "text": "Make sure to hit <b>Save Settings</b> so that they take effect the next time you battle!",
+                    "uid": "3304159647384564"
+                },
+                {
+                    "text": "But keep in mind that you won't see these changes in your current battle, but in future ones instead.",
+                    "uid": "3353645542334730"
+                },
+                {
+                    "text": "Congratulations! You got a new <b>party member</b>!",
+                    "uid": "4273418675105308"
+                },
+                {
+                    "text": "It's time for you to learn <b>how to adjust Skill Settings along with your party members</b>.",
+                    "uid": "4287585116121855"
+                },
+                {
+                    "text": "Tap the <b>Skill</b> button.",
+                    "uid": "4385574295489265"
+                },
+                {
+                    "text": "See the <b>nicknames</b> of your party members?",
+                    "uid": "284616110548650"
+                },
+                {
+                    "text": "When you tap a <b>nickname</b>, you can adjust the <b>Skill Settings</b> for that party member.",
+                    "uid": "1442274642854717"
+                },
+                {
+                    "text": "Allow me to demonstrate. <b>Tap</b> a party member's <b>nickname</b>.",
+                    "uid": "2149296185962618"
+                },
+                {
+                    "text": "You can <b>swap the skills</b> of your party members here. ",
+                    "uid": "338284292169892"
+                },
+                {
+                    "text": "It's the <b>same as how you would swap your own skills</b>.",
+                    "uid": "1088347034891641"
+                },
+                {
+                    "text": "You can <b>drag skills around to swap their order</b>.",
+                    "uid": "3164078288390275"
+                },
+                {
+                    "text": "You can also <b>tap a skill to swap it with another</b>.",
+                    "uid": "1716873598295925"
+                },
+                {
+                    "text": "Make sure to hit <b>Save Settings</b> so that they take effect the next time you battle!",
+                    "uid": "4016873545119666"
+                },
+                {
+                    "text": "But keep in mind that you won't see these changes in your current battle, but in future ones instead.",
+                    "uid": "1611159479742428"
+                },
+                {
+                    "text": "Congratulations! You got a new <b>party member</b>!",
+                    "uid": "3451050636760974"
+                },
+                {
+                    "text": "It's time for you to learn <b>how to adjust Skill Settings along with your party members</b>.",
+                    "uid": "2130509100080593"
+                },
+                {
+                    "text": "Tap the <b>Skill</b> button.",
+                    "uid": "3439873732170463"
+                },
+                {
+                    "text": "See the <b>nicknames</b> of your party members?",
+                    "uid": "1473182288587344"
+                },
+                {
+                    "text": "When you tap a <b>nickname</b>, you can adjust the <b>Skill Settings</b> for that party member.",
+                    "uid": "3616004542818067"
+                },
+                {
+                    "text": "Allow me to demonstrate. <b>Tap</b> a party member's <b>nickname</b>.",
+                    "uid": "2840845984932156"
+                },
+                {
+                    "text": "You can <b>swap the skills</b> of your party members here. ",
+                    "uid": "1028997556875154"
+                },
+                {
+                    "text": "It's the <b>same as how you would swap your own skills</b>.",
+                    "uid": "3450003431087355"
+                },
+                {
+                    "text": "You can <b>drag skills around to swap their order</b>.",
+                    "uid": "142835019089297"
+                },
+                {
+                    "text": "You can also <b>tap a skill to swap it with another</b>.",
+                    "uid": "1915229740485591"
+                },
+                {
+                    "text": "Make sure to hit <b>Save Settings</b> so that they take effect the next time you battle!",
+                    "uid": "4076074528632584"
+                },
+                {
+                    "text": "But keep in mind that you won't see these changes in your current battle, but in future ones instead.",
+                    "uid": "3879269818863870"
+                },
+                {
+                    "text": "By the way, are you making use of <b>Presets</b>?",
+                    "uid": "1208790248522147"
+                },
+                {
+                    "text": "It allows you to <b>swap to different Skill Settings more easily</b> when you fight against bosses.",
+                    "uid": "3567286603712480"
+                },
+                {
+                    "text": "See for yourself! Tap the <b>Skill</b> button.",
+                    "uid": "189425013655834"
+                },
+                {
+                    "text": "This button is also available in the <b>Skill Settings menu</b> when you're in dungeons or the <b>Auto Battle Settings menu</b>.",
+                    "uid": "2545822054279328"
+                },
+                {
+                    "text": "Tap <b>Preset</b>.",
+                    "uid": "1876175607794787"
+                },
+                {
+                    "text": "Presets allows you to <b>save your settings for skills and Relics</b> so that you can <b>use them again</b> in the future.",
+                    "uid": "3835456215766660"
+                },
+                {
+                    "text": "You can also <b>save Presets for your party members</b> as well.",
+                    "uid": "753397900688423"
+                },
+                {
+                    "text": "The skills and Relics shown here are the ones saved in Preset 1.",
+                    "uid": "3424124770573165"
+                },
+                {
+                    "text": "Your initial Preset has the very first skills given to you by the Adventurer Alliance.",
+                    "uid": "1162292756654923"
+                },
+                {
+                    "text": "I'll show you how to save a Preset.",
+                    "uid": "176305475284884"
+                },
+                {
+                    "text": "Let's try <b>saving</b> your <b>current skills and Relics</b> to Preset 1.",
+                    "uid": "1101974925719357"
+                },
+                {
+                    "text": "Tapping the <b>Save Preset</b> button will <b>save your current skill and Relic settings to the Preset</b>.",
+                    "uid": "2720603434864819"
+                },
+                {
+                    "text": "If you want to use the Preset you just saved,",
+                    "uid": "1980593955403376"
+                },
+                {
+                    "text": "you need to tap the <b>Load Preset</b> button here.",
+                    "uid": "2350171316719558"
+                },
+                {
+                    "text": "You can have <b>multiple Presets</b>, so it'll make your life much easier if you create and save the <b>best settings for each boss</b>.",
+                    "uid": "3933118957969948"
+                },
+                {
+                    "text": "Looks like your dungeon grade is a lot higher than before. This means you'll face tougher monsters moving forward.",
+                    "uid": "2919655736165446"
+                },
+                {
+                    "text": "<b>Skill Settings</b> might not have played a huge factor until now, but you really need to pay attention to them when you battle bosses.",
+                    "uid": "3290087854310707"
+                },
+                {
+                    "text": "<b>Skill Settings</b> for dungeons can be changed here.",
+                    "uid": "1671459345165245"
+                },
+                {
+                    "text": "Tap <b>Skill Settings</b>.",
+                    "uid": "3576987132969271"
+                },
+                {
+                    "text": "The Skill Settings saved here only take effect in <b>Ancient Fortress, U. Labyrinth, and Instance Dungeons</b>.",
+                    "uid": "24347095652398"
+                },
+                {
+                    "text": "Each dungeon requires a different strategy. That's why it's a good idea to use your Presets!",
+                    "uid": "4185623607594352"
+                },
+                {
+                    "text": "Don't forget to hit <b>Save Settings</b> after you're done adjusting your settings!",
+                    "uid": "422033459685299"
+                },
+                {
+                    "text": "Did you know that monsters and skills have an <b>Efficacy</b> relationship?",
+                    "uid": "449039942974083"
+                },
+                {
+                    "text": "Tap the <b>Element</b> button.",
+                    "uid": "2876908316845945"
+                },
+                {
+                    "text": "There are six Elements in all: <b>Fire, Ice, Earth, Lightning, Holy, and Dark</b>.",
+                    "uid": "3937857467916922"
+                },
+                {
+                    "text": "The four Elements, <b>Fire, Ice, Earth, and Lightning</b>, have an Efficacy relationship with only themselves.",
+                    "uid": "3690422146896397"
+                },
+                {
+                    "text": "<b>Holy and Dark</b> only interact with each other.",
+                    "uid": "3295640525958536"
+                },
+                {
+                    "text": "Let me explain how it works. For example, if you attack <b>Lightning</b> monsters using <b>Fire</b> skills, you can deal more damage.",
+                    "uid": "2835943944435691"
+                },
+                {
+                    "text": "However, you'll deal less damage if you attack <b>Lightning</b> monsters using <b>Earth</b> skills.",
+                    "uid": "3486320654343703"
+                },
+                {
+                    "text": "All <b>attack and defense</b> skills you use are affected by the Elements.",
+                    "uid": "3469873134770420"
+                },
+                {
+                    "text": "Make sure to take the <b>Elements of your skills</b> into consideration against <b>certain monsters</b> to gain the upper hand in battle!",
+                    "uid": "1585375998978077"
+                },
+                {
+                    "text": "You can <b>obtain gear</b> by <b>spending currencies</b> in the Forge.",
+                    "uid": "3539432026398612"
+                },
+                {
+                    "text": "You need <b>Iron Ores</b> for <b>[R] Gear</b>, <b>Mythril</b> for <b>[SR] Gear</b>, and <b>Soul Stones</b> for <b>[SSR] Gear</b>.",
+                    "uid": "3307442944527018"
+                },
+                {
+                    "text": "Each grade requires different currencies.",
+                    "uid": "1580130358608051"
+                },
+                {
+                    "text": "But you can't keep producing gear just because you have lots of Iron Ores.",
+                    "uid": "840120879146608"
+                },
+                {
+                    "text": "There's a <b>limit</b> to the pieces of gear you can make <b>for a week</b>.",
+                    "uid": "3651587646782569"
+                },
+                {
+                    "text": "Keep in mind that this limit is <b>reset every Monday</b>.",
+                    "uid": "1209698240462790"
+                },
+                {
+                    "text": "<b>Crafting gear</b> is a piece of cake!",
+                    "uid": "2806812322729727"
+                },
+                {
+                    "text": "You can proceed by <b>tapping the button</b> shown here.",
+                    "uid": "3479056441627386"
+                },
+                {
+                    "text": "Don't forget to bring the necessary amount of currencies!",
+                    "uid": "3231621120606861"
+                },
+                {
+                    "text": "Although <b>grades of gear</b> are fixed, <b>parts are randomly determined</b>.",
+                    "uid": "1668044547834660"
+                },
+                {
+                    "text": "Here's 100 Iron Ores to get you started. Try <b>crafting gear</b> on your own!",
+                    "uid": "560894250722375"
+                },
+                {
+                    "text": "You now have access to the <b>Forge</b>!",
+                    "uid": "3588145817477398"
+                },
+                {
+                    "text": "Let's take a closer look! Tap <b>Forge</b>.",
+                    "uid": "896394618163840"
+                },
+                {
+                    "text": "You can <b>obtain gear</b> by <b>spending currencies</b> in the Forge.",
+                    "uid": "2186028779651428"
+                },
+                {
+                    "text": "You need <b>Iron Ores</b> for <b>[R] Gear</b>, <b>Mythril</b> for <b>[SR] Gear</b>, and <b>Soul Stones</b> for <b>[SSR] Gear</b>.",
+                    "uid": "1469190233437502"
+                },
+                {
+                    "text": "But you can't keep producing gear just because you have lots of Iron Ores.",
+                    "uid": "1846047357664192"
+                },
+                {
+                    "text": "There's a <b>limit</b> to the pieces of gear you can make <b>for a week</b>.",
+                    "uid": "4272646727092611"
+                },
+                {
+                    "text": "Keep in mind that this limit is <b>reset every Monday</b>.",
+                    "uid": "3130444745520470"
+                },
+                {
+                    "text": "<b>Crafting gear</b> is a piece of cake!",
+                    "uid": "2196915473593977"
+                },
+                {
+                    "text": "You can proceed by <b>tapping the button</b> shown here.",
+                    "uid": "339702433759943"
+                },
+                {
+                    "text": "Don't forget to bring the necessary amount of currencies!",
+                    "uid": "3257864624664954"
+                },
+                {
+                    "text": "Although <b>grades of gear</b> are fixed, <b>parts are randomly determined</b>.",
+                    "uid": "3010429303644429"
+                },
+                {
+                    "text": "Here's 100 Iron Ores to get you started. Try <b>crafting gear</b> on your own!",
+                    "uid": "2615647682706568"
+                },
+                {
+                    "text": "You can <b>obtain gear</b> by <b>spending currencies</b> in the Forge.",
+                    "uid": "2152966719025179"
+                },
+                {
+                    "text": "You need <b>Iron Ores</b> for <b>[R] Gear</b>, <b>Mythril</b> for <b>[SR] Gear</b>, and <b>Soul Stones</b> for <b>[SSR] Gear</b>.",
+                    "uid": "4470714611918897"
+                },
+                {
+                    "text": "But you can't keep producing gear just because you have lots of Iron Ores.",
+                    "uid": "2951163084327516"
+                },
+                {
+                    "text": "There's a <b>limit</b> to the pieces of gear you can make <b>for a week</b>.",
+                    "uid": "995004639816255"
+                },
+                {
+                    "text": "Keep in mind that this limit is <b>reset every Monday</b>.",
+                    "uid": "853277522334258"
+                },
+                {
+                    "text": "<b>Crafting gear</b> is a piece of cake!",
+                    "uid": "3669184723681637"
+                },
+                {
+                    "text": "You can proceed by <b>tapping the button</b> shown here.",
+                    "uid": "2864568491608051"
+                },
+                {
+                    "text": "Don't forget to bring the necessary amount of currencies!",
+                    "uid": "1897751989211135"
+                },
+                {
+                    "text": "Although <b>grades of gear</b> are fixed, <b>parts are randomly determined</b>.",
+                    "uid": "1883585548194588"
+                },
+                {
+                    "text": "Here's 100 Iron Ores to get you started. Try <b>crafting gear</b> on your own!",
+                    "uid": "1194211280341029"
+                },
+                {
+                    "text": "You fought well! Great job!",
+                    "uid": "1883317367221959"
+                },
+                {
+                    "text": "You can check the <b>current zone you're exploring</b> here.",
+                    "uid": "3740530407055993"
+                },
+                {
+                    "text": "Awesome! You just made it to <b>Royal Castle Entrance: Zone 2</b>!",
+                    "uid": "170460051611990"
+                },
+                {
+                    "text": "You can move on to the <b>next zone</b> after each <b>successful</b> challenge.",
+                    "uid": "1312662033184131"
+                },
+                {
+                    "text": "Royal Castle Entrance is made up of <b>10 zones</b>.",
+                    "uid": "4369056970460277"
+                },
+                {
+                    "text": "When you clear <b>Royal Castle Entrance: Zone 10</b>, you can move on to the <b>next area</b>.",
+                    "uid": "429552013034818"
+                },
+                {
+                    "text": "If you're unsure of what to do, <b>reaching the next area outside the Royal Castle Entrance</b> seems like a realistic goal, wouldn't you say?",
+                    "uid": "1154185291930220"
+                },
+                {
+                    "text": "I'm sure you'll reach the next area in no time.",
+                    "uid": "2578028718711183"
+                },
+                {
+                    "text": "Okay then, tap the <b>Challenge</b> button to proceed!",
+                    "uid": "2362480758070645"
+                },
+                {
+                    "text": "You now have access to the <b>Forge</b>!",
+                    "uid": "3552506868028571"
+                },
+                {
+                    "text": "The Forge is where you can <b>obtain gear</b>. How about we go check it out?",
+                    "uid": "845604657201592"
+                },
+                {
+                    "text": "Let's tap <b>Domain</b>.",
+                    "uid": "2252817671337650"
+                },
+                {
+                    "text": "The monsters in this zone look really tough.",
+                    "uid": "3013833329427600"
+                },
+                {
+                    "text": "You might need to get your hands on more <b>skills</b>.",
+                    "uid": "4069218450912586"
+                },
+                {
+                    "text": "Sounds like it's a good time to <b>research skills</b> at the <b>Tower of Knowledge</b>.",
+                    "uid": "2416710396992093"
+                },
+                {
+                    "text": "Follow me to <b>Domain</b>.",
+                    "uid": "1204961716870964"
+                },
+                {
+                    "text": "If you want to use any new skills in <b>boss battles</b>, be sure to <b>swap out</b> your skills before you <b>hit the Challenge button</b>.",
+                    "uid": "4273578078950933"
+                },
+                {
+                    "text": "Let's change our battle settings using the skill you just obtained. Tap <b>Skill</b>.",
+                    "uid": "3921571833083055"
+                },
+                {
+                    "text": "Tap on the skill you wish to <b>swap out</b>.",
+                    "uid": "4419921436930970"
+                },
+                {
+                    "text": "Let's try equipping the skill with the highest grade!",
+                    "uid": "3606128978302775"
+                },
+                {
+                    "text": "Tap a skill.",
+                    "uid": "887087360448233"
+                },
+                {
+                    "text": "Tap the Swap button.",
+                    "uid": "1026463753548658"
+                },
+                {
+                    "text": "Looks like you're all set!",
+                    "uid": "2904096147909295"
+                },
+                {
+                    "text": "Tap the 'X' button to exit the Skill Swap window.",
+                    "uid": "752608736563425"
+                },
+                {
+                    "text": "Make sure to tap <b>Save Settings</b> before you're done.",
+                    "uid": "2933853284850555"
+                },
+                {
+                    "text": "Great, you managed to swap out your skills. Now, let's put them to good use!",
+                    "uid": "654574528120351"
+                },
+                {
+                    "text": "If you want to use any new skills in <b>boss battles</b>, be sure to <b>swap out</b> your skills before you <b>hit the Challenge button</b>.",
+                    "uid": "1709468697877350"
+                },
+                {
+                    "text": "Let's change our battle settings using the skill you just obtained. Tap <b>Skill</b>.",
+                    "uid": "4440678189162128"
+                },
+                {
+                    "text": "Tap on the skill you wish to <b>swap out</b>.",
+                    "uid": "2283255281990417"
+                },
+                {
+                    "text": "Let's try equipping the skill with the highest grade!",
+                    "uid": "2260868163693542"
+                },
+                {
+                    "text": "Tap a skill.",
+                    "uid": "3183206042421684"
+                },
+                {
+                    "text": "Tap the Swap button.",
+                    "uid": "1638223532434171"
+                },
+                {
+                    "text": "Looks like you're all set!",
+                    "uid": "2106815999340826"
+                },
+                {
+                    "text": "Tap the 'X' button to exit the Skill Swap window.",
+                    "uid": "981077962026976"
+                },
+                {
+                    "text": "Make sure to tap <b>Save Settings</b> before you're done.",
+                    "uid": "423393325797102"
+                },
+                {
+                    "text": "Great, you managed to swap out your skills. Now, let's put them to good use!",
+                    "uid": "270489303724338"
+                },
+                {
+                    "text": "You're already halfway done with the Royal Castle Entrance!",
+                    "uid": "520177957851947"
+                },
+                {
+                    "text": "Tap <b>Challenge</b> to engage in battle!",
+                    "uid": "2908278766574721"
+                },
+                {
+                    "text": "Did you manage to find some party members?",
+                    "uid": "1164099973761662"
+                },
+                {
+                    "text": "If any one of your party members taps <b>Challenge</b>, the whole party will proceed to take on the boss.",
+                    "uid": "901208102007531"
+                },
+                {
+                    "text": "Hope you end up finding reliable people to join your party!",
+                    "uid": "1360904683530376"
+                },
+                {
+                    "text": "For now, though, try taking on <b>Challenges</b> by yourself.",
+                    "uid": "1570699037822069"
+                },
+                {
+                    "text": "Did you manage to find some party members?",
+                    "uid": "804189650219634"
+                },
+                {
+                    "text": "If any one of your party members taps <b>Challenge</b>, the whole party will proceed to take on the boss.",
+                    "uid": "4323637560436863"
+                },
+                {
+                    "text": "Hope you end up finding reliable people to join your party!",
+                    "uid": "4309471119420316"
+                },
+                {
+                    "text": "For now, though, try taking on <b>Challenges</b> by yourself.",
+                    "uid": "4421626739804273"
+                },
+                {
+                    "text": "You may come across many different World Dungeons as you explore more of the Goblin Base.",
+                    "uid": "145496277379885"
+                },
+                {
+                    "text": "I heard the <b>Archeology Lab</b> opened up in the Domain. Make sure to visit the <b>Domain</b> later!",
+                    "uid": "275352745751620"
+                },
+                {
+                    "text": "But first, let's focus our attention on this <b>Challenge</b>!",
+                    "uid": "2798786461098870"
+                },
+                {
+                    "text": "I'll show you how to use the <b>Beginner's Gift</b> you just got. ",
+                    "uid": "778568885774687"
+                },
+                {
+                    "text": "Here's the <b>Vault</b>. This is where you'll find the <b>items</b> you'ved obtained from your adventure.",
+                    "uid": "3447149151840472"
+                },
+                {
+                    "text": "Tap <b>Vault</b>.",
+                    "uid": "789745790365198"
+                },
+                {
+                    "text": "The Vault stores the items you've obtained from your adventure.",
+                    "uid": "374582959996523"
+                },
+                {
+                    "text": "Let's open the Beginner's Gift we just got.",
+                    "uid": "834279541519368"
+                },
+                {
+                    "text": "<b>Tap</b> Beginner's Gift.",
+                    "uid": "637474831750654"
+                },
+                {
+                    "text": "I wonder what's inside!",
+                    "uid": "1044073895811061"
+                },
+                {
+                    "text": "Nice! You ended up getting all sorts of rewards!",
+                    "uid": "64679216476992"
+                },
+                {
+                    "text": "This is how you use items in the Vault.",
+                    "uid": "880484137426359"
+                },
+                {
+                    "text": "Make sure to visit the Vault often whenever you find new items.",
+                    "uid": "2320897444686762"
+                },
+                {
+                    "text": "Okay then, let's press on with your adventure.",
+                    "uid": "4357175006676848"
+                },
+                {
+                    "text": "Nice! Fighting the Venomtail Manticore should be a cinch for you.",
+                    "uid": "3183996165323143"
+                },
+                {
+                    "text": "Wait, do you see the <b>Boss</b> icon here?",
+                    "uid": "819105675034937"
+                },
+                {
+                    "text": "Since the icon's changed, a boss of a <b>new Element</b> will appear starting from <b>Zone 6 of the Royal Castle Entrance</b>.",
+                    "uid": "1471138849713174"
+                },
+                {
+                    "text": "A new Element usually means a whole new type of challenge.",
+                    "uid": "2894815808107587"
+                },
+                {
+                    "text": "Huh? What are <b>Elements</b>, you ask?",
+                    "uid": "1729107215261237"
+                },
+                {
+                    "text": "Oops... Did I forget to explain them to you?",
+                    "uid": "2011726908384258"
+                },
+                {
+                    "text": "Here's a tip for defeating bosses of <b>various Elements</b>.",
+                    "uid": "274569904745900"
+                },
+                {
+                    "text": "Tap the <b>Skill</b> button.",
+                    "uid": "1765485064009346"
+                },
+                {
+                    "text": "This is where you can view the <b>skills of you and your party members</b> and adjust your settings. ",
+                    "uid": "2920000266972545"
+                },
+                {
+                    "text": "Each characters can use <b>4 skills</b> in <b>one battle</b>.",
+                    "uid": "2937754320948231"
+                },
+                {
+                    "text": "Skills are triggered based on the <b>order displayed</b> in Skill Settings in this Boss Battle, so it's important to take their <b>types and order</b> into consideration.",
+                    "uid": "376286089266179"
+                },
+                {
+                    "text": "After the <b>fourth skill</b> is cast, the order is reset back to the <b>first skill</b>.",
+                    "uid": "2453286347208256"
+                },
+                {
+                    "text": "You can <b>drag</b> skills around to <b>swap their order</b>. ",
+                    "uid": "946941423304007"
+                },
+                {
+                    "text": "<b>Info regarding boss skills</b> is displayed here. You can view even more details by tapping the skill info icon. This is helpful when preparing for any incoming attacks.",
+                    "uid": "3617668293188493"
+                },
+                {
+                    "text": "All right, let me take you through what <b>Elements</b> are. Pay attention because this is important.",
+                    "uid": "3865103614209018"
+                },
+                {
+                    "text": "Tap the <b>Element</b> button.",
+                    "uid": "3222886672250632"
+                },
+                {
+                    "text": "There are six Elements in all: <b>Fire, Ice, Earth, Lightning, Holy, and Dark</b>.",
+                    "uid": "4141798084692916"
+                },
+                {
+                    "text": "The four Elements, <b>Fire, Ice, Earth, and Lightning</b>, have an <b>Efficacy</b> relationship with only themselves.",
+                    "uid": "1062041884103639"
+                },
+                {
+                    "text": "<b>Holy and Dark</b> only interact with <b>each other</b>.",
+                    "uid": "3219460205964774"
+                },
+                {
+                    "text": "Let me explain how it works. For example, if you attack <b>Lightning</b> monsters using <b>Fire</b> skills, you can deal <b>more damage</b>.",
+                    "uid": "36433307392777"
+                },
+                {
+                    "text": "However, you'll deal <b>less damage</b> if you attack <b>Lightning</b> monsters using <b>Earth</b> skills.",
+                    "uid": "1447070069879056"
+                },
+                {
+                    "text": "All <b>attack and defense</b> skills you use are <b>affected by the Elements</b>.",
+                    "uid": "3308417347288019"
+                },
+                {
+                    "text": "Make sure to consider the <b>Elements of your skills</b> when deciding which ones are best against <b>certain monsters</b> to gain the upper hand in battle!",
+                    "uid": "175809700493202"
+                },
+                {
+                    "text": "That's it for Elements!",
+                    "uid": "4113033579361605"
+                },
+                {
+                    "text": "Let me <b>demonstrate all of this</b> in a real battle.",
+                    "uid": "875328410719977"
+                },
+                {
+                    "text": "Tap the <b>X</b> button.",
+                    "uid": "3307470749915955"
+                },
+                {
+                    "text": "Let's swap in Fire skills to counter the Lightning boss! <b>Tap</b> the glowing area.",
+                    "uid": "531183708464426"
+                },
+                {
+                    "text": "Here you can see the <b>highest-level skills</b> that you have. ",
+                    "uid": "41729991257646"
+                },
+                {
+                    "text": "Let's select a skill to swap out. ",
+                    "uid": "2778565107625152"
+                },
+                {
+                    "text": "Tap the <b>Skill</b> icon that's displayed.",
+                    "uid": "4062962495481430"
+                },
+                {
+                    "text": "Tap the <b>Swap</b> button.",
+                    "uid": "3942947053605389"
+                },
+                {
+                    "text": "Nice! You managed to <b>change</b> the skill in the first slot.",
+                    "uid": "4467076845109812"
+                },
+                {
+                    "text": "Tap the <b>'X' button</b> to exit the Skill Swap window.",
+                    "uid": "2827733951780938"
+                },
+                {
+                    "text": "All you need to do is tap the <b>Save Settings</b> button, and you're done! <b>Easy</b>, right?",
+                    "uid": "642815578392095"
+                },
+                {
+                    "text": "Before you engage a boss, make sure to <b>look over it</b> beforehand and <b>adjust your skills</b> accordingly. Remember this drill, and your adventure is sure to go a lot smoother!",
+                    "uid": "778144974543272"
+                },
+                {
+                    "text": "You've made it all the way to <b>Royal Castle Entrance: Zone 10</b>!",
+                    "uid": "3759066622789520"
+                },
+                {
+                    "text": "But this isn't the end! The real adventure starts now!",
+                    "uid": "1116814272827987"
+                },
+                {
+                    "text": "We're about to head to the <b>Goblin Base</b>.",
+                    "uid": "310852116904010"
+                },
+                {
+                    "text": "Once we're there, you'll see monsters you've never encountered before.",
+                    "uid": "3161943690354013"
+                },
+                {
+                    "text": "But a new area also means a ton of brand-new activities!",
+                    "uid": "1950195010232884"
+                },
+                {
+                    "text": "For example, you'll be able to enter <b>dungeons</b>, access the <b>Archeology Lab</b>, and more.",
+                    "uid": "3374038437014103"
+                },
+                {
+                    "text": "Of course, I'll be with you every step of the way, so don't you worry about a thing!",
+                    "uid": "1233356464019150"
+                },
+                {
+                    "text": "Now then, let's keep on <b>challenging</b> bosses!",
+                    "uid": "611781618260473"
+                },
+                {
+                    "text": "You can take part in lots of other activities in the Domain.",
+                    "uid": "1402231381298372"
+                },
+                {
+                    "text": "Let's move on to the next zone and gain access to other buildings!",
+                    "uid": "2927164045404186"
+                },
+                {
+                    "text": "Hi! I'm Sarah.",
+                    "uid": "2210290705543002"
+                },
+                {
+                    "text": "I'm a guide for new adventurers who've joined the Adventurer Alliance.",
+                    "uid": "3514253165186471"
+                },
+                {
+                    "text": "I'm sure you have many questions about this place.",
+                    "uid": "2092711852894212"
+                },
+                {
+                    "text": "Fear not! I'm here to walk you through everything!",
+                    "uid": "867866577650009"
+                },
+                {
+                    "text": "First, let me teach you the basics of battle.",
+                    "uid": "1801395849576502"
+                },
+                {
+                    "text": "Look! A goblin is closing in on you.",
+                    "uid": "133431244922339"
+                },
+                {
+                    "text": "Let's get going.",
+                    "uid": "803077691406880"
+                },
+                {
+                    "text": "All right, let's go!",
+                    "uid": "3752797256268501"
+                },
+                {
+                    "text": "Shall we begin?",
+                    "uid": "3753920852143266"
+                },
+                {
+                    "text": "I'm excited to see what kinds of adventures await us!",
+                    "uid": "1822102749068236"
+                },
+                {
+                    "text": "Look, it's a Goblin.",
+                    "uid": "3943965639440313"
+                },
+                {
+                    "text": "A Goblin!",
+                    "uid": "1904247614804992"
+                },
+                {
+                    "text": "A Goblin!",
+                    "uid": "1516076145142467"
+                },
+                {
+                    "text": "It's a Goblin!",
+                    "uid": "501294042714554"
+                },
+                {
+                    "text": "Let's take it out!",
+                    "uid": "1805256502358023"
+                },
+                {
+                    "text": "All battles will progress <b>automatically</b>.",
+                    "uid": "2477043230078654"
+                },
+                {
+                    "text": "Watch closely how the <b>battle progresses</b>!",
+                    "uid": "1787502448382337"
+                },
+                {
+                    "text": "Your <b>MP</b> is filled each time you land a <b>Basic Attack</b>.",
+                    "uid": "744800445119448"
+                },
+                {
+                    "text": "You need enough <b>MP</b> to use <b>skills</b>.",
+                    "uid": "182846056410117"
+                },
+                {
+                    "text": "This <b>water drop mark</b> indicates the <b>MP cost</b> for this <b>skill</b>.",
+                    "uid": "613128362841040"
+                },
+                {
+                    "text": "You earn <b>1 MP</b> from a <b>Basic Attack</b>.",
+                    "uid": "4149683838740390"
+                },
+                {
+                    "text": "Let's perform another Basic Attack to gain MP.",
+                    "uid": "2377293702654928"
+                },
+                {
+                    "text": "Great! Now you have enough <b>MP</b> to use a skill.",
+                    "uid": "1915831712024490"
+                },
+                {
+                    "text": "Let's use it to defeat the Goblin!",
+                    "uid": "3952109274014576"
+                },
+                {
+                    "text": "That was an easy feat.",
+                    "uid": "1213286472011998"
+                },
+                {
+                    "text": "I wonder if there are any stronger enemies around.",
+                    "uid": "4046640416171083"
+                },
+                {
+                    "text": "That was hardly a challenge.",
+                    "uid": "1410091181780968"
+                },
+                {
+                    "text": "We did it!",
+                    "uid": "3876289651286613"
+                },
+                {
+                    "text": "Sure, we managed to defeat that Goblin.",
+                    "uid": "3507835885845196"
+                },
+                {
+                    "text": "But we're about to reach the Troll's territory.",
+                    "uid": "991358972668121"
+                },
+                {
+                    "text": "The Troll is a powerful boss inhabiting this area.",
+                    "uid": "1924888244594614"
+                },
+                {
+                    "text": "It'll be hard for you to deal with the Troll by yourself.",
+                    "uid": "2030538875558872"
+                },
+                {
+                    "text": "So it's a good idea to <b>form a party</b> with mercenaries from the Adventurer Alliance.",
+                    "uid": "3330087274928571"
+                },
+                {
+                    "text": "My shield will protect you.",
+                    "uid": "438171899667309"
+                },
+                {
+                    "text": "Thank you.",
+                    "uid": "849503344860804"
+                },
+                {
+                    "text": "I'll take them all down in a flash.",
+                    "uid": "4063468810743968"
+                },
+                {
+                    "text": "Thank you.",
+                    "uid": "3393822364259427"
+                },
+                {
+                    "text": "Tell me who you need eliminated.",
+                    "uid": "3446417911760082"
+                },
+                {
+                    "text": "Thank you.",
+                    "uid": "3869620006064095"
+                },
+                {
+                    "text": "Don't worry. I'll support you.",
+                    "uid": "3334149044129083"
+                },
+                {
+                    "text": "Thank you.",
+                    "uid": "2034600644759384"
+                },
+                {
+                    "text": "A party consists of <b>Tank, DPS, and Healer</b> characters.",
+                    "uid": "617959657054570"
+                },
+                {
+                    "text": "These mercenaries will help you on your adventure until you come across party members of your own.",
+                    "uid": "1494122092112381"
+                },
+                {
+                    "text": "Let's see how far your adventure will take you!",
+                    "uid": "2257302550383444"
+                },
+                {
+                    "text": "Look! It's a Troll!",
+                    "uid": "171884483589176"
+                },
+                {
+                    "text": "You'll need to get past it to reach the next zone.",
+                    "uid": "692934959939377"
+                },
+                {
+                    "text": "In this battle, I'll explain how you can defeat bosses like this one as a party.",
+                    "uid": "1732001519797998"
+                },
+                {
+                    "text": "Each party member has a role.",
+                    "uid": "1720824615207231"
+                },
+                {
+                    "text": "A <b>Knight</b> <b>protects</b> his allies against boss attacks.",
+                    "uid": "3676983059718492"
+                },
+                {
+                    "text": "A <b>Druid</b> <b>heals</b> injured allies or <b>provides buffs</b> to the party.",
+                    "uid": "4395004699072613"
+                },
+                {
+                    "text": "A <b>Rogue and Mage</b> unleash <b>powerful attacks</b> to incapacitate enemies.",
+                    "uid": "1579097497725234"
+                },
+                {
+                    "text": "Got all that? Good. Let's take down that ugly Troll!",
+                    "uid": "3590388466999027"
+                },
+                {
+                    "text": "Dangerous attack incoming. Allow me to shield you.",
+                    "uid": "3293139967257094"
+                },
+                {
+                    "text": "The monster's about to use a skill!",
+                    "uid": "859701811361303"
+                },
+                {
+                    "text": "Luckily, the Knight used a <b>defense skill</b> to lessen the blow.",
+                    "uid": "892740186738186"
+                },
+                {
+                    "text": "Let me heal you.",
+                    "uid": "3044728555470010"
+                },
+                {
+                    "text": "Thank you.",
+                    "uid": "2048450411441817"
+                },
+                {
+                    "text": "My pleasure.",
+                    "uid": "3672490313478240"
+                },
+                {
+                    "text": "It's my turn now!",
+                    "uid": "3273295686686276"
+                },
+                {
+                    "text": "Let me finish it off!",
+                    "uid": "2674829604673396"
+                },
+                {
+                    "text": "Good job! You defeated the Troll!",
+                    "uid": "1244342261829555"
+                },
+                {
+                    "text": "As long as you and your party members work together, you can take on any monster that stands in your way!",
+                    "uid": "873910143684294"
+                },
+                {
+                    "text": "It's time for us to leave the Royal Castle Entrance!",
+                    "uid": "3315799550004073"
+                },
+                {
+                    "text": "Now's where the real adventure begins!",
+                    "uid": "3203643929620116"
+                },
+                {
+                    "text": "Nice! An <b>[SR] grade</b> Instance Dungeon has just spawned!",
+                    "uid": "1206406517058276"
+                },
+                {
+                    "text": "This Instance Dungeon will be a lot tougher,",
+                    "uid": "4177358021713997"
+                },
+                {
+                    "text": "because starting from [SR] grade, <b>Affixes</b> will come into play.",
+                    "uid": "4032200513278659"
+                },
+                {
+                    "text": "An Affix is a buff that <b>makes bosses stronger</b>.",
+                    "uid": "4420371982941184"
+                },
+                {
+                    "text": "As grade increases, the number of Affixes also increases.",
+                    "uid": "1956490380206009"
+                },
+                {
+                    "text": "You'll need to take boss patterns AND Affixes into account when you adjust your skill settings.",
+                    "uid": "2608523554884246"
+                },
+                {
+                    "text": "But based on your progress so far, I know you've got this!",
+                    "uid": "1658196454291884"
+                },
+                {
+                    "text": "A <b>Mythril Mine</b> has been discovered in Vangor Fields!",
+                    "uid": "2221783882791264"
+                },
+                {
+                    "text": "Let's go check it out!",
+                    "uid": "4346022971346550"
+                },
+                {
+                    "text": "Normally, an Instance Dungeon spawns after you clear an entire area.",
+                    "uid": "861849058995389"
+                },
+                {
+                    "text": "But sometimes a Mythril Mine will spawn like this.",
+                    "uid": "2767376846799415"
+                },
+                {
+                    "text": "After you clear a Mythril Mine, you can <b>enter it again after 8 hours</b>.",
+                    "uid": "2110045449995590"
+                },
+                {
+                    "text": "So it's a good idea to expand <b>more areas</b> so you can challenge Mythril Mines <b>more often</b>!",
+                    "uid": "48335228944873"
+                },
+                {
+                    "text": "Challenging Mythril Mines nets you Mythril.",
+                    "uid": "2480477568140851"
+                },
+                {
+                    "text": "It's a rare resource used for <b>crafting [SR] gear</b> or <b>buying items at the Black Market</b>.",
+                    "uid": "187711622045298"
+                },
+                {
+                    "text": "Wanna get stronger? Then make sure to visit Mythril Mines!",
+                    "uid": "3003618823392421"
+                },
+                {
+                    "text": "I've got more info for you regarding Mythril Mines. Follow me.",
+                    "uid": "304772251485538"
+                },
+                {
+                    "text": "Although Instance Dungeons have fixed grades,",
+                    "uid": "3858495486860369"
+                },
+                {
+                    "text": "you can <b>select a grade</b> when you enter a Mythril Mine.",
+                    "uid": "3332840757645528"
+                },
+                {
+                    "text": "For now, you can only enter an [R] grade mine.",
+                    "uid": "128789529644731"
+                },
+                {
+                    "text": "After you clear the [R] grade mine, you can enter one that's [R+] grade.",
+                    "uid": "241058397275730"
+                },
+                {
+                    "text": "Let's enter an [R] grade mine this time.",
+                    "uid": "2770886368936197"
+                },
+                {
+                    "text": "Tap the <b>Select</b> button.",
+                    "uid": "664260491579743"
+                },
+                {
+                    "text": "You also fight alongside your party members in a Mythril Mine.",
+                    "uid": "4310779002633841"
+                },
+                {
+                    "text": "It won't be as much difficult since you can select a difficulty.",
+                    "uid": "4223966727856942"
+                },
+                {
+                    "text": "By the way, keep in mind that you can only collect <b>1,000 Mythril per week</b>.",
+                    "uid": "867152275104859"
+                },
+                {
+                    "text": "Shall we challenge the Mythril Mine now?",
+                    "uid": "4071203503105656"
+                },
+                {
+                    "text": "Tap <b>Challenge</b> to enter!",
+                    "uid": "693341913049202"
+                },
+                {
+                    "text": "If you manage to make it through this challenge, you can access Royal Castle Entrance: Zone 10.",
+                    "uid": "3697841468804759"
+                },
+                {
+                    "text": "Tap Challenge to start!",
+                    "uid": "1796896813439133"
+                },
+                {
+                    "text": "Skills can also be <b>fused</b>! Let's move to the <b>Fuse tab</b>.",
+                    "uid": "3166930150862397"
+                },
+                {
+                    "text": "You can <b>fuse your skills</b> in this tab.",
+                    "uid": "2353416320811881"
+                },
+                {
+                    "text": "Keep in mind that skills also need to be <b>identical</b> and the <b>same element</b>.",
+                    "uid": "4415126541862598"
+                },
+                {
+                    "text": "Let me show you how it's done.",
+                    "uid": "1508640996759039"
+                },
+                {
+                    "text": "Don't worry! I'll take you through the process step by step.",
+                    "uid": "1494474555742492"
+                },
+                {
+                    "text": "<b>Tap the first slot</b> to select a <b>skill to fuse</b>.",
+                    "uid": "3447372581644173"
+                },
+                {
+                    "text": "Next, <b>select a skill</b> to be used as <b>material</b>.",
+                    "uid": "3567388023520214"
+                },
+                {
+                    "text": "Tap <b>Fuse</b>.",
+                    "uid": "205990377721859"
+                },
+                {
+                    "text": "Fusing skills increases the <b>grade of the target skill</b>.",
+                    "uid": "3074047732504597"
+                },
+                {
+                    "text": "A higher grade skill is <b>more effective</b> and can be enhanced to <b>higher levels</b>.",
+                    "uid": "3638142402449890"
+                },
+                {
+                    "text": "Tap the <b>Fuse</b> button to complete the process!",
+                    "uid": "172319225220236"
+                },
+                {
+                    "text": "Make sure to collect as many skills as you can to produce higher-level skills!",
+                    "uid": "711123755546123"
+                },
+                {
+                    "text": "We're almost done! Let's learn how to <b>reset</b> skills.",
+                    "uid": "3220391090484634"
+                },
+                {
+                    "text": "You can <b>reset the Enhance Level</b> of skills here.",
+                    "uid": "4199971596215525"
+                },
+                {
+                    "text": "Once you do, you can <b>get back</b> every <b>Skill Scroll</b> and <b>Element Skill Scroll</b> you've used to enhance your skills.",
+                    "uid": "4480451008102584"
+                },
+                {
+                    "text": "However, <b>Gold you've used won't be refunded</b>, so think carefully when you decide to reset your skills.",
+                    "uid": "2683753591559067"
+                },
+                {
+                    "text": "Whew! That about wraps it up for the Skill Lab. I'm looking forward to seeing how much more powerful you get with this feature!",
+                    "uid": "1536968416940910"
+                },
+                {
+                    "text": "Time to learn about how to <b>fuse gear</b>.",
+                    "uid": "3994222099966593"
+                },
+                {
+                    "text": "You can <b>fuse gear</b> in the Fuse tab.",
+                    "uid": "2557087203880373"
+                },
+                {
+                    "text": "You need <b>two maxed-out pieces of gear</b> that are the <b>same grade and part</b> to fuse them.",
+                    "uid": "2839706897003394"
+                },
+                {
+                    "text": "How about we try crafting some gear?",
+                    "uid": "3722795796726723"
+                },
+                {
+                    "text": "Tap the first slot to select the first Fusion material.",
+                    "uid": "3154992345976790"
+                },
+                {
+                    "text": "Tap the second slot to select another material.",
+                    "uid": "4297194327548931"
+                },
+                {
+                    "text": "Tap the Fuse button to complete the process!",
+                    "uid": "1471400331328548"
+                },
+                {
+                    "text": "If this happens, the <b>gear's level resets to 1</b>, but it'll be more <b>effective in Enhance</b> than the grade before it.",
+                    "uid": "346495980240577"
+                },
+                {
+                    "text": "The <b>material gear's main stats</b> affect <b>those of the target gear's</b>.",
+                    "uid": "3094894691599774"
+                },
+                {
+                    "text": "The <b>material gear's sub stats</b> affect <b>those of the target gear's</b>.",
+                    "uid": "298728078002699"
+                },
+                {
+                    "text": "Sometimes <b>completely different stats</b> are applied at a rare chance, but it all depends on the <b>material gear</b>. Keep this in mind when you choose material.",
+                    "uid": "195453585455528"
+                },
+                {
+                    "text": "Allow me to show you the <b>Scrap</b> feature this time. Don't worry, it's really easy to use!",
+                    "uid": "3225746724906466"
+                },
+                {
+                    "text": "You can <b>scrap your gear</b> in the <b>Scrap</b> tab.",
+                    "uid": "3806496464182646"
+                },
+                {
+                    "text": "Scrapping a piece of gear will make it disappear.",
+                    "uid": "4068055330559160"
+                },
+                {
+                    "text": "In return, you'll receive <b>Iron Ores</b> based on the <b>Enhance grade and level</b>.",
+                    "uid": "2271357914015643"
+                },
+                {
+                    "text": "That's it for the Refinery!",
+                    "uid": "1124572739397486"
+                },
+                {
+                    "text": "Gear is at the <b>core of an adventurer's strength</b>. Make sure to visit the Refinery often!",
+                    "uid": "85506179538865"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

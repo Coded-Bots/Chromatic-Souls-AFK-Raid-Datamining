@@ -1,0 +1,433 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Use Accel {0} time(s)",
+                    "uid": "3471138008854403"
+                },
+                {
+                    "text": "Receive Accels from party members {0} time(s)",
+                    "uid": "4110784127704400"
+                },
+                {
+                    "text": "Reach Character Lv. {0}",
+                    "uid": "416636859038926"
+                },
+                {
+                    "text": "Enhance Gear {0} time(s)",
+                    "uid": "287245784704077"
+                },
+                {
+                    "text": "Fuse Gear {0} time(s)",
+                    "uid": "3704908539858562"
+                },
+                {
+                    "text": "Obtain [R] Gear x{0}",
+                    "uid": "973459966153203"
+                },
+                {
+                    "text": "Obtain [R+] Gear x{0}",
+                    "uid": "603027848007686"
+                },
+                {
+                    "text": "Obtain [SR] Gear x{0}",
+                    "uid": "3044917254327465"
+                },
+                {
+                    "text": "Obtain [SR+] Gear x{0}",
+                    "uid": "1806840703558100"
+                },
+                {
+                    "text": "Obtain [SSR] Gear x{0}",
+                    "uid": "4356562964974583"
+                },
+                {
+                    "text": "Obtain [SSR+] Gear x{0}",
+                    "uid": "167497810229226"
+                },
+                {
+                    "text": "Obtain [UR] Gear x{0}",
+                    "uid": "1043660245287037"
+                },
+                {
+                    "text": "Obtain [UR+] Gear x{0}",
+                    "uid": "2058555610113848"
+                },
+                {
+                    "text": "Obtain [USR] Gear x{0}",
+                    "uid": "261858193570331"
+                },
+                {
+                    "text": "Obtain [USR+] Gear x{0}",
+                    "uid": "1073866011061895"
+                },
+                {
+                    "text": "Enhance skills {0} time(s)",
+                    "uid": "3690451318980354"
+                },
+                {
+                    "text": "Fuse skills {0} time(s)",
+                    "uid": "1190337537005513"
+                },
+                {
+                    "text": "Obtain [R] Skill x{0}",
+                    "uid": "1987146189726070"
+                },
+                {
+                    "text": "Obtain [R+] Skill x{0}",
+                    "uid": "2008010373350947"
+                },
+                {
+                    "text": "Obtain [SR] Skill x{0}",
+                    "uid": "4366506728541280"
+                },
+                {
+                    "text": "Obtain [SR+] Skill x{0}",
+                    "uid": "3837455633377581"
+                },
+                {
+                    "text": "Obtain [SSR] Skill x{0}",
+                    "uid": "988645138484634"
+                },
+                {
+                    "text": "Obtain [SSR+] Skill x{0}",
+                    "uid": "2574082574950375"
+                },
+                {
+                    "text": "Obtain [UR] Skill x{0}",
+                    "uid": "3967312101749316"
+                },
+                {
+                    "text": "Obtain [UR+] Skill x{0}",
+                    "uid": "2842407750661345"
+                },
+                {
+                    "text": "Obtain [USR] Skill x{0}",
+                    "uid": "1275544417143198"
+                },
+                {
+                    "text": "Obtain [USR+] Skill x{0}",
+                    "uid": "192442815106592"
+                },
+                {
+                    "text": "Research at Tower of Knowledge {0} time(s)",
+                    "uid": "4076543520123610"
+                },
+                {
+                    "text": "Craft at Forge {0} time(s)",
+                    "uid": "1252471449720181"
+                },
+                {
+                    "text": "Obtain [R] Reliquary x{0}",
+                    "uid": "383837133405150"
+                },
+                {
+                    "text": "Obtain [R+] Reliquary x{0}",
+                    "uid": "3217191077564235"
+                },
+                {
+                    "text": "Obtain [SR] Reliquary x{0}",
+                    "uid": "580641843174120"
+                },
+                {
+                    "text": "Obtain [SR+] Reliquary x{0}",
+                    "uid": "3046840312679765"
+                },
+                {
+                    "text": "Obtain [SSR] Reliquary x{0}",
+                    "uid": "3047963908554530"
+                },
+                {
+                    "text": "Obtain [SSR+] Reliquary x{0}",
+                    "uid": "2694834066811887"
+                },
+                {
+                    "text": "Obtain [UR] Reliquary x{0}",
+                    "uid": "2678386547238348"
+                },
+                {
+                    "text": "Obtain [UR+] Reliquary x{0}",
+                    "uid": "161909634061273"
+                },
+                {
+                    "text": "Obtain [USR] Reliquary x{0}",
+                    "uid": "1095438905987766"
+                },
+                {
+                    "text": "Obtain [USR+] Reliquary x{0}",
+                    "uid": "100671887666392"
+                },
+                {
+                    "text": "Obtain [R] Relic x{0}",
+                    "uid": "1400220287036091"
+                },
+                {
+                    "text": "Obtain [R+] Relic x{0}",
+                    "uid": "1946868153561614"
+                },
+                {
+                    "text": "Obtain [SR] Relic x{0}",
+                    "uid": "626326616881233"
+                },
+                {
+                    "text": "Obtain [SR+] Relic x{0}",
+                    "uid": "509566743632892"
+                },
+                {
+                    "text": "Obtain [SSR] Relic x{0}",
+                    "uid": "1935691248971103"
+                },
+                {
+                    "text": "Obtain [SSR+] Relic x{0}",
+                    "uid": "1512489154667090"
+                },
+                {
+                    "text": "Obtain [UR] Relic x{0}",
+                    "uid": "4042317126327557"
+                },
+                {
+                    "text": "Obtain [UR+] Relic x{0}",
+                    "uid": "4472599432758480"
+                },
+                {
+                    "text": "Obtain [USR] Relic x{0}",
+                    "uid": "2111822059618707"
+                },
+                {
+                    "text": "Obtain [USR+] Relic x{0}",
+                    "uid": "1370463150095087"
+                },
+                {
+                    "text": "Upgrade Relics {0} time(s)",
+                    "uid": "512848958869623"
+                },
+                {
+                    "text": "Instantly Complete Exploration {0} time(s)",
+                    "uid": "3733530817929139"
+                },
+                {
+                    "text": "Complete [N] Exploration {0} time(s)",
+                    "uid": "3054613462253549"
+                },
+                {
+                    "text": "Complete [R] Exploration {0} time(s)",
+                    "uid": "3465944907447044"
+                },
+                {
+                    "text": "Complete [SR] Exploration {0} time(s)",
+                    "uid": "383886592368807"
+                },
+                {
+                    "text": "Complete [SSR] Exploration {0} time(s)",
+                    "uid": "3174628904129334"
+                },
+                {
+                    "text": "Complete [UR] Exploration {0} time(s)",
+                    "uid": "2241099632202841"
+                },
+                {
+                    "text": "Obtain Gold x{0}",
+                    "uid": "1049092255183013"
+                },
+                {
+                    "text": "Use Gold x{0}",
+                    "uid": "1552341095712526"
+                },
+                {
+                    "text": "Obtain Ancient Coin x{0}",
+                    "uid": "1537795180309124"
+                },
+                {
+                    "text": "Use Ancient Coin x{0}",
+                    "uid": "2191371471033519"
+                },
+                {
+                    "text": "Successfully challenge Adventure Boss {0} time(s)",
+                    "uid": "1311614232129610"
+                },
+                {
+                    "text": "Clear Instance Dungeons {0} time(s)",
+                    "uid": "590405793814425"
+                },
+                {
+                    "text": "Make purchases at the General Shop {0} time(s)",
+                    "uid": "2699438233711463"
+                },
+                {
+                    "text": "Make purchases at the Black Market {0} time(s)",
+                    "uid": "720167543857915"
+                },
+                {
+                    "text": "Make purchases at the Ancient Shop {0} time(s)",
+                    "uid": "1964361886126665"
+                },
+                {
+                    "text": "Reset General Shop {0} time(s)",
+                    "uid": "70573924609924"
+                },
+                {
+                    "text": "Reset Black Market {0} time(s)",
+                    "uid": "1208559538749080"
+                },
+                {
+                    "text": "Reset Ancient Shop {0} time(s)",
+                    "uid": "3596034834424890"
+                },
+                {
+                    "text": "Complete Daily Missions {0} time(s)",
+                    "uid": "1626987797126310"
+                },
+                {
+                    "text": "Complete Weekly Missions {0} time(s)",
+                    "uid": "4091436863347106"
+                },
+                {
+                    "text": "Complete Elite Missions {0} time(s)",
+                    "uid": "2055684291681732"
+                },
+                {
+                    "text": "Clear Royal Castle Entrance",
+                    "uid": "3071719353205891"
+                },
+                {
+                    "text": "Clear Goblin Base",
+                    "uid": "1929517371633750"
+                },
+                {
+                    "text": "Clear Paradise of Light",
+                    "uid": "995988099707257"
+                },
+                {
+                    "text": "Clear Vangor Fields",
+                    "uid": "245925356985508"
+                },
+                {
+                    "text": "Clear Orcish Habitat",
+                    "uid": "3642374687243719"
+                },
+                {
+                    "text": "Clear Heathens' Hideout",
+                    "uid": "2056937250778234"
+                },
+                {
+                    "text": "Clear West Preservation Area",
+                    "uid": "1809501929757709"
+                },
+                {
+                    "text": "Log in for a total of {0} day(s)",
+                    "uid": "4286510399117991"
+                },
+                {
+                    "text": "Enhance Gear of every part to +{0}",
+                    "uid": "2444038573192468"
+                },
+                {
+                    "text": "Enhance 4 Equipped Skills to +{0}",
+                    "uid": "1050406889319823"
+                },
+                {
+                    "text": "Reach {0} Character CP",
+                    "uid": "2029004606317237"
+                },
+                {
+                    "text": "Clear York Encampment",
+                    "uid": "1414720308819848"
+                },
+                {
+                    "text": "Clear Necromancy Lab",
+                    "uid": "955023727297003"
+                },
+                {
+                    "text": "Clear Dry Plains",
+                    "uid": "3252308520180759"
+                },
+                {
+                    "text": "Clear Nymphish Occupation",
+                    "uid": "3235861000607476"
+                },
+                {
+                    "text": "Clear Abandoned Land",
+                    "uid": "1351363864815133"
+                },
+                {
+                    "text": "Clear Eye of the Storm",
+                    "uid": "3285346895557642"
+                },
+                {
+                    "text": "Clear Hell's Gate",
+                    "uid": "4372805148729875"
+                },
+                {
+                    "text": "Clear Forgotten Shelter",
+                    "uid": "2229982894499152"
+                },
+                {
+                    "text": "Clear South Bloodfield",
+                    "uid": "537850034764617"
+                },
+                {
+                    "text": "Clear Eroding Road",
+                    "uid": "4002373030584614"
+                },
+                {
+                    "text": "Clear Echo Shelter",
+                    "uid": "4196674338082271"
+                },
+                {
+                    "text": "Clear Haven of Souls",
+                    "uid": "2770549832744060"
+                },
+                {
+                    "text": "Clear Ashen Plateau",
+                    "uid": "1547349263122560"
+                },
+                {
+                    "text": "Equip [R] or Higher Gear on Every Slot",
+                    "uid": "737849679048636"
+                },
+                {
+                    "text": "Equip [R+] or Higher Gear on Every Slot",
+                    "uid": "2863225129860037"
+                },
+                {
+                    "text": "Equip [SR] or Higher Gear on Every Slot",
+                    "uid": "3429600878362130"
+                },
+                {
+                    "text": "Equip [SR+] or Higher Gear on Every Slot",
+                    "uid": "1347007125203835"
+                },
+                {
+                    "text": "Equip [SSR] or Higher Gear on Every Slot",
+                    "uid": "328954823082136"
+                },
+                {
+                    "text": "Equip [SSR+] or Higher Gear on Every Slot",
+                    "uid": "2543438340576273"
+                },
+                {
+                    "text": "Equip [UR] or Higher Gear on Every Slot",
+                    "uid": "2175151088977614"
+                },
+                {
+                    "text": "Craft [R] Gear at the Forge",
+                    "uid": "3053807900688128"
+                },
+                {
+                    "text": "Craft [SR] Gear at the Forge",
+                    "uid": "589926297952953"
+                },
+                {
+                    "text": "Craft [SSR] Gear at the Forge",
+                    "uid": "1241959472631190"
+                },
+                {
+                    "text": "Clear Royal Castle Entrance: Zone 3 to unlock.",
+                    "uid": "2232081265937654"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

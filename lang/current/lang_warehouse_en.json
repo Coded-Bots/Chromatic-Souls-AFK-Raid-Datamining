@@ -1,0 +1,53 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Open",
+                    "uid": "1795541666804424"
+                },
+                {
+                    "text": "Open All",
+                    "uid": "3090248619408643"
+                },
+                {
+                    "text": "Fuse All",
+                    "uid": "929741511127255"
+                },
+                {
+                    "text": "Use",
+                    "uid": "3000018825379809"
+                },
+                {
+                    "text": "Use All",
+                    "uid": "1442835330902742"
+                },
+                {
+                    "text": "Claim",
+                    "uid": "1564984809698303"
+                },
+                {
+                    "text": "Obtain a random {0} {1} skill.",
+                    "uid": "1348620706085727"
+                },
+                {
+                    "text": "Obtain a random {0} {1}.",
+                    "uid": "914954662057164"
+                },
+                {
+                    "text": "Use various items in the Vault to obtain skills, gear, Relics, and resources.",
+                    "uid": "2633005923467327"
+                },
+                {
+                    "text": "Reach Lv. 1 to unlock.",
+                    "uid": "2495214391403350"
+                },
+                {
+                    "text": "Try collecting items from your adventure.",
+                    "uid": "344922157194577"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Not enough Red Gems. Purchase more?",
+                    "uid": "718092545144171"
+                },
+                {
+                    "text": "Not enough Gold. Purchase more?",
+                    "uid": "308930716488355"
+                },
+                {
+                    "text": "Not Enough Currency",
+                    "uid": "2070136502031236"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

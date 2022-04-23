@@ -1,0 +1,37 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Nightmare Ancient Fortress",
+                    "uid": "246499869608900"
+                },
+                {
+                    "text": "Blazing Ancient Fortress",
+                    "uid": "722067756525072"
+                },
+                {
+                    "text": "Frozen Ancient Fortress",
+                    "uid": "2693918326109982"
+                },
+                {
+                    "text": "Flashing Ancient Fortress",
+                    "uid": "1166764968480561"
+                },
+                {
+                    "text": "Trembling Ancient Fortress",
+                    "uid": "437598725816085"
+                },
+                {
+                    "text": "Locked Ancient Fortress",
+                    "uid": "69759986569846"
+                },
+                {
+                    "text": "Blessed Ancient Fortress",
+                    "uid": "3422565827186084"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

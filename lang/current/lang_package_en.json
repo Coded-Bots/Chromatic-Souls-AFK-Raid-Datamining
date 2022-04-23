@@ -1,0 +1,41 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "No offers.",
+                    "uid": "2519003496568915"
+                },
+                {
+                    "text": "Red Gem x{0}",
+                    "uid": "358165370276984"
+                },
+                {
+                    "text": "Blue Gem x{0}",
+                    "uid": "4091393745183875"
+                },
+                {
+                    "text": "Once a day",
+                    "uid": "2371658402311486"
+                },
+                {
+                    "text": "{0} Red Gem(s) on Purchase",
+                    "uid": "2655069259645217"
+                },
+                {
+                    "text": "{0} Red Gem(s) Daily",
+                    "uid": "4106154379110730"
+                },
+                {
+                    "text": "Purchased offer has been restored.\\nPlease check your Mailbox.",
+                    "uid": "1634208173323844"
+                },
+                {
+                    "text": "Blue Gem x{0} acquired.",
+                    "uid": "4024429797019052"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

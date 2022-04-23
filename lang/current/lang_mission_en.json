@@ -1,0 +1,209 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Use Accel in Adventure",
+                    "uid": "1446386217605190"
+                },
+                {
+                    "text": "Use Shop",
+                    "uid": "1816818335750451"
+                },
+                {
+                    "text": "Enhance Skills",
+                    "uid": "1076808856289008"
+                },
+                {
+                    "text": "Enhance Gear",
+                    "uid": "198189826604989"
+                },
+                {
+                    "text": "Complete Exploration",
+                    "uid": "3544130921669418"
+                },
+                {
+                    "text": "Successfully Clear Instance Dungeons",
+                    "uid": "2103717614409015"
+                },
+                {
+                    "text": "Enhance Skills",
+                    "uid": "2167993123157078"
+                },
+                {
+                    "text": "Enhance Gear",
+                    "uid": "3310195104729219"
+                },
+                {
+                    "text": "Successfully Challenge Adventure",
+                    "uid": "883595735300800"
+                },
+                {
+                    "text": "Successfully Clear Instance Dungeons",
+                    "uid": "2047977681281037"
+                },
+                {
+                    "text": "Craft Gear at the Forge",
+                    "uid": "2295413002301562"
+                },
+                {
+                    "text": "Use Shop",
+                    "uid": "3880850438767047"
+                },
+                {
+                    "text": "Use Ancient Shop",
+                    "uid": "484401108508836"
+                },
+                {
+                    "text": "Successfully Challenge Ancient Fortress",
+                    "uid": "3863096384791361"
+                },
+                {
+                    "text": "Successfully Challenge Adventure",
+                    "uid": "164909501746988"
+                },
+                {
+                    "text": "Successfully Clear Instance Dungeons",
+                    "uid": "1373204967887413"
+                },
+                {
+                    "text": "Use Accel in Adventure",
+                    "uid": "1655824661010434"
+                },
+                {
+                    "text": "Research Skills at the Tower of Knowledge",
+                    "uid": "422239055250859"
+                },
+                {
+                    "text": "Complete",
+                    "uid": "600439539525704"
+                },
+                {
+                    "text": "Complete Daily Missions",
+                    "uid": "2810339863973633"
+                },
+                {
+                    "text": "Reward",
+                    "uid": "4453025834090496"
+                },
+                {
+                    "text": "Daily",
+                    "uid": "4139339981197492"
+                },
+                {
+                    "text": "Weekly",
+                    "uid": "2639367557619904"
+                },
+                {
+                    "text": "Elite",
+                    "uid": "369084482943958"
+                },
+                {
+                    "text": "Daily Mission",
+                    "uid": "4077820130448472"
+                },
+                {
+                    "text": "Weekly Mission",
+                    "uid": "930381165448004"
+                },
+                {
+                    "text": "Elite Mission",
+                    "uid": "795652872479574"
+                },
+                {
+                    "text": "Medal Reward",
+                    "uid": "2635271254798497"
+                },
+                {
+                    "text": "General Reward",
+                    "uid": "391172189105927"
+                },
+                {
+                    "text": "Special Reward",
+                    "uid": "29449925728181"
+                },
+                {
+                    "text": "Get Special Reward",
+                    "uid": "3761629619789442"
+                },
+                {
+                    "text": "Missions will reset in <color=#ffffff>{0}</color>.",
+                    "uid": "942184806069758"
+                },
+                {
+                    "text": "Complete",
+                    "uid": "1311959318800158"
+                },
+                {
+                    "text": "Go",
+                    "uid": "5818055914506"
+                },
+                {
+                    "text": "Claim",
+                    "uid": "1255672518191331"
+                },
+                {
+                    "text": "Start of Mission Season: Notice",
+                    "uid": "265536241602264"
+                },
+                {
+                    "text": "A new Mission Season is now underway!\\nMake sure to check out the new missions!",
+                    "uid": "1316321537003845"
+                },
+                {
+                    "text": "Mission Season ends in {0}.\\nOnce the season ends, you cannot collect any unclaimed rewards.",
+                    "uid": "666458006914350"
+                },
+                {
+                    "text": "End of Mission Season: Notice",
+                    "uid": "16861913948163"
+                },
+                {
+                    "text": "Earn rewards based on the number of Medals you have. If you have purchased a Special Reward, you will receive it as well.\\nMedals and rewards are reset every 28 days.",
+                    "uid": "2869197027758072"
+                },
+                {
+                    "text": "Any unclaimed rewards at the end of a designated period cannot be collected.",
+                    "uid": "2300285221293158"
+                },
+                {
+                    "text": "Mission has not started yet.",
+                    "uid": "1240487603279047"
+                },
+                {
+                    "text": "Mission has ended.",
+                    "uid": "3971638369400732"
+                },
+                {
+                    "text": "There is no mission.",
+                    "uid": "4355236109185379"
+                },
+                {
+                    "text": "There is no reward.",
+                    "uid": "2295495726196016"
+                },
+                {
+                    "text": "You've completed the mission: {0}.",
+                    "uid": "2730335082679500"
+                },
+                {
+                    "text": "WARNING: Unclaimed rewards cannot be collected once they've expired.",
+                    "uid": "982586109106469"
+                },
+                {
+                    "text": "The mode is not unlocked yet.",
+                    "uid": "614497492034216"
+                },
+                {
+                    "text": "Special Reward has been sent to your Mailbox.",
+                    "uid": "4370779609690819"
+                },
+                {
+                    "text": "Clear Goblin Base: Zone 20 to unlock.",
+                    "uid": "1123663342883141"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

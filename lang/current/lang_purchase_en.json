@@ -1,0 +1,65 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Unable to purchase. Market has not yet reset.",
+                    "uid": "2735501837272333"
+                },
+                {
+                    "text": "Network Error",
+                    "uid": "3147762592748576"
+                },
+                {
+                    "text": "This market is unsupported.",
+                    "uid": "3784595780731528"
+                },
+                {
+                    "text": "You cannot make the purchase at this time.",
+                    "uid": "4280477288521296"
+                },
+                {
+                    "text": "Unable to purchase due to an incorrect offer code.",
+                    "uid": "4109234126714997"
+                },
+                {
+                    "text": "Offers are issued after the offline transaction is complete.",
+                    "uid": "4438394151230556"
+                },
+                {
+                    "text": "Purchase canceled.",
+                    "uid": "3891826893650603"
+                },
+                {
+                    "text": "In-app Purchases feature has been disabled. Unable to make purchase.\\nPlease enable it and then try again.\\n(Settings > Screen Time > Content & Privacy Restrictions > iTunes & App Store Purchases > In-app Purchases)",
+                    "uid": "3883070185789272"
+                },
+                {
+                    "text": "Previously purchased offer needs to be restored first before making purchase.",
+                    "uid": "453757806484303"
+                },
+                {
+                    "text": "Offers are issued after transaction is complete.",
+                    "uid": "501428261848421"
+                },
+                {
+                    "text": "Previous purchase is being processed.",
+                    "uid": "1575569200942005"
+                },
+                {
+                    "text": "Recovery is in progress.",
+                    "uid": "2268321317722191"
+                },
+                {
+                    "text": "Unknown Error: {0}",
+                    "uid": "1197114179775749"
+                },
+                {
+                    "text": "An error occurred while processing purchase recovery from Google Play.",
+                    "uid": "1800279432428944"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

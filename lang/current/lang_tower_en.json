@@ -1,0 +1,25 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Research x{0}",
+                    "uid": "3200000863911368"
+                },
+                {
+                    "text": "Rates",
+                    "uid": "1950923472882118"
+                },
+                {
+                    "text": "Research Mileage: {0}",
+                    "uid": "3265062762364018"
+                },
+                {
+                    "text": "Get Mileage Reward",
+                    "uid": "1983293778444101"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

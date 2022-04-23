@@ -1,0 +1,25 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Craft x{0}",
+                    "uid": "2332320673720771"
+                },
+                {
+                    "text": "Craft Mileage: {0}",
+                    "uid": "1764209915336625"
+                },
+                {
+                    "text": "Use Iron Ores, Mythril, and Soul Stones to craft gear. There's a weekly limit when crafting gear, which is reset every Monday. Information on crafting rates can be found in the Rates menu.",
+                    "uid": "1199188748511954"
+                },
+                {
+                    "text": "Clear Royal Castle Entrance: Zone 4 to enter.",
+                    "uid": "3234126531005427"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

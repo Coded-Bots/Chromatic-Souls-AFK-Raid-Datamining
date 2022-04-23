@@ -1,0 +1,153 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "GM",
+                    "uid": "3995213647427461"
+                },
+                {
+                    "text": "{0}: Here's your Day {1} Login Reward.",
+                    "uid": "224090747790557"
+                },
+                {
+                    "text": "World GM",
+                    "uid": "1563473219630968"
+                },
+                {
+                    "text": "Here's your reward for clearing {0}!",
+                    "uid": "1151834224135625"
+                },
+                {
+                    "text": "Shop Owner",
+                    "uid": "1408345876052246"
+                },
+                {
+                    "text": "Thank you for purchasing {0}!",
+                    "uid": "1663333491488234"
+                },
+                {
+                    "text": "Adventurer Alliance League Master",
+                    "uid": "3350205029876922"
+                },
+                {
+                    "text": "Here's your Adventurer Alliance {0} Reward.",
+                    "uid": "1192264540075491"
+                },
+                {
+                    "text": "Mailbox",
+                    "uid": "1566493960336854"
+                },
+                {
+                    "text": "System Mail",
+                    "uid": "2371761526181868"
+                },
+                {
+                    "text": "Note",
+                    "uid": "3671387720566622"
+                },
+                {
+                    "text": "Expires in {0}",
+                    "uid": "1150338368172070"
+                },
+                {
+                    "text": "Delete Read",
+                    "uid": "3927006048136905"
+                },
+                {
+                    "text": "Claim All",
+                    "uid": "2098379101947318"
+                },
+                {
+                    "text": "There is no mail.",
+                    "uid": "3046745199936284"
+                },
+                {
+                    "text": "Mail is automatically deleted when expired.",
+                    "uid": "4132033650440973"
+                },
+                {
+                    "text": "Sender: {0}",
+                    "uid": "1836338923064649"
+                },
+                {
+                    "text": "Date: {0}",
+                    "uid": "586186637130705"
+                },
+                {
+                    "text": "To {0}",
+                    "uid": "4320675896116865"
+                },
+                {
+                    "text": "Claim Items",
+                    "uid": "1404986650993185"
+                },
+                {
+                    "text": "{0} ago",
+                    "uid": "3252503625755858"
+                },
+                {
+                    "text": "Select & Delete",
+                    "uid": "3461316138518345"
+                },
+                {
+                    "text": "Write New Note",
+                    "uid": "2377298345572887"
+                },
+                {
+                    "text": "Refresh",
+                    "uid": "1073829406562931"
+                },
+                {
+                    "text": "{0}'s Note",
+                    "uid": "2490524114440753"
+                },
+                {
+                    "text": "Enter your message.",
+                    "uid": "1206206339913598"
+                },
+                {
+                    "text": "Unable to send a Note to non-friends or non-party members.",
+                    "uid": "3599855923091632"
+                },
+                {
+                    "text": "Party Member",
+                    "uid": "2574398127549070"
+                },
+                {
+                    "text": "Delete Note history with {0}?",
+                    "uid": "2281803724698528"
+                },
+                {
+                    "text": "You cannot see previous Notes even if you send a new one.",
+                    "uid": "3794557208793340"
+                },
+                {
+                    "text": "View List",
+                    "uid": "1885101859636223"
+                },
+                {
+                    "text": "There are no Notes.",
+                    "uid": "3393918554899704"
+                },
+                {
+                    "text": "{0} d ago",
+                    "uid": "1913124051839238"
+                },
+                {
+                    "text": "{0} h ago",
+                    "uid": "3835427614787442"
+                },
+                {
+                    "text": "{0} m ago",
+                    "uid": "4213302375817740"
+                },
+                {
+                    "text": "Clear Royal Castle Entrance: Zone 3 to unlock.",
+                    "uid": "219465375263656"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

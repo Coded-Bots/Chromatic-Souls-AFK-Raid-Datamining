@@ -1,0 +1,25 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Each Chapter has a dungeon. Difficulty and rewards are based on your party's average level. The greater the number of party members that clear the dungeon, the more rewards you'll earn.",
+                    "uid": "4235785741936260"
+                },
+                {
+                    "text": "Select Grade",
+                    "uid": "4106263816483832"
+                },
+                {
+                    "text": "You cannot earn any more Mythril.\\nChallenge anyway?",
+                    "uid": "1392286437956259"
+                },
+                {
+                    "text": "You'll be unable to earn some Mythril. Challenge anyway?",
+                    "uid": "3534762205160155"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

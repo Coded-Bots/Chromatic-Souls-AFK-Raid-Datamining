@@ -1,0 +1,161 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Authentication is deactivated and you will be logged out.\\nMoving to the login screen.",
+                    "uid": "2034477911679037"
+                },
+                {
+                    "text": "That user does not exist.",
+                    "uid": "4291088692839701"
+                },
+                {
+                    "text": "Nickname is already in use.",
+                    "uid": "2306710339490507"
+                },
+                {
+                    "text": "Not enough items.",
+                    "uid": "3351996992859305"
+                },
+                {
+                    "text": "Invalid dungeon info.",
+                    "uid": "1281716490371373"
+                },
+                {
+                    "text": "Instance dungeon is closed.",
+                    "uid": "1818258926058088"
+                },
+                {
+                    "text": "Already searching for a boss.",
+                    "uid": "1787458088283692"
+                },
+                {
+                    "text": "Unable to enter the dungeon.",
+                    "uid": "3499904182398692"
+                },
+                {
+                    "text": "Your party is full.",
+                    "uid": "2609946985392582"
+                },
+                {
+                    "text": "That class is already in the party.",
+                    "uid": "280054781733699"
+                },
+                {
+                    "text": "Party password is incorrect.",
+                    "uid": "4307536504510804"
+                },
+                {
+                    "text": "Approval is required to join the party.",
+                    "uid": "3236288143616693"
+                },
+                {
+                    "text": "Party is set as private.",
+                    "uid": "2122215103917624"
+                },
+                {
+                    "text": "Party requirements not met.",
+                    "uid": "3660151525107006"
+                },
+                {
+                    "text": "You have no party authorization.",
+                    "uid": "181674408433660"
+                },
+                {
+                    "text": "Already used by a party member.",
+                    "uid": "2332317729435490"
+                },
+                {
+                    "text": "You've already sent a party request.",
+                    "uid": "2850705141331625"
+                },
+                {
+                    "text": "You've already sent a party invitation.",
+                    "uid": "1062130767478349"
+                },
+                {
+                    "text": "You're already in a different party.",
+                    "uid": "3596280828202842"
+                },
+                {
+                    "text": "Inactive user.",
+                    "uid": "1066186023561822"
+                },
+                {
+                    "text": "Party does not exist.",
+                    "uid": "3091752078937052"
+                },
+                {
+                    "text": "Adventurer Alliance League is different.",
+                    "uid": "2284393004333504"
+                },
+                {
+                    "text": "Shop item does not exist.",
+                    "uid": "2067278309822238"
+                },
+                {
+                    "text": "Your friend list is full.",
+                    "uid": "3710100914286026"
+                },
+                {
+                    "text": "Maximum friend requests reached.",
+                    "uid": "3706824595453556"
+                },
+                {
+                    "text": "You're already friends with that user.",
+                    "uid": "187220501987963"
+                },
+                {
+                    "text": "You've already sent a friend request to that user.",
+                    "uid": "46824796743338"
+                },
+                {
+                    "text": "You've already received a friend request from that user.",
+                    "uid": "3417296882955173"
+                },
+                {
+                    "text": "Unable to send a Note.",
+                    "uid": "768704843528518"
+                },
+                {
+                    "text": "An invalid word is included.",
+                    "uid": "65652535955922"
+                },
+                {
+                    "text": "Enter a name between 4-12 characters.",
+                    "uid": "3596594345356679"
+                },
+                {
+                    "text": "An invalid character is included.",
+                    "uid": "816286046723095"
+                },
+                {
+                    "text": "Already Max enhanced. You can enhance further when your character levels up.",
+                    "uid": "3492565008125236"
+                },
+                {
+                    "text": "Server error.",
+                    "uid": "923572839767755"
+                },
+                {
+                    "text": "This dungeon has already been created.",
+                    "uid": "600185901078613"
+                },
+                {
+                    "text": "Adventurer Alliance League is different.",
+                    "uid": "239686075782732"
+                },
+                {
+                    "text": "A character in the same account has logged in.\\nMoving to the login screen.",
+                    "uid": "3816545164142951"
+                },
+                {
+                    "text": "You cannot send a Note to yourself.",
+                    "uid": "2265492434054320"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

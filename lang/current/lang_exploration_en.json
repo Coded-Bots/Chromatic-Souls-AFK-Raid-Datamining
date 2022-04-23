@@ -1,0 +1,1289 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Royal Castle Entrance",
+                    "uid": "4471109479784928"
+                },
+                {
+                    "text": "Royal Castle Entrance",
+                    "uid": "12501358643165"
+                },
+                {
+                    "text": "Royal Castle Entrance",
+                    "uid": "3376034639758902"
+                },
+                {
+                    "text": "Royal Castle Entrance",
+                    "uid": "1535458559009011"
+                },
+                {
+                    "text": "Royal Castle Entrance",
+                    "uid": "111638852064276"
+                },
+                {
+                    "text": "Royal Castle Entrance",
+                    "uid": "3853273116052449"
+                },
+                {
+                    "text": "Royal Castle Entrance",
+                    "uid": "706543839201722"
+                },
+                {
+                    "text": "Royal Castle Entrance",
+                    "uid": "4494337337931559"
+                },
+                {
+                    "text": "Goblin Base",
+                    "uid": "371979205148241"
+                },
+                {
+                    "text": "Goblin Base",
+                    "uid": "2543621614903236"
+                },
+                {
+                    "text": "Goblin Base",
+                    "uid": "24515861614179"
+                },
+                {
+                    "text": "Goblin Base",
+                    "uid": "3061339521204966"
+                },
+                {
+                    "text": "Goblin Base",
+                    "uid": "1107483225853901"
+                },
+                {
+                    "text": "Goblin Base",
+                    "uid": "2115736559873936"
+                },
+                {
+                    "text": "Goblin Base",
+                    "uid": "724809182235199"
+                },
+                {
+                    "text": "Goblin Base",
+                    "uid": "1205567552918434"
+                },
+                {
+                    "text": "Paradise of Light",
+                    "uid": "1125171384800710"
+                },
+                {
+                    "text": "Paradise of Light",
+                    "uid": "482074086974879"
+                },
+                {
+                    "text": "Paradise of Light",
+                    "uid": "3280355276071152"
+                },
+                {
+                    "text": "Paradise of Light",
+                    "uid": "2939410696114481"
+                },
+                {
+                    "text": "Paradise of Light",
+                    "uid": "2114855317868810"
+                },
+                {
+                    "text": "Paradise of Light",
+                    "uid": "1189134577811139"
+                },
+                {
+                    "text": "Paradise of Light",
+                    "uid": "2014807289956260"
+                },
+                {
+                    "text": "Paradise of Light",
+                    "uid": "1923585432160229"
+                },
+                {
+                    "text": "Vangor Fields",
+                    "uid": "969433926927503"
+                },
+                {
+                    "text": "Vangor Fields",
+                    "uid": "1544459326873526"
+                },
+                {
+                    "text": "Vangor Fields",
+                    "uid": "2684525673128285"
+                },
+                {
+                    "text": "Vangor Fields",
+                    "uid": "2783663166549396"
+                },
+                {
+                    "text": "Vangor Fields",
+                    "uid": "4207482873494131"
+                },
+                {
+                    "text": "Vangor Fields",
+                    "uid": "3378568153686842"
+                },
+                {
+                    "text": "Vangor Fields",
+                    "uid": "2021697803167073"
+                },
+                {
+                    "text": "Vangor Fields",
+                    "uid": "1487511306688664"
+                },
+                {
+                    "text": "Orcish Habitat",
+                    "uid": "3621409011352796"
+                },
+                {
+                    "text": "Orcish Habitat",
+                    "uid": "1979831687433161"
+                },
+                {
+                    "text": "Orcish Habitat",
+                    "uid": "2561518543429506"
+                },
+                {
+                    "text": "Orcish Habitat",
+                    "uid": "1240797700645687"
+                },
+                {
+                    "text": "Orcish Habitat",
+                    "uid": "1541009579820264"
+                },
+                {
+                    "text": "Orcish Habitat",
+                    "uid": "3240796541109605"
+                },
+                {
+                    "text": "Orcish Habitat",
+                    "uid": "2135914566957470"
+                },
+                {
+                    "text": "Orcish Habitat",
+                    "uid": "2506345686760515"
+                },
+                {
+                    "text": "Heathens' Hideout",
+                    "uid": "1230975620872013"
+                },
+                {
+                    "text": "Heathens' Hideout",
+                    "uid": "2239228954892048"
+                },
+                {
+                    "text": "Heathens' Hideout",
+                    "uid": "848301577253311"
+                },
+                {
+                    "text": "Heathens' Hideout",
+                    "uid": "1078312129128362"
+                },
+                {
+                    "text": "Heathens' Hideout",
+                    "uid": "495471600166353"
+                },
+                {
+                    "text": "Heathens' Hideout",
+                    "uid": "2667114009921348"
+                },
+                {
+                    "text": "Heathens' Hideout",
+                    "uid": "148008256632291"
+                },
+                {
+                    "text": "Heathens' Hideout",
+                    "uid": "4281176764199742"
+                },
+                {
+                    "text": "West Preservation Area",
+                    "uid": "2212892447742738"
+                },
+                {
+                    "text": "West Preservation Area",
+                    "uid": "1039727430000203"
+                },
+                {
+                    "text": "West Preservation Area",
+                    "uid": "1302473858514732"
+                },
+                {
+                    "text": "West Preservation Area",
+                    "uid": "3244014166450229"
+                },
+                {
+                    "text": "West Preservation Area",
+                    "uid": "1785007392713646"
+                },
+                {
+                    "text": "West Preservation Area",
+                    "uid": "50043496931847"
+                },
+                {
+                    "text": "West Preservation Area",
+                    "uid": "3655284250328696"
+                },
+                {
+                    "text": "West Preservation Area",
+                    "uid": "2219145861279297"
+                },
+                {
+                    "text": "York Encampment",
+                    "uid": "3481142202349051"
+                },
+                {
+                    "text": "York Encampment",
+                    "uid": "4093633052954818"
+                },
+                {
+                    "text": "York Encampment",
+                    "uid": "3793421173780233"
+                },
+                {
+                    "text": "York Encampment",
+                    "uid": "1665749157461800"
+                },
+                {
+                    "text": "York Encampment",
+                    "uid": "4180308117378679"
+                },
+                {
+                    "text": "York Encampment",
+                    "uid": "2542150241847518"
+                },
+                {
+                    "text": "York Encampment",
+                    "uid": "3365536118751141"
+                },
+                {
+                    "text": "York Encampment",
+                    "uid": "2049404165090148"
+                },
+                {
+                    "text": "Necromancy Lab",
+                    "uid": "1319624294023240"
+                },
+                {
+                    "text": "Necromancy Lab",
+                    "uid": "3300886232134597"
+                },
+                {
+                    "text": "Necromancy Lab",
+                    "uid": "502571216838782"
+                },
+                {
+                    "text": "Necromancy Lab",
+                    "uid": "3135017338910235"
+                },
+                {
+                    "text": "Necromancy Lab",
+                    "uid": "3400023725555772"
+                },
+                {
+                    "text": "Necromancy Lab",
+                    "uid": "1753863269197737"
+                },
+                {
+                    "text": "Necromancy Lab",
+                    "uid": "646700216488802"
+                },
+                {
+                    "text": "Necromancy Lab",
+                    "uid": "165941845805567"
+                },
+                {
+                    "text": "Dry Plains",
+                    "uid": "3354822457518028"
+                },
+                {
+                    "text": "Dry Plains",
+                    "uid": "3751641856398073"
+                },
+                {
+                    "text": "Dry Plains",
+                    "uid": "1164454194144818"
+                },
+                {
+                    "text": "Dry Plains",
+                    "uid": "3505204870704423"
+                },
+                {
+                    "text": "Dry Plains",
+                    "uid": "2329954152346904"
+                },
+                {
+                    "text": "Dry Plains",
+                    "uid": "1918684068468693"
+                },
+                {
+                    "text": "Dry Plains",
+                    "uid": "2430002180259662"
+                },
+                {
+                    "text": "Dry Plains",
+                    "uid": "546326091781875"
+                },
+                {
+                    "text": "Nymphish Occupation",
+                    "uid": "3513013959319359"
+                },
+                {
+                    "text": "Nymphish Occupation",
+                    "uid": "1345944670918630"
+                },
+                {
+                    "text": "Nymphish Occupation",
+                    "uid": "3895688002938061"
+                },
+                {
+                    "text": "Nymphish Occupation",
+                    "uid": "828226764616900"
+                },
+                {
+                    "text": "Nymphish Occupation",
+                    "uid": "2812720638698339"
+                },
+                {
+                    "text": "Nymphish Occupation",
+                    "uid": "3743024511194410"
+                },
+                {
+                    "text": "Nymphish Occupation",
+                    "uid": "3160183982232401"
+                },
+                {
+                    "text": "Nymphish Occupation",
+                    "uid": "1851967664196232"
+                },
+                {
+                    "text": "Abandoned Land",
+                    "uid": "255174967252994"
+                },
+                {
+                    "text": "Abandoned Land",
+                    "uid": "768562951282491"
+                },
+                {
+                    "text": "Abandoned Land",
+                    "uid": "1315065435176284"
+                },
+                {
+                    "text": "Abandoned Land",
+                    "uid": "934452964933093"
+                },
+                {
+                    "text": "Abandoned Land",
+                    "uid": "4333170618151454"
+                },
+                {
+                    "text": "Abandoned Land",
+                    "uid": "3438053751839671"
+                },
+                {
+                    "text": "Abandoned Land",
+                    "uid": "3738265631014248"
+                },
+                {
+                    "text": "Abandoned Land",
+                    "uid": "1950278228887345"
+                },
+                {
+                    "text": "Eye of the Storm",
+                    "uid": "4091332732615741"
+                },
+                {
+                    "text": "Eye of the Storm",
+                    "uid": "2638987414929728"
+                },
+                {
+                    "text": "Eye of the Storm",
+                    "uid": "682807945271279"
+                },
+                {
+                    "text": "Eye of the Storm",
+                    "uid": "277192453365402"
+                },
+                {
+                    "text": "Eye of the Storm",
+                    "uid": "1735071821510593"
+                },
+                {
+                    "text": "Eye of the Storm",
+                    "uid": "4190470226037108"
+                },
+                {
+                    "text": "Eye of the Storm",
+                    "uid": "1673661379681363"
+                },
+                {
+                    "text": "Eye of the Storm",
+                    "uid": "1300933352944942"
+                },
+                {
+                    "text": "Hell's Gate",
+                    "uid": "4469728010248400"
+                },
+                {
+                    "text": "Hell's Gate",
+                    "uid": "3179978578979853"
+                },
+                {
+                    "text": "Hell's Gate",
+                    "uid": "3445006086051622"
+                },
+                {
+                    "text": "Hell's Gate",
+                    "uid": "3504386146623651"
+                },
+                {
+                    "text": "Hell's Gate",
+                    "uid": "2927288179749892"
+                },
+                {
+                    "text": "Hell's Gate",
+                    "uid": "2444495678700433"
+                },
+                {
+                    "text": "Hell's Gate",
+                    "uid": "4434690019119978"
+                },
+                {
+                    "text": "Hell's Gate",
+                    "uid": "2243421292947223"
+                },
+                {
+                    "text": "Forgotten Shelter",
+                    "uid": "4446063988817027"
+                },
+                {
+                    "text": "Forgotten Shelter",
+                    "uid": "586689004256202"
+                },
+                {
+                    "text": "Forgotten Shelter",
+                    "uid": "3100094291207409"
+                },
+                {
+                    "text": "Forgotten Shelter",
+                    "uid": "2315160036528560"
+                },
+                {
+                    "text": "Forgotten Shelter",
+                    "uid": "3738982377554783"
+                },
+                {
+                    "text": "Forgotten Shelter",
+                    "uid": "4100604698558342"
+                },
+                {
+                    "text": "Forgotten Shelter",
+                    "uid": "1020827472821869"
+                },
+                {
+                    "text": "Forgotten Shelter",
+                    "uid": "1057527686038812"
+                },
+                {
+                    "text": "South Bloodfield",
+                    "uid": "3335479703177718"
+                },
+                {
+                    "text": "South Bloodfield",
+                    "uid": "1353100491774415"
+                },
+                {
+                    "text": "South Bloodfield",
+                    "uid": "3023200731746208"
+                },
+                {
+                    "text": "South Bloodfield",
+                    "uid": "3812718179471009"
+                },
+                {
+                    "text": "South Bloodfield",
+                    "uid": "1228959976690810"
+                },
+                {
+                    "text": "South Bloodfield",
+                    "uid": "2057874696497843"
+                },
+                {
+                    "text": "South Bloodfield",
+                    "uid": "71083915483092"
+                },
+                {
+                    "text": "South Bloodfield",
+                    "uid": "333986857271445"
+                },
+                {
+                    "text": "Eroding Road",
+                    "uid": "3877368066087553"
+                },
+                {
+                    "text": "Eroding Road",
+                    "uid": "2392137917313844"
+                },
+                {
+                    "text": "Eroding Road",
+                    "uid": "3815957624258323"
+                },
+                {
+                    "text": "Eroding Road",
+                    "uid": "3681625687042518"
+                },
+                {
+                    "text": "Eroding Road",
+                    "uid": "1730029349822461"
+                },
+                {
+                    "text": "Eroding Road",
+                    "uid": "1966533940841728"
+                },
+                {
+                    "text": "Eroding Road",
+                    "uid": "1417750378390959"
+                },
+                {
+                    "text": "Eroding Road",
+                    "uid": "4152589629373266"
+                },
+                {
+                    "text": "Echo Shelter",
+                    "uid": "816853170942260"
+                },
+                {
+                    "text": "Echo Shelter",
+                    "uid": "2302083319715969"
+                },
+                {
+                    "text": "Echo Shelter",
+                    "uid": "4221924744306266"
+                },
+                {
+                    "text": "Echo Shelter",
+                    "uid": "4346065259389871"
+                },
+                {
+                    "text": "Echo Shelter",
+                    "uid": "391249194470144"
+                },
+                {
+                    "text": "Echo Shelter",
+                    "uid": "154744603450877"
+                },
+                {
+                    "text": "Echo Shelter",
+                    "uid": "2106340940670934"
+                },
+                {
+                    "text": "Echo Shelter",
+                    "uid": "1685635962507147"
+                },
+                {
+                    "text": "Haven of Souls",
+                    "uid": "1206173226946983"
+                },
+                {
+                    "text": "Haven of Souls",
+                    "uid": "130970536502222"
+                },
+                {
+                    "text": "Haven of Souls",
+                    "uid": "4123252052081749"
+                },
+                {
+                    "text": "Haven of Souls",
+                    "uid": "1055790813760588"
+                },
+                {
+                    "text": "Haven of Souls",
+                    "uid": "2195857160015339"
+                },
+                {
+                    "text": "Haven of Souls",
+                    "uid": "3369022177757874"
+                },
+                {
+                    "text": "Haven of Souls",
+                    "uid": "1452610212640633"
+                },
+                {
+                    "text": "Haven of Souls",
+                    "uid": "1182945368800352"
+                },
+                {
+                    "text": "Ashen Plateau",
+                    "uid": "1363351020153051"
+                },
+                {
+                    "text": "Ashen Plateau",
+                    "uid": "282408829614882"
+                },
+                {
+                    "text": "Ashen Plateau",
+                    "uid": "3078442766353769"
+                },
+                {
+                    "text": "Ashen Plateau",
+                    "uid": "2644203791179016"
+                },
+                {
+                    "text": "Ashen Plateau",
+                    "uid": "3751366843888215"
+                },
+                {
+                    "text": "Ashen Plateau",
+                    "uid": "3234525645878078"
+                },
+                {
+                    "text": "Ashen Plateau",
+                    "uid": "1529241033803397"
+                },
+                {
+                    "text": "Ashen Plateau",
+                    "uid": "1620462891599684"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "156626674703730"
+                },
+                {
+                    "text": "Skill Scroll Exploration",
+                    "uid": "3676074584920959"
+                },
+                {
+                    "text": "Gold Exploration",
+                    "uid": "3661908143904412"
+                },
+                {
+                    "text": "Iron Ore Exploration",
+                    "uid": "3774063764288369"
+                },
+                {
+                    "text": "Blue Gem Exploration",
+                    "uid": "3687251489511470"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "330437036759387"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "3534488264760184"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "830764111653821"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "1317558381123051"
+                },
+                {
+                    "text": "Skill Scroll Exploration",
+                    "uid": "1580450252877182"
+                },
+                {
+                    "text": "Gold Exploration",
+                    "uid": "3987155287094081"
+                },
+                {
+                    "text": "Iron Ore Exploration",
+                    "uid": "778753850797164"
+                },
+                {
+                    "text": "Blue Gem Exploration",
+                    "uid": "2202597277578127"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "2551143986882626"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "1987049316937589"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "1007654637603520"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "3346185341763404"
+                },
+                {
+                    "text": "Skill Scroll Exploration",
+                    "uid": "3714639107204821"
+                },
+                {
+                    "text": "Gold Exploration",
+                    "uid": "3715762703079586"
+                },
+                {
+                    "text": "Iron Ore Exploration",
+                    "uid": "3884989872089291"
+                },
+                {
+                    "text": "Blue Gem Exploration",
+                    "uid": "1248440637699176"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "648174375920545"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "1051635927930206"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "3476095016122791"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "1140958563165477"
+                },
+                {
+                    "text": "Skill Scroll Exploration",
+                    "uid": "1830332831019036"
+                },
+                {
+                    "text": "Gold Exploration",
+                    "uid": "1844499272035583"
+                },
+                {
+                    "text": "Iron Ore Exploration",
+                    "uid": "1855676176626094"
+                },
+                {
+                    "text": "Blue Gem Exploration",
+                    "uid": "1942488451402993"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "1702912951874808"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "3002461351244507"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "2345129893832874"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "3080448809462198"
+                },
+                {
+                    "text": "Skill Scroll Exploration",
+                    "uid": "1412484204808035"
+                },
+                {
+                    "text": "Gold Exploration",
+                    "uid": "2082130651292576"
+                },
+                {
+                    "text": "Iron Ore Exploration",
+                    "uid": "2960433367586413"
+                },
+                {
+                    "text": "Blue Gem Exploration",
+                    "uid": "3489343665428698"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "289706497701671"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "3371764812779908"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "1965385484869921"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "2326089672596239"
+                },
+                {
+                    "text": "Skill Scroll Exploration",
+                    "uid": "2674636381900738"
+                },
+                {
+                    "text": "Gold Exploration",
+                    "uid": "2110541711955701"
+                },
+                {
+                    "text": "Iron Ore Exploration",
+                    "uid": "1900747357664008"
+                },
+                {
+                    "text": "Blue Gem Exploration",
+                    "uid": "1441050776141163"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "1703942647895294"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "4110647682112193"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "731952405829668"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "1768688927708624"
+                },
+                {
+                    "text": "Skill Scroll Exploration",
+                    "uid": "76556067974089"
+                },
+                {
+                    "text": "Gold Exploration",
+                    "uid": "3541079063794086"
+                },
+                {
+                    "text": "Iron Ore Exploration",
+                    "uid": "2791014553390231"
+                },
+                {
+                    "text": "Blue Gem Exploration",
+                    "uid": "2774567033816948"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "890069898024605"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "2824052928767114"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "3199909409356731"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "2271680235603481"
+                },
+                {
+                    "text": "Skill Scroll Exploration",
+                    "uid": "3895720137639904"
+                },
+                {
+                    "text": "Gold Exploration",
+                    "uid": "1537223782449571"
+                },
+                {
+                    "text": "Iron Ore Exploration",
+                    "uid": "517858547583258"
+                },
+                {
+                    "text": "Blue Gem Exploration",
+                    "uid": "3366669042476205"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "3496525510847940"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "2103295984048999"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "804757826241822"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "3267958379631674"
+                },
+                {
+                    "text": "Skill Scroll Exploration",
+                    "uid": "68321211904647"
+                },
+                {
+                    "text": "Gold Exploration",
+                    "uid": "1456946485839204"
+                },
+                {
+                    "text": "Iron Ore Exploration",
+                    "uid": "2207030348986937"
+                },
+                {
+                    "text": "Blue Gem Exploration",
+                    "uid": "2859063523665174"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "4282740482059587"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "167312324351616"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "3117031889213237"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "1089828035426886"
+                },
+                {
+                    "text": "Skill Scroll Exploration",
+                    "uid": "1460260153572147"
+                },
+                {
+                    "text": "Gold Exploration",
+                    "uid": "720250674110704"
+                },
+                {
+                    "text": "Iron Ore Exploration",
+                    "uid": "4345231271797181"
+                },
+                {
+                    "text": "Blue Gem Exploration",
+                    "uid": "3187572739491114"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "1747159432230711"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "3419561821362708"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "2784931297061233"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "271654466651253"
+                },
+                {
+                    "text": "Skill Scroll Exploration",
+                    "uid": "3566958627881324"
+                },
+                {
+                    "text": "Gold Exploration",
+                    "uid": "487202427291791"
+                },
+                {
+                    "text": "Iron Ore Exploration",
+                    "uid": "4368655029961342"
+                },
+                {
+                    "text": "Blue Gem Exploration",
+                    "uid": "2271760436807745"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "61860112359560"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "4105763158207211"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "704077054317946"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "4279386702486560"
+                },
+                {
+                    "text": "Skill Scroll Exploration",
+                    "uid": "4344175588729689"
+                },
+                {
+                    "text": "Gold Exploration",
+                    "uid": "774105233285686"
+                },
+                {
+                    "text": "Iron Ore Exploration",
+                    "uid": "2486962548895655"
+                },
+                {
+                    "text": "Blue Gem Exploration",
+                    "uid": "1065421236603396"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "654089791409901"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "1183000089252186"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "2895857404862155"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "3251306331523039"
+                },
+                {
+                    "text": "Skill Scroll Exploration",
+                    "uid": "2828104237219026"
+                },
+                {
+                    "text": "Gold Exploration",
+                    "uid": "854332581508997"
+                },
+                {
+                    "text": "Iron Ore Exploration",
+                    "uid": "1416286970218328"
+                },
+                {
+                    "text": "Blue Gem Exploration",
+                    "uid": "2715835369588027"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "3262483236113550"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "1941941699433169"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "2290492994048244"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "120060833064322"
+                },
+                {
+                    "text": "Skill Scroll Exploration",
+                    "uid": "1178867935217359"
+                },
+                {
+                    "text": "Gold Exploration",
+                    "uid": "3132745301171372"
+                },
+                {
+                    "text": "Iron Ore Exploration",
+                    "uid": "1274576036027521"
+                },
+                {
+                    "text": "Blue Gem Exploration",
+                    "uid": "1964116817723838"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "3390074854675243"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "3568275338950088"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "1148307241222989"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "4186578763748705"
+                },
+                {
+                    "text": "Skill Scroll Exploration",
+                    "uid": "4223873951456808"
+                },
+                {
+                    "text": "Gold Exploration",
+                    "uid": "4327148444003979"
+                },
+                {
+                    "text": "Iron Ore Exploration",
+                    "uid": "2750567463537250"
+                },
+                {
+                    "text": "Blue Gem Exploration",
+                    "uid": "2186472793591957"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "3788343913678092"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "1834466547724079"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "3331317202813430"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "1088078465480284"
+                },
+                {
+                    "text": "Skill Scroll Exploration",
+                    "uid": "1806100104834405"
+                },
+                {
+                    "text": "Gold Exploration",
+                    "uid": "3493792530857522"
+                },
+                {
+                    "text": "Iron Ore Exploration",
+                    "uid": "289882100177947"
+                },
+                {
+                    "text": "Blue Gem Exploration",
+                    "uid": "2086579516721464"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "2607629993071665"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "3646696552930286"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "4384586871582199"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "354531986794747"
+                },
+                {
+                    "text": "Skill Scroll Exploration",
+                    "uid": "1182675950568526"
+                },
+                {
+                    "text": "Gold Exploration",
+                    "uid": "1550963202167185"
+                },
+                {
+                    "text": "Iron Ore Exploration",
+                    "uid": "4248974168010044"
+                },
+                {
+                    "text": "Blue Gem Exploration",
+                    "uid": "2578852857435039"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "2437125739953042"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "1870749991450949"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "3708386109338896"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "4110990831567438"
+                },
+                {
+                    "text": "Skill Scroll Exploration",
+                    "uid": "3282846867793659"
+                },
+                {
+                    "text": "Gold Exploration",
+                    "uid": "2264794565671960"
+                },
+                {
+                    "text": "Iron Ore Exploration",
+                    "uid": "295465245079365"
+                },
+                {
+                    "text": "Blue Gem Exploration",
+                    "uid": "861840993581458"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "1003568111063455"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "2673689421638460"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "722464600481033"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "2046199628039741"
+                },
+                {
+                    "text": "Skill Scroll Exploration",
+                    "uid": "1120530177605268"
+                },
+                {
+                    "text": "Gold Exploration",
+                    "uid": "3951727415843767"
+                },
+                {
+                    "text": "Iron Ore Exploration",
+                    "uid": "3294396019039942"
+                },
+                {
+                    "text": "Blue Gem Exploration",
+                    "uid": "1232685797989225"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "2924818657723760"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "3664828137185203"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "1372062191089650"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "435364030229753"
+                },
+                {
+                    "text": "Skill Scroll Exploration",
+                    "uid": "84495914299968"
+                },
+                {
+                    "text": "Gold Exploration",
+                    "uid": "2511095283728387"
+                },
+                {
+                    "text": "Iron Ore Exploration",
+                    "uid": "1496313181300730"
+                },
+                {
+                    "text": "Blue Gem Exploration",
+                    "uid": "1248877860280205"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "4188900914878500"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "3081750617766215"
+                },
+                {
+                    "text": "Reliquary Exploration",
+                    "uid": "657291529573630"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

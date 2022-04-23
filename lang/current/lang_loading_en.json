@@ -1,0 +1,101 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "View a Boss's info to learn more about its core skills.",
+                    "uid": "2365358533907428"
+                },
+                {
+                    "text": "If you fall in battle, study the Timeline carefully to learn from your mistakes.",
+                    "uid": "2365358533907431"
+                },
+                {
+                    "text": "Skills are used automatically based on the order in which they're equipped.",
+                    "uid": "2365358533907430"
+                },
+                {
+                    "text": "Make sure to check for a monster's Element and use that information to your advantage.",
+                    "uid": "2365358533907425"
+                },
+                {
+                    "text": "Don't miss out on your daily Accel opportunity.",
+                    "uid": "2365358533907424"
+                },
+                {
+                    "text": "Accel's effect can be used on all party members.",
+                    "uid": "2365358533907427"
+                },
+                {
+                    "text": "No enemy is too tough to handle as long as you fight as a party.",
+                    "uid": "2365358533907426"
+                },
+                {
+                    "text": "Don't worry about failing Challenges. You can always regroup and try again.",
+                    "uid": "2365358533907437"
+                },
+                {
+                    "text": "Once you obtain an identical skill of a higher grade, you can have it inherit the Enhance Level of your old skill.",
+                    "uid": "2365358533907436"
+                },
+                {
+                    "text": "Using an identical piece of gear as Fusion material will produce the same gear.",
+                    "uid": "3205360790522972"
+                },
+                {
+                    "text": "Successfully clear a dungeon to earn Ancient Coins.",
+                    "uid": "3205360790522973"
+                },
+                {
+                    "text": "Spend Ancient Coins on valuable items at the Ancient Shop.",
+                    "uid": "3205360790522974"
+                },
+                {
+                    "text": "Increase your Archeology Level to allow for more Explorations.",
+                    "uid": "3205360790522975"
+                },
+                {
+                    "text": "Skill Settings in Adventure mode allow you to adjust the settings of all your party members.",
+                    "uid": "3205360790522968"
+                },
+                {
+                    "text": "Adjusting your party members' skills in dungeons won't affect their actual skill settings.",
+                    "uid": "3205360790522969"
+                },
+                {
+                    "text": "Equipped Relics are used automatically when their respective skills are used.",
+                    "uid": "3205360790522970"
+                },
+                {
+                    "text": "Your Danger Level increases as you clear dungeons.",
+                    "uid": "3205360790522971"
+                },
+                {
+                    "text": "A higher Danger Level means harder dungeons will appear.",
+                    "uid": "3205360790522964"
+                },
+                {
+                    "text": "Your current stage progress will drop if you're defeated in normal monster battles.",
+                    "uid": "3205360790522965"
+                },
+                {
+                    "text": "Your current stage will not change even if you leave your party.",
+                    "uid": "3208659325407669"
+                },
+                {
+                    "text": "Take on the Ancient Fortress to obtain Element Scrolls.",
+                    "uid": "3208659325407668"
+                },
+                {
+                    "text": "U. Labyrinth is reset every month.",
+                    "uid": "3208659325407671"
+                },
+                {
+                    "text": "If monster attacks are too strong, try preventing their attacks using skills that block skill casting.",
+                    "uid": "3208659325407670"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

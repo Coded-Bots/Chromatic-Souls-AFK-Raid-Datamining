@@ -1,0 +1,233 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Legendary Adventurer",
+                    "uid": "802419612878407"
+                },
+                {
+                    "text": "Master Adventurer",
+                    "uid": "3944737320117486"
+                },
+                {
+                    "text": "Master III Adventurer",
+                    "uid": "2026065396869237"
+                },
+                {
+                    "text": "Master II Adventurer",
+                    "uid": "3462203785918572"
+                },
+                {
+                    "text": "Master I Adventurer",
+                    "uid": "1792103545946507"
+                },
+                {
+                    "text": "Expert III Adventurer",
+                    "uid": "2683772466441042"
+                },
+                {
+                    "text": "Expert II Adventurer",
+                    "uid": "3577548207976345"
+                },
+                {
+                    "text": "Expert I Adventurer",
+                    "uid": "497716777909504"
+                },
+                {
+                    "text": "Adept III Adventurer",
+                    "uid": "4452532842829231"
+                },
+                {
+                    "text": "Adept II Adventurer",
+                    "uid": "861691904702079"
+                },
+                {
+                    "text": "Adept I Adventurer",
+                    "uid": "3941469191046352"
+                },
+                {
+                    "text": "Apprentice III Adventurer",
+                    "uid": "2651719759777805"
+                },
+                {
+                    "text": "Apprentice II Adventurer",
+                    "uid": "2916747266849574"
+                },
+                {
+                    "text": "Apprentice I Adventurer",
+                    "uid": "2976127327421603"
+                },
+                {
+                    "text": "Legendary Collector",
+                    "uid": "1646477918607356"
+                },
+                {
+                    "text": "Master Collector",
+                    "uid": "3096542157736297"
+                },
+                {
+                    "text": "Master III Collector",
+                    "uid": "300508220997410"
+                },
+                {
+                    "text": "Master II Collector",
+                    "uid": "3769466235270743"
+                },
+                {
+                    "text": "Master I Collector",
+                    "uid": "2662303182561544"
+                },
+                {
+                    "text": "Expert III Collector",
+                    "uid": "1547340425185925"
+                },
+                {
+                    "text": "Expert II Collector",
+                    "uid": "3252625037260606"
+                },
+                {
+                    "text": "Expert I Collector",
+                    "uid": "3623056157063651"
+                },
+                {
+                    "text": "Adept III Collector",
+                    "uid": "1638562282982212"
+                },
+                {
+                    "text": "Adept II Collector",
+                    "uid": "74945318855650"
+                },
+                {
+                    "text": "Adept I Collector",
+                    "uid": "1182108371564585"
+                },
+                {
+                    "text": "Apprentice III Collector",
+                    "uid": "2828268827922620"
+                },
+                {
+                    "text": "Apprentice II Collector",
+                    "uid": "2563262441277083"
+                },
+                {
+                    "text": "Apprentice I Collector",
+                    "uid": "4434415946576126"
+                },
+                {
+                    "text": "Legendary Tactician",
+                    "uid": "1722879112968423"
+                },
+                {
+                    "text": "Master Tactician",
+                    "uid": "647676422523406"
+                },
+                {
+                    "text": "Master III Tactician",
+                    "uid": "136358310732437"
+                },
+                {
+                    "text": "Master II Tactician",
+                    "uid": "165142888324492"
+                },
+                {
+                    "text": "Master I Tactician",
+                    "uid": "4119958953244203"
+                },
+                {
+                    "text": "Expert III Tactician",
+                    "uid": "1915403178251762"
+                },
+                {
+                    "text": "Expert II Tactician",
+                    "uid": "280487310382521"
+                },
+                {
+                    "text": "Expert I Tactician",
+                    "uid": "2825572185207200"
+                },
+                {
+                    "text": "Adept III Tactician",
+                    "uid": "1155471945235407"
+                },
+                {
+                    "text": "Adept II Tactician",
+                    "uid": "4285470527216031"
+                },
+                {
+                    "text": "Adept I Tactician",
+                    "uid": "2580152088941808"
+                },
+                {
+                    "text": "Apprentice III Tactician",
+                    "uid": "4382065341148077"
+                },
+                {
+                    "text": "Apprentice II Tactician",
+                    "uid": "424968197671366"
+                },
+                {
+                    "text": "Apprentice I Tactician",
+                    "uid": "488931390681795"
+                },
+                {
+                    "text": "Legendary Fighter",
+                    "uid": "1469074754579394"
+                },
+                {
+                    "text": "Master Fighter",
+                    "uid": "856583903973627"
+                },
+                {
+                    "text": "Master III Fighter",
+                    "uid": "1121611411045148"
+                },
+                {
+                    "text": "Master II Fighter",
+                    "uid": "740977820375717"
+                },
+                {
+                    "text": "Master I Fighter",
+                    "uid": "4421191570842590"
+                },
+                {
+                    "text": "Expert III Fighter",
+                    "uid": "1555749819003255"
+                },
+                {
+                    "text": "Expert II Fighter",
+                    "uid": "3544790486456872"
+                },
+                {
+                    "text": "Expert I Fighter",
+                    "uid": "3164178016213745"
+                },
+                {
+                    "text": "Adept III Fighter",
+                    "uid": "650772729262538"
+                },
+                {
+                    "text": "Adept II Fighter",
+                    "uid": "3305134627690564"
+                },
+                {
+                    "text": "Adept I Fighter",
+                    "uid": "786028874401507"
+                },
+                {
+                    "text": "Apprentice III Fighter",
+                    "uid": "1716332746897578"
+                },
+                {
+                    "text": "Apprentice II Fighter",
+                    "uid": "1133492217935569"
+                },
+                {
+                    "text": "Apprentice I Fighter",
+                    "uid": "2877249572661264"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

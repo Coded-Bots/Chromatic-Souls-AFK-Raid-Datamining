@@ -1,0 +1,229 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Shop",
+                    "uid": "4074280128946185"
+                },
+                {
+                    "text": "Black Market",
+                    "uid": "4414788675005090"
+                },
+                {
+                    "text": "Ancient Shop",
+                    "uid": "1552626165524583"
+                },
+                {
+                    "text": "Resets after <color=#80d02a>{0}</color>",
+                    "uid": "3228042633707259"
+                },
+                {
+                    "text": "Restock shop items?",
+                    "uid": "3104712694890766"
+                },
+                {
+                    "text": "Restock Black Market items?",
+                    "uid": "1179904179688356"
+                },
+                {
+                    "text": "Restock Ancient Shop items?",
+                    "uid": "520171142101967"
+                },
+                {
+                    "text": "Resets Left: {0}",
+                    "uid": "2071013817450121"
+                },
+                {
+                    "text": "Restock",
+                    "uid": "1180937408078556"
+                },
+                {
+                    "text": "Remaining: {0}",
+                    "uid": "2695395704174273"
+                },
+                {
+                    "text": "Purchase",
+                    "uid": "2194076637341211"
+                },
+                {
+                    "text": "Purchased",
+                    "uid": "928816867966216"
+                },
+                {
+                    "text": "Sold Out",
+                    "uid": "3968885108582565"
+                },
+                {
+                    "text": "Purchase for {0} Blue Gem(s)?",
+                    "uid": "2097840622607518"
+                },
+                {
+                    "text": "Purchase for {0} Red Gem(s)?",
+                    "uid": "1831900267315757"
+                },
+                {
+                    "text": "Unable to verify restock time.",
+                    "uid": "1238505525040532"
+                },
+                {
+                    "text": "Recommended",
+                    "uid": "471983682684725"
+                },
+                {
+                    "text": "Resets after <color=#80d02a>{0}</color>",
+                    "uid": "3459335375053747"
+                },
+                {
+                    "text": "Resets after <color=#80d02a>{0}</color>",
+                    "uid": "2461447248817326"
+                },
+                {
+                    "text": "You've already purchased this item.",
+                    "uid": "2426846205010850"
+                },
+                {
+                    "text": "You have: {0}",
+                    "uid": "1912781737714649"
+                },
+                {
+                    "text": "Unable to restock any more today.",
+                    "uid": "1592274927557334"
+                },
+                {
+                    "text": "Gem Shop",
+                    "uid": "773668818245881"
+                },
+                {
+                    "text": "Pack Shop",
+                    "uid": "1483360053846818"
+                },
+                {
+                    "text": "Gem Plus",
+                    "uid": "1854670206191150"
+                },
+                {
+                    "text": "Progress Pack",
+                    "uid": "464736016969386"
+                },
+                {
+                    "text": "Unused items can be refunded within 7 days of the purchase. However, instantly-applied offers and/or offers that provide additional benefits cannot be refunded. Payment made by a minor without the consent of a legal guardian may be canceled.",
+                    "uid": "3732053583958241"
+                },
+                {
+                    "text": "(View Refund Policy>>)",
+                    "uid": "2245501986522817"
+                },
+                {
+                    "text": "Bonuses are issued for each offer.",
+                    "uid": "3458373965705962"
+                },
+                {
+                    "text": "{0}x Only",
+                    "uid": "3985453079075066"
+                },
+                {
+                    "text": "{0}% Bonus",
+                    "uid": "794159962290498"
+                },
+                {
+                    "text": "{0} Extra Red Gems",
+                    "uid": "878531215889146"
+                },
+                {
+                    "text": "Available ({0}/{1})",
+                    "uid": "2324857802723054"
+                },
+                {
+                    "text": "Limit: {0}",
+                    "uid": "255137221378325"
+                },
+                {
+                    "text": "Purchase for {0}?",
+                    "uid": "3483766111842576"
+                },
+                {
+                    "text": "Red Gem Plus",
+                    "uid": "2983318903201688"
+                },
+                {
+                    "text": "Receive Red Gems daily when you log in.\\nPurchases cannot be stacked, and additional purchases only extend the offer's duration.",
+                    "uid": "977970092656517"
+                },
+                {
+                    "text": "Not Purchased",
+                    "uid": "381908841314505"
+                },
+                {
+                    "text": "This offer cannot be refunded.",
+                    "uid": "2048036959490641"
+                },
+                {
+                    "text": "<color=#96f269>Free</color>",
+                    "uid": "3788882755777251"
+                },
+                {
+                    "text": "Once a day",
+                    "uid": "528852435038563"
+                },
+                {
+                    "text": "Weekly",
+                    "uid": "1372675199038391"
+                },
+                {
+                    "text": "General Reward",
+                    "uid": "1354180306350371"
+                },
+                {
+                    "text": "Special Reward",
+                    "uid": "1051344343189081"
+                },
+                {
+                    "text": "First Time",
+                    "uid": "2397112321549059"
+                },
+                {
+                    "text": "Daily",
+                    "uid": "1827437173623858"
+                },
+                {
+                    "text": "One-time offers can only be purchased once per account.\\nYou'll receive 20% extra Red Gems upon purchasing a Red Gem offer.\\nYou can obtain free Blue Gems once a day.",
+                    "uid": "4024172450141353"
+                },
+                {
+                    "text": "Pack items are sent to your Mailbox upon purchase.",
+                    "uid": "1680718321873538"
+                },
+                {
+                    "text": "Gem Plus items are sent to your Mailbox upon purchase.\\nEach offer can be purchased multiple times.",
+                    "uid": "105769443009947"
+                },
+                {
+                    "text": "Purchase a Progress Pack and receive rewards for each level milestone.\\nYou can still receive General Rewards without a Progress Pack.",
+                    "uid": "2906529435572577"
+                },
+                {
+                    "text": "Spend your Gold, Blue Gems, Red Gems, and Ancient Coins on items at the Shop. Each item has its own purchase limit. You can wait for the Shop to refresh, or use Red Gems to instantly refresh it. Once refreshed, item limits and available items are also reset.",
+                    "uid": "4003396158522260"
+                },
+                {
+                    "text": "Use Gold and Blue Gems to purchase items. The Shop is refreshed daily. Item limits and the list of items are also refreshed.",
+                    "uid": "699288020242640"
+                },
+                {
+                    "text": "Use Red Gems and Mythril to purchase items. The Black Market is refreshed every 7 days. Item limits and the list of items are also refreshed.",
+                    "uid": "4448571565229799"
+                },
+                {
+                    "text": "Use Ancient Coins to purchase items. The Ancient Shop is refreshed every 28 days. Item limits and the list of items are also refreshed.",
+                    "uid": "2155522861850370"
+                },
+                {
+                    "text": "Clear Royal Castle Entrance: Zone 10 to enter.",
+                    "uid": "3448495833633833"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

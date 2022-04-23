@@ -1,0 +1,333 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "OK",
+                    "uid": "206646746345028"
+                },
+                {
+                    "text": "Leave",
+                    "uid": "3613325663833724"
+                },
+                {
+                    "text": "Login",
+                    "uid": "1524990973665059"
+                },
+                {
+                    "text": "New Account",
+                    "uid": "915703017200319"
+                },
+                {
+                    "text": "New Character",
+                    "uid": "1442487132160147"
+                },
+                {
+                    "text": "Start",
+                    "uid": "3083819802674002"
+                },
+                {
+                    "text": "Close",
+                    "uid": "1996651370963912"
+                },
+                {
+                    "text": "Cancel",
+                    "uid": "2377593576451618"
+                },
+                {
+                    "text": "No",
+                    "uid": "2589486103163089"
+                },
+                {
+                    "text": "Yes",
+                    "uid": "996039502006773"
+                },
+                {
+                    "text": "Delete",
+                    "uid": "2451194487630869"
+                },
+                {
+                    "text": "Go",
+                    "uid": "1581456648575299"
+                },
+                {
+                    "text": "Alerts",
+                    "uid": "2560324874608339"
+                },
+                {
+                    "text": "Gold",
+                    "uid": "2831573074141518"
+                },
+                {
+                    "text": "Blue Gem",
+                    "uid": "2825992361774149"
+                },
+                {
+                    "text": "Red Gem",
+                    "uid": "3230463455889174"
+                },
+                {
+                    "text": "Currency",
+                    "uid": "1512717165301050"
+                },
+                {
+                    "text": "Basic currency used in-game.",
+                    "uid": "2807653470143493"
+                },
+                {
+                    "text": "Free currency that can be obtained from various modes in-game.",
+                    "uid": "1237544111286136"
+                },
+                {
+                    "text": "Premium currency that can be purchased from the Pack Shop. Cannot be obtained in-game.",
+                    "uid": "2500231072741597"
+                },
+                {
+                    "text": "Lv. {0}",
+                    "uid": "139614704543996"
+                },
+                {
+                    "text": "Lv.",
+                    "uid": "2111039053547656"
+                },
+                {
+                    "text": "Gear",
+                    "uid": "2837550632459280"
+                },
+                {
+                    "text": "Gear Set",
+                    "uid": "477094126290654"
+                },
+                {
+                    "text": "Skill Item",
+                    "uid": "3879881272610722"
+                },
+                {
+                    "text": "Relic",
+                    "uid": "3709128139275877"
+                },
+                {
+                    "text": "Reliquary",
+                    "uid": "4206884459776539"
+                },
+                {
+                    "text": "Jewel",
+                    "uid": "2199188875978471"
+                },
+                {
+                    "text": "Item",
+                    "uid": "4167480521769593"
+                },
+                {
+                    "text": "X{0} {1} acquired.",
+                    "uid": "3583578872227140"
+                },
+                {
+                    "text": "Day {0}",
+                    "uid": "3493318538873554"
+                },
+                {
+                    "text": "You",
+                    "uid": "2588386591534958"
+                },
+                {
+                    "text": "Help",
+                    "uid": "2321416118311221"
+                },
+                {
+                    "text": "No description.",
+                    "uid": "2329366673017437"
+                },
+                {
+                    "text": "{0} Set",
+                    "uid": "4123050570210660"
+                },
+                {
+                    "text": "Delete Now",
+                    "uid": "3071942031395535"
+                },
+                {
+                    "text": "Exit",
+                    "uid": "1038920450114595"
+                },
+                {
+                    "text": "Attack",
+                    "uid": "973555436420752"
+                },
+                {
+                    "text": "Grade",
+                    "uid": "2136139374789817"
+                },
+                {
+                    "text": "Guide",
+                    "uid": "2834252033598054"
+                },
+                {
+                    "text": "Info",
+                    "uid": "2763404177289928"
+                },
+                {
+                    "text": "Skill",
+                    "uid": "4477717620201811"
+                },
+                {
+                    "text": "Highest Progress",
+                    "uid": "1227558886778310"
+                },
+                {
+                    "text": "EXP",
+                    "uid": "1019129240806849"
+                },
+                {
+                    "text": "{0} d",
+                    "uid": "142818473311978"
+                },
+                {
+                    "text": "{0} h",
+                    "uid": "2961316200998846"
+                },
+                {
+                    "text": "{0} m",
+                    "uid": "443724697228700"
+                },
+                {
+                    "text": "{0} s",
+                    "uid": "2450647418106928"
+                },
+                {
+                    "text": "(MAX)",
+                    "uid": "3471134935595102"
+                },
+                {
+                    "text": "Element",
+                    "uid": "587879809431882"
+                },
+                {
+                    "text": "Download",
+                    "uid": "1355799983019044"
+                },
+                {
+                    "text": "Random",
+                    "uid": "1141243034373129"
+                },
+                {
+                    "text": "???",
+                    "uid": "4272983792711811"
+                },
+                {
+                    "text": "Clear",
+                    "uid": "2535412070458563"
+                },
+                {
+                    "text": "{0} h {1} m",
+                    "uid": "1705376794345844"
+                },
+                {
+                    "text": "{0} mo. {1} d",
+                    "uid": "3644466260415858"
+                },
+                {
+                    "text": "{0} d {1} h",
+                    "uid": "2319195538459970"
+                },
+                {
+                    "text": "{0} m {1} s",
+                    "uid": "705224355884382"
+                },
+                {
+                    "text": "Max Enhance",
+                    "uid": "946060193526274"
+                },
+                {
+                    "text": "Update coming soon.",
+                    "uid": "2316110017506076"
+                },
+                {
+                    "text": "Next",
+                    "uid": "1750753732371279"
+                },
+                {
+                    "text": "Passive Skill",
+                    "uid": "4119856172166090"
+                },
+                {
+                    "text": "Soul Energy",
+                    "uid": "4106328703817553"
+                },
+                {
+                    "text": "Craft",
+                    "uid": "4065490578286298"
+                },
+                {
+                    "text": "{0}/{1}",
+                    "uid": "4291954858922119"
+                },
+                {
+                    "text": "Mythril",
+                    "uid": "4131976768687478"
+                },
+                {
+                    "text": "An extremely rare ore that has a weekly collection limit. Used for crafting rare pieces of gear.",
+                    "uid": "1884575530990044"
+                },
+                {
+                    "text": "Currency",
+                    "uid": "426614830323307"
+                },
+                {
+                    "text": "Casting",
+                    "uid": "3091548183831343"
+                },
+                {
+                    "text": "Active",
+                    "uid": "3968138914014914"
+                },
+                {
+                    "text": "Channeling",
+                    "uid": "105169954917915"
+                },
+                {
+                    "text": "Passive",
+                    "uid": "4496427782458747"
+                },
+                {
+                    "text": "Unblockable",
+                    "uid": "2481606555945167"
+                },
+                {
+                    "text": "Soul Stone",
+                    "uid": "3019804100864631"
+                },
+                {
+                    "text": "An extremely rare ore containing enormous energy. Used for crafting [SSR] gear.",
+                    "uid": "2206165025962157"
+                },
+                {
+                    "text": "TAP",
+                    "uid": "1769365079685689"
+                },
+                {
+                    "text": "BOSS SPAWNED",
+                    "uid": "961295450960896"
+                },
+                {
+                    "text": "Exit the game?",
+                    "uid": "419425591429447"
+                },
+                {
+                    "text": "ID cannot be changed. Please choose wisely.",
+                    "uid": "405990562361135"
+                },
+                {
+                    "text": "Additional download (*MB) is available.\\nProceed to download?",
+                    "uid": "4098694890401459"
+                },
+                {
+                    "text": "Additional content download is required to access the game.\\nClose the game?",
+                    "uid": "399588151763439"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

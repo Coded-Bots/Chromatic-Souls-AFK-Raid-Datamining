@@ -1,0 +1,45 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Tap to Start",
+                    "uid": "857289952767403"
+                },
+                {
+                    "text": "Downloading...",
+                    "uid": "1795605051073447"
+                },
+                {
+                    "text": "Options",
+                    "uid": "404882953713382"
+                },
+                {
+                    "text": "You've been logged out.",
+                    "uid": "3190711143533379"
+                },
+                {
+                    "text": "Logout failed.",
+                    "uid": "760576629150432"
+                },
+                {
+                    "text": "Reset?",
+                    "uid": "3468203827796737"
+                },
+                {
+                    "text": "Reset downloaded data and redownload?",
+                    "uid": "999049496776960"
+                },
+                {
+                    "text": "Please proceed to reset your data if an error occurs.",
+                    "uid": "756693429559235"
+                },
+                {
+                    "text": "Login",
+                    "uid": "3297695460575553"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}

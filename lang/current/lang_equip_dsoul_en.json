@@ -1,0 +1,489 @@
+{
+    "lang": {
+        "en": {
+            "array": [
+                {
+                    "text": "Fire Dragon",
+                    "uid": "2926893018912886"
+                },
+                {
+                    "text": "Fire Dragon",
+                    "uid": "2428381290052642"
+                },
+                {
+                    "text": "Fire Dragon",
+                    "uid": "1598167710271236"
+                },
+                {
+                    "text": "Fire Dragon",
+                    "uid": "564490816511304"
+                },
+                {
+                    "text": "Thunder Dragon",
+                    "uid": "944513807509583"
+                },
+                {
+                    "text": "Thunder Dragon",
+                    "uid": "3509323480590811"
+                },
+                {
+                    "text": "Thunder Dragon",
+                    "uid": "1115375209221777"
+                },
+                {
+                    "text": "Thunder Dragon",
+                    "uid": "2545752754622661"
+                },
+                {
+                    "text": "Earth Dragon",
+                    "uid": "2614614047481376"
+                },
+                {
+                    "text": "Earth Dragon",
+                    "uid": "3774350987662588"
+                },
+                {
+                    "text": "Earth Dragon",
+                    "uid": "3105569549641322"
+                },
+                {
+                    "text": "Earth Dragon",
+                    "uid": "4251037366697342"
+                },
+                {
+                    "text": "Ice Dragon",
+                    "uid": "3404131495206177"
+                },
+                {
+                    "text": "Ice Dragon",
+                    "uid": "3675213494241157"
+                },
+                {
+                    "text": "Ice Dragon",
+                    "uid": "60830254425471"
+                },
+                {
+                    "text": "Ice Dragon",
+                    "uid": "2379883861398299"
+                },
+                {
+                    "text": "Divine Dragon",
+                    "uid": "820373292425978"
+                },
+                {
+                    "text": "Divine Dragon",
+                    "uid": "876898478945342"
+                },
+                {
+                    "text": "Divine Dragon",
+                    "uid": "3140607540769744"
+                },
+                {
+                    "text": "Divine Dragon",
+                    "uid": "2644890248043836"
+                },
+                {
+                    "text": "Evil Dragon",
+                    "uid": "1649288012233011"
+                },
+                {
+                    "text": "Evil Dragon",
+                    "uid": "1393739676955479"
+                },
+                {
+                    "text": "Evil Dragon",
+                    "uid": "1850858109501197"
+                },
+                {
+                    "text": "Evil Dragon",
+                    "uid": "998729791685801"
+                },
+                {
+                    "text": "Fire God",
+                    "uid": "4166096858588756"
+                },
+                {
+                    "text": "Fire God",
+                    "uid": "286576624246280"
+                },
+                {
+                    "text": "Fire God",
+                    "uid": "2115885616572966"
+                },
+                {
+                    "text": "Fire God",
+                    "uid": "4395166366347362"
+                },
+                {
+                    "text": "Lightning God",
+                    "uid": "4428999800377109"
+                },
+                {
+                    "text": "Lightning God",
+                    "uid": "1594792942282449"
+                },
+                {
+                    "text": "Lightning God",
+                    "uid": "3029905747530139"
+                },
+                {
+                    "text": "Lightning God",
+                    "uid": "3914407995664127"
+                },
+                {
+                    "text": "Earth God",
+                    "uid": "436718284797582"
+                },
+                {
+                    "text": "Earth God",
+                    "uid": "2177633471244458"
+                },
+                {
+                    "text": "Earth God",
+                    "uid": "3294912134175676"
+                },
+                {
+                    "text": "Earth God",
+                    "uid": "2490585654637904"
+                },
+                {
+                    "text": "Ice God",
+                    "uid": "3434296919510880"
+                },
+                {
+                    "text": "Ice God",
+                    "uid": "1874265329363748"
+                },
+                {
+                    "text": "Ice God",
+                    "uid": "4311822939234042"
+                },
+                {
+                    "text": "Ice God",
+                    "uid": "2820273731717670"
+                },
+                {
+                    "text": "Heavenly God",
+                    "uid": "1764196679538831"
+                },
+                {
+                    "text": "Heavenly God",
+                    "uid": "1048592617218627"
+                },
+                {
+                    "text": "Heavenly God",
+                    "uid": "2391981514643745"
+                },
+                {
+                    "text": "Heavenly God",
+                    "uid": "2555246224645901"
+                },
+                {
+                    "text": "Demonic God",
+                    "uid": "2339222079484854"
+                },
+                {
+                    "text": "Demonic God",
+                    "uid": "1974313357276298"
+                },
+                {
+                    "text": "Demonic God",
+                    "uid": "3153946878026324"
+                },
+                {
+                    "text": "Demonic God",
+                    "uid": "3844995655914448"
+                },
+                {
+                    "text": "Fire Demon",
+                    "uid": "3479288425739613"
+                },
+                {
+                    "text": "Fire Demon",
+                    "uid": "2798868735521969"
+                },
+                {
+                    "text": "Fire Demon",
+                    "uid": "637138031670579"
+                },
+                {
+                    "text": "Fire Demon",
+                    "uid": "765218369570175"
+                },
+                {
+                    "text": "Lightning Demon",
+                    "uid": "3578425919160724"
+                },
+                {
+                    "text": "Lightning Demon",
+                    "uid": "3139813315478640"
+                },
+                {
+                    "text": "Lightning Demon",
+                    "uid": "1914743038350454"
+                },
+                {
+                    "text": "Lightning Demon",
+                    "uid": "3809957664786026"
+                },
+                {
+                    "text": "Earth Demon",
+                    "uid": "498645998734963"
+                },
+                {
+                    "text": "Earth Demon",
+                    "uid": "341532126382367"
+                },
+                {
+                    "text": "Earth Demon",
+                    "uid": "3054809384604957"
+                },
+                {
+                    "text": "Earth Demon",
+                    "uid": "1819763324366481"
+                },
+                {
+                    "text": "Ice Demon",
+                    "uid": "4173330906298170"
+                },
+                {
+                    "text": "Ice Demon",
+                    "uid": "984629424208198"
+                },
+                {
+                    "text": "Ice Demon",
+                    "uid": "1602464066918944"
+                },
+                {
+                    "text": "Ice Demon",
+                    "uid": "2302555825415940"
+                },
+                {
+                    "text": "Divine Demon",
+                    "uid": "2816460555778401"
+                },
+                {
+                    "text": "Divine Demon",
+                    "uid": "438126940314413"
+                },
+                {
+                    "text": "Divine Demon",
+                    "uid": "4435963454317647"
+                },
+                {
+                    "text": "Divine Demon",
+                    "uid": "2879653792289699"
+                },
+                {
+                    "text": "Dark Demon",
+                    "uid": "2282274059299992"
+                },
+                {
+                    "text": "Dark Demon",
+                    "uid": "2163655941810908"
+                },
+                {
+                    "text": "Dark Demon",
+                    "uid": "692295059963506"
+                },
+                {
+                    "text": "Dark Demon",
+                    "uid": "1101847740603390"
+                },
+                {
+                    "text": "Fire Lord",
+                    "uid": "3457524777657511"
+                },
+                {
+                    "text": "Fire Lord",
+                    "uid": "1617153457917115"
+                },
+                {
+                    "text": "Fire Lord",
+                    "uid": "3560978819464761"
+                },
+                {
+                    "text": "Fire Lord",
+                    "uid": "3900162755899205"
+                },
+                {
+                    "text": "Lightning Lord",
+                    "uid": "2603515113346839"
+                },
+                {
+                    "text": "Lightning Lord",
+                    "uid": "479403566603691"
+                },
+                {
+                    "text": "Lightning Lord",
+                    "uid": "840498942172173"
+                },
+                {
+                    "text": "Lightning Lord",
+                    "uid": "3177076613983081"
+                },
+                {
+                    "text": "Earth Lord",
+                    "uid": "2903726992521416"
+                },
+                {
+                    "text": "Earth Lord",
+                    "uid": "1028187129054476"
+                },
+                {
+                    "text": "Earth Lord",
+                    "uid": "1105526449243942"
+                },
+                {
+                    "text": "Earth Lord",
+                    "uid": "381042677244194"
+                },
+                {
+                    "text": "Ice Lord",
+                    "uid": "381389303262277"
+                },
+                {
+                    "text": "Ice Lord",
+                    "uid": "1143531551112505"
+                },
+                {
+                    "text": "Ice Lord",
+                    "uid": "3554070714466943"
+                },
+                {
+                    "text": "Ice Lord",
+                    "uid": "1461984867782363"
+                },
+                {
+                    "text": "Divine Lord",
+                    "uid": "2086673915336958"
+                },
+                {
+                    "text": "Divine Lord",
+                    "uid": "2778447418981746"
+                },
+                {
+                    "text": "Divine Lord",
+                    "uid": "2130248373440720"
+                },
+                {
+                    "text": "Divine Lord",
+                    "uid": "1727012374854140"
+                },
+                {
+                    "text": "Dark Lord",
+                    "uid": "215520410037915"
+                },
+                {
+                    "text": "Dark Lord",
+                    "uid": "2585923353698407"
+                },
+                {
+                    "text": "Dark Lord",
+                    "uid": "105016041892753"
+                },
+                {
+                    "text": "Dark Lord",
+                    "uid": "1627874881432709"
+                },
+                {
+                    "text": "Flame Guardian",
+                    "uid": "480526796683452"
+                },
+                {
+                    "text": "Flame Guardian",
+                    "uid": "3318823883608"
+                },
+                {
+                    "text": "Flame Guardian",
+                    "uid": "2095210382312298"
+                },
+                {
+                    "text": "Flame Guardian",
+                    "uid": "3333159493507390"
+                },
+                {
+                    "text": "Storm Guardian",
+                    "uid": "3337965967695913"
+                },
+                {
+                    "text": "Storm Guardian",
+                    "uid": "999402551462421"
+                },
+                {
+                    "text": "Storm Guardian",
+                    "uid": "1164906509815971"
+                },
+                {
+                    "text": "Storm Guardian",
+                    "uid": "3850000691517527"
+                },
+                {
+                    "text": "Mountain Guardian",
+                    "uid": "2230802914986978"
+                },
+                {
+                    "text": "Mountain Guardian",
+                    "uid": "1510720663253390"
+                },
+                {
+                    "text": "Mountain Guardian",
+                    "uid": "587808542942212"
+                },
+                {
+                    "text": "Mountain Guardian",
+                    "uid": "2742837638808328"
+                },
+                {
+                    "text": "Glacier Guardian",
+                    "uid": "1750044544303743"
+                },
+                {
+                    "text": "Glacier Guardian",
+                    "uid": "2723290390688819"
+                },
+                {
+                    "text": "Glacier Guardian",
+                    "uid": "2185415473425477"
+                },
+                {
+                    "text": "Glacier Guardian",
+                    "uid": "4051053956844497"
+                },
+                {
+                    "text": "Halo Guardian",
+                    "uid": "326222203277520"
+                },
+                {
+                    "text": "Halo Guardian",
+                    "uid": "736499609674068"
+                },
+                {
+                    "text": "Halo Guardian",
+                    "uid": "3890700085500158"
+                },
+                {
+                    "text": "Halo Guardian",
+                    "uid": "130294858436010"
+                },
+                {
+                    "text": "Dark Guardian",
+                    "uid": "2450367119231406"
+                },
+                {
+                    "text": "Dark Guardian",
+                    "uid": "1617381816797922"
+                },
+                {
+                    "text": "Dark Guardian",
+                    "uid": "12265092380412"
+                },
+                {
+                    "text": "Dark Guardian",
+                    "uid": "3878279646311352"
+                }
+            ],
+            "language": "en"
+        }
+    }
+}
