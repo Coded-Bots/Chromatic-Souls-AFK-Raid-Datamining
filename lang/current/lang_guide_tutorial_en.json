@@ -143,7 +143,7 @@
                     "uid": "2651019308394797"
                 },
                 {
-                    "text": "Each characters can use <b>4 skills</b> in one battle.",
+                    "text": "Each character can use <b>4 skills</b> in battle.",
                     "uid": "4305808440872346"
                 },
                 {
@@ -155,7 +155,7 @@
                     "uid": "29190304661389"
                 },
                 {
-                    "text": "<b>Info regarding boss skills</b> is displayed here. You can view even more details by tapping the skill info icon. This is helpful when <b>preparing for any incoming attacks</b>.",
+                    "text": "<b>Info on boss skills</b> is shown here. View more details by tapping the skill info icon. This is helpful when <b>preparing for incoming attacks</b>.",
                     "uid": "149205746537430"
                 },
                 {
@@ -195,7 +195,7 @@
                     "uid": "4047811008173856"
                 },
                 {
-                    "text": "Before you engage a boss, make sure to <b>look over it</b> beforehand and <b>adjust your skills</b> accordingly. Remember this drill, and your adventure is sure to go a lot smoother!",
+                    "text": "Before you engage a boss, make sure to <b>look over it</b> and <b>adjust your skills</b> accordingly. Remember this, and your adventure is sure to go a lot smoother!",
                     "uid": "833845542290692"
                 },
                 {
@@ -227,7 +227,7 @@
                     "uid": "3959855620603075"
                 },
                 {
-                    "text": "This is where you can view <b>info for your party</b>. Right now, you're the only one in it, but once you accept party members or join a party, you'll be able to see even more information.",
+                    "text": "This is where you can view your <b>party info</b>. Right now, you're the only one, but once you accept allies or join a party, you'll be able to see more info.",
                     "uid": "1585851561616300"
                 },
                 {
@@ -283,7 +283,7 @@
                     "uid": "2989320016277213"
                 },
                 {
-                    "text": "When you join a party, <b>all members will have their progress adjusted to the lower of the two</b>, so keep this in mind when you form a new party or join one.",
+                    "text": "When you join a party, <b>all members their progress adjusted to the lower of the two</b>, so keep this in mind when you form/join a new party.",
                     "uid": "138228442827210"
                 },
                 {
@@ -615,7 +615,7 @@
                     "uid": "3355894688856962"
                 },
                 {
-                    "text": "Sometimes <b>completely different stats</b> are applied at a rare chance, but it all depends on the <b>material gear</b>. Keep this in mind when you choose material.",
+                    "text": "Sometimes, <b>completely different stats</b> are applied at a rare chance, but it all depends on the <b>material gear</b>. Be sure to keep this in mind.",
                     "uid": "3073274995733941"
                 },
                 {
@@ -711,7 +711,7 @@
                     "uid": "2402788662321225"
                 },
                 {
-                    "text": "It's a World Dungeon that nets you Skill Scrolls of different <b>Elements</b>.",
+                    "text": "<b>Ancient Fortress</b> is a World Dungeon that nets you <b>Skill Scrolls of different Elements</b>.",
                     "uid": "3757627071559070"
                 },
                 {
@@ -939,11 +939,11 @@
                     "uid": "4065742646667013"
                 },
                 {
-                    "text": "This is where all sorts of archeologists will support you on your adventure. Let's head inside.",
+                    "text": "This is where all sorts of archeologists support you on your adventure. Let's head inside.",
                     "uid": "1970293673901070"
                 },
                 {
-                    "text": "In the Archeology Lab, you can go on an <b>Exploration</b> or <b>research Reliquaries</b> to <b>upgrade Relics</b>.",
+                    "text": "In the Archeology Lab, you can go on an <b>Exploration</b>, <b>research Reliquaries,</b> or <b>upgrade Relics</b>.",
                     "uid": "1047789326785930"
                 },
                 {
@@ -971,7 +971,7 @@
                     "uid": "982143500798390"
                 },
                 {
-                    "text": "Tap the <b>Exploration</b> button.",
+                    "text": "Tap the <b>Explore</b> button.",
                     "uid": "4487424969999264"
                 },
                 {
@@ -1063,7 +1063,7 @@
                     "uid": "3322897571146131"
                 },
                 {
-                    "text": "In the Archeology Lab, you can go on an <b>Exploration</b> or <b>research Reliquaries</b> to <b>upgrade Relics</b>.",
+                    "text": "In the Archeology Lab, you can go on an <b>Exploration</b>, <b>research Reliquaries,</b> or <b>upgrade Relics</b>.",
                     "uid": "3534705205723796"
                 },
                 {
@@ -1151,36 +1151,16 @@
                     "uid": "847365211142519"
                 },
                 {
-                    "text": "How about we try <b>upgrading</b> a Relic? Tap the <b>Relic</b>.",
-                    "uid": "781581244838564"
-                },
-                {
-                    "text": "To upgrade a Relic, you'll need an <b>identical one that's the same grade</b>.",
-                    "uid": "1180775871630528"
-                },
-                {
-                    "text": "Once you collect <b>sufficient Relics</b> for a given grade, you can proceed by tapping <b>Upgrade</b>.",
-                    "uid": "1531643987560313"
-                },
-                {
-                    "text": "As it just so happens, we have two [R] Relics. Let's <b>upgrade</b> them right away!",
-                    "uid": "2375718511605135"
-                },
-                {
-                    "text": "You've just earned an <b>[R+]</b> Relic!",
-                    "uid": "306252797005976"
-                },
-                {
                     "text": "Upgrading a Relic increases its <b>grade</b> and <b>stats</b>.",
-                    "uid": "3406898852285970"
+                    "uid": "4178030575096775"
                 },
                 {
                     "text": "You can obtain Relics from Exploration.",
-                    "uid": "2840523103783877"
+                    "uid": "781581244838564"
                 },
                 {
                     "text": "Whew, the Archeology Lab is full of all sorts of neat things, huh. Shall we head back into the fray then?",
-                    "uid": "715147652972476"
+                    "uid": "2345157817610765"
                 },
                 {
                     "text": "Welcome! You must be a first-time customer here!",
@@ -1435,11 +1415,11 @@
                     "uid": "3711883832134379"
                 },
                 {
-                    "text": "Curious about how they work? Allow me to show you. Tap the <b>Talent Passive</b> button.",
+                    "text": "Curious about how they work? Allow me to show you. Tap the <b>Talent</b> button.",
                     "uid": "1877881110734913"
                 },
                 {
-                    "text": "You can freely <b>boost your stats</b> using <b>Normal Talent Points</b> in the Talent Passive tab.",
+                    "text": "You can freely <b>boost your stats</b> using <b>Normal Talent Points</b> in the Talent tab.",
                     "uid": "441869810523458"
                 },
                 {
@@ -1819,11 +1799,11 @@
                     "uid": "3937857467916922"
                 },
                 {
-                    "text": "The four Elements, <b>Fire, Ice, Earth, and Lightning</b>, have an Efficacy relationship with only themselves.",
+                    "text": "The four Elements, <b>Fire, Ice, Earth, and Lightning</b>, share Efficacy relationships with only each other.",
                     "uid": "3690422146896397"
                 },
                 {
-                    "text": "<b>Holy and Dark</b> only interact with each other.",
+                    "text": "The same goes for <b>Holy and Dark</b>.",
                     "uid": "3295640525958536"
                 },
                 {
@@ -1847,7 +1827,7 @@
                     "uid": "3539432026398612"
                 },
                 {
-                    "text": "You need <b>Iron Ores</b> for <b>[R] Gear</b>, <b>Mythril</b> for <b>[SR] Gear</b>, and <b>Soul Stones</b> for <b>[SSR] Gear</b>.",
+                    "text": "You need <b>Iron Ores</b> for <b>[R] Gear</b>, <b>Mithril</b> for <b>[SR] Gear</b>, and <b>Soul Stones</b> for <b>[SSR] Gear</b>.",
                     "uid": "3307442944527018"
                 },
                 {
@@ -1899,7 +1879,7 @@
                     "uid": "2186028779651428"
                 },
                 {
-                    "text": "You need <b>Iron Ores</b> for <b>[R] Gear</b>, <b>Mythril</b> for <b>[SR] Gear</b>, and <b>Soul Stones</b> for <b>[SSR] Gear</b>.",
+                    "text": "You need <b>Iron Ores</b> for <b>[R] Gear</b>, <b>Mithril</b> for <b>[SR] Gear</b>, and <b>Soul Stones</b> for <b>[SSR] Gear</b>.",
                     "uid": "1469190233437502"
                 },
                 {
@@ -1939,7 +1919,7 @@
                     "uid": "2152966719025179"
                 },
                 {
-                    "text": "You need <b>Iron Ores</b> for <b>[R] Gear</b>, <b>Mythril</b> for <b>[SR] Gear</b>, and <b>Soul Stones</b> for <b>[SSR] Gear</b>.",
+                    "text": "You need <b>Iron Ores</b> for <b>[R] Gear</b>, <b>Mithril</b> for <b>[SR] Gear</b>, and <b>Soul Stones</b> for <b>[SSR] Gear</b>.",
                     "uid": "4470714611918897"
                 },
                 {
@@ -2175,7 +2155,7 @@
                     "uid": "778568885774687"
                 },
                 {
-                    "text": "Here's the <b>Vault</b>. This is where you'll find the <b>items</b> you'ved obtained from your adventure.",
+                    "text": "Here's the <b>Vault</b>. This is where you'll find the <b>items</b> you’ve obtained from your adventure.",
                     "uid": "3447149151840472"
                 },
                 {
@@ -2183,7 +2163,7 @@
                     "uid": "789745790365198"
                 },
                 {
-                    "text": "The Vault stores the items you've obtained from your adventure.",
+                    "text": "The Vault is where items from your adventure are stored.",
                     "uid": "374582959996523"
                 },
                 {
@@ -2251,11 +2231,11 @@
                     "uid": "2920000266972545"
                 },
                 {
-                    "text": "Each characters can use <b>4 skills</b> in <b>one battle</b>.",
+                    "text": "Each character can use <b>4 skills</b> in <b>one battle</b>.",
                     "uid": "2937754320948231"
                 },
                 {
-                    "text": "Skills are triggered based on the <b>order displayed</b> in Skill Settings in this Boss Battle, so it's important to take their <b>types and order</b> into consideration.",
+                    "text": "Skills are triggered based on the <b>order displayed</b> in Skill Settings, so it's important to consider their <b>types and order</b>.",
                     "uid": "376286089266179"
                 },
                 {
@@ -2267,11 +2247,11 @@
                     "uid": "946941423304007"
                 },
                 {
-                    "text": "<b>Info regarding boss skills</b> is displayed here. You can view even more details by tapping the skill info icon. This is helpful when preparing for any incoming attacks.",
+                    "text": "<b>Info on boss skills</b> is shown here. View more details by tapping the skill info icon. This is helpful when preparing for incoming attacks.",
                     "uid": "3617668293188493"
                 },
                 {
-                    "text": "All right, let me take you through what <b>Elements</b> are. Pay attention because this is important.",
+                    "text": "All right, let me explain what <b>Elements</b> are. Pay attention because this is important.",
                     "uid": "3865103614209018"
                 },
                 {
@@ -2283,11 +2263,11 @@
                     "uid": "4141798084692916"
                 },
                 {
-                    "text": "The four Elements, <b>Fire, Ice, Earth, and Lightning</b>, have an <b>Efficacy</b> relationship with only themselves.",
+                    "text": "The four Elements, <b>Fire, Ice, Earth, and Lightning</b>, share <b>Efficacy</b> relationships with only each other.",
                     "uid": "1062041884103639"
                 },
                 {
-                    "text": "<b>Holy and Dark</b> only interact with <b>each other</b>.",
+                    "text": "The same goes for <b>Holy and Dark</b>.",
                     "uid": "3219460205964774"
                 },
                 {
@@ -2303,7 +2283,7 @@
                     "uid": "3308417347288019"
                 },
                 {
-                    "text": "Make sure to consider the <b>Elements of your skills</b> when deciding which ones are best against <b>certain monsters</b> to gain the upper hand in battle!",
+                    "text": "Make sure to check the <b>Elements of your skills</b> against <b>certain monsters</b> to gain the upper hand in battle!",
                     "uid": "175809700493202"
                 },
                 {
@@ -2351,7 +2331,7 @@
                     "uid": "642815578392095"
                 },
                 {
-                    "text": "Before you engage a boss, make sure to <b>look over it</b> beforehand and <b>adjust your skills</b> accordingly. Remember this drill, and your adventure is sure to go a lot smoother!",
+                    "text": "Before you engage a boss, make sure to <b>look over it</b> and <b>adjust your skills</b> accordingly. Remember this, and your adventure is sure to go a lot smoother!",
                     "uid": "778144974543272"
                 },
                 {
@@ -2467,7 +2447,7 @@
                     "uid": "744800445119448"
                 },
                 {
-                    "text": "You need enough <b>MP</b> to use <b>skills</b>.",
+                    "text": "You need <b>MP</b> to use <b>skills</b>.",
                     "uid": "182846056410117"
                 },
                 {
@@ -2587,15 +2567,15 @@
                     "uid": "1720824615207231"
                 },
                 {
-                    "text": "A <b>Knight</b> <b>protects</b> his allies against boss attacks.",
+                    "text": "<b>Knight</b> <b>protects</b> his allies against boss attacks.",
                     "uid": "3676983059718492"
                 },
                 {
-                    "text": "A <b>Druid</b> <b>heals</b> injured allies or <b>provides buffs</b> to the party.",
+                    "text": "<b>Druid</b> <b>heals</b> injured allies or <b>provides buffs</b> to the party.",
                     "uid": "4395004699072613"
                 },
                 {
-                    "text": "A <b>Rogue and Mage</b> unleash <b>powerful attacks</b> to incapacitate enemies.",
+                    "text": "<b>Rogue and Mage</b> unleash <b>powerful attacks</b> to incapacitate enemies.",
                     "uid": "1579097497725234"
                 },
                 {
@@ -2679,7 +2659,7 @@
                     "uid": "1658196454291884"
                 },
                 {
-                    "text": "A <b>Mythril Mine</b> has been discovered in Vangor Fields!",
+                    "text": "A <b>Mithril Mine</b> has been discovered in Vangor Fields!",
                     "uid": "2221783882791264"
                 },
                 {
@@ -2691,19 +2671,19 @@
                     "uid": "861849058995389"
                 },
                 {
-                    "text": "But sometimes a Mythril Mine will spawn like this.",
+                    "text": "But sometimes a Mithril Mine will spawn like this.",
                     "uid": "2767376846799415"
                 },
                 {
-                    "text": "After you clear a Mythril Mine, you can <b>enter it again after 8 hours</b>.",
+                    "text": "After you clear a Mithril Mine, you can <b>enter it again after 8 hours</b>.",
                     "uid": "2110045449995590"
                 },
                 {
-                    "text": "So it's a good idea to expand <b>more areas</b> so you can challenge Mythril Mines <b>more often</b>!",
+                    "text": "So it's a good idea to expand <b>more areas</b> so you can challenge Mithril Mines <b>more often</b>!",
                     "uid": "48335228944873"
                 },
                 {
-                    "text": "Challenging Mythril Mines nets you Mythril.",
+                    "text": "Challenging Mithril Mines nets you Mithril.",
                     "uid": "2480477568140851"
                 },
                 {
@@ -2711,11 +2691,11 @@
                     "uid": "187711622045298"
                 },
                 {
-                    "text": "Wanna get stronger? Then make sure to visit Mythril Mines!",
+                    "text": "Wanna get stronger? Then make sure to visit Mithril Mines!",
                     "uid": "3003618823392421"
                 },
                 {
-                    "text": "I've got more info for you regarding Mythril Mines. Follow me.",
+                    "text": "I've got more info for you regarding Mithril Mines. Follow me.",
                     "uid": "304772251485538"
                 },
                 {
@@ -2723,7 +2703,7 @@
                     "uid": "3858495486860369"
                 },
                 {
-                    "text": "you can <b>select a grade</b> when you enter a Mythril Mine.",
+                    "text": "you can <b>select a grade</b> when you enter a Mithril Mine.",
                     "uid": "3332840757645528"
                 },
                 {
@@ -2743,7 +2723,7 @@
                     "uid": "664260491579743"
                 },
                 {
-                    "text": "You also fight alongside your party members in a Mythril Mine.",
+                    "text": "You also fight alongside your party members in a Mithril Mine.",
                     "uid": "4310779002633841"
                 },
                 {
@@ -2751,11 +2731,11 @@
                     "uid": "4223966727856942"
                 },
                 {
-                    "text": "By the way, keep in mind that you can only collect <b>1,000 Mythril per week</b>.",
+                    "text": "By the way, keep in mind that you can only collect <b>1,000 Mithril per week</b>.",
                     "uid": "867152275104859"
                 },
                 {
-                    "text": "Shall we challenge the Mythril Mine now?",
+                    "text": "Shall we challenge the Mithril Mine now?",
                     "uid": "4071203503105656"
                 },
                 {
@@ -2879,7 +2859,7 @@
                     "uid": "298728078002699"
                 },
                 {
-                    "text": "Sometimes <b>completely different stats</b> are applied at a rare chance, but it all depends on the <b>material gear</b>. Keep this in mind when you choose material.",
+                    "text": "Sometimes, <b>completely different stats</b> are applied at a rare chance, but it all depends on the <b>material gear</b>. Be sure to keep this in mind.",
                     "uid": "195453585455528"
                 },
                 {
@@ -2905,6 +2885,18 @@
                 {
                     "text": "Gear is at the <b>core of an adventurer's strength</b>. Make sure to visit the Refinery often!",
                     "uid": "85506179538865"
+                },
+                {
+                    "text": "Refinery is now accessible!",
+                    "uid": "1410237415029805"
+                },
+                {
+                    "text": "Let's go check it out!",
+                    "uid": "3065026547507354"
+                },
+                {
+                    "text": "Let's tap Domain.",
+                    "uid": "1939288510193504"
                 }
             ],
             "language": "en"

@@ -111,6 +111,30 @@
                     "uid": "2923138017417108"
                 },
                 {
+                    "text": "Failed to log in with Hive.",
+                    "uid": "1898910211402593"
+                },
+                {
+                    "text": "Failed to disconnect from your Hive account.",
+                    "uid": "689425969751325"
+                },
+                {
+                    "text": "Failed to disconnect from your Apple account.",
+                    "uid": "1529076396251763"
+                },
+                {
+                    "text": "Failed to disconnect from your Google account.",
+                    "uid": "2578088036453594"
+                },
+                {
+                    "text": "Failed to disconnect from your Game Center account.",
+                    "uid": "2814243007284370"
+                },
+                {
+                    "text": "Failed to disconnect from your Facebook account.",
+                    "uid": "2949945644271675"
+                },
+                {
                     "text": "Failed to log in with Google.",
                     "uid": "3174426149241150"
                 },

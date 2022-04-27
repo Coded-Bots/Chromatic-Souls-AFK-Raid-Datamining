@@ -23,11 +23,11 @@
                     "uid": "2306626998640552"
                 },
                 {
-                    "text": "{0} has completed Boss Battle {1} time(s) as a party and reached {2}.",
+                    "text": "{0} has won Boss Battle {1} time(s) as a party and reached {2}.",
                     "uid": "321185313076544"
                 },
                 {
-                    "text": "{0} has completed Dungeon Battle {1} time(s) as a party and reached {2}.",
+                    "text": "{0} has won Dungeon Battle {1} time(s) as a party.",
                     "uid": "924655904254724"
                 },
                 {
@@ -75,7 +75,7 @@
                     "uid": "1990793497312397"
                 },
                 {
-                    "text": "Assign Subleader",
+                    "text": "Assign Vice-Leader",
                     "uid": "3941308002930411"
                 },
                 {
@@ -287,11 +287,11 @@
                     "uid": "1752211512349246"
                 },
                 {
-                    "text": "Succeed Party Leader",
+                    "text": "Take Over",
                     "uid": "2036196288602263"
                 },
                 {
-                    "text": "Dismiss Vice-Party Leader",
+                    "text": "Dismiss Vice-Leader",
                     "uid": "1903546006844279"
                 },
                 {
@@ -303,7 +303,7 @@
                     "uid": "870206560184286"
                 },
                 {
-                    "text": "Daily Avg Success: <color=#00ff00>{0}</color>",
+                    "text": "Daily Avg. Challenges: <color=#00ff00>{0}</color>",
                     "uid": "624608079104500"
                 },
                 {

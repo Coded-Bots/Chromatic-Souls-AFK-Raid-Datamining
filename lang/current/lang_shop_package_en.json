@@ -15,7 +15,7 @@
                     "uid": "3168631944457465"
                 },
                 {
-                    "text": "A pack that includes a (SR) Gear Part Select Ticket.",
+                    "text": "A pack that includes an [SR] Gear Part Select Ticket.",
                     "uid": "877250241631539"
                 },
                 {
@@ -39,7 +39,7 @@
                     "uid": "1366805402912248"
                 },
                 {
-                    "text": "A pack that includes an [R], [SR], and [SSR] Skill Ticket.",
+                    "text": "A pack that includes an [R] and [SR] Skill Ticket.",
                     "uid": "535574081350666"
                 },
                 {
@@ -47,8 +47,40 @@
                     "uid": "2468319308363469"
                 },
                 {
-                    "text": "A useful pack for enhancing and fusing skills.",
+                    "text": "A pack that includes [SR] Chromatic Scrolls, Gold, and Skill Scrolls.",
                     "uid": "3563433360087695"
+                },
+                {
+                    "text": "Beginner's Pack",
+                    "uid": "3217451836433271"
+                },
+                {
+                    "text": "A pack that includes an [SSR] Gear Ticket.",
+                    "uid": "2403812761530797"
+                },
+                {
+                    "text": "[UR] Skill Pack",
+                    "uid": "778977613514599"
+                },
+                {
+                    "text": "A pack that includes an [SR], [SSR], and [UR] Skill Ticket.",
+                    "uid": "4433753733272317"
+                },
+                {
+                    "text": "[SR] Relic Pack",
+                    "uid": "2978908526056638"
+                },
+                {
+                    "text": "A pack that includes an [R] and [SR] Relic Ticket.",
+                    "uid": "3933283795057060"
+                },
+                {
+                    "text": "[SSR] Relic Pack",
+                    "uid": "1836562776764603"
+                },
+                {
+                    "text": "A pack that includes an [SR] and [SSR] Relic Ticket.",
+                    "uid": "908575786841305"
                 },
                 {
                     "text": "Element Skill Scroll Pack",

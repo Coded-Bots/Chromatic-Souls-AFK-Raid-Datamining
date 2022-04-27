@@ -1827,35 +1827,35 @@
                     "uid": "2394507062419816"
                 },
                 {
-                    "text": "Mythril Hearthstone",
+                    "text": "Mithril Hearthstone",
                     "uid": "2783195990613279"
                 },
                 {
-                    "text": "Mythril Hearthstone",
+                    "text": "Mithril Hearthstone",
                     "uid": "3426293288439110"
                 },
                 {
-                    "text": "Mythril Hearthstone",
+                    "text": "Mithril Hearthstone",
                     "uid": "2879790804545325"
                 },
                 {
-                    "text": "Mythril Hearthstone",
+                    "text": "Mithril Hearthstone",
                     "uid": "101720178671324"
                 },
                 {
-                    "text": "Mythril Hearthstone",
+                    "text": "Mithril Hearthstone",
                     "uid": "4058817322148027"
                 },
                 {
-                    "text": "Mythril Hearthstone",
+                    "text": "Mithril Hearthstone",
                     "uid": "628316740666531"
                 },
                 {
-                    "text": "Mythril Hearthstone",
+                    "text": "Mithril Hearthstone",
                     "uid": "51218773792772"
                 },
                 {
-                    "text": "Mythril Hearthstone",
+                    "text": "Mithril Hearthstone",
                     "uid": "4072025900113809"
                 },
                 {
@@ -4931,67 +4931,67 @@
                     "uid": "581258536294552"
                 },
                 {
-                    "text": "Increases damage of the associated skill by <color=#329711><b>{Passive_BasePercent.1}%</b></color>.",
+                    "text": "Increases damage of the current skill by <color=#329711><b>{Passive_BasePercent.1}%</b></color>.",
                     "uid": "1299190674651659"
                 },
                 {
-                    "text": "Increases damage of the associated skill by <color=#329711><b>{Passive_BasePercent.1}%</b></color>.",
+                    "text": "Increases damage of the current skill by <color=#329711><b>{Passive_BasePercent.1}%</b></color>.",
                     "uid": "4095357288248734"
                 },
                 {
-                    "text": "Increases damage of the associated skill by <color=#329711><b>{Passive_BasePercent.1}%</b></color>.",
+                    "text": "Increases damage of the current skill by <color=#329711><b>{Passive_BasePercent.1}%</b></color>.",
                     "uid": "1158620994396385"
                 },
                 {
-                    "text": "Increases damage of the associated skill by <color=#329711><b>{Passive_BasePercent.1}%</b></color>.",
+                    "text": "Increases damage of the current skill by <color=#329711><b>{Passive_BasePercent.1}%</b></color>.",
                     "uid": "2283525345484356"
                 },
                 {
-                    "text": "Increases damage of the associated skill by <color=#329711><b>{Passive_BasePercent.1}%</b></color>.",
+                    "text": "Increases damage of the current skill by <color=#329711><b>{Passive_BasePercent.1}%</b></color>.",
                     "uid": "890295818685415"
                 },
                 {
-                    "text": "Increases damage of the associated skill by <color=#329711><b>{Passive_BasePercent.1}%</b></color>.",
+                    "text": "Increases damage of the current skill by <color=#329711><b>{Passive_BasePercent.1}%</b></color>.",
                     "uid": "4348490266725755"
                 },
                 {
-                    "text": "Increases damage of the associated skill by <color=#329711><b>{Passive_BasePercent.1}%</b></color>.",
+                    "text": "Increases damage of the current skill by <color=#329711><b>{Passive_BasePercent.1}%</b></color>.",
                     "uid": "3330437964604056"
                 },
                 {
-                    "text": "Increases damage of the associated skill by <color=#329711><b>{Passive_BasePercent.1}%</b></color>.",
+                    "text": "Increases damage of the current skill by <color=#329711><b>{Passive_BasePercent.1}%</b></color>.",
                     "uid": "1041321854727697"
                 },
                 {
-                    "text": "Increases MP consumption by <b>{Active_BaseAmount.1}</b> and damage by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the associated skill.",
+                    "text": "Increases MP consumption by <b>1</b> and damage by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the associated skill.",
                     "uid": "2728911424725379"
                 },
                 {
-                    "text": "Increases MP consumption by <b>{Active_BaseAmount.1}</b> and damage by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the associated skill.",
+                    "text": "Increases MP consumption by <b>1</b> and damage by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the associated skill.",
                     "uid": "1586709443153238"
                 },
                 {
-                    "text": "Increases MP consumption by <b>{Active_BaseAmount.1}</b> and damage by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the associated skill.",
+                    "text": "Increases MP consumption by <b>1</b> and damage by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the associated skill.",
                     "uid": "653180171226745"
                 },
                 {
-                    "text": "Increases MP consumption by <b>{Active_BaseAmount.1}</b> and damage by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the associated skill.",
+                    "text": "Increases MP consumption by <b>1</b> and damage by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the associated skill.",
                     "uid": "73411268490604"
                 },
                 {
-                    "text": "Increases MP consumption by <b>{Active_BaseAmount.1}</b> and damage by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the associated skill.",
+                    "text": "Increases MP consumption by <b>1</b> and damage by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the associated skill.",
                     "uid": "1497254695271567"
                 },
                 {
-                    "text": "Increases MP consumption by <b>{Active_BaseAmount.1}</b> and damage by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the associated skill.",
+                    "text": "Increases MP consumption by <b>1</b> and damage by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the associated skill.",
                     "uid": "3990412544485315"
                 },
                 {
-                    "text": "Increases MP consumption by <b>{Active_BaseAmount.1}</b> and damage by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the associated skill.",
+                    "text": "Increases MP consumption by <b>1</b> and damage by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the associated skill.",
                     "uid": "4378584014147840"
                 },
                 {
-                    "text": "Increases MP consumption by <b>{Active_BaseAmount.1}</b> and damage by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the associated skill.",
+                    "text": "Increases MP consumption by <b>1</b> and damage by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the associated skill.",
                     "uid": "1914702411412665"
                 },
                 {
@@ -5251,59 +5251,59 @@
                     "uid": "4232067296900498"
                 },
                 {
-                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_BasePercent.1}%</b></color> of Max HP on all allies when a skill is used.",
+                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_Barrier_Params_AbsorbFactor.1}%</b></color> of your Max HP on all allies when a skill is used.",
                     "uid": "3493358697803069"
                 },
                 {
-                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_BasePercent.1}%</b></color> of Max HP on all allies when a skill is used.",
+                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_Barrier_Params_AbsorbFactor.1}%</b></color> of your Max HP on all allies when a skill is used.",
                     "uid": "2567689247368596"
                 },
                 {
-                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_BasePercent.1}%</b></color> of Max HP on all allies when a skill is used.",
+                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_Barrier_Params_AbsorbFactor.1}%</b></color> of your Max HP on all allies when a skill is used.",
                     "uid": "895286858236599"
                 },
                 {
-                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_BasePercent.1}%</b></color> of Max HP on all allies when a skill is used.",
+                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_Barrier_Params_AbsorbFactor.1}%</b></color> of your Max HP on all allies when a skill is used.",
                     "uid": "1846246448290222"
                 },
                 {
-                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_BasePercent.1}%</b></color> of Max HP on all allies when a skill is used.",
+                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_Barrier_Params_AbsorbFactor.1}%</b></color> of your Max HP on all allies when a skill is used.",
                     "uid": "1933058723067121"
                 },
                 {
-                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_BasePercent.1}%</b></color> of Max HP on all allies when a skill is used.",
+                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_Barrier_Params_AbsorbFactor.1}%</b></color> of your Max HP on all allies when a skill is used.",
                     "uid": "626937410655065"
                 },
                 {
-                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_BasePercent.1}%</b></color> of Max HP on all allies when a skill is used.",
+                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_Barrier_Params_AbsorbFactor.1}%</b></color> of your Max HP on all allies when a skill is used.",
                     "uid": "1560466682581558"
                 },
                 {
-                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_BasePercent.1}%</b></color> of Max HP on all allies when a skill is used.",
+                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_Barrier_Params_AbsorbFactor.1}%</b></color> of your Max HP on all allies when a skill is used.",
                     "uid": "4396101705297891"
                 },
                 {
-                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_BasePercent.1}%</b></color> of HP on all allies including yourself for <b>{Continuous_Duration.1} sec</b> when a skill is used.",
+                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_Barrier_Params_AbsorbFactor.1}%</b></color> of your HP on all allies including yourself for <b>{Continuous_Duration.1} sec</b> when a skill is used.",
                     "uid": "3285155209545834"
                 },
                 {
-                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_BasePercent.1}%</b></color> of HP on all allies including yourself for <b>{Continuous_Duration.1} sec</b> when a skill is used.",
+                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_Barrier_Params_AbsorbFactor.1}%</b></color> of your HP on all allies including yourself for <b>{Continuous_Duration.1} sec</b> when a skill is used.",
                     "uid": "3379515592886939"
                 },
                 {
-                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_BasePercent.1}%</b></color> of HP on all allies including yourself for <b>{Continuous_Duration.1} sec</b> when a skill is used.",
+                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_Barrier_Params_AbsorbFactor.1}%</b></color> of your HP on all allies including yourself for <b>{Continuous_Duration.1} sec</b> when a skill is used.",
                     "uid": "672613382059960"
                 },
                 {
-                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_BasePercent.1}%</b></color> of HP on all allies including yourself for <b>{Continuous_Duration.1} sec</b> when a skill is used.",
+                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_Barrier_Params_AbsorbFactor.1}%</b></color> of your HP on all allies including yourself for <b>{Continuous_Duration.1} sec</b> when a skill is used.",
                     "uid": "67977828249102"
                 },
                 {
-                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_BasePercent.1}%</b></color> of HP on all allies including yourself for <b>{Continuous_Duration.1} sec</b> when a skill is used.",
+                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_Barrier_Params_AbsorbFactor.1}%</b></color> of your HP on all allies including yourself for <b>{Continuous_Duration.1} sec</b> when a skill is used.",
                     "uid": "3251035918939217"
                 },
                 {
-                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_BasePercent.1}%</b></color> of HP on all allies including yourself for <b>{Continuous_Duration.1} sec</b> when a skill is used.",
+                    "text": "Generates a Barrier equal to <color=#329711><b>{Passive_Barrier_Params_AbsorbFactor.1}%</b></color> of your HP on all allies including yourself for <b>{Continuous_Duration.1} sec</b> when a skill is used.",
                     "uid": "2725381189724376"
                 },
                 {
@@ -5331,27 +5331,27 @@
                     "uid": "743216031527591"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "1266989229276260"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "4364209528736513"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "550150683062334"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "1476834896886976"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "3903434266315395"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "2761232284743254"
                 },
                 {
@@ -5451,27 +5451,27 @@
                     "uid": "3214704339848919"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "20937644315220"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "793703027221169"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "1832769587079790"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "542624700045360"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "4097405018598259"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "3726972900452742"
                 },
                 {
@@ -5499,27 +5499,27 @@
                     "uid": "1320366188850757"
                 },
                 {
-                    "text": "Basic Attack inflicts a Bleeding effect equal to <color=#a30801><b>{Active_ApFactor.1}%</b></color> of ATK until the next skill is used. (Lasts for <b>{Continuous_Duration.2} sec</b>. Can be stacked)",
+                    "text": "Basic Attack inflicts a Bleeding effect equal to <color=#a30801><b>{Active_ApFactor.1}%</b></color> of ATK until the next skill is used. (Lasts for <b>{Continuous_Duration.2} sec</b>. Can be stacked.)",
                     "uid": "3344318191795758"
                 },
                 {
-                    "text": "Basic Attack inflicts a Bleeding effect equal to <color=#a30801><b>{Active_ApFactor.1}%</b></color> of ATK until the next skill is used. (Lasts for <b>{Continuous_Duration.2} sec</b>. Can be stacked)",
+                    "text": "Basic Attack inflicts a Bleeding effect equal to <color=#a30801><b>{Active_ApFactor.1}%</b></color> of ATK until the next skill is used. (Lasts for <b>{Continuous_Duration.2} sec</b>. Can be stacked.)",
                     "uid": "2393358601742135"
                 },
                 {
-                    "text": "Basic Attack inflicts a Bleeding effect equal to <color=#a30801><b>{Active_ApFactor.1}%</b></color> of ATK until the next skill is used. (Lasts for <b>{Continuous_Duration.2} sec</b>. Can be stacked)",
+                    "text": "Basic Attack inflicts a Bleeding effect equal to <color=#a30801><b>{Active_ApFactor.1}%</b></color> of ATK until the next skill is used. (Lasts for <b>{Continuous_Duration.2} sec</b>. Can be stacked.)",
                     "uid": "4065760990874132"
                 },
                 {
-                    "text": "Basic Attack inflicts a Bleeding effect equal to <color=#a30801><b>{Active_ApFactor.1}%</b></color> of ATK until the next skill is used. (Lasts for <b>{Continuous_Duration.2} sec</b>. Can be stacked)",
+                    "text": "Basic Attack inflicts a Bleeding effect equal to <color=#a30801><b>{Active_ApFactor.1}%</b></color> of ATK until the next skill is used. (Lasts for <b>{Continuous_Duration.2} sec</b>. Can be stacked.)",
                     "uid": "2742761219414834"
                 },
                 {
-                    "text": "Basic Attack inflicts a Bleeding effect equal to <color=#a30801><b>{Active_ApFactor.1}%</b></color> of ATK until the next skill is used. (Lasts for <b>{Continuous_Duration.2} sec</b>. Can be stacked)",
+                    "text": "Basic Attack inflicts a Bleeding effect equal to <color=#a30801><b>{Active_ApFactor.1}%</b></color> of ATK until the next skill is used. (Lasts for <b>{Continuous_Duration.2} sec</b>. Can be stacked.)",
                     "uid": "1055068793391717"
                 },
                 {
-                    "text": "Basic Attack inflicts a Bleeding effect equal to <color=#a30801><b>{Active_ApFactor.1}%</b></color> of ATK until the next skill is used. (Lasts for <b>{Continuous_Duration.2} sec</b>. Can be stacked)",
+                    "text": "Basic Attack inflicts a Bleeding effect equal to <color=#a30801><b>{Active_ApFactor.1}%</b></color> of ATK until the next skill is used. (Lasts for <b>{Continuous_Duration.2} sec</b>. Can be stacked.)",
                     "uid": "337047154037596"
                 },
                 {
@@ -5571,27 +5571,27 @@
                     "uid": "2022898798494603"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "2886947340000872"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "3281728960938733"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "3810639258781018"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "176058209585892"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "3291032563021831"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "1987070103378362"
                 },
                 {
@@ -5619,51 +5619,51 @@
                     "uid": "1277411996079073"
                 },
                 {
-                    "text": "When a skill is used, that skill always lands as a CRIT HIT and increases CRIT DMG by <color=#a30801><b>{Passive_BasePercent.2}%</b></color>.",
+                    "text": "The current skill always lands as a CRIT HIT and increases CRIT DMG by <color=#a30801><b>{Passive_BasePercent.2}%</b></color>.",
                     "uid": "2359201465516282"
                 },
                 {
-                    "text": "When a skill is used, that skill always lands as a CRIT HIT and increases CRIT DMG by <color=#a30801><b>{Passive_BasePercent.2}%</b></color>.",
+                    "text": "The current skill always lands as a CRIT HIT and increases CRIT DMG by <color=#a30801><b>{Passive_BasePercent.2}%</b></color>.",
                     "uid": "1257287942035051"
                 },
                 {
-                    "text": "When a skill is used, that skill always lands as a CRIT HIT and increases CRIT DMG by <color=#a30801><b>{Passive_BasePercent.2}%</b></color>.",
+                    "text": "The current skill always lands as a CRIT HIT and increases CRIT DMG by <color=#a30801><b>{Passive_BasePercent.2}%</b></color>.",
                     "uid": "1716984523557896"
                 },
                 {
-                    "text": "When a skill is used, that skill always lands as a CRIT HIT and increases CRIT DMG by <color=#a30801><b>{Passive_BasePercent.2}%</b></color>.",
+                    "text": "The current skill always lands as a CRIT HIT and increases CRIT DMG by <color=#a30801><b>{Passive_BasePercent.2}%</b></color>.",
                     "uid": "3467630918303966"
                 },
                 {
-                    "text": "When a skill is used, that skill always lands as a CRIT HIT and increases CRIT DMG by <color=#a30801><b>{Passive_BasePercent.2}%</b></color>.",
+                    "text": "The current skill always lands as a CRIT HIT and increases CRIT DMG by <color=#a30801><b>{Passive_BasePercent.2}%</b></color>.",
                     "uid": "3064169366294305"
                 },
                 {
-                    "text": "When a skill is used, that skill always lands as a CRIT HIT and increases CRIT DMG by <color=#a30801><b>{Passive_BasePercent.2}%</b></color>.",
+                    "text": "The current skill always lands as a CRIT HIT and increases CRIT DMG by <color=#a30801><b>{Passive_BasePercent.2}%</b></color>.",
                     "uid": "3664435628072936"
                 },
                 {
-                    "text": "Increases healing by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the current skill and until the next skill is used.",
+                    "text": "Increases your healing by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the current skill and until the next skill is used.",
                     "uid": "4277070434348524"
                 },
                 {
-                    "text": "Increases healing by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the current skill and until the next skill is used.",
+                    "text": "Increases your healing by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the current skill and until the next skill is used.",
                     "uid": "353239709714169"
                 },
                 {
-                    "text": "Increases healing by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the current skill and until the next skill is used.",
+                    "text": "Increases your healing by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the current skill and until the next skill is used.",
                     "uid": "1286768981640662"
                 },
                 {
-                    "text": "Increases healing by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the current skill and until the next skill is used.",
+                    "text": "Increases your healing by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the current skill and until the next skill is used.",
                     "uid": "3144070806228088"
                 },
                 {
-                    "text": "Increases healing by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the current skill and until the next skill is used.",
+                    "text": "Increases your healing by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the current skill and until the next skill is used.",
                     "uid": "4443619205597787"
                 },
                 {
-                    "text": "Increases healing by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the current skill and until the next skill is used.",
+                    "text": "Increases your healing by <color=#329711><b>{Passive_BasePercent.1}%</b></color> for the current skill and until the next skill is used.",
                     "uid": "3296834030979374"
                 },
                 {
@@ -5691,27 +5691,27 @@
                     "uid": "1404007581515145"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "1823367945369714"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "4116133891465267"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "3376124412003824"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "1539324537117382"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "3981213943437161"
                 },
                 {
-                    "text": "Instantly restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
+                    "text": "Restores <color=#329711><b>{Active_BaseAmount.1}</b></color> MP when a skill is used.",
                     "uid": "1169747175801200"
                 },
                 {
@@ -5739,27 +5739,27 @@
                     "uid": "777309116200147"
                 },
                 {
-                    "text": "Instantly removes all debuffs from yourself when a skill is used. (Up to <b>{Active_BaseAmount.1}</b>)",
+                    "text": "Removes all debuffs from yourself when a skill is used. (Up to <b>{Active_BaseAmount.1}</b>)",
                     "uid": "469827924656448"
                 },
                 {
-                    "text": "Instantly removes all debuffs from yourself when a skill is used. (Up to <b>{Active_BaseAmount.1}</b>)",
+                    "text": "Removes all debuffs from yourself when a skill is used. (Up to <b>{Active_BaseAmount.1}</b>)",
                     "uid": "1449222603990517"
                 },
                 {
-                    "text": "Instantly removes all debuffs from yourself when a skill is used. (Up to <b>{Active_BaseAmount.1}</b>)",
+                    "text": "Removes all debuffs from yourself when a skill is used. (Up to <b>{Active_BaseAmount.1}</b>)",
                     "uid": "2013317273935554"
                 },
                 {
-                    "text": "Instantly removes all debuffs from yourself when a skill is used. (Up to <b>{Active_BaseAmount.1}</b>)",
+                    "text": "Removes all debuffs from yourself when a skill is used. (Up to <b>{Active_BaseAmount.1}</b>)",
                     "uid": "3715343074815724"
                 },
                 {
-                    "text": "Instantly removes all debuffs from yourself when a skill is used. (Up to <b>{Active_BaseAmount.1}</b>)",
+                    "text": "Removes all debuffs from yourself when a skill is used. (Up to <b>{Active_BaseAmount.1}</b>)",
                     "uid": "635586874226191"
                 },
                 {
-                    "text": "Instantly removes all debuffs from yourself when a skill is used. (Up to <b>{Active_BaseAmount.1}</b>)",
+                    "text": "Removes all debuffs from yourself when a skill is used. (Up to <b>{Active_BaseAmount.1}</b>)",
                     "uid": "984133583530690"
                 },
                 {

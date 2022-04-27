@@ -3,6 +3,1822 @@
         "en": {
             "array": [
                 {
+                    "text": "Burning Skin",
+                    "uid": "125473100453020"
+                },
+                {
+                    "text": "Burning Skin",
+                    "uid": "172724564812681"
+                },
+                {
+                    "text": "Discharge Current",
+                    "uid": "1255320148147573"
+                },
+                {
+                    "text": "Discharge Current",
+                    "uid": "1666590232025784"
+                },
+                {
+                    "text": "Overload",
+                    "uid": "2221334504986482"
+                },
+                {
+                    "text": "Overload",
+                    "uid": "4425890279978923"
+                },
+                {
+                    "text": "Puzzled",
+                    "uid": "1873412317579543"
+                },
+                {
+                    "text": "Puzzled",
+                    "uid": "1356571119569662"
+                },
+                {
+                    "text": "Puzzled",
+                    "uid": "4154886134865477"
+                },
+                {
+                    "text": "Prime Regenerative Force\n[Lightning]",
+                    "uid": "3899824937086668"
+                },
+                {
+                    "text": "Prime Regenerative Force\n[Lightning]",
+                    "uid": "4296644335966713"
+                },
+                {
+                    "text": "Mountainous Capability",
+                    "uid": "4365226120443375"
+                },
+                {
+                    "text": "Fissure",
+                    "uid": "1302459862799644"
+                },
+                {
+                    "text": "Fissure",
+                    "uid": "1349711327159305"
+                },
+                {
+                    "text": "Puzzled",
+                    "uid": "1436071244207741"
+                },
+                {
+                    "text": "Puzzled",
+                    "uid": "1672575835227008"
+                },
+                {
+                    "text": "Puzzled",
+                    "uid": "1123792272776239"
+                },
+                {
+                    "text": "Prime Regenerative Force\n[Earth]",
+                    "uid": "1519897183454298"
+                },
+                {
+                    "text": "Prime Regenerative Force\n[Earth]",
+                    "uid": "4042244944405267"
+                },
+                {
+                    "text": "Chill",
+                    "uid": "1319921517537407"
+                },
+                {
+                    "text": "Chill",
+                    "uid": "3374976879684902"
+                },
+                {
+                    "text": "Chill",
+                    "uid": "3109949372613133"
+                },
+                {
+                    "text": "Puzzled",
+                    "uid": "1997289470924462"
+                },
+                {
+                    "text": "Puzzled",
+                    "uid": "262325575142663"
+                },
+                {
+                    "text": "Puzzled",
+                    "uid": "3867566328539512"
+                },
+                {
+                    "text": "Prime Regenerative Force\n[Ice]",
+                    "uid": "3454748078180541"
+                },
+                {
+                    "text": "Prime Regenerative Force\n[Ice]",
+                    "uid": "2002402760494528"
+                },
+                {
+                    "text": "Dissolution",
+                    "uid": "573829965818934"
+                },
+                {
+                    "text": "Dissolution",
+                    "uid": "4502404193243407"
+                },
+                {
+                    "text": "Giant's Strength",
+                    "uid": "1392149128299857"
+                },
+                {
+                    "text": "Call of Vigor",
+                    "uid": "2328723530320440"
+                },
+                {
+                    "text": "Overload",
+                    "uid": "712870829015176"
+                },
+                {
+                    "text": "Overload",
+                    "uid": "4101507699010053"
+                },
+                {
+                    "text": "Giant's Strength",
+                    "uid": "3921931470670473"
+                },
+                {
+                    "text": "Call of Vigor",
+                    "uid": "2992263179609910"
+                },
+                {
+                    "text": "Fissure",
+                    "uid": "4279152459441462"
+                },
+                {
+                    "text": "Fissure",
+                    "uid": "3704127059495439"
+                },
+                {
+                    "text": "Giant's Strength",
+                    "uid": "2845440945375347"
+                },
+                {
+                    "text": "Call of Vigor",
+                    "uid": "2369118488444128"
+                },
+                {
+                    "text": "Chill",
+                    "uid": "2310095043877617"
+                },
+                {
+                    "text": "Chill",
+                    "uid": "3074362521749092"
+                },
+                {
+                    "text": "Chill",
+                    "uid": "3656064741487235"
+                },
+                {
+                    "text": "Giant's Strength",
+                    "uid": "3197676799215644"
+                },
+                {
+                    "text": "Call of Vigor",
+                    "uid": "3553575666563291"
+                },
+                {
+                    "text": "Dragon Spear Stab",
+                    "uid": "3648081990587764"
+                },
+                {
+                    "text": "Scorching Spear",
+                    "uid": "3838540121545007"
+                },
+                {
+                    "text": "Red Draconian Logistics",
+                    "uid": "1421989652422774"
+                },
+                {
+                    "text": "Red Draconian Logistics",
+                    "uid": "3943210068389967"
+                },
+                {
+                    "text": "Red Draconian Logistics",
+                    "uid": "1109710680991264"
+                },
+                {
+                    "text": "Might of Blood-kin",
+                    "uid": "1508740410605713"
+                },
+                {
+                    "text": "Might of Blood-kin",
+                    "uid": "1991532911655172"
+                },
+                {
+                    "text": "Dragon Spear Stab",
+                    "uid": "536217790166698"
+                },
+                {
+                    "text": "Lightning Stab",
+                    "uid": "4148719321982995"
+                },
+                {
+                    "text": "Bronze Draconian Logistics",
+                    "uid": "4040747284545736"
+                },
+                {
+                    "text": "Bronze Draconian Logistics",
+                    "uid": "1518409595286597"
+                },
+                {
+                    "text": "Bronze Draconian Logistics",
+                    "uid": "3223694207361278"
+                },
+                {
+                    "text": "Might of Blood-kin",
+                    "uid": "4123472605132489"
+                },
+                {
+                    "text": "Might of Blood-kin",
+                    "uid": "1261450301681628"
+                },
+                {
+                    "text": "Dragon Spear Stab",
+                    "uid": "2218019730157092"
+                },
+                {
+                    "text": "Pulverize Earth",
+                    "uid": "3067724069908217"
+                },
+                {
+                    "text": "Green Draconian Logistics",
+                    "uid": "4461324408730230"
+                },
+                {
+                    "text": "Green Draconian Logistics",
+                    "uid": "2478945197326927"
+                },
+                {
+                    "text": "Green Draconian Logistics",
+                    "uid": "4149045437298720"
+                },
+                {
+                    "text": "Green Draconian Logistics",
+                    "uid": "434963257653025"
+                },
+                {
+                    "text": "Might of Blood-kin",
+                    "uid": "3305246472000179"
+                },
+                {
+                    "text": "Might of Blood-kin",
+                    "uid": "2476331752193146"
+                },
+                {
+                    "text": "Dragon Spear Stab",
+                    "uid": "4388133120841479"
+                },
+                {
+                    "text": "Murderous Temper",
+                    "uid": "799308324273346"
+                },
+                {
+                    "text": "Blue Draconian Logistics",
+                    "uid": "1023042999064881"
+                },
+                {
+                    "text": "Blue Draconian Logistics",
+                    "uid": "98439592906660"
+                },
+                {
+                    "text": "Blue Draconian Logistics",
+                    "uid": "3776366508132035"
+                },
+                {
+                    "text": "Might of Blood-kin",
+                    "uid": "3317978565860444"
+                },
+                {
+                    "text": "Might of Blood-kin",
+                    "uid": "1676401241940809"
+                },
+                {
+                    "text": "Mutant Virus",
+                    "uid": "1793499740347769"
+                },
+                {
+                    "text": "Mutant Virus",
+                    "uid": "1396680341467724"
+                },
+                {
+                    "text": "Release Firepower",
+                    "uid": "2536746687722475"
+                },
+                {
+                    "text": "Summon Engineer Unit",
+                    "uid": "4464141579788885"
+                },
+                {
+                    "text": "Mutant Virus",
+                    "uid": "144220234670737"
+                },
+                {
+                    "text": "Mutant Virus",
+                    "uid": "627012735720196"
+                },
+                {
+                    "text": "Electric Discharge",
+                    "uid": "1204110702593955"
+                },
+                {
+                    "text": "Summon Engineer Unit",
+                    "uid": "879703134950157"
+                },
+                {
+                    "text": "Mutant Virus",
+                    "uid": "1132868739561739"
+                },
+                {
+                    "text": "Mutant Virus",
+                    "uid": "2024537660056274"
+                },
+                {
+                    "text": "North Wind",
+                    "uid": "2918313401591577"
+                },
+                {
+                    "text": "North Wind",
+                    "uid": "1778100674362680"
+                },
+                {
+                    "text": "Summon Engineer Unit",
+                    "uid": "143184806493639"
+                },
+                {
+                    "text": "Mutant Virus",
+                    "uid": "4192223736151636"
+                },
+                {
+                    "text": "Mutant Virus",
+                    "uid": "3430258372769057"
+                },
+                {
+                    "text": "Rapid Freezing",
+                    "uid": "846500169988858"
+                },
+                {
+                    "text": "Rapid Freezing",
+                    "uid": "970640685072463"
+                },
+                {
+                    "text": "Summon Engineer Unit",
+                    "uid": "2640740925044256"
+                },
+                {
+                    "text": "Internal Fury II",
+                    "uid": "2473587636854336"
+                },
+                {
+                    "text": "Discharge Wrath",
+                    "uid": "78027149711609"
+                },
+                {
+                    "text": "Discharge Wrath",
+                    "uid": "4184807378202060"
+                },
+                {
+                    "text": "Blazing Blood",
+                    "uid": "1641832251502558"
+                },
+                {
+                    "text": "Blazing Blood",
+                    "uid": "3279990127033719"
+                },
+                {
+                    "text": "Blazing Blood",
+                    "uid": "765431167116840"
+                },
+                {
+                    "text": "Blazing Blood",
+                    "uid": "2893103183435273"
+                },
+                {
+                    "text": "Blazing Blood",
+                    "uid": "3193315062609858"
+                },
+                {
+                    "text": "Blazing Blood",
+                    "uid": "2580824212004091"
+                },
+                {
+                    "text": "Dauntless Fighter",
+                    "uid": "3400444144572183"
+                },
+                {
+                    "text": "Dauntless Fighter",
+                    "uid": "2883602946562302"
+                },
+                {
+                    "text": "Internal Fury II",
+                    "uid": "3522605464926718"
+                },
+                {
+                    "text": "Discharge Wrath",
+                    "uid": "3251293870335249"
+                },
+                {
+                    "text": "Discharge Wrath",
+                    "uid": "3734086371384708"
+                },
+                {
+                    "text": "Furious Cyclone",
+                    "uid": "2803115794811088"
+                },
+                {
+                    "text": "Furious Cyclone",
+                    "uid": "1513366363542541"
+                },
+                {
+                    "text": "Furious Cyclone",
+                    "uid": "1778393870614310"
+                },
+                {
+                    "text": "Furious Cyclone",
+                    "uid": "1837773931186339"
+                },
+                {
+                    "text": "Wind of Resurgence",
+                    "uid": "429648393347163"
+                },
+                {
+                    "text": "Internal Fury",
+                    "uid": "2199889686503261"
+                },
+                {
+                    "text": "Discharge Wrath",
+                    "uid": "1233192561136523"
+                },
+                {
+                    "text": "Discharge Wrath",
+                    "uid": "2124861481631058"
+                },
+                {
+                    "text": "Petrous Disposition",
+                    "uid": "3051527038043790"
+                },
+                {
+                    "text": "Petrous Disposition",
+                    "uid": "4126729728488807"
+                },
+                {
+                    "text": "Stone Fist",
+                    "uid": "849412389080689"
+                },
+                {
+                    "text": "Stone Fist",
+                    "uid": "1613679866952164"
+                },
+                {
+                    "text": "Internal Fury",
+                    "uid": "3891856550158734"
+                },
+                {
+                    "text": "Internal Fury II",
+                    "uid": "73450534989427"
+                },
+                {
+                    "text": "Discharge Wrath",
+                    "uid": "2465459142857940"
+                },
+                {
+                    "text": "Discharge Wrath",
+                    "uid": "1703493779475361"
+                },
+                {
+                    "text": "Adaptability (Fire)",
+                    "uid": "1018771705857449"
+                },
+                {
+                    "text": "Adaptability",
+                    "uid": "2664932162215484"
+                },
+                {
+                    "text": "Adaptability (Lightning)",
+                    "uid": "2399925775569947"
+                },
+                {
+                    "text": "Adaptability",
+                    "uid": "4271079280868990"
+                },
+                {
+                    "text": "Adaptability (Earth)",
+                    "uid": "2565794668794309"
+                },
+                {
+                    "text": "Adaptability",
+                    "uid": "584532730682952"
+                },
+                {
+                    "text": "Adaptability (Ice)",
+                    "uid": "284320851508375"
+                },
+                {
+                    "text": "Adaptability",
+                    "uid": "2475589577681130"
+                },
+                {
+                    "text": "Ardent Frigidness",
+                    "uid": "4233276481755706"
+                },
+                {
+                    "text": "Ardent Frigidness",
+                    "uid": "558591574192499"
+                },
+                {
+                    "text": "Volcanic Smash",
+                    "uid": "3021596196541798"
+                },
+                {
+                    "text": "Volcanic Smash",
+                    "uid": "685065857572031"
+                },
+                {
+                    "text": "Volcanic Smash",
+                    "uid": "2075993235210768"
+                },
+                {
+                    "text": "Mad Bull",
+                    "uid": "2387049809840477"
+                },
+                {
+                    "text": "Mad Bull",
+                    "uid": "2342058303611744"
+                },
+                {
+                    "text": "Innate Reflexes",
+                    "uid": "326891689833252"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "202850267483203"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "1128571007540874"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "1953126385786545"
+                },
+                {
+                    "text": "Additional Thunderbolt Damage",
+                    "uid": "776336438762200"
+                },
+                {
+                    "text": "Swift Bull",
+                    "uid": "2020827605441693"
+                },
+                {
+                    "text": "Swift Bull",
+                    "uid": "568482287755680"
+                },
+                {
+                    "text": "Innate Reflexes",
+                    "uid": "3447030088883770"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "3676574267018719"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "4038196588022278"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "958419362285805"
+                },
+                {
+                    "text": "Shove Globe",
+                    "uid": "145267325403302"
+                },
+                {
+                    "text": "Shove Globe",
+                    "uid": "2593811590626303"
+                },
+                {
+                    "text": "Indomitable Bull",
+                    "uid": "2937336964685863"
+                },
+                {
+                    "text": "Indomitable Bull",
+                    "uid": "1862134274241102"
+                },
+                {
+                    "text": "Innate Reflexes",
+                    "uid": "3640025173328724"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "4076532110655061"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "4487802194533272"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "1159453285520295"
+                },
+                {
+                    "text": "Frigid Bull",
+                    "uid": "2326516412014824"
+                },
+                {
+                    "text": "Frigid Bull",
+                    "uid": "4026303373304165"
+                },
+                {
+                    "text": "Innate Reflexes",
+                    "uid": "1579617184388855"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "3592364835350118"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "1255834496380351"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "2646761874019088"
+                },
+                {
+                    "text": "Mana Burn",
+                    "uid": "321721497139344"
+                },
+                {
+                    "text": "Living Bomb",
+                    "uid": "492570692377426"
+                },
+                {
+                    "text": "Mana Burn",
+                    "uid": "2263968860482222"
+                },
+                {
+                    "text": "Raging Gust",
+                    "uid": "1781547611085340"
+                },
+                {
+                    "text": "Raging Gust",
+                    "uid": "1828799075445001"
+                },
+                {
+                    "text": "Mana Burn",
+                    "uid": "3745110061582952"
+                },
+                {
+                    "text": "Earth Tremor",
+                    "uid": "4168368082520458"
+                },
+                {
+                    "text": "Mana Burn",
+                    "uid": "4231796903186243"
+                },
+                {
+                    "text": "Pituitous Body",
+                    "uid": "3958955647233504"
+                },
+                {
+                    "text": "Pituitous Body",
+                    "uid": "4003947153462237"
+                },
+                {
+                    "text": "Boiling Point",
+                    "uid": "3436791911745570"
+                },
+                {
+                    "text": "Pituitous Body",
+                    "uid": "673939607565214"
+                },
+                {
+                    "text": "Pituitous Body",
+                    "uid": "4282422368623927"
+                },
+                {
+                    "text": "Short Circuit",
+                    "uid": "934743209473484"
+                },
+                {
+                    "text": "Pituitous Body",
+                    "uid": "490273162004920"
+                },
+                {
+                    "text": "Pituitous Body",
+                    "uid": "79003078126709"
+                },
+                {
+                    "text": "Pituitous Body",
+                    "uid": "2902480448585107"
+                },
+                {
+                    "text": "Pituitous Body",
+                    "uid": "380132687634138"
+                },
+                {
+                    "text": "Freezing Point",
+                    "uid": "2861650676058045"
+                },
+                {
+                    "text": "Adrenaline Boost",
+                    "uid": "86228474103130"
+                },
+                {
+                    "text": "Mucus Zone",
+                    "uid": "3362012872849553"
+                },
+                {
+                    "text": "Firenet Spiderweb",
+                    "uid": "2496880937325176"
+                },
+                {
+                    "text": "Firenet Spiderweb",
+                    "uid": "2085610853446709"
+                },
+                {
+                    "text": "Adrenaline Boost",
+                    "uid": "882288954662916"
+                },
+                {
+                    "text": "Mucus Zone",
+                    "uid": "3116471549812425"
+                },
+                {
+                    "text": "Lightnet Spiderweb",
+                    "uid": "4083687992668790"
+                },
+                {
+                    "text": "Lightnet Spiderweb",
+                    "uid": "2101308781265487"
+                },
+                {
+                    "text": "Lightnet Spiderweb",
+                    "uid": "3771409021237280"
+                },
+                {
+                    "text": "Adrenaline Boost",
+                    "uid": "2311245517219202"
+                },
+                {
+                    "text": "Mucus Zone",
+                    "uid": "1082634435066547"
+                },
+                {
+                    "text": "Earthnet Spiderweb",
+                    "uid": "616254498518048"
+                },
+                {
+                    "text": "Earthnet Spiderweb",
+                    "uid": "2068599816204061"
+                },
+                {
+                    "text": "Adrenaline Boost",
+                    "uid": "2102805057836709"
+                },
+                {
+                    "text": "Mucus Zone",
+                    "uid": "1588094278222940"
+                },
+                {
+                    "text": "Aquanet Spiderweb",
+                    "uid": "3199305098754587"
+                },
+                {
+                    "text": "Aquanet Spiderweb",
+                    "uid": "710987976333154"
+                },
+                {
+                    "text": "Aquanet Spiderweb",
+                    "uid": "1818151029042089"
+                },
+                {
+                    "text": "Aquanet Spiderweb",
+                    "uid": "1383912053867592"
+                },
+                {
+                    "text": "Aquanet Spiderweb",
+                    "uid": "1083700174693015"
+                },
+                {
+                    "text": "Cut",
+                    "uid": "3401023543973072"
+                },
+                {
+                    "text": "Smelter Axe",
+                    "uid": "1022042428084882"
+                },
+                {
+                    "text": "Smelter Axe",
+                    "uid": "4352477037712843"
+                },
+                {
+                    "text": "Bloody Armor",
+                    "uid": "2142765819357701"
+                },
+                {
+                    "text": "Bloody Armor",
+                    "uid": "3257728576733320"
+                },
+                {
+                    "text": "Cut",
+                    "uid": "1873809156019182"
+                },
+                {
+                    "text": "Storm Axe",
+                    "uid": "4155999609279836"
+                },
+                {
+                    "text": "Storm Axe",
+                    "uid": "2514422285360201"
+                },
+                {
+                    "text": "Chained Armor",
+                    "uid": "353005922573893"
+                },
+                {
+                    "text": "Chained Armor",
+                    "uid": "2875343611833032"
+                },
+                {
+                    "text": "Cut",
+                    "uid": "1286578382969000"
+                },
+                {
+                    "text": "Plunderer's Armor",
+                    "uid": "1944023438301471"
+                },
+                {
+                    "text": "Plunderer's Armor",
+                    "uid": "2587120736127302"
+                },
+                {
+                    "text": "Plunderer's Armor",
+                    "uid": "2040618252233517"
+                },
+                {
+                    "text": "Earthfire Axe",
+                    "uid": "2156088431896778"
+                },
+                {
+                    "text": "Earthfire Axe",
+                    "uid": "1511863789087107"
+                },
+                {
+                    "text": "North Wind Axe",
+                    "uid": "2847377641218691"
+                },
+                {
+                    "text": "North Wind Axe",
+                    "uid": "353782271743533"
+                },
+                {
+                    "text": "North Wind Axe",
+                    "uid": "3055468646907760"
+                },
+                {
+                    "text": "Frostgrief Armor",
+                    "uid": "3631108211777600"
+                },
+                {
+                    "text": "Frostgrief Armor",
+                    "uid": "579853902093117"
+                },
+                {
+                    "text": "Berserk",
+                    "uid": "1127891092551427"
+                },
+                {
+                    "text": "Burning Skin",
+                    "uid": "3141083669416232"
+                },
+                {
+                    "text": "Burning Skin",
+                    "uid": "337271003335077"
+                },
+                {
+                    "text": "Puzzled",
+                    "uid": "1920545970231775"
+                },
+                {
+                    "text": "Puzzled",
+                    "uid": "2282168291235334"
+                },
+                {
+                    "text": "Puzzled",
+                    "uid": "3705990692869357"
+                },
+                {
+                    "text": "Prime Regenerative Force\n[Fire]",
+                    "uid": "4340147108460774"
+                },
+                {
+                    "text": "Prime Regenerative Force\n[Fire]",
+                    "uid": "2003616769491007"
+                },
+                {
+                    "text": "Discharge Current",
+                    "uid": "3823793057286745"
+                },
+                {
+                    "text": "Discharge Current",
+                    "uid": "1738123749701164"
+                },
+                {
+                    "text": "Overload",
+                    "uid": "2837569050569606"
+                },
+                {
+                    "text": "Overload",
+                    "uid": "2475946729566047"
+                },
+                {
+                    "text": "Puzzled",
+                    "uid": "1132539609726435"
+                },
+                {
+                    "text": "Puzzled",
+                    "uid": "2062843482222506"
+                },
+                {
+                    "text": "Puzzled",
+                    "uid": "1480002953260497"
+                },
+                {
+                    "text": "Prime Regenerative Force\n[Lightning]",
+                    "uid": "2134073559766360"
+                },
+                {
+                    "text": "Prime Regenerative Force\n[Lightning]",
+                    "uid": "3130157287345173"
+                },
+                {
+                    "text": "Mountainous Capability",
+                    "uid": "381778682904611"
+                },
+                {
+                    "text": "Fissure",
+                    "uid": "4445721027315344"
+                },
+                {
+                    "text": "Fissure",
+                    "uid": "3437467693295309"
+                },
+                {
+                    "text": "Puzzled",
+                    "uid": "352943013842729"
+                },
+                {
+                    "text": "Puzzled",
+                    "uid": "1999103470200764"
+                },
+                {
+                    "text": "Puzzled",
+                    "uid": "1734097083555227"
+                },
+                {
+                    "text": "Prime Regenerative Force\n[Earth]",
+                    "uid": "2742923752592166"
+                },
+                {
+                    "text": "Prime Regenerative Force\n[Earth]",
+                    "uid": "687868390444671"
+                },
+                {
+                    "text": "Chill",
+                    "uid": "2238731312329163"
+                },
+                {
+                    "text": "Chill",
+                    "uid": "3411896330071698"
+                },
+                {
+                    "text": "Chill",
+                    "uid": "83547421058777"
+                },
+                {
+                    "text": "Puzzled",
+                    "uid": "403925388881394"
+                },
+                {
+                    "text": "Puzzled",
+                    "uid": "2608481163873835"
+                },
+                {
+                    "text": "Puzzled",
+                    "uid": "3157264726324620"
+                },
+                {
+                    "text": "Prime Regenerative Force\n[Ice]",
+                    "uid": "1096041682327393"
+                },
+                {
+                    "text": "Prime Regenerative Force\n[Ice]",
+                    "uid": "1858007045709716"
+                },
+                {
+                    "text": "Dissolution",
+                    "uid": "1318380000579610"
+                },
+                {
+                    "text": "Dissolution",
+                    "uid": "2714848926895571"
+                },
+                {
+                    "text": "Giant's Strength",
+                    "uid": "794395846517805"
+                },
+                {
+                    "text": "Call of Vigor",
+                    "uid": "2614295237216564"
+                },
+                {
+                    "text": "Overload",
+                    "uid": "1647367977003204"
+                },
+                {
+                    "text": "Overload",
+                    "uid": "3979325194618705"
+                },
+                {
+                    "text": "Giant's Strength",
+                    "uid": "3609677371269197"
+                },
+                {
+                    "text": "Call of Vigor",
+                    "uid": "4374313478524266"
+                },
+                {
+                    "text": "Fissure",
+                    "uid": "834789463959362"
+                },
+                {
+                    "text": "Fissure",
+                    "uid": "222298613353595"
+                },
+                {
+                    "text": "Giant's Strength",
+                    "uid": "4224639110147959"
+                },
+                {
+                    "text": "Call of Vigor",
+                    "uid": "1902752433169636"
+                },
+                {
+                    "text": "Chill",
+                    "uid": "869112525694821"
+                },
+                {
+                    "text": "Chill",
+                    "uid": "3672925191775976"
+                },
+                {
+                    "text": "Chill",
+                    "uid": "3372713312601399"
+                },
+                {
+                    "text": "Giant's Strength",
+                    "uid": "503926831368248"
+                },
+                {
+                    "text": "Call of Vigor",
+                    "uid": "2431007851036359"
+                },
+                {
+                    "text": "Dragon Spear Stab",
+                    "uid": "4424282970033216"
+                },
+                {
+                    "text": "Scorching Spear",
+                    "uid": "1651540869261947"
+                },
+                {
+                    "text": "Red Draconian Logistics",
+                    "uid": "1937410141552642"
+                },
+                {
+                    "text": "Red Draconian Logistics",
+                    "uid": "2450798125582139"
+                },
+                {
+                    "text": "Red Draconian Logistics",
+                    "uid": "2997300609475932"
+                },
+                {
+                    "text": "Might of Blood-kin",
+                    "uid": "39445744641333"
+                },
+                {
+                    "text": "Might of Blood-kin",
+                    "uid": "450715828519800"
+                },
+                {
+                    "text": "Dragon Spear Stab",
+                    "uid": "559919216165886"
+                },
+                {
+                    "text": "Lightning Stab",
+                    "uid": "1998873486304759"
+                },
+                {
+                    "text": "Bronze Draconian Logistics",
+                    "uid": "1389382930000044"
+                },
+                {
+                    "text": "Bronze Draconian Logistics",
+                    "uid": "3475052237585625"
+                },
+                {
+                    "text": "Bronze Draconian Logistics",
+                    "uid": "2299801519228050"
+                },
+                {
+                    "text": "Might of Blood-kin",
+                    "uid": "1529062322184533"
+                },
+                {
+                    "text": "Might of Blood-kin",
+                    "uid": "1940332406062744"
+                },
+                {
+                    "text": "Dragon Spear Stab",
+                    "uid": "2598445097279000"
+                },
+                {
+                    "text": "Pulverize Earth",
+                    "uid": "3512679720241501"
+                },
+                {
+                    "text": "Green Draconian Logistics",
+                    "uid": "3887333826536634"
+                },
+                {
+                    "text": "Green Draconian Logistics",
+                    "uid": "212648918973427"
+                },
+                {
+                    "text": "Green Draconian Logistics",
+                    "uid": "3292428839399188"
+                },
+                {
+                    "text": "Green Draconian Logistics",
+                    "uid": "3193291345978077"
+                },
+                {
+                    "text": "Might of Blood-kin",
+                    "uid": "2801976730608207"
+                },
+                {
+                    "text": "Might of Blood-kin",
+                    "uid": "280756314641014"
+                },
+                {
+                    "text": "Dragon Spear Stab",
+                    "uid": "2245615747205235"
+                },
+                {
+                    "text": "Murderous Temper",
+                    "uid": "1560422135004046"
+                },
+                {
+                    "text": "Blue Draconian Logistics",
+                    "uid": "415071227474845"
+                },
+                {
+                    "text": "Blue Draconian Logistics",
+                    "uid": "3466325537159328"
+                },
+                {
+                    "text": "Blue Draconian Logistics",
+                    "uid": "1796225297187535"
+                },
+                {
+                    "text": "Might of Blood-kin",
+                    "uid": "2893309220974704"
+                },
+                {
+                    "text": "Might of Blood-kin",
+                    "uid": "191622845810477"
+                },
+                {
+                    "text": "Mutant Virus",
+                    "uid": "3773437258096653"
+                },
+                {
+                    "text": "Mutant Virus",
+                    "uid": "559587061994704"
+                },
+                {
+                    "text": "Release Firepower",
+                    "uid": "1983409403020927"
+                },
+                {
+                    "text": "Summon Engineer Unit",
+                    "uid": "3037954357817233"
+                },
+                {
+                    "text": "Mutant Virus",
+                    "uid": "3805154436984365"
+                },
+                {
+                    "text": "Mutant Virus",
+                    "uid": "2003241184778096"
+                },
+                {
+                    "text": "Electric Discharge",
+                    "uid": "3708559623052319"
+                },
+                {
+                    "text": "Summon Engineer Unit",
+                    "uid": "1662296604821425"
+                },
+                {
+                    "text": "Mutant Virus",
+                    "uid": "4230954642835415"
+                },
+                {
+                    "text": "Mutant Virus",
+                    "uid": "3714113444825278"
+                },
+                {
+                    "text": "North Wind",
+                    "uid": "2008828832750597"
+                },
+                {
+                    "text": "North Wind",
+                    "uid": "2107966326172028"
+                },
+                {
+                    "text": "Summon Engineer Unit",
+                    "uid": "1842938819100251"
+                },
+                {
+                    "text": "Mutant Virus",
+                    "uid": "767084839138584"
+                },
+                {
+                    "text": "Mutant Virus",
+                    "uid": "355814755260373"
+                },
+                {
+                    "text": "Rapid Freezing",
+                    "uid": "867132867051342"
+                },
+                {
+                    "text": "Rapid Freezing",
+                    "uid": "2932019490564459"
+                },
+                {
+                    "text": "Summon Engineer Unit",
+                    "uid": "1791953144309708"
+                },
+                {
+                    "text": "Internal Fury II",
+                    "uid": "3263035363071972"
+                },
+                {
+                    "text": "Discharge Wrath",
+                    "uid": "1405158306453533"
+                },
+                {
+                    "text": "Discharge Wrath",
+                    "uid": "4456412616138016"
+                },
+                {
+                    "text": "Blazing Blood",
+                    "uid": "10016212567434"
+                },
+                {
+                    "text": "Blazing Blood",
+                    "uid": "3587895099880259"
+                },
+                {
+                    "text": "Blazing Blood",
+                    "uid": "4413567812025380"
+                },
+                {
+                    "text": "Blazing Blood",
+                    "uid": "2977429422976045"
+                },
+                {
+                    "text": "Blazing Blood",
+                    "uid": "3523931906869830"
+                },
+                {
+                    "text": "Blazing Blood",
+                    "uid": "2880834609043999"
+                },
+                {
+                    "text": "Dauntless Fighter",
+                    "uid": "2025787082804739"
+                },
+                {
+                    "text": "Dauntless Fighter",
+                    "uid": "2670011725614410"
+                },
+                {
+                    "text": "Internal Fury II",
+                    "uid": "2004197629890810"
+                },
+                {
+                    "text": "Discharge Wrath",
+                    "uid": "3361910761593693"
+                },
+                {
+                    "text": "Discharge Wrath",
+                    "uid": "3316919255364960"
+                },
+                {
+                    "text": "Furious Cyclone",
+                    "uid": "3458826330345364"
+                },
+                {
+                    "text": "Furious Cyclone",
+                    "uid": "2696860966963041"
+                },
+                {
+                    "text": "Furious Cyclone",
+                    "uid": "4053731317482810"
+                },
+                {
+                    "text": "Furious Cyclone",
+                    "uid": "1644597090723471"
+                },
+                {
+                    "text": "Wind of Resurgence",
+                    "uid": "189471653456031"
+                },
+                {
+                    "text": "Internal Fury",
+                    "uid": "2137704321465193"
+                },
+                {
+                    "text": "Discharge Wrath",
+                    "uid": "4102771656240359"
+                },
+                {
+                    "text": "Discharge Wrath",
+                    "uid": "3027568965795342"
+                },
+                {
+                    "text": "Petrous Disposition",
+                    "uid": "2350419505723826"
+                },
+                {
+                    "text": "Petrous Disposition",
+                    "uid": "1177254487981291"
+                },
+                {
+                    "text": "Stone Fist",
+                    "uid": "3446361585561109"
+                },
+                {
+                    "text": "Stone Fist",
+                    "uid": "2450277857982296"
+                },
+                {
+                    "text": "Internal Fury",
+                    "uid": "3372251850012978"
+                },
+                {
+                    "text": "Internal Fury II",
+                    "uid": "2167498244153527"
+                },
+                {
+                    "text": "Discharge Wrath",
+                    "uid": "4218879470530216"
+                },
+                {
+                    "text": "Discharge Wrath",
+                    "uid": "1415066804449061"
+                },
+                {
+                    "text": "Adaptability (Fire)",
+                    "uid": "1471876240862549"
+                },
+                {
+                    "text": "Adaptability",
+                    "uid": "1883146324740760"
+                },
+                {
+                    "text": "Adaptability (Lightning)",
+                    "uid": "3058397043098279"
+                },
+                {
+                    "text": "Adaptability",
+                    "uid": "717646366538674"
+                },
+                {
+                    "text": "Adaptability (Earth)",
+                    "uid": "3304834028791929"
+                },
+                {
+                    "text": "Adaptability",
+                    "uid": "2908014629911884"
+                },
+                {
+                    "text": "Adaptability (Ice)",
+                    "uid": "4048080976166635"
+                },
+                {
+                    "text": "Adaptability",
+                    "uid": "1940094344925622"
+                },
+                {
+                    "text": "Ardent Frigidness",
+                    "uid": "1272566884125990"
+                },
+                {
+                    "text": "Ardent Frigidness",
+                    "uid": "3721111149348991"
+                },
+                {
+                    "text": "Volcanic Smash",
+                    "uid": "3499656321369170"
+                },
+                {
+                    "text": "Volcanic Smash",
+                    "uid": "2607987400874635"
+                },
+                {
+                    "text": "Volcanic Smash",
+                    "uid": "4278087640846700"
+                },
+                {
+                    "text": "Mad Bull",
+                    "uid": "72247458499273"
+                },
+                {
+                    "text": "Mad Bull",
+                    "uid": "1713824782418908"
+                },
+                {
+                    "text": "Innate Reflexes",
+                    "uid": "3328807126131088"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "1477063981723367"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "401861291278350"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "4394142806857877"
+                },
+                {
+                    "text": "Additional Thunderbolt Damage",
+                    "uid": "195036499719452"
+                },
+                {
+                    "text": "Swift Bull",
+                    "uid": "1528464557229121"
+                },
+                {
+                    "text": "Swift Bull",
+                    "uid": "3983862961755636"
+                },
+                {
+                    "text": "Innate Reflexes",
+                    "uid": "677457749116334"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "2580187893661323"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "3471856814155858"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "4365632555691161"
+                },
+                {
+                    "text": "Shove Globe",
+                    "uid": "4236399919510666"
+                },
+                {
+                    "text": "Shove Globe",
+                    "uid": "3310679179452995"
+                },
+                {
+                    "text": "Indomitable Bull",
+                    "uid": "364005089296219"
+                },
+                {
+                    "text": "Indomitable Bull",
+                    "uid": "3786662526128546"
+                },
+                {
+                    "text": "Innate Reflexes",
+                    "uid": "3813141898573160"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "2902576629185665"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "1417346480411956"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "2841166187356435"
+                },
+                {
+                    "text": "Frigid Bull",
+                    "uid": "1188483885509988"
+                },
+                {
+                    "text": "Frigid Bull",
+                    "uid": "424216407638513"
+                },
+                {
+                    "text": "Innate Reflexes",
+                    "uid": "188705423639107"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "2454739765557450"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "1810515122747779"
+                },
+                {
+                    "text": "Boost Leg Strength",
+                    "uid": "1228812903009636"
+                },
+                {
+                    "text": "Mana Burn",
+                    "uid": "3554075242567356"
+                },
+                {
+                    "text": "Living Bomb",
+                    "uid": "1491468817332766"
+                },
+                {
+                    "text": "Mana Burn",
+                    "uid": "894344111710866"
+                },
+                {
+                    "text": "Raging Gust",
+                    "uid": "1654217107106576"
+                },
+                {
+                    "text": "Raging Gust",
+                    "uid": "645963773086541"
+                },
+                {
+                    "text": "Mana Burn",
+                    "uid": "1150203973814716"
+                },
+                {
+                    "text": "Earth Tremor",
+                    "uid": "1002135988896718"
+                },
+                {
+                    "text": "Mana Burn",
+                    "uid": "2527514157899679"
+                },
+                {
+                    "text": "Pituitous Body",
+                    "uid": "1231104293083884"
+                },
+                {
+                    "text": "Pituitous Body",
+                    "uid": "1346448715141657"
+                },
+                {
+                    "text": "Boiling Point",
+                    "uid": "1993829120241230"
+                },
+                {
+                    "text": "Pituitous Body",
+                    "uid": "4331380381512866"
+                },
+                {
+                    "text": "Pituitous Body",
+                    "uid": "908722944680539"
+                },
+                {
+                    "text": "Short Circuit",
+                    "uid": "2475604500086752"
+                },
+                {
+                    "text": "Pituitous Body",
+                    "uid": "2258212153295980"
+                },
+                {
+                    "text": "Pituitous Body",
+                    "uid": "2373556575353753"
+                },
+                {
+                    "text": "Pituitous Body",
+                    "uid": "4486010982240463"
+                },
+                {
+                    "text": "Pituitous Body",
+                    "uid": "1964790566273270"
+                },
+                {
+                    "text": "Freezing Point",
+                    "uid": "2371434692615257"
+                },
+                {
+                    "text": "Adrenaline Boost",
+                    "uid": "848028197673614"
+                },
+                {
+                    "text": "Mucus Zone",
+                    "uid": "157051959341861"
+                },
+                {
+                    "text": "Firenet Spiderweb",
+                    "uid": "228520408933676"
+                },
+                {
+                    "text": "Firenet Spiderweb",
+                    "uid": "2314189716519257"
+                },
+                {
+                    "text": "Adrenaline Boost",
+                    "uid": "609710306618144"
+                },
+                {
+                    "text": "Mucus Zone",
+                    "uid": "1264912682899941"
+                },
+                {
+                    "text": "Lightnet Spiderweb",
+                    "uid": "1825854714972642"
+                },
+                {
+                    "text": "Lightnet Spiderweb",
+                    "uid": "4314171837394075"
+                },
+                {
+                    "text": "Lightnet Spiderweb",
+                    "uid": "75578596669116"
+                },
+                {
+                    "text": "Adrenaline Boost",
+                    "uid": "275172970304766"
+                },
+                {
+                    "text": "Mucus Zone",
+                    "uid": "3644435399586111"
+                },
+                {
+                    "text": "Earthnet Spiderweb",
+                    "uid": "1885095758041260"
+                },
+                {
+                    "text": "Earthnet Spiderweb",
+                    "uid": "3970765065626841"
+                },
+                {
+                    "text": "Adrenaline Boost",
+                    "uid": "3424383020013465"
+                },
+                {
+                    "text": "Mucus Zone",
+                    "uid": "1349416479967840"
+                },
+                {
+                    "text": "Aquanet Spiderweb",
+                    "uid": "3260661454951951"
+                },
+                {
+                    "text": "Aquanet Spiderweb",
+                    "uid": "3835686854897974"
+                },
+                {
+                    "text": "Aquanet Spiderweb",
+                    "uid": "472153573782237"
+                },
+                {
+                    "text": "Aquanet Spiderweb",
+                    "uid": "571291067203348"
+                },
+                {
+                    "text": "Aquanet Spiderweb",
+                    "uid": "1995110774148083"
+                },
+                {
+                    "text": "Cut",
+                    "uid": "2209293916655948"
+                },
+                {
+                    "text": "Smelter Axe",
+                    "uid": "1538570132100654"
+                },
+                {
+                    "text": "Smelter Axe",
+                    "uid": "4307205863689351"
+                },
+                {
+                    "text": "Bloody Armor",
+                    "uid": "2078008140514505"
+                },
+                {
+                    "text": "Bloody Armor",
+                    "uid": "3719585464434140"
+                },
+                {
+                    "text": "Cut",
+                    "uid": "3625555802387074"
+                },
+                {
+                    "text": "Storm Axe",
+                    "uid": "3847531624019008"
+                },
+                {
+                    "text": "Storm Axe",
+                    "uid": "796277314334525"
+                },
+                {
+                    "text": "Chained Armor",
+                    "uid": "2433745913393729"
+                },
+                {
+                    "text": "Chained Armor",
+                    "uid": "385544690549748"
+                },
+                {
+                    "text": "Cut",
+                    "uid": "2533947521085772"
+                },
+                {
+                    "text": "Plunderer's Armor",
+                    "uid": "1986323823152475"
+                },
+                {
+                    "text": "Plunderer's Armor",
+                    "uid": "905381632614306"
+                },
+                {
+                    "text": "Plunderer's Armor",
+                    "uid": "3701415569353193"
+                },
+                {
+                    "text": "Earthfire Axe",
+                    "uid": "396301920283166"
+                },
+                {
+                    "text": "Earthfire Axe",
+                    "uid": "4004784681341879"
+                },
+                {
+                    "text": "North Wind Axe",
+                    "uid": "4091535878571311"
+                },
+                {
+                    "text": "North Wind Axe",
+                    "uid": "530643977130169"
+                },
+                {
+                    "text": "North Wind Axe",
+                    "uid": "415299555072140"
+                },
+                {
+                    "text": "Frostgrief Armor",
+                    "uid": "3585955666103140"
+                },
+                {
+                    "text": "Frostgrief Armor",
+                    "uid": "2821688188231665"
+                },
+                {
+                    "text": "Pituitous Body",
+                    "uid": "2083205687284246"
+                },
+                {
+                    "text": "Pituitous Body",
+                    "uid": "1508180287338479"
+                },
+                {
+                    "text": "Boiling Point",
+                    "uid": "57508239271452"
+                },
+                {
+                    "text": "Pituitous Body",
+                    "uid": "1436597166361656"
+                },
+                {
+                    "text": "Pituitous Body",
+                    "uid": "1025327082483445"
+                },
+                {
+                    "text": "Short Circuit",
+                    "uid": "2133354625726366"
+                },
+                {
                     "uid": "2653712201559693"
                 },
                 {

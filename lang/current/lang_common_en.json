@@ -263,7 +263,7 @@
                     "uid": "4291954858922119"
                 },
                 {
-                    "text": "Mythril",
+                    "text": "Mithril",
                     "uid": "4131976768687478"
                 },
                 {
@@ -275,7 +275,7 @@
                     "uid": "426614830323307"
                 },
                 {
-                    "text": "Casting",
+                    "text": "Cast",
                     "uid": "3091548183831343"
                 },
                 {
@@ -283,7 +283,7 @@
                     "uid": "3968138914014914"
                 },
                 {
-                    "text": "Channeling",
+                    "text": "Channel",
                     "uid": "105169954917915"
                 },
                 {
@@ -325,6 +325,38 @@
                 {
                     "text": "Additional content download is required to access the game.\\nClose the game?",
                     "uid": "399588151763439"
+                },
+                {
+                    "text": "Lv. ",
+                    "uid": "3717417679977886"
+                },
+                {
+                    "text": "Tip:",
+                    "uid": "1875648801689995"
+                },
+                {
+                    "text": "Loading…",
+                    "uid": "917447232990464"
+                },
+                {
+                    "text": "Checking data revision",
+                    "uid": "1323978892250819"
+                },
+                {
+                    "text": "Checking text revision",
+                    "uid": "4311119240011348"
+                },
+                {
+                    "text": "Searching for text data",
+                    "uid": "39264210323712"
+                },
+                {
+                    "text": "Open Source License",
+                    "uid": "3737678753545575"
+                },
+                {
+                    "text": "Are you enjoying Chromatic Souls : AFK Raid?\\nLeave us your ratings and reviews.\\nYour feedback means a lot! ",
+                    "uid": "2549581962860867"
                 }
             ],
             "language": "en"

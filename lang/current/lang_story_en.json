@@ -63,7 +63,7 @@
                     "uid": "3423767588217373"
                 },
                 {
-                    "text": "<b>Ugh... Is it okay for you to be slacking this much as leader of the Adventurer Alliance?</b>",
+                    "text": "<b>Ugh... Is it okay for you to be slacking this much as the leader of the Adventurer Alliance?</b>",
                     "uid": "821112616212503"
                 },
                 {
@@ -376,59 +376,59 @@
                 },
                 {
                     "text": "<b>Okay, Beth should've escaped safely by now.</b>",
-                    "uid": "578458244570309"
-                },
-                {
-                    "text": "<b>We should also get going ourse- Wait, who's that?</b>",
                     "uid": "2956682421129404"
                 },
                 {
-                    "text": "<b>Whoa! I thought you were a monster! I almost attacked you.</b>",
-                    "uid": "4393983831058382"
+                    "text": "<b>We should also get going ourse- Wait, who's that?</b>",
+                    "uid": "1286561110554399"
                 },
                 {
-                    "text": "<b>Judging from your outfit, you're from the Adventurer Alliance. Am I wrong?</b>",
+                    "text": "<b>Whoa! I thought you were a monster! I almost attacked you.</b>",
                     "uid": "258671455286545"
                 },
                 {
+                    "text": "<b>Judging from your outfit, you're from the Adventurer Alliance. Am I wrong?</b>",
+                    "uid": "2547787565162904"
+                },
+                {
                     "text": "<b>Yes. We're investigating the cause of the monster flood.</b>",
-                    "uid": "3565839867284603"
+                    "uid": "3471479483943242"
                 },
                 {
                     "text": "<b>Monster flood? This ain't no flood... It's a war.</b>",
-                    "uid": "1818971430022749"
+                    "uid": "124181834198445"
                 },
                 {
                     "text": "<b>Do you happen to have any clues as to what's going on?</b>",
-                    "uid": "1778970966675994"
+                    "uid": "3364408403141735"
                 },
                 {
                     "text": "<b>I don't know all the details, but...</b>",
-                    "uid": "254038302570180"
-                },
-                {
-                    "text": "<b>All I can tell you is that a massive army of disgusting Orcs is coming this way.</b>",
                     "uid": "3532792654696217"
                 },
                 {
+                    "text": "<b>All I can tell you is that a massive army of disgusting Orcs is coming this way.</b>",
+                    "uid": "2777472017917430"
+                },
+                {
                     "text": "<b>Orcs? Massive army?</b>",
-                    "uid": "2798336201542307"
+                    "uid": "653232929362144"
                 },
                 {
                     "text": "<b>Yep, I'm only spouting facts here,</b>",
-                    "uid": "1632627608695957"
-                },
-                {
-                    "text": "<b>especially since my job is to hunt those things down.</b>",
                     "uid": "2196722278641250"
                 },
                 {
-                    "text": "<b>If you don't believe me, see for yourself.</b>",
+                    "text": "<b>especially since my job is to hunt those things down.</b>",
                     "uid": "3651152578697938"
                 },
                 {
-                    "text": "<b>Won't be long now before those disgusting creatures march in!</b>",
+                    "text": "<b>If you don't believe me, see for yourself.</b>",
                     "uid": "1677380922987909"
+                },
+                {
+                    "text": "<b>Won't be long now before those disgusting creatures march in!</b>",
+                    "uid": "2648230167663740"
                 },
                 {
                     "text": "<b>What? The Orcs are really here!</b>",

@@ -23,19 +23,19 @@
                     "uid": "4476318372285578"
                 },
                 {
-                    "text": "Choose the skill you want out of 4 skills.\\nCheck in for 15 consecutive doays to obtain the selected skill.",
+                    "text": "Select 1 of 4 skills.\\nCheck in for 15 consecutive days to obtain the selected skill.",
                     "uid": "2933513369675920"
                 },
                 {
-                    "text": "Consecutive Login: {0} d",
+                    "text": "Consecutive Login: D{0}",
                     "uid": "2594924548210290"
                 },
                 {
-                    "text": "{0} d",
+                    "text": "D{0}",
                     "uid": "2265118754142231"
                 },
                 {
-                    "text": "Check in for 15 days in a row to earn <color=#ffe243>{0}</color>!",
+                    "text": "Check in for 15 days in a row to earn a <color=#ffe243>[UR] Skill</color>!",
                     "uid": "4337524186432068"
                 },
                 {
@@ -51,7 +51,7 @@
                     "uid": "1933117941067542"
                 },
                 {
-                    "text": "Once you reset Check-In, your streak will reset to Day 1.",
+                    "text": "Once you reset your Check-In, your streak will go back to Day 1.",
                     "uid": "427506683468798"
                 },
                 {
@@ -79,7 +79,7 @@
                     "uid": "1598915742029278"
                 },
                 {
-                    "text": "Check in for 15 days in a row to obtain the skill reward you've selected.\nIf you miss a day, you can use Red Gems to continue the check-in streak.\n15-day check-ins run repeatedly.",
+                    "text": "Check in for 15 days in a row to obtain the skill reward you've selected. If you miss a day, you can use Red Gems to continue your check-in streak. 15-day check-ins run repeatedly.",
                     "uid": "3967912673854101"
                 }
             ],

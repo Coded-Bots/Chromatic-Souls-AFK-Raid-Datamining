@@ -35,6 +35,10 @@
                     "uid": "4069245975242994"
                 },
                 {
+                    "text": "Mithril Mine opens after clearing the area.",
+                    "uid": "2474339062619848"
+                },
+                {
                     "text": "Chapter has been lowered to {0}.",
                     "uid": "592496090051223"
                 },
@@ -51,7 +55,7 @@
                     "uid": "603620706824370"
                 },
                 {
-                    "text": "You cannot send a Note to yourself.",
+                    "text": "You cannot send a Friend Request to yourself.",
                     "uid": "2344523829609155"
                 },
                 {
@@ -587,7 +591,7 @@
                     "uid": "1963432450457955"
                 },
                 {
-                    "text": "Not enough Mythril. ",
+                    "text": "Not enough Mithril. ",
                     "uid": "778950224465912"
                 },
                 {
@@ -607,12 +611,24 @@
                     "uid": "1880631079355529"
                 },
                 {
-                    "text": "{0} participated in the party. Please welcome us!",
+                    "text": "{0} has joined the party. Say hello to your new ally!",
                     "uid": "4038697409582746"
                 },
                 {
-                    "text": "You have joined a new party!",
+                    "text": "You've joined a new party!",
                     "uid": "1061495210711458"
+                },
+                {
+                    "text": "Mithril Mine opens after clearing the area.",
+                    "uid": "338731453399703"
+                },
+                {
+                    "text": "Your character has been deleted.",
+                    "uid": "2932476358252908"
+                },
+                {
+                    "text": "You may join starting from the next battle.",
+                    "uid": "947555145574893"
                 }
             ],
             "language": "en"

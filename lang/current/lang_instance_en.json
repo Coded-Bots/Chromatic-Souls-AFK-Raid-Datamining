@@ -23,7 +23,7 @@
                     "uid": "2525117974734571"
                 },
                 {
-                    "text": "The higher the Danger Level, the higher the chances of finding higher grade dungeons.\\nDanger Level changes based on Clear status when a dungeon's duration ends.",
+                    "text": "The higher the Danger Level, the higher the chances of finding higher grade dungeons.\\nDanger Level changes based on your clear status\\nby the time a dungeon ends.",
                     "uid": "3360997469532616"
                 },
                 {
@@ -59,7 +59,7 @@
                     "uid": "1536043440272314"
                 },
                 {
-                    "text": "Abandon current battle?",
+                    "text": "Leave the dungeon?",
                     "uid": "3809144327273701"
                 },
                 {

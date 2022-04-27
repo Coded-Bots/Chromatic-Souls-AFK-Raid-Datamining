@@ -103,7 +103,7 @@
                     "uid": "4493609779249774"
                 },
                 {
-                    "text": "Talent learned.",
+                    "text": "Talents learned.",
                     "uid": "2888488455806601"
                 },
                 {
@@ -135,7 +135,7 @@
                     "uid": "313420408463421"
                 },
                 {
-                    "text": "Select Talent to spend points on and learn.",
+                    "text": "Select Talent to learn.",
                     "uid": "2668721195629484"
                 },
                 {
@@ -191,7 +191,7 @@
                     "uid": "652753761017132"
                 },
                 {
-                    "text": "{0} Talent Point(s)",
+                    "text": "{0} Talent Points",
                     "uid": "1696151950552556"
                 },
                 {
@@ -227,7 +227,7 @@
                     "uid": "2353431801437926"
                 },
                 {
-                    "text": "Enter your character's name (4-12)",
+                    "text": "Enter a name (4-12 characters).",
                     "uid": "2988252811924325"
                 },
                 {
@@ -385,6 +385,26 @@
                 {
                     "text": "CRIT DMG {0}%",
                     "uid": "1246991457502664"
+                },
+                {
+                    "text": "Can be deleted after {0} h {1} m {2} s.",
+                    "uid": "1723112459031692"
+                },
+                {
+                    "text": "Can be deleted after {0} h {1} m {2} s.",
+                    "uid": "1997870686437998"
+                },
+                {
+                    "text": "Points Returned:",
+                    "uid": "3896513124825989"
+                },
+                {
+                    "text": "Successfully Reset",
+                    "uid": "743950409805388"
+                },
+                {
+                    "text": "{0} Talent Points returned.",
+                    "uid": "504840200066792"
                 }
             ],
             "language": "en"
