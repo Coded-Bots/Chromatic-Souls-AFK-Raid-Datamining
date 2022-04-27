@@ -512,7 +512,7 @@
         {
             "uid": "466475721055209",
             "value": {
-                "intValue": 10,
+                "intValue": 20,
                 "type": "Numeric"
             }
         },
@@ -568,7 +568,7 @@
         {
             "uid": "2894823065385661",
             "value": {
-                "intValue": 10,
+                "intValue": 20,
                 "type": "Numeric"
             }
         },
@@ -748,21 +748,21 @@
         {
             "uid": "2343829250390602",
             "value": {
-                "intValue": 1150,
+                "intValue": 1500,
                 "type": "Numeric"
             }
         },
         {
             "uid": "4421942626610527",
             "value": {
-                "intValue": 2150,
+                "intValue": 2750,
                 "type": "Numeric"
             }
         },
         {
             "uid": "2093399024637948",
             "value": {
-                "intValue": 1150,
+                "intValue": 1500,
                 "type": "Numeric"
             }
         },
@@ -874,7 +874,7 @@
         {
             "uid": "3515993057192806",
             "value": {
-                "timeValue": "1646017200000",
+                "timeValue": "1652281200000",
                 "type": "Date"
             }
         },
@@ -1042,7 +1042,7 @@
         {
             "uid": "1929166278637726",
             "value": {
-                "intValue": 1000,
+                "intValue": 5000,
                 "type": "Numeric"
             }
         },
@@ -1063,7 +1063,7 @@
         {
             "uid": "436948218827840",
             "value": {
-                "intValue": 3,
+                "intValue": 2,
                 "type": "Numeric"
             }
         },

@@ -5,7 +5,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 15
+                        "value": 11
                     }
                 ]
             },
@@ -24,13 +24,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 30
+                        "value": 23
                     }
                 ]
             },
             "level": 2,
             "materialCounts": [
-                3
+                2
             ],
             "materialUids": [
                 "2518827094883848"
@@ -43,13 +43,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 45
+                        "value": 34
                     }
                 ]
             },
             "level": 3,
             "materialCounts": [
-                6
+                5
             ],
             "materialUids": [
                 "2518827094883848"
@@ -62,13 +62,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 60
+                        "value": 45
                     }
                 ]
             },
             "level": 4,
             "materialCounts": [
-                10
+                8
             ],
             "materialUids": [
                 "2518827094883848"
@@ -81,13 +81,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 75
+                        "value": 56
                     }
                 ]
             },
             "level": 5,
             "materialCounts": [
-                15
+                12
             ],
             "materialUids": [
                 "2518827094883848"
@@ -100,13 +100,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 90
+                        "value": 68
                     }
                 ]
             },
             "level": 6,
             "materialCounts": [
-                21
+                16
             ],
             "materialUids": [
                 "2518827094883848"
@@ -119,13 +119,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 105
+                        "value": 79
                     }
                 ]
             },
             "level": 7,
             "materialCounts": [
-                28
+                22
             ],
             "materialUids": [
                 "2518827094883848"
@@ -138,13 +138,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 120
+                        "value": 90
                     }
                 ]
             },
             "level": 8,
             "materialCounts": [
-                36
+                28
             ],
             "materialUids": [
                 "2518827094883848"
@@ -157,13 +157,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 135
+                        "value": 102
                     }
                 ]
             },
             "level": 9,
             "materialCounts": [
-                45
+                35
             ],
             "materialUids": [
                 "2518827094883848"
@@ -176,7 +176,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 150
+                        "value": 113
                     }
                 ]
             },
@@ -212,7 +212,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                55
+                42
             ],
             "materialUids": [
                 "2518827094883848"
@@ -231,13 +231,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 165
+                        "value": 124
                     }
                 ]
             },
             "level": 11,
             "materialCounts": [
-                66
+                51
             ],
             "materialUids": [
                 "2518827094883848"
@@ -250,13 +250,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 180
+                        "value": 135
                     }
                 ]
             },
             "level": 12,
             "materialCounts": [
-                78
+                60
             ],
             "materialUids": [
                 "2518827094883848"
@@ -269,13 +269,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 195
+                        "value": 147
                     }
                 ]
             },
             "level": 13,
             "materialCounts": [
-                91
+                70
             ],
             "materialUids": [
                 "2518827094883848"
@@ -288,13 +288,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 210
+                        "value": 158
                     }
                 ]
             },
             "level": 14,
             "materialCounts": [
-                105
+                81
             ],
             "materialUids": [
                 "2518827094883848"
@@ -307,13 +307,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 225
+                        "value": 169
                     }
                 ]
             },
             "level": 15,
             "materialCounts": [
-                120
+                92
             ],
             "materialUids": [
                 "2518827094883848"
@@ -326,13 +326,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 240
+                        "value": 180
                     }
                 ]
             },
             "level": 16,
             "materialCounts": [
-                136
+                105
             ],
             "materialUids": [
                 "2518827094883848"
@@ -345,13 +345,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 255
+                        "value": 192
                     }
                 ]
             },
             "level": 17,
             "materialCounts": [
-                153
+                118
             ],
             "materialUids": [
                 "2518827094883848"
@@ -364,13 +364,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 270
+                        "value": 203
                     }
                 ]
             },
             "level": 18,
             "materialCounts": [
-                171
+                132
             ],
             "materialUids": [
                 "2518827094883848"
@@ -383,13 +383,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 285
+                        "value": 214
                     }
                 ]
             },
             "level": 19,
             "materialCounts": [
-                190
+                146
             ],
             "materialUids": [
                 "2518827094883848"
@@ -402,7 +402,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 300
+                        "value": 226
                     }
                 ]
             },
@@ -438,7 +438,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                210
+                162
             ],
             "materialUids": [
                 "2518827094883848"
@@ -457,13 +457,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 315
+                        "value": 237
                     }
                 ]
             },
             "level": 21,
             "materialCounts": [
-                231
+                178
             ],
             "materialUids": [
                 "2518827094883848"
@@ -476,13 +476,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 330
+                        "value": 248
                     }
                 ]
             },
             "level": 22,
             "materialCounts": [
-                253
+                195
             ],
             "materialUids": [
                 "2518827094883848"
@@ -495,13 +495,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 345
+                        "value": 259
                     }
                 ]
             },
             "level": 23,
             "materialCounts": [
-                276
+                213
             ],
             "materialUids": [
                 "2518827094883848"
@@ -514,13 +514,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 360
+                        "value": 271
                     }
                 ]
             },
             "level": 24,
             "materialCounts": [
-                300
+                231
             ],
             "materialUids": [
                 "2518827094883848"
@@ -533,13 +533,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 375
+                        "value": 282
                     }
                 ]
             },
             "level": 25,
             "materialCounts": [
-                325
+                250
             ],
             "materialUids": [
                 "2518827094883848"
@@ -552,13 +552,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 390
+                        "value": 293
                     }
                 ]
             },
             "level": 26,
             "materialCounts": [
-                351
+                270
             ],
             "materialUids": [
                 "2518827094883848"
@@ -571,13 +571,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 405
+                        "value": 305
                     }
                 ]
             },
             "level": 27,
             "materialCounts": [
-                378
+                291
             ],
             "materialUids": [
                 "2518827094883848"
@@ -590,13 +590,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 420
+                        "value": 316
                     }
                 ]
             },
             "level": 28,
             "materialCounts": [
-                406
+                313
             ],
             "materialUids": [
                 "2518827094883848"
@@ -609,13 +609,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 435
+                        "value": 327
                     }
                 ]
             },
             "level": 29,
             "materialCounts": [
-                435
+                335
             ],
             "materialUids": [
                 "2518827094883848"
@@ -628,7 +628,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 450
+                        "value": 338
                     }
                 ]
             },
@@ -664,7 +664,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                465
+                358
             ],
             "materialUids": [
                 "2518827094883848"
@@ -683,13 +683,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 465
+                        "value": 350
                     }
                 ]
             },
             "level": 31,
             "materialCounts": [
-                496
+                382
             ],
             "materialUids": [
                 "2518827094883848"
@@ -702,13 +702,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 480
+                        "value": 361
                     }
                 ]
             },
             "level": 32,
             "materialCounts": [
-                528
+                407
             ],
             "materialUids": [
                 "2518827094883848"
@@ -721,13 +721,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 495
+                        "value": 372
                     }
                 ]
             },
             "level": 33,
             "materialCounts": [
-                561
+                432
             ],
             "materialUids": [
                 "2518827094883848"
@@ -740,13 +740,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 510
+                        "value": 383
                     }
                 ]
             },
             "level": 34,
             "materialCounts": [
-                595
+                458
             ],
             "materialUids": [
                 "2518827094883848"
@@ -759,13 +759,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 525
+                        "value": 395
                     }
                 ]
             },
             "level": 35,
             "materialCounts": [
-                630
+                485
             ],
             "materialUids": [
                 "2518827094883848"
@@ -778,13 +778,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 540
+                        "value": 406
                     }
                 ]
             },
             "level": 36,
             "materialCounts": [
-                666
+                513
             ],
             "materialUids": [
                 "2518827094883848"
@@ -797,13 +797,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 555
+                        "value": 417
                     }
                 ]
             },
             "level": 37,
             "materialCounts": [
-                703
+                541
             ],
             "materialUids": [
                 "2518827094883848"
@@ -816,13 +816,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 570
+                        "value": 429
                     }
                 ]
             },
             "level": 38,
             "materialCounts": [
-                741
+                571
             ],
             "materialUids": [
                 "2518827094883848"
@@ -835,13 +835,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 585
+                        "value": 440
                     }
                 ]
             },
             "level": 39,
             "materialCounts": [
-                780
+                601
             ],
             "materialUids": [
                 "2518827094883848"
@@ -854,7 +854,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 600
+                        "value": 451
                     }
                 ]
             },
@@ -890,7 +890,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                820
+                631
             ],
             "materialUids": [
                 "2518827094883848"
@@ -909,13 +909,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 615
+                        "value": 462
                     }
                 ]
             },
             "level": 41,
             "materialCounts": [
-                861
+                663
             ],
             "materialUids": [
                 "2518827094883848"
@@ -928,13 +928,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 630
+                        "value": 474
                     }
                 ]
             },
             "level": 42,
             "materialCounts": [
-                903
+                695
             ],
             "materialUids": [
                 "2518827094883848"
@@ -947,13 +947,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 645
+                        "value": 485
                     }
                 ]
             },
             "level": 43,
             "materialCounts": [
-                946
+                728
             ],
             "materialUids": [
                 "2518827094883848"
@@ -966,13 +966,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 660
+                        "value": 496
                     }
                 ]
             },
             "level": 44,
             "materialCounts": [
-                990
+                762
             ],
             "materialUids": [
                 "2518827094883848"
@@ -985,13 +985,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 675
+                        "value": 508
                     }
                 ]
             },
             "level": 45,
             "materialCounts": [
-                1035
+                797
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1004,13 +1004,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 690
+                        "value": 519
                     }
                 ]
             },
             "level": 46,
             "materialCounts": [
-                1081
+                832
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1023,13 +1023,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 705
+                        "value": 530
                     }
                 ]
             },
             "level": 47,
             "materialCounts": [
-                1128
+                869
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1042,13 +1042,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 720
+                        "value": 541
                     }
                 ]
             },
             "level": 48,
             "materialCounts": [
-                1176
+                906
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1061,13 +1061,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 735
+                        "value": 553
                     }
                 ]
             },
             "level": 49,
             "materialCounts": [
-                1225
+                943
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1080,7 +1080,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 750
+                        "value": 564
                     }
                 ]
             },
@@ -1116,7 +1116,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                1275
+                982
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1135,13 +1135,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 765
+                        "value": 575
                     }
                 ]
             },
             "level": 51,
             "materialCounts": [
-                1326
+                1021
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1154,13 +1154,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 812
+                        "value": 611
                     }
                 ]
             },
             "level": 52,
             "materialCounts": [
-                1378
+                1061
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1173,13 +1173,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 1127
+                        "value": 847
                     }
                 ]
             },
             "level": 53,
             "materialCounts": [
-                1431
+                1102
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1192,13 +1192,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 1448
+                        "value": 1089
                     }
                 ]
             },
             "level": 54,
             "materialCounts": [
-                1485
+                1143
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1211,13 +1211,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 1775
+                        "value": 1335
                     }
                 ]
             },
             "level": 55,
             "materialCounts": [
-                1540
+                1186
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1230,13 +1230,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 2108
+                        "value": 1585
                     }
                 ]
             },
             "level": 56,
             "materialCounts": [
-                1596
+                1229
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1249,13 +1249,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 2447
+                        "value": 1840
                     }
                 ]
             },
             "level": 57,
             "materialCounts": [
-                1653
+                1273
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1268,13 +1268,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 2792
+                        "value": 2099
                     }
                 ]
             },
             "level": 58,
             "materialCounts": [
-                1711
+                1317
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1287,13 +1287,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 3143
+                        "value": 2363
                     }
                 ]
             },
             "level": 59,
             "materialCounts": [
-                1770
+                1363
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1306,7 +1306,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 3500
+                        "value": 2632
                     }
                 ]
             },
@@ -1342,7 +1342,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                1830
+                1409
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1361,13 +1361,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 3863
+                        "value": 2905
                     }
                 ]
             },
             "level": 61,
             "materialCounts": [
-                1891
+                1456
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1380,13 +1380,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 4232
+                        "value": 3182
                     }
                 ]
             },
             "level": 62,
             "materialCounts": [
-                1953
+                1504
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1399,13 +1399,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 4607
+                        "value": 3464
                     }
                 ]
             },
             "level": 63,
             "materialCounts": [
-                2016
+                1552
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1418,13 +1418,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 4988
+                        "value": 3750
                     }
                 ]
             },
             "level": 64,
             "materialCounts": [
-                2080
+                1602
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1437,13 +1437,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 5375
+                        "value": 4041
                     }
                 ]
             },
             "level": 65,
             "materialCounts": [
-                2145
+                1652
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1456,13 +1456,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 5768
+                        "value": 4337
                     }
                 ]
             },
             "level": 66,
             "materialCounts": [
-                2211
+                1702
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1475,13 +1475,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 6167
+                        "value": 4637
                     }
                 ]
             },
             "level": 67,
             "materialCounts": [
-                2278
+                1754
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1494,13 +1494,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 6572
+                        "value": 4941
                     }
                 ]
             },
             "level": 68,
             "materialCounts": [
-                2346
+                1806
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1513,13 +1513,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 6983
+                        "value": 5250
                     }
                 ]
             },
             "level": 69,
             "materialCounts": [
-                2415
+                1860
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1532,7 +1532,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 7400
+                        "value": 5564
                     }
                 ]
             },
@@ -1568,7 +1568,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                2485
+                1913
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1587,13 +1587,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 7823
+                        "value": 5882
                     }
                 ]
             },
             "level": 71,
             "materialCounts": [
-                2556
+                1968
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1606,13 +1606,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 8252
+                        "value": 6205
                     }
                 ]
             },
             "level": 72,
             "materialCounts": [
-                2628
+                2024
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1625,13 +1625,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 8687
+                        "value": 6532
                     }
                 ]
             },
             "level": 73,
             "materialCounts": [
-                2701
+                2080
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1644,13 +1644,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 9128
+                        "value": 6863
                     }
                 ]
             },
             "level": 74,
             "materialCounts": [
-                2775
+                2137
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1663,13 +1663,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 9575
+                        "value": 7199
                     }
                 ]
             },
             "level": 75,
             "materialCounts": [
-                2850
+                2195
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1682,13 +1682,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 10028
+                        "value": 7540
                     }
                 ]
             },
             "level": 76,
             "materialCounts": [
-                2926
+                2253
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1701,13 +1701,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 10487
+                        "value": 7885
                     }
                 ]
             },
             "level": 77,
             "materialCounts": [
-                3003
+                2312
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1720,13 +1720,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 10952
+                        "value": 8235
                     }
                 ]
             },
             "level": 78,
             "materialCounts": [
-                3081
+                2372
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1739,13 +1739,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 11423
+                        "value": 8589
                     }
                 ]
             },
             "level": 79,
             "materialCounts": [
-                3160
+                2433
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1758,7 +1758,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 11900
+                        "value": 8947
                     }
                 ]
             },
@@ -1794,7 +1794,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                3240
+                2495
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1813,13 +1813,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 12383
+                        "value": 9311
                     }
                 ]
             },
             "level": 81,
             "materialCounts": [
-                3321
+                2557
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1832,13 +1832,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 12872
+                        "value": 9678
                     }
                 ]
             },
             "level": 82,
             "materialCounts": [
-                3403
+                2620
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1851,13 +1851,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 13367
+                        "value": 10050
                     }
                 ]
             },
             "level": 83,
             "materialCounts": [
-                3486
+                2684
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1870,13 +1870,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 13868
+                        "value": 10427
                     }
                 ]
             },
             "level": 84,
             "materialCounts": [
-                3570
+                2749
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1889,13 +1889,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 14375
+                        "value": 10808
                     }
                 ]
             },
             "level": 85,
             "materialCounts": [
-                3655
+                2814
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1908,13 +1908,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 14888
+                        "value": 11194
                     }
                 ]
             },
             "level": 86,
             "materialCounts": [
-                3741
+                2881
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1927,13 +1927,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 15407
+                        "value": 11584
                     }
                 ]
             },
             "level": 87,
             "materialCounts": [
-                3828
+                2948
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1946,13 +1946,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 15932
+                        "value": 11979
                     }
                 ]
             },
             "level": 88,
             "materialCounts": [
-                3916
+                3015
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1965,13 +1965,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 16463
+                        "value": 12378
                     }
                 ]
             },
             "level": 89,
             "materialCounts": [
-                4005
+                3084
             ],
             "materialUids": [
                 "2518827094883848"
@@ -1984,7 +1984,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 17000
+                        "value": 12782
                     }
                 ]
             },
@@ -2020,7 +2020,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                4095
+                3153
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2039,13 +2039,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 17543
+                        "value": 13190
                     }
                 ]
             },
             "level": 91,
             "materialCounts": [
-                4186
+                3223
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2058,13 +2058,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 18092
+                        "value": 13603
                     }
                 ]
             },
             "level": 92,
             "materialCounts": [
-                4278
+                3294
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2077,13 +2077,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 18647
+                        "value": 14020
                     }
                 ]
             },
             "level": 93,
             "materialCounts": [
-                4371
+                3366
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2096,13 +2096,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 19208
+                        "value": 14442
                     }
                 ]
             },
             "level": 94,
             "materialCounts": [
-                4465
+                3438
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2115,13 +2115,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 19775
+                        "value": 14868
                     }
                 ]
             },
             "level": 95,
             "materialCounts": [
-                4560
+                3511
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2134,13 +2134,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 20348
+                        "value": 15299
                     }
                 ]
             },
             "level": 96,
             "materialCounts": [
-                4656
+                3585
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2153,13 +2153,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 20927
+                        "value": 15735
                     }
                 ]
             },
             "level": 97,
             "materialCounts": [
-                4753
+                3660
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2172,13 +2172,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 21512
+                        "value": 16174
                     }
                 ]
             },
             "level": 98,
             "materialCounts": [
-                4851
+                3735
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2191,13 +2191,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 22103
+                        "value": 16619
                     }
                 ]
             },
             "level": 99,
             "materialCounts": [
-                4950
+                3812
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2210,7 +2210,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 22700
+                        "value": 17068
                     }
                 ]
             },
@@ -2246,7 +2246,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                5050
+                3889
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2265,13 +2265,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 23303
+                        "value": 17521
                     }
                 ]
             },
             "level": 101,
             "materialCounts": [
-                5151
+                3966
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2284,13 +2284,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 23912
+                        "value": 17979
                     }
                 ]
             },
             "level": 102,
             "materialCounts": [
-                5253
+                4045
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2303,13 +2303,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 24527
+                        "value": 18441
                     }
                 ]
             },
             "level": 103,
             "materialCounts": [
-                5356
+                4124
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2322,13 +2322,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 25148
+                        "value": 18908
                     }
                 ]
             },
             "level": 104,
             "materialCounts": [
-                5460
+                4204
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2341,13 +2341,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 25775
+                        "value": 19380
                     }
                 ]
             },
             "level": 105,
             "materialCounts": [
-                5565
+                4285
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2360,13 +2360,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 26408
+                        "value": 19856
                     }
                 ]
             },
             "level": 106,
             "materialCounts": [
-                5671
+                4367
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2379,13 +2379,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 27047
+                        "value": 20336
                     }
                 ]
             },
             "level": 107,
             "materialCounts": [
-                5778
+                4449
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2398,13 +2398,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 27692
+                        "value": 20821
                     }
                 ]
             },
             "level": 108,
             "materialCounts": [
-                5886
+                4532
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2417,13 +2417,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 28343
+                        "value": 21311
                     }
                 ]
             },
             "level": 109,
             "materialCounts": [
-                5995
+                4616
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2436,7 +2436,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 29000
+                        "value": 21805
                     }
                 ]
             },
@@ -2472,7 +2472,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                6105
+                4701
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2491,13 +2491,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 29663
+                        "value": 22303
                     }
                 ]
             },
             "level": 111,
             "materialCounts": [
-                6216
+                4786
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2510,13 +2510,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 30332
+                        "value": 22806
                     }
                 ]
             },
             "level": 112,
             "materialCounts": [
-                6328
+                4873
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2529,13 +2529,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 31007
+                        "value": 23314
                     }
                 ]
             },
             "level": 113,
             "materialCounts": [
-                6441
+                4960
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2548,13 +2548,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 31688
+                        "value": 23826
                     }
                 ]
             },
             "level": 114,
             "materialCounts": [
-                6555
+                5047
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2567,13 +2567,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 32375
+                        "value": 24342
                     }
                 ]
             },
             "level": 115,
             "materialCounts": [
-                6670
+                5136
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2586,13 +2586,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 33068
+                        "value": 24863
                     }
                 ]
             },
             "level": 116,
             "materialCounts": [
-                6786
+                5225
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2605,13 +2605,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 33767
+                        "value": 25389
                     }
                 ]
             },
             "level": 117,
             "materialCounts": [
-                6903
+                5315
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2624,13 +2624,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 34472
+                        "value": 25919
                     }
                 ]
             },
             "level": 118,
             "materialCounts": [
-                7021
+                5406
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2643,13 +2643,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 35183
+                        "value": 26453
                     }
                 ]
             },
             "level": 119,
             "materialCounts": [
-                7140
+                5498
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2662,7 +2662,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 35900
+                        "value": 26992
                     }
                 ]
             },
@@ -2698,7 +2698,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                7260
+                5590
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2717,13 +2717,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 36623
+                        "value": 27536
                     }
                 ]
             },
             "level": 121,
             "materialCounts": [
-                7381
+                5683
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2736,13 +2736,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 37352
+                        "value": 28084
                     }
                 ]
             },
             "level": 122,
             "materialCounts": [
-                7503
+                5777
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2755,13 +2755,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 38087
+                        "value": 28637
                     }
                 ]
             },
             "level": 123,
             "materialCounts": [
-                7626
+                5872
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2774,13 +2774,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 38828
+                        "value": 29194
                     }
                 ]
             },
             "level": 124,
             "materialCounts": [
-                7750
+                5968
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2793,13 +2793,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 39575
+                        "value": 29756
                     }
                 ]
             },
             "level": 125,
             "materialCounts": [
-                7875
+                6064
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2812,13 +2812,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 40328
+                        "value": 30322
                     }
                 ]
             },
             "level": 126,
             "materialCounts": [
-                8001
+                6161
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2831,13 +2831,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 41087
+                        "value": 30892
                     }
                 ]
             },
             "level": 127,
             "materialCounts": [
-                8128
+                6259
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2850,13 +2850,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 41852
+                        "value": 31468
                     }
                 ]
             },
             "level": 128,
             "materialCounts": [
-                8256
+                6357
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2869,13 +2869,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 42623
+                        "value": 32047
                     }
                 ]
             },
             "level": 129,
             "materialCounts": [
-                8385
+                6456
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2888,7 +2888,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 43400
+                        "value": 32632
                     }
                 ]
             },
@@ -2924,7 +2924,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                8515
+                6557
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2943,13 +2943,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 44183
+                        "value": 33220
                     }
                 ]
             },
             "level": 131,
             "materialCounts": [
-                8646
+                6657
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2962,13 +2962,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 44972
+                        "value": 33814
                     }
                 ]
             },
             "level": 132,
             "materialCounts": [
-                8778
+                6759
             ],
             "materialUids": [
                 "2518827094883848"
@@ -2981,13 +2981,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 45767
+                        "value": 34411
                     }
                 ]
             },
             "level": 133,
             "materialCounts": [
-                8911
+                6861
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3000,13 +3000,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 46568
+                        "value": 35014
                     }
                 ]
             },
             "level": 134,
             "materialCounts": [
-                9045
+                6965
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3019,13 +3019,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 47375
+                        "value": 35620
                     }
                 ]
             },
             "level": 135,
             "materialCounts": [
-                9180
+                7069
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3038,13 +3038,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 48188
+                        "value": 36232
                     }
                 ]
             },
             "level": 136,
             "materialCounts": [
-                9316
+                7173
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3057,13 +3057,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 49007
+                        "value": 36847
                     }
                 ]
             },
             "level": 137,
             "materialCounts": [
-                9453
+                7279
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3076,13 +3076,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 49832
+                        "value": 37468
                     }
                 ]
             },
             "level": 138,
             "materialCounts": [
-                9591
+                7385
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3095,13 +3095,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 50663
+                        "value": 38092
                     }
                 ]
             },
             "level": 139,
             "materialCounts": [
-                9730
+                7492
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3114,7 +3114,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 51500
+                        "value": 38722
                     }
                 ]
             },
@@ -3150,7 +3150,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                9870
+                7600
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3169,13 +3169,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 52343
+                        "value": 39356
                     }
                 ]
             },
             "level": 141,
             "materialCounts": [
-                10011
+                7708
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3188,13 +3188,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 53192
+                        "value": 39994
                     }
                 ]
             },
             "level": 142,
             "materialCounts": [
-                10153
+                7818
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3207,13 +3207,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 54047
+                        "value": 40637
                     }
                 ]
             },
             "level": 143,
             "materialCounts": [
-                10296
+                7928
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3226,13 +3226,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 54908
+                        "value": 41284
                     }
                 ]
             },
             "level": 144,
             "materialCounts": [
-                10440
+                8039
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3245,13 +3245,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 55775
+                        "value": 41936
                     }
                 ]
             },
             "level": 145,
             "materialCounts": [
-                10585
+                8150
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3264,13 +3264,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 56648
+                        "value": 42592
                     }
                 ]
             },
             "level": 146,
             "materialCounts": [
-                10731
+                8263
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3283,13 +3283,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 57527
+                        "value": 43253
                     }
                 ]
             },
             "level": 147,
             "materialCounts": [
-                10878
+                8376
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3302,13 +3302,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 58412
+                        "value": 43919
                     }
                 ]
             },
             "level": 148,
             "materialCounts": [
-                11026
+                8490
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3321,13 +3321,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 59303
+                        "value": 44589
                     }
                 ]
             },
             "level": 149,
             "materialCounts": [
-                11175
+                8605
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3340,7 +3340,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 60200
+                        "value": 45263
                     }
                 ]
             },
@@ -3376,7 +3376,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                11325
+                8720
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3395,13 +3395,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 61103
+                        "value": 45942
                     }
                 ]
             },
             "level": 151,
             "materialCounts": [
-                11476
+                8837
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3414,13 +3414,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 62012
+                        "value": 46626
                     }
                 ]
             },
             "level": 152,
             "materialCounts": [
-                11628
+                8954
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3433,13 +3433,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 62927
+                        "value": 47314
                     }
                 ]
             },
             "level": 153,
             "materialCounts": [
-                11781
+                9071
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3452,13 +3452,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 63848
+                        "value": 48006
                     }
                 ]
             },
             "level": 154,
             "materialCounts": [
-                11935
+                9190
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3471,13 +3471,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 64775
+                        "value": 48703
                     }
                 ]
             },
             "level": 155,
             "materialCounts": [
-                12090
+                9309
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3490,13 +3490,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 65708
+                        "value": 49405
                     }
                 ]
             },
             "level": 156,
             "materialCounts": [
-                12246
+                9429
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3509,13 +3509,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 66647
+                        "value": 50111
                     }
                 ]
             },
             "level": 157,
             "materialCounts": [
-                12403
+                9550
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3528,13 +3528,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 67592
+                        "value": 50821
                     }
                 ]
             },
             "level": 158,
             "materialCounts": [
-                12561
+                9672
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3547,13 +3547,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 68543
+                        "value": 51536
                     }
                 ]
             },
             "level": 159,
             "materialCounts": [
-                12720
+                9794
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3566,7 +3566,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 69500
+                        "value": 52256
                     }
                 ]
             },
@@ -3602,7 +3602,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                12880
+                9918
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3621,13 +3621,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 70463
+                        "value": 52980
                     }
                 ]
             },
             "level": 161,
             "materialCounts": [
-                13041
+                10042
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3640,13 +3640,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 71432
+                        "value": 53708
                     }
                 ]
             },
             "level": 162,
             "materialCounts": [
-                13203
+                10166
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3659,13 +3659,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 72407
+                        "value": 54441
                     }
                 ]
             },
             "level": 163,
             "materialCounts": [
-                13366
+                10292
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3678,13 +3678,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 73388
+                        "value": 55179
                     }
                 ]
             },
             "level": 164,
             "materialCounts": [
-                13530
+                10418
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3697,13 +3697,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 74375
+                        "value": 55921
                     }
                 ]
             },
             "level": 165,
             "materialCounts": [
-                13695
+                10545
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3716,13 +3716,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 75368
+                        "value": 56668
                     }
                 ]
             },
             "level": 166,
             "materialCounts": [
-                13861
+                10673
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3735,13 +3735,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 76367
+                        "value": 57419
                     }
                 ]
             },
             "level": 167,
             "materialCounts": [
-                14028
+                10802
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3754,13 +3754,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 77372
+                        "value": 58174
                     }
                 ]
             },
             "level": 168,
             "materialCounts": [
-                14196
+                10931
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3773,13 +3773,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 78383
+                        "value": 58935
                     }
                 ]
             },
             "level": 169,
             "materialCounts": [
-                14365
+                11061
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3792,7 +3792,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 79400
+                        "value": 59699
                     }
                 ]
             },
@@ -3828,7 +3828,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                14535
+                11192
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3847,13 +3847,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 80423
+                        "value": 60468
                     }
                 ]
             },
             "level": 171,
             "materialCounts": [
-                14706
+                11324
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3866,13 +3866,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 81452
+                        "value": 61242
                     }
                 ]
             },
             "level": 172,
             "materialCounts": [
-                14878
+                11456
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3885,13 +3885,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 82487
+                        "value": 62020
                     }
                 ]
             },
             "level": 173,
             "materialCounts": [
-                15051
+                11589
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3904,13 +3904,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 83528
+                        "value": 62803
                     }
                 ]
             },
             "level": 174,
             "materialCounts": [
-                15225
+                11723
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3923,13 +3923,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 84575
+                        "value": 63590
                     }
                 ]
             },
             "level": 175,
             "materialCounts": [
-                15400
+                11858
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3942,13 +3942,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 85628
+                        "value": 64382
                     }
                 ]
             },
             "level": 176,
             "materialCounts": [
-                15576
+                11994
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3961,13 +3961,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 86687
+                        "value": 65178
                     }
                 ]
             },
             "level": 177,
             "materialCounts": [
-                15753
+                12130
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3980,13 +3980,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 87752
+                        "value": 65979
                     }
                 ]
             },
             "level": 178,
             "materialCounts": [
-                15931
+                12267
             ],
             "materialUids": [
                 "2518827094883848"
@@ -3999,13 +3999,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 88823
+                        "value": 66784
                     }
                 ]
             },
             "level": 179,
             "materialCounts": [
-                16110
+                12405
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4018,7 +4018,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 89900
+                        "value": 67594
                     }
                 ]
             },
@@ -4054,7 +4054,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                16290
+                12543
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4073,13 +4073,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 90983
+                        "value": 68408
                     }
                 ]
             },
             "level": 181,
             "materialCounts": [
-                16471
+                12683
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4092,13 +4092,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 92072
+                        "value": 69227
                     }
                 ]
             },
             "level": 182,
             "materialCounts": [
-                16653
+                12823
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4111,13 +4111,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 93167
+                        "value": 70050
                     }
                 ]
             },
             "level": 183,
             "materialCounts": [
-                16836
+                12964
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4130,13 +4130,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 94268
+                        "value": 70878
                     }
                 ]
             },
             "level": 184,
             "materialCounts": [
-                17020
+                13105
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4149,13 +4149,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 95375
+                        "value": 71711
                     }
                 ]
             },
             "level": 185,
             "materialCounts": [
-                17205
+                13248
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4168,13 +4168,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 96488
+                        "value": 72547
                     }
                 ]
             },
             "level": 186,
             "materialCounts": [
-                17391
+                13391
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4187,13 +4187,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 97607
+                        "value": 73389
                     }
                 ]
             },
             "level": 187,
             "materialCounts": [
-                17578
+                13535
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4206,13 +4206,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 98732
+                        "value": 74235
                     }
                 ]
             },
             "level": 188,
             "materialCounts": [
-                17766
+                13680
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4225,13 +4225,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 99863
+                        "value": 75085
                     }
                 ]
             },
             "level": 189,
             "materialCounts": [
-                17955
+                13825
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4244,7 +4244,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 101000
+                        "value": 75940
                     }
                 ]
             },
@@ -4280,7 +4280,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                18145
+                13972
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4299,13 +4299,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 102143
+                        "value": 76799
                     }
                 ]
             },
             "level": 191,
             "materialCounts": [
-                18336
+                14119
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4318,13 +4318,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 103292
+                        "value": 77663
                     }
                 ]
             },
             "level": 192,
             "materialCounts": [
-                18528
+                14267
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4337,13 +4337,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 104447
+                        "value": 78532
                     }
                 ]
             },
             "level": 193,
             "materialCounts": [
-                18721
+                14415
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4356,13 +4356,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 105608
+                        "value": 79405
                     }
                 ]
             },
             "level": 194,
             "materialCounts": [
-                18915
+                14565
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4375,13 +4375,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 106775
+                        "value": 80282
                     }
                 ]
             },
             "level": 195,
             "materialCounts": [
-                19110
+                14715
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4394,13 +4394,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 107948
+                        "value": 81164
                     }
                 ]
             },
             "level": 196,
             "materialCounts": [
-                19306
+                14866
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4413,13 +4413,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 109127
+                        "value": 82050
                     }
                 ]
             },
             "level": 197,
             "materialCounts": [
-                19503
+                15017
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4432,13 +4432,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 110312
+                        "value": 82941
                     }
                 ]
             },
             "level": 198,
             "materialCounts": [
-                19701
+                15170
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4451,13 +4451,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 111503
+                        "value": 83837
                     }
                 ]
             },
             "level": 199,
             "materialCounts": [
-                19900
+                15323
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4470,7 +4470,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 112700
+                        "value": 84737
                     }
                 ]
             },
@@ -4506,7 +4506,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                20100
+                15477
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4525,13 +4525,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 113903
+                        "value": 85641
                     }
                 ]
             },
             "level": 201,
             "materialCounts": [
-                20301
+                15632
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4544,13 +4544,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 115112
+                        "value": 86550
                     }
                 ]
             },
             "level": 202,
             "materialCounts": [
-                20503
+                15787
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4563,13 +4563,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 116327
+                        "value": 87464
                     }
                 ]
             },
             "level": 203,
             "materialCounts": [
-                20706
+                15944
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4582,13 +4582,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 117548
+                        "value": 88382
                     }
                 ]
             },
             "level": 204,
             "materialCounts": [
-                20910
+                16101
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4601,13 +4601,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 118775
+                        "value": 89305
                     }
                 ]
             },
             "level": 205,
             "materialCounts": [
-                21115
+                16259
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4620,13 +4620,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 120008
+                        "value": 90232
                     }
                 ]
             },
             "level": 206,
             "materialCounts": [
-                21321
+                16417
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4639,13 +4639,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 121247
+                        "value": 91163
                     }
                 ]
             },
             "level": 207,
             "materialCounts": [
-                21528
+                16577
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4658,13 +4658,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 122492
+                        "value": 92099
                     }
                 ]
             },
             "level": 208,
             "materialCounts": [
-                21736
+                16737
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4677,13 +4677,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 123743
+                        "value": 93040
                     }
                 ]
             },
             "level": 209,
             "materialCounts": [
-                21945
+                16898
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4696,7 +4696,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 125000
+                        "value": 93985
                     }
                 ]
             },
@@ -4732,7 +4732,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                22155
+                17059
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4751,13 +4751,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 126263
+                        "value": 94935
                     }
                 ]
             },
             "level": 211,
             "materialCounts": [
-                22366
+                17222
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4770,13 +4770,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 127532
+                        "value": 95889
                     }
                 ]
             },
             "level": 212,
             "materialCounts": [
-                22578
+                17385
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4789,13 +4789,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 128807
+                        "value": 96847
                     }
                 ]
             },
             "level": 213,
             "materialCounts": [
-                22791
+                17549
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4808,13 +4808,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 130088
+                        "value": 97811
                     }
                 ]
             },
             "level": 214,
             "materialCounts": [
-                23005
+                17714
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4827,13 +4827,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 131375
+                        "value": 98778
                     }
                 ]
             },
             "level": 215,
             "materialCounts": [
-                23220
+                17879
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4846,13 +4846,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 132668
+                        "value": 99750
                     }
                 ]
             },
             "level": 216,
             "materialCounts": [
-                23436
+                18046
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4865,13 +4865,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 133967
+                        "value": 100727
                     }
                 ]
             },
             "level": 217,
             "materialCounts": [
-                23653
+                18213
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4884,13 +4884,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 135272
+                        "value": 101708
                     }
                 ]
             },
             "level": 218,
             "materialCounts": [
-                23871
+                18381
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4903,13 +4903,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 136583
+                        "value": 102694
                     }
                 ]
             },
             "level": 219,
             "materialCounts": [
-                24090
+                18549
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4922,7 +4922,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 137900
+                        "value": 103684
                     }
                 ]
             },
@@ -4958,7 +4958,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                24310
+                18719
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4977,13 +4977,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 139223
+                        "value": 104679
                     }
                 ]
             },
             "level": 221,
             "materialCounts": [
-                24531
+                18889
             ],
             "materialUids": [
                 "2518827094883848"
@@ -4996,13 +4996,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 140552
+                        "value": 105678
                     }
                 ]
             },
             "level": 222,
             "materialCounts": [
-                24753
+                19060
             ],
             "materialUids": [
                 "2518827094883848"
@@ -5015,13 +5015,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 141887
+                        "value": 106682
                     }
                 ]
             },
             "level": 223,
             "materialCounts": [
-                24976
+                19232
             ],
             "materialUids": [
                 "2518827094883848"
@@ -5034,13 +5034,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 143228
+                        "value": 107690
                     }
                 ]
             },
             "level": 224,
             "materialCounts": [
-                25200
+                19404
             ],
             "materialUids": [
                 "2518827094883848"
@@ -5053,13 +5053,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 144575
+                        "value": 108703
                     }
                 ]
             },
             "level": 225,
             "materialCounts": [
-                25425
+                19577
             ],
             "materialUids": [
                 "2518827094883848"
@@ -5072,13 +5072,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 145928
+                        "value": 109720
                     }
                 ]
             },
             "level": 226,
             "materialCounts": [
-                25651
+                19751
             ],
             "materialUids": [
                 "2518827094883848"
@@ -5091,13 +5091,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 147287
+                        "value": 110742
                     }
                 ]
             },
             "level": 227,
             "materialCounts": [
-                25878
+                19926
             ],
             "materialUids": [
                 "2518827094883848"
@@ -5110,13 +5110,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 148652
+                        "value": 111768
                     }
                 ]
             },
             "level": 228,
             "materialCounts": [
-                26106
+                20102
             ],
             "materialUids": [
                 "2518827094883848"
@@ -5129,13 +5129,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 150023
+                        "value": 112799
                     }
                 ]
             },
             "level": 229,
             "materialCounts": [
-                26335
+                20278
             ],
             "materialUids": [
                 "2518827094883848"
@@ -5148,7 +5148,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 151400
+                        "value": 113835
                     }
                 ]
             },
@@ -5184,7 +5184,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                26565
+                20455
             ],
             "materialUids": [
                 "2518827094883848"
@@ -5203,13 +5203,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 152783
+                        "value": 114874
                     }
                 ]
             },
             "level": 231,
             "materialCounts": [
-                26796
+                20633
             ],
             "materialUids": [
                 "2518827094883848"
@@ -5222,13 +5222,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 154172
+                        "value": 115919
                     }
                 ]
             },
             "level": 232,
             "materialCounts": [
-                27028
+                20812
             ],
             "materialUids": [
                 "2518827094883848"
@@ -5241,13 +5241,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 155567
+                        "value": 116968
                     }
                 ]
             },
             "level": 233,
             "materialCounts": [
-                27261
+                20991
             ],
             "materialUids": [
                 "2518827094883848"
@@ -5260,13 +5260,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 156968
+                        "value": 118021
                     }
                 ]
             },
             "level": 234,
             "materialCounts": [
-                27495
+                21171
             ],
             "materialUids": [
                 "2518827094883848"
@@ -5279,13 +5279,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 158375
+                        "value": 119079
                     }
                 ]
             },
             "level": 235,
             "materialCounts": [
-                27730
+                21352
             ],
             "materialUids": [
                 "2518827094883848"
@@ -5298,13 +5298,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 159788
+                        "value": 120141
                     }
                 ]
             },
             "level": 236,
             "materialCounts": [
-                27966
+                21534
             ],
             "materialUids": [
                 "2518827094883848"
@@ -5317,13 +5317,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 161207
+                        "value": 121208
                     }
                 ]
             },
             "level": 237,
             "materialCounts": [
-                28203
+                21716
             ],
             "materialUids": [
                 "2518827094883848"
@@ -5336,13 +5336,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 162632
+                        "value": 122280
                     }
                 ]
             },
             "level": 238,
             "materialCounts": [
-                28441
+                21900
             ],
             "materialUids": [
                 "2518827094883848"
@@ -5355,13 +5355,13 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 164063
+                        "value": 123356
                     }
                 ]
             },
             "level": 239,
             "materialCounts": [
-                28680
+                22084
             ],
             "materialUids": [
                 "2518827094883848"
@@ -5374,7 +5374,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 165500
+                        "value": 124436
                     }
                 ]
             },
@@ -5410,7 +5410,7 @@
                 "2605758622405840"
             ],
             "materialCounts": [
-                28920
+                22268
             ],
             "materialUids": [
                 "2518827094883848"
@@ -5428,7 +5428,7 @@
     "skillGradeInfo": [
         {
             "ancientBookWeight": 50,
-            "attributeValue": 10,
+            "attributeValue": 3,
             "collectionReward": 3,
             "composeCount": 1,
             "composeScrollUid": "727544049310359",
@@ -5437,7 +5437,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 100
+                        "value": 10
                     }
                 ]
             },
@@ -5449,7 +5449,7 @@
             "uncommonWeight": 100
         },
         {
-            "attributeValue": 10,
+            "attributeValue": 5,
             "collectionReward": 5,
             "composeCount": 2,
             "composeType": "SctSameAttribute",
@@ -5457,7 +5457,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 500
+                        "value": 30
                     }
                 ]
             },
@@ -5469,7 +5469,7 @@
         },
         {
             "ancientBookWeight": 35,
-            "attributeValue": 15,
+            "attributeValue": 7,
             "collectionReward": 7,
             "composeCount": 1,
             "composeScrollUid": "767263566160889",
@@ -5478,7 +5478,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 1000
+                        "value": 100
                     }
                 ]
             },
@@ -5490,7 +5490,7 @@
             "uid": "1481058809358585"
         },
         {
-            "attributeValue": 15,
+            "attributeValue": 9,
             "collectionReward": 8,
             "composeCount": 2,
             "composeType": "SctSameAttribute",
@@ -5498,7 +5498,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 5000
+                        "value": 200
                     }
                 ]
             },
@@ -5510,7 +5510,7 @@
         },
         {
             "ancientBookWeight": 10,
-            "attributeValue": 20,
+            "attributeValue": 11,
             "collectionReward": 10,
             "composeCount": 1,
             "composeScrollUid": "1110310261468222",
@@ -5519,7 +5519,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 10000
+                        "value": 500
                     }
                 ]
             },
@@ -5531,7 +5531,7 @@
             "uid": "1481058809358591"
         },
         {
-            "attributeValue": 20,
+            "attributeValue": 13,
             "collectionReward": 12,
             "composeCount": 2,
             "composeType": "SctSameAttribute",
@@ -5539,7 +5539,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 15000
+                        "value": 1500
                     }
                 ]
             },
@@ -5551,7 +5551,7 @@
         },
         {
             "ancientBookWeight": 5,
-            "attributeValue": 25,
+            "attributeValue": 15,
             "collectionReward": 13,
             "composeCount": 1,
             "composeScrollUid": "4078367854218888",
@@ -5560,7 +5560,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 20000
+                        "value": 5000
                     }
                 ]
             },
@@ -5572,7 +5572,7 @@
             "uid": "1481058809358589"
         },
         {
-            "attributeValue": 25,
+            "attributeValue": 17,
             "collectionReward": 15,
             "composeCount": 2,
             "composeType": "SctSameAttribute",
@@ -5580,7 +5580,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyGold",
-                        "value": 25000
+                        "value": 15000
                     }
                 ]
             },
@@ -5590,47 +5590,10 @@
             "uid": "1481058809358578"
         },
         {
-            "attributeValue": 30,
+            "attributeValue": 19,
             "collectionReward": 17,
             "composeCount": 1,
             "composeScrollUid": "1773641149580274",
-            "composeType": "SctSameSkill",
-            "consumeValue": {
-                "currencies": [
-                    {
-                        "type": "CurrencyGold",
-                        "value": 30000
-                    }
-                ]
-            },
-            "maxLevel": 180,
-            "name": "초월",
-            "skillGrade": "EgtTranscendence",
-            "uid": "1481058809358579"
-        },
-        {
-            "attributeValue": 30,
-            "collectionReward": 18,
-            "composeCount": 2,
-            "composeType": "SctSameAttribute",
-            "consumeValue": {
-                "currencies": [
-                    {
-                        "type": "CurrencyGold",
-                        "value": 35000
-                    }
-                ]
-            },
-            "maxLevel": 200,
-            "name": "초월+",
-            "skillGrade": "EgtTranscendencePlus",
-            "uid": "2773612589261489"
-        },
-        {
-            "attributeValue": 35,
-            "collectionReward": 20,
-            "composeCount": 1,
-            "composeScrollUid": "1902755251260965",
             "composeType": "SctSameSkill",
             "consumeValue": {
                 "currencies": [
@@ -5640,13 +5603,50 @@
                     }
                 ]
             },
+            "maxLevel": 180,
+            "name": "초월",
+            "skillGrade": "EgtTranscendence",
+            "uid": "1481058809358579"
+        },
+        {
+            "attributeValue": 21,
+            "collectionReward": 18,
+            "composeCount": 2,
+            "composeType": "SctSameAttribute",
+            "consumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyGold",
+                        "value": 100000
+                    }
+                ]
+            },
+            "maxLevel": 200,
+            "name": "초월+",
+            "skillGrade": "EgtTranscendencePlus",
+            "uid": "2773612589261489"
+        },
+        {
+            "attributeValue": 23,
+            "collectionReward": 20,
+            "composeCount": 1,
+            "composeScrollUid": "1902755251260965",
+            "composeType": "SctSameSkill",
+            "consumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyGold",
+                        "value": 300000
+                    }
+                ]
+            },
             "maxLevel": 220,
             "name": "신화",
             "skillGrade": "EgtMythology",
             "uid": "2773612589261488"
         },
         {
-            "attributeValue": 35,
+            "attributeValue": 25,
             "collectionReward": 21,
             "composeType": "SctSameAttribute",
             "consumeValue": {

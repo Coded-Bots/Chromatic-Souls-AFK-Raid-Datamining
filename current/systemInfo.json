@@ -241,63 +241,57 @@
             "uid": "1350047681483447"
         },
         {
-            "message": "오늘의 월정액 레드젬이 도착했습니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
+            "message": "오늘의 월정액 블루젬이 도착했습니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
             "sender": "모험가 보급 담당자",
-            "title": "월정액 매일 매일 레드젬",
+            "title": "월정액 매일 매일 블루젬",
             "uid": "1359463958630245"
         },
         {
-            "message": "You've received today's Monthly Perk Red Gems.\\nI hope they prove useful during your adventure.\\n\\n(Rewards cannot be refunded once you claim them.)",
+            "message": "You've received today's Monthly Perk Blue Gems.\\nI hope they will prove useful during your adventure.\\n\\n(Rewards cannot be refunded once claimed.)",
             "sender": "Adventurer Quartermaster",
-            "title": "Monthly Perk: Daily Red Gems",
+            "title": "Monthly Perk: Daily Blue Gems",
             "uid": "1344070795835182"
         },
         {
-            "message": "今日のレッドジェム(月額商品)が届きました。\\n冒険に大いに役立ててください。",
-            "sender": "冒険家補給係",
-            "title": "(月額)毎日レッドジェム",
-            "uid": "1360563470258396"
-        },
-        {
-            "message": "收到了今日的红宝石。\\n祝您冒险顺利。(领取奖励后，将无法退货。)",
+            "message": "收到了今天的蓝宝石(月卡)。\\n望这些补给品能助您一臂之力。\\n\\n(领取奖励后，将无法退还。)",
             "sender": "冒险家军需官",
-            "title": "[月卡]每日红宝石",
+            "title": "月卡-每日蓝宝石",
             "uid": "1378155656309637"
         },
         {
-            "message": "今日的包月紅寶石送達囉。\\n祝您冒險順利。\\n\\n(領取獎勵後，將無法退貨。)",
+            "message": "今天的每月補給藍寶石已送達。\\n希望補給品能對您的冒險產生助益。\\n\\n(收下獎勵後將無法退還。)",
             "sender": "冒險家軍需官",
-            "title": "[包月]每日紅寶石",
+            "title": "每月補給-每日藍寶石",
             "uid": "1362762493514836"
         },
         {
-            "message": "Hier sind deine heutigen Roten Juwelen aus dem Monatsvorteil-Paket.\\nIch hoffe, sie werden dir während deines Abenteuers gute Dienste erweisen.\\n\\n(Belohnungen können nach dem Einfordern nicht wiederhergestellt werden.)",
+            "message": "Hier sind deine heutigen Blaukristalle aus dem Monatsvorteil-Paket.\\nIch hoffe, sie werden dir während deines Abenteuers gute Dienste erweisen.\\n\\n(Belohnungen können nach dem Einfordern nicht wiederhergestellt werden.)",
             "sender": "Abenteurer-Versorgungsoffizier",
-            "title": "Monatsvorteil: Rote Juwelen (tägl.)",
+            "title": "Monatsvorteil: Blaukristalle (tägl.)",
             "uid": "1345170307463318"
         },
         {
-            "message": "Vous avez reçu les gemmes rouges quotidiennes du bonus mensuel.\\nJ’espère qu’elles vous seront utiles durant votre aventure.\\n\\n(Une fois récupérées, les primes ne peuvent plus être remboursées.)",
+            "message": "Vous avez reçu les gemmes bleues quotidiennes du bonus mensuel.\\nJ'espère qu'elles vous seront utiles durant votre aventure.\\n\\n(Une fois récupérées, les primes ne peuvent plus être remboursées.)",
             "sender": "Quartier-maître aventurier",
-            "title": "Bonus mensuel : Gemmes rouges quotidiennes",
+            "title": "Bonus mensuel : Gemmes bleues quotidiennes",
             "uid": "1347369330719787"
         },
         {
-            "message": "เจ้ารับเพชรแดงจากแพ็ครายเดือนของวันนี้ไปแล้ว\\nหวังว่าเจ้าจะได้ใช้ประโยชน์จากมันในการผจญภัยนะ\\n\\n(เมื่อรับรางวัลแล้วจะไม่สามารถขอเงินคืนได้)",
+            "message": "เจ้ารับเพชรฟ้าจากแพ็ครายเดือนของวันนี้ไปแล้ว\\nหวังว่าเจ้าจะได้ใช้ประโยชน์จากมันในการผจญภัยนะ\\n\\n(เมื่อรับแล้วจะไม่สามารถขอเงินคืนได้)",
             "sender": "ผู้คุมเสบียงการผจญภัย",
-            "title": "แพ็ครายเดือน: เพชรแดงรายวัน",
+            "title": "แพ็ครายเดือน: เพชรฟ้ารายวัน",
             "uid": "1362762493514827"
         },
         {
-            "message": "Kamu telah menerima Red Gem Benefit Bulanan, {0}.\\nSemoga berguna untuk petualanganmu.\\n\\n(Hadiah tidak bisa direfund setelah diambil.)",
+            "message": "Kamu sudah menerima Blue Gem hari ini.\\nSemoga bisa berguna untuk petualanganmu.\\n\\n(Hadiah tidak bisa direfund setelah diambil.)",
             "sender": "Adventurer Quartermaster",
-            "title": "Benefit Bulanan: Red Gem Harian",
+            "title": "Benefit Bulanan: Blue Gem Harian",
             "uid": "1357264935373760"
         },
         {
-            "message": "Você recebeu o brinde mensal de gemas vermelhas diárias para hoje.\\nEsperamos que sejam úteis na sua jornada de aventura.\\n\\n(Não é possível reembolso para recompensas resgatadas).",
+            "message": "Você recebeu o brinde mensal de gemas azuis diárias para hoje.\\nEsperamos que sejam úteis na sua aventura.\\n\\n(Recompensas resgatadas não são reembolsáveis).",
             "sender": "Contramestre da Aliança do Aventureiro",
-            "title": "Brinde mensal: gemas vermelhas diárias",
+            "title": "Brinde mensal: gemas azuis diárias",
             "uid": "1367160540027547"
         },
         {
@@ -307,57 +301,51 @@
             "uid": "625501749960939"
         },
         {
-            "message": "{0}님의 성장을 축하드립니다. 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
-            "sender": "모험가 보급 담당자",
-            "title": "레벨 성장 패키지 상품",
+            "message": "Congratulations on leveling up, {0}. Here are some supplies for your adventure.\\nI hope they will prove useful to you.\\n\\n(Rewards cannot be refunded once claimed.)",
+            "sender": "Adventurer Quartermaster",
+            "title": "Level Up Package Offer",
             "uid": "614506633678824"
         },
         {
-            "message": "{0}님의 성장을 축하드립니다. 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
-            "sender": "모험가 보급 담당자",
-            "title": "레벨 성장 패키지 상품",
-            "uid": "626601261589078"
-        },
-        {
-            "message": "{0}님의 성장을 축하드립니다. 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
-            "sender": "모험가 보급 담당자",
-            "title": "레벨 성장 패키지 상품",
+            "message": "恭喜{0}顺利成长！请收下补给品，以应对今后的冒险。\\n望这些补给品能助您一臂之力。\\n\\n(领取奖励后，将无法退还。)",
+            "sender": "冒险家军需官",
+            "title": "等级成长礼包商品",
             "uid": "644193447640335"
         },
         {
-            "message": "{0}님의 성장을 축하드립니다. 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
-            "sender": "모험가 보급 담당자",
-            "title": "레벨 성장 패키지 상품",
+            "message": "恭喜{0}順利成長！請收下補給品，以應付往後的冒險。\\n希望補給品能對您的冒險產生助益。\\n\\n(收下獎勵後將無法退還。)",
+            "sender": "冒險家軍需官",
+            "title": "等級成長禮包商品",
             "uid": "633198331358238"
         },
         {
-            "message": "{0}님의 성장을 축하드립니다. 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
-            "sender": "모험가 보급 담당자",
-            "title": "레벨 성장 패키지 상품",
+            "message": "Glückwunsch! Du hast ein neues Level erreicht, {0}! Hier sind ein paar nützliche Items für dein Abenteuer.\\nIch hoffe, du kannst sie gut gebrauchen!\\n\\n(Einmal eingeforderte Belohnungen können nicht zurückerstattet werden.)",
+            "sender": "Abenteurer-Versorgungsoffizier",
+            "title": "Levelaufstieg-Paketangebot",
             "uid": "615606145306972"
         },
         {
-            "message": "{0}님의 성장을 축하드립니다. 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
-            "sender": "모험가 보급 담당자",
-            "title": "레벨 성장 패키지 상품",
+            "message": "Vous êtes monté de niveau, félicitations ! Voici quelques provisions pour votre aventure.\\nJ'espère qu'elles vous seront utiles !\\n\\n(Une fois récupérées, les primes ne sont pas remboursables.)",
+            "sender": "Quartier-maître aventurier",
+            "title": "Offre de pack de niveau supplémentaire",
             "uid": "613407122050465"
         },
         {
-            "message": "{0}님의 성장을 축하드립니다. 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
-            "sender": "모험가 보급 담당자",
-            "title": "레벨 성장 패키지 상품",
+            "message": "ยินดีด้วยกับการเลเวลขึ้น {0} นี่เป็นเสบียงเอาไว้ใช้ในการเดินทาง\\nหวังว่ามันจะเป็นประโยชน์นะ\\n\\n(เมื่อรับรางวัลแล้วจะไม่สามารถขอเงินคืนได้)",
+            "sender": "ผู้คุมเสบียงการผจญภัย",
+            "title": "ข้อเสนอแพ็คเกจเพิ่มเลเวล",
             "uid": "633198331358209"
         },
         {
-            "message": "{0}님의 성장을 축하드립니다. 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
-            "sender": "모험가 보급 담당자",
-            "title": "레벨 성장 패키지 상품",
+            "message": "Selamat sudah naik level, {0}. Ini ada beberapa persediaan untuk petualanganmu.\\nSemoga bisa berguna.\\n\\n(Hadiah tidak bisa direfund setelah diambil.)",
+            "sender": "Adventurer Quartermaster",
+            "title": "Penawaran Paket Level Up",
             "uid": "627700773217166"
         },
         {
-            "message": "{0}님의 성장을 축하드립니다. 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.\\n\\n(보상 획득 시 청약철회가 불가합니다.)",
-            "sender": "모험가 보급 담당자",
-            "title": "레벨 성장 패키지 상품",
+            "message": "Parabéns pela progressão {0}. Receba alguns suprimentos pela sua aventura.\\nEspero que sejam úteis.\\n\\n(Após resgatadas, recompensas não são reembolsáveis).",
+            "sender": "Contramestre da Aliança do Aventureiro",
+            "title": "Oferta de pacote progressão",
             "uid": "637596377871169"
         },
         {
@@ -367,57 +355,51 @@
             "uid": "1437603494090404"
         },
         {
-            "message": "머큐리 미션을 완료하셨군요. 축하드립니다! 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.",
-            "sender": "모험가 보급 담당자",
-            "title": "머큐리 미션 이벤트 상품",
+            "message": "Congratulations! You've completed the Mercury Mission. Here are some supplies for your adventure.\\nI hope they will prove useful to you.",
+            "sender": "Adventurer Quartermaster",
+            "title": "Mercury Mission Event Reward",
             "uid": "1435404470833931"
         },
         {
-            "message": "머큐리 미션을 완료하셨군요. 축하드립니다! 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.",
-            "sender": "모험가 보급 담당자",
-            "title": "머큐리 미션 이벤트 상품",
-            "uid": "1436503982462329"
-        },
-        {
-            "message": "머큐리 미션을 완료하셨군요. 축하드립니다! 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.",
-            "sender": "모험가 보급 담당자",
-            "title": "머큐리 미션 이벤트 상품",
+            "message": "恭喜您完成上市任务！请收下补给品，以应对今后的冒险。\\n望这些补给品能助您一臂之力。",
+            "sender": "冒险家军需官",
+            "title": "上市任务活动商品",
             "uid": "1454096168513568"
         },
         {
-            "message": "머큐리 미션을 완료하셨군요. 축하드립니다! 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.",
-            "sender": "모험가 보급 담당자",
-            "title": "머큐리 미션 이벤트 상품",
+            "message": "恭喜您完成上市任務！請收下補給品，以應付往後的冒險。\\n希望補給品能對您的冒險產生助益。",
+            "sender": "冒險家軍需官",
+            "title": "上市任務活動獎勵",
             "uid": "1451897145257109"
         },
         {
-            "message": "머큐리 미션을 완료하셨군요. 축하드립니다! 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.",
-            "sender": "모험가 보급 담당자",
-            "title": "머큐리 미션 이벤트 상품",
+            "message": "Glückwunsch! Du hast die Merkur-Mission abgeschlossen! Hier sind ein paar nützliche Items für dein Abenteuer.\\nIch hoffe, du kannst sie gut gebrauchen.",
+            "sender": "Abenteurer-Versorgungsoffizier",
+            "title": "Merkur-Missionsevent-Belohnung",
             "uid": "1434304959205847"
         },
         {
-            "message": "머큐리 미션을 완료하셨군요. 축하드립니다! 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.",
-            "sender": "모험가 보급 담당자",
-            "title": "머큐리 미션 이벤트 상품",
+            "message": "Bravo ! Vous avez complété la mission de Mercure. Voici quelques provisions pour votre aventure.\\nJ'espère qu'elles vous seront utiles.",
+            "sender": "Quartier-maître aventurier",
+            "title": "Prime d'événement de mission de Mercure",
             "uid": "1432105935949374"
         },
         {
-            "message": "머큐리 미션을 완료하셨군요. 축하드립니다! 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.",
-            "sender": "모험가 보급 담당자",
-            "title": "머큐리 미션 이벤트 상품",
+            "message": "ยินดีด้วย! ภารกิจเมอร์คิวรีเสร็จสิ้นแล้ว นี่เป็นเสบียงเอาไว้ใช้ในการเดินทาง\\nหวังว่ามันจะเป็นประโยชน์นะ",
+            "sender": "ผู้คุมเสบียงการผจญภัย",
+            "title": "รางวัลกิจกรรมภารกิจเมอร์คิวรี",
             "uid": "1451897145257098"
         },
         {
-            "message": "머큐리 미션을 완료하셨군요. 축하드립니다! 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.",
-            "sender": "모험가 보급 담당자",
-            "title": "머큐리 미션 이벤트 상품",
+            "message": "Selamat! Kamu sudah menyelesaikan Misi Mercury. Ini ada beberapa persediaan untuk petualanganmu.\\nSemoga bisa berguna.",
+            "sender": "Adventurer Quartermaster",
+            "title": "Hadiah Event Misi Mercury",
             "uid": "1439802517346901"
         },
         {
-            "message": "머큐리 미션을 완료하셨군요. 축하드립니다! 앞으로의 모험을 위해 보급품을 전달드립니다.\\n모험을 하시는데 큰 도움이 되길 바랍니다.",
-            "sender": "모험가 보급 담당자",
-            "title": "머큐리 미션 이벤트 상품",
+            "message": "Parabéns! Você concluiu a Missão Mercúrio. Receba alguns suprimentos pela sua aventura.\\nEspero que sejam úteis.",
+            "sender": "Contramestre da Aliança do Aventureiro",
+            "title": "Recompensa evento de Missão Mercúrio",
             "uid": "1447499098744418"
         }
     ],
@@ -689,39 +671,35 @@
             "uid": "2665078799152444"
         },
         {
-            "message": "preset1",
+            "message": "Preset 1",
             "uid": "2680471961947507"
         },
         {
-            "message": "preset1",
-            "uid": "2663979287524289"
-        },
-        {
-            "message": "preset1",
+            "message": "预设1",
             "uid": "2681571473575608"
         },
         {
-            "message": "preset1",
+            "message": "自訂1",
             "uid": "2696964636370669"
         },
         {
-            "message": "preset1",
+            "message": "Voreinst. 1",
             "uid": "2679372450319119"
         },
         {
-            "message": "preset1",
+            "message": "Paramétrage 1",
             "uid": "2677173427062902"
         },
         {
-            "message": "preset1",
+            "message": "พรีเซ็ต 1",
             "uid": "2696964636370674"
         },
         {
-            "message": "preset1",
+            "message": "Preset 1",
             "uid": "2667277822408925"
         },
         {
-            "message": "preset1",
+            "message": "Predefinição 1",
             "uid": "2692566589857722"
         },
         {
@@ -769,39 +747,35 @@
             "uid": "1995044879849984"
         },
         {
-            "message": "원활한 게임 플레이를 위해서는 패치 파일을 다운로드해야 합니다. 지금 {0}개의 파일을 다운로드하시겠습니까?",
+            "message": "Patch files need to be downloaded for a smoother gameplay. Download {0} file(s) now?",
             "uid": "2001641949619407"
         },
         {
-            "message": "원활한 게임 플레이를 위해서는 패치 파일을 다운로드해야 합니다. 지금 {0}개의 파일을 다운로드하시겠습니까?",
-            "uid": "1993945368221917"
-        },
-        {
-            "message": "원활한 게임 플레이를 위해서는 패치 파일을 다운로드해야 합니다. 지금 {0}개의 파일을 다운로드하시겠습니까?",
+            "message": "为顺利进行游戏，需下载更新数据包。要立即下载{0}个数据包吗？",
             "uid": "1976353182170596"
         },
         {
-            "message": "원활한 게임 플레이를 위해서는 패치 파일을 다운로드해야 합니다. 지금 {0}개의 파일을 다운로드하시겠습니까?",
+            "message": "為順利進行遊戲，將下載更新資料。您要立即下載{0}個檔案嗎？",
             "uid": "1982950251939785"
         },
         {
-            "message": "원활한 게임 플레이를 위해서는 패치 파일을 다운로드해야 합니다. 지금 {0}개의 파일을 다운로드하시겠습니까?",
+            "message": "Für einen reibungslosen Spielablauf ist der Download von Patch-Dateien erforderlich. Jetzt {0} Dateien herunterladen?",
             "uid": "2000542437991051"
         },
         {
-            "message": "원활한 게임 플레이를 위해서는 패치 파일을 다운로드해야 합니다. 지금 {0}개의 파일을 다운로드하시겠습니까?",
+            "message": "Des fichiers de mise à jour doivent être téléchargés pour une meilleure jouabilité. Télécharger {0} fichiers ?",
             "uid": "1998343414734842"
         },
         {
-            "message": "원활한 게임 플레이를 위해서는 패치 파일을 다운로드해야 합니다. 지금 {0}개의 파일을 다운로드하시겠습니까?",
+            "message": "Arquivos de patch devem ser baixados para garantir a boa jogabilidade. Baixar {0} arquivo(s) agora?",
             "uid": "1982950251939798"
         },
         {
-            "message": "원활한 게임 플레이를 위해서는 패치 파일을 다운로드해야 합니다. 지금 {0}개의 파일을 다운로드하시겠습니까?",
+            "message": "ต้องดาวน์โหลดแพตช์เพื่อการเล่นที่ไหลลื่นยิ่งขึ้น ดาวน์โหลด {0} ไฟล์เลยหรือไม่?",
             "uid": "1997243903106481"
         },
         {
-            "message": "원활한 게임 플레이를 위해서는 패치 파일을 다운로드해야 합니다. 지금 {0}개의 파일을 다운로드하시겠습니까?",
+            "message": "File patch harus didownload agar game bisa berjalan dengan lancar. Download {0} file sekarang?",
             "uid": "1987348298452734"
         }
     ]

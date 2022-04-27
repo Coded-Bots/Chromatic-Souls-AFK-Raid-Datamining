@@ -11,63 +11,63 @@
         },
         {
             "applePid": "com.gamevil.idlecs.ios.apple.global.normal.gem1",
-            "bonusRedGem": 10,
-            "desc": "3300원 젬 상품",
-            "firstBonus": 1.0,
+            "desc": "1200원 젬 상품",
             "googlePid": "com.gamevil.idlecs.android.google.global.normal.gem1",
             "iconName": "icon_packageShopGem_02",
-            "name": "젬 Ⅰ",
-            "price": 3300,
-            "redGem": 330,
+            "name": "젬 120",
+            "price": 1200,
+            "redGem": 120,
             "uid": "4105333085990173"
         },
         {
             "applePid": "com.gamevil.idlecs.ios.apple.global.normal.gem2",
-            "bonusRedGem": 30,
-            "desc": "11000원 젬 상품",
-            "firstBonus": 1.0,
+            "desc": "3900원 젬 상품",
             "googlePid": "com.gamevil.idlecs.android.google.global.normal.gem2",
             "iconName": "icon_packageShopGem_03",
-            "name": "젬 Ⅱ",
-            "price": 11000,
-            "redGem": 1100,
+            "name": "젬 390",
+            "price": 3900,
+            "redGem": 390,
             "uid": "4105333085990171"
         },
         {
             "applePid": "com.gamevil.idlecs.ios.apple.global.normal.gem3",
-            "bonusRedGem": 100,
-            "desc": "33000원 젬 상품",
-            "firstBonus": 1.0,
+            "desc": "11000원 젬 상품",
             "googlePid": "com.gamevil.idlecs.android.google.global.normal.gem3",
             "iconName": "icon_packageShopGem_04",
-            "name": "젬 Ⅲ",
-            "price": 33000,
-            "redGem": 3300,
+            "name": "젬 1100",
+            "price": 11000,
+            "redGem": 1100,
             "uid": "4105333085990170"
         },
         {
             "applePid": "com.gamevil.idlecs.ios.apple.global.normal.gem4",
-            "bonusRedGem": 200,
-            "desc": "65000원 젬 상품",
-            "firstBonus": 1.0,
+            "desc": "33000원 젬 상품",
             "googlePid": "com.gamevil.idlecs.android.google.global.normal.gem4",
             "iconName": "icon_packageShopGem_05",
-            "name": "젬 Ⅳ",
-            "price": 65000,
-            "redGem": 6500,
+            "name": "젬 3300",
+            "price": 33000,
+            "redGem": 3300,
             "uid": "4105333085990167"
         },
         {
             "applePid": "com.gamevil.idlecs.ios.apple.global.normal.gem5",
-            "bonusRedGem": 360,
-            "desc": "110000원 젬 상품",
-            "firstBonus": 1.0,
+            "desc": "65000원 젬 상품",
             "googlePid": "com.gamevil.idlecs.android.google.global.normal.gem5",
             "iconName": "icon_packageShopGem_06",
-            "name": "젬 Ⅴ",
-            "price": 110000,
-            "redGem": 11000,
+            "name": "젬 6500",
+            "price": 65000,
+            "redGem": 6500,
             "uid": "4105333085990166"
+        },
+        {
+            "applePid": "com.gamevil.idlecs.ios.apple.global.normal.gem6",
+            "desc": "109000원 젬 상품",
+            "googlePid": "com.gamevil.idlecs.android.google.global.normal.gem6",
+            "iconName": "icon_packageShopGem_06",
+            "name": "젬 10900",
+            "price": 109000,
+            "redGem": 10900,
+            "uid": "1583000385710538"
         }
     ],
     "shopGrowthPackageInfo": [
@@ -79,7 +79,7 @@
             "name": "임무 패키지",
             "openCondition": "[]",
             "packageType": "Misson",
-            "price": 11000,
+            "price": 15000,
             "uid": "3526290101163240"
         },
         {
@@ -2968,12 +2968,12 @@
             "uid": "811216528179965"
         },
         {
-            "buyCount": 1,
+            "buyCount": 3,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 100
+                        "value": 500
                     }
                 ]
             },
@@ -3952,12 +3952,12 @@
             "uid": "3253231685016222"
         },
         {
-            "buyCount": 1,
+            "buyCount": 3,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 100
+                        "value": 500
                     }
                 ]
             },
@@ -5028,12 +5028,12 @@
             "uid": "1094890266796379"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 100
+                        "value": 500
                     }
                 ]
             },
@@ -5048,12 +5048,12 @@
             "uid": "1241610985792582"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 600
+                        "value": 3000
                     }
                 ]
             },
@@ -5068,12 +5068,12 @@
             "uid": "1241610985792581"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 100
+                        "value": 500
                     }
                 ]
             },
@@ -5088,12 +5088,12 @@
             "uid": "1241610985792580"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 140
+                        "value": 700
                     }
                 ]
             },
@@ -5108,12 +5108,12 @@
             "uid": "1241610985792579"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 850
+                        "value": 4250
                     }
                 ]
             },
@@ -5128,12 +5128,12 @@
             "uid": "1241610985792578"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 140
+                        "value": 700
                     }
                 ]
             },
@@ -5148,12 +5148,12 @@
             "uid": "1241610985792577"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 140
+                        "value": 700
                     }
                 ]
             },
@@ -5168,12 +5168,12 @@
             "uid": "1241610985792576"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 850
+                        "value": 4250
                     }
                 ]
             },
@@ -5188,12 +5188,12 @@
             "uid": "1241610985792591"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 140
+                        "value": 70
                     }
                 ]
             },
@@ -5208,12 +5208,12 @@
             "uid": "1241610985792590"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 500
+                        "value": 2500
                     }
                 ]
             },
@@ -5228,12 +5228,12 @@
             "uid": "871689256100546"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 3000
+                        "value": 15000
                     }
                 ]
             },
@@ -5248,12 +5248,12 @@
             "uid": "871689256100547"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 500
+                        "value": 2500
                     }
                 ]
             },
@@ -5268,12 +5268,12 @@
             "uid": "871689256100544"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 500
+                        "value": 2500
                     }
                 ]
             },
@@ -5288,12 +5288,12 @@
             "uid": "871689256100545"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 3000
+                        "value": 15000
                     }
                 ]
             },
@@ -5308,12 +5308,12 @@
             "uid": "871689256100550"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 500
+                        "value": 2500
                     }
                 ]
             },
@@ -5328,12 +5328,12 @@
             "uid": "871689256100551"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 1000
+                        "value": 5000
                     }
                 ]
             },
@@ -5348,12 +5348,12 @@
             "uid": "871689256100548"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 6000
+                        "value": 30000
                     }
                 ]
             },
@@ -5368,12 +5368,12 @@
             "uid": "871689256100549"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 1000
+                        "value": 5000
                     }
                 ]
             },
@@ -5388,27 +5388,7 @@
             "uid": "871689256100554"
         },
         {
-            "buyCount": 5,
-            "consumeValue": {
-                "currencies": [
-                    {
-                        "type": "CurrencyRedGem",
-                        "value": 50
-                    }
-                ]
-            },
-            "maxLevel": 50,
-            "minLevel": 1,
-            "name": "Lv.1 암시장 스킬 스크롤 500개",
-            "resetEnable": true,
-            "rewardItemUid": "371342107944784",
-            "shopType": "ShopBlackMarket",
-            "shopWeight": 10,
-            "slotIndex": 7,
-            "uid": "289433915951147"
-        },
-        {
-            "buyCount": 5,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
@@ -5417,9 +5397,29 @@
                     }
                 ]
             },
+            "maxLevel": 50,
+            "minLevel": 1,
+            "name": "Lv.1 암시장 스킬 스크롤 1000개",
+            "resetEnable": true,
+            "rewardItemUid": "371342107944784",
+            "shopType": "ShopBlackMarket",
+            "shopWeight": 10,
+            "slotIndex": 7,
+            "uid": "289433915951147"
+        },
+        {
+            "buyCount": 10,
+            "consumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 250
+                    }
+                ]
+            },
             "maxLevel": 100,
             "minLevel": 51,
-            "name": "Lv.2 암시장 스킬 스크롤 1000개",
+            "name": "Lv.2 암시장 스킬 스크롤 2500개",
             "resetEnable": true,
             "rewardItemUid": "371342107944787",
             "shopType": "ShopBlackMarket",
@@ -5428,18 +5428,18 @@
             "uid": "289433915951144"
         },
         {
-            "buyCount": 5,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 200
+                        "value": 500
                     }
                 ]
             },
             "maxLevel": 200,
             "minLevel": 101,
-            "name": "Lv.3 암시장 스킬 스크롤 2000개",
+            "name": "Lv.3 암시장 스킬 스크롤 5000개",
             "resetEnable": true,
             "rewardItemUid": "371342107944786",
             "shopType": "ShopBlackMarket",
@@ -5448,18 +5448,18 @@
             "uid": "289433915951145"
         },
         {
-            "buyCount": 2,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 50
+                        "value": 100
                     }
                 ]
             },
             "maxLevel": 50,
             "minLevel": 1,
-            "name": "Lv.1 암시장 철광석 100개",
+            "name": "Lv.1 암시장 철광석 200개",
             "resetEnable": true,
             "rewardItemUid": "1319121131273411",
             "shopType": "ShopBlackMarket",
@@ -5468,7 +5468,7 @@
             "uid": "1100873500077704"
         },
         {
-            "buyCount": 2,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
@@ -5488,7 +5488,7 @@
             "uid": "1100873500077707"
         },
         {
-            "buyCount": 2,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
@@ -5508,12 +5508,12 @@
             "uid": "1100873500077706"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 50
+                        "value": 250
                     }
                 ]
             },
@@ -5528,12 +5528,12 @@
             "uid": "289433915951150"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 100
+                        "value": 500
                     }
                 ]
             },
@@ -5548,12 +5548,12 @@
             "uid": "289433915951151"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 200
+                        "value": 1000
                     }
                 ]
             },
@@ -5568,15 +5568,16 @@
             "uid": "289433915951148"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 30
+                        "value": 150
                     }
                 ]
             },
+            "discountRate": 30,
             "maxLevel": 50,
             "minLevel": 1,
             "name": "Lv.1 암시장 철광석 100개 미스릴용",
@@ -5588,15 +5589,16 @@
             "uid": "1100873500077709"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 150
+                        "value": 750
                     }
                 ]
             },
+            "discountRate": 30,
             "maxLevel": 100,
             "minLevel": 51,
             "name": "Lv.2 암시장 철광석 500개 미스릴용",
@@ -5608,15 +5610,16 @@
             "uid": "1100873500077708"
         },
         {
-            "buyCount": 1,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyMithril",
-                        "value": 300
+                        "value": 1500
                     }
                 ]
             },
+            "discountRate": 30,
             "maxLevel": 200,
             "minLevel": 101,
             "name": "Lv.3 암시장 철광석 1000개 미스릴용",
@@ -5628,18 +5631,18 @@
             "uid": "1100873500077711"
         },
         {
-            "buyCount": 1,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 10
+                        "value": 100
                     }
                 ]
             },
             "maxLevel": 50,
             "minLevel": 1,
-            "name": "Lv.1 암시장 화염 스크롤 10개",
+            "name": "Lv.1 암시장 화염 스크롤 100개",
             "resetEnable": true,
             "rewardItemUid": "2341666945320510",
             "shopType": "ShopBlackMarket",
@@ -5648,18 +5651,18 @@
             "uid": "148696430236269"
         },
         {
-            "buyCount": 1,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 10
+                        "value": 100
                     }
                 ]
             },
             "maxLevel": 50,
             "minLevel": 1,
-            "name": "Lv.1 암시장 번개 스크롤 10개",
+            "name": "Lv.1 암시장 번개 스크롤 100개",
             "resetEnable": true,
             "rewardItemUid": "2341666945320509",
             "shopType": "ShopBlackMarket",
@@ -5668,19 +5671,18 @@
             "uid": "148696430236270"
         },
         {
-            "buyCount": 1,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 10
+                        "value": 100
                     }
                 ]
             },
-            "isRecommend": true,
             "maxLevel": 50,
             "minLevel": 1,
-            "name": "Lv.1 암시장 신성 스크롤 10개",
+            "name": "Lv.1 암시장 신성 스크롤 100개",
             "resetEnable": true,
             "rewardItemUid": "2341666945320502",
             "shopType": "ShopBlackMarket",
@@ -5689,18 +5691,18 @@
             "uid": "148696430236261"
         },
         {
-            "buyCount": 1,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 100
+                        "value": 200
                     }
                 ]
             },
             "maxLevel": 100,
             "minLevel": 51,
-            "name": "Lv.2 암시장 화염 스크롤 100개",
+            "name": "Lv.2 암시장 화염 스크롤 200개",
             "resetEnable": true,
             "rewardItemUid": "2341666945320508",
             "shopType": "ShopBlackMarket",
@@ -5709,18 +5711,18 @@
             "uid": "148696430236271"
         },
         {
-            "buyCount": 1,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 100
+                        "value": 200
                     }
                 ]
             },
             "maxLevel": 100,
             "minLevel": 51,
-            "name": "Lv.2 암시장 번개 스크롤 100개",
+            "name": "Lv.2 암시장 번개 스크롤 200개",
             "resetEnable": true,
             "rewardItemUid": "2341666945320507",
             "shopType": "ShopBlackMarket",
@@ -5729,19 +5731,18 @@
             "uid": "148696430236264"
         },
         {
-            "buyCount": 1,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 100
+                        "value": 200
                     }
                 ]
             },
-            "isRecommend": true,
             "maxLevel": 100,
             "minLevel": 51,
-            "name": "Lv.2 암시장 신성 스크롤 100개",
+            "name": "Lv.2 암시장 신성 스크롤 200개",
             "resetEnable": true,
             "rewardItemUid": "2341666945320506",
             "shopType": "ShopBlackMarket",
@@ -5750,18 +5751,18 @@
             "uid": "148696430236265"
         },
         {
-            "buyCount": 1,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 200
+                        "value": 500
                     }
                 ]
             },
             "maxLevel": 200,
             "minLevel": 101,
-            "name": "Lv.3 암시장 화염 스크롤 200개",
+            "name": "Lv.3 암시장 화염 스크롤 500개",
             "resetEnable": true,
             "rewardItemUid": "2341666945320505",
             "shopType": "ShopBlackMarket",
@@ -5770,18 +5771,18 @@
             "uid": "148696430236266"
         },
         {
-            "buyCount": 1,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 200
+                        "value": 500
                     }
                 ]
             },
             "maxLevel": 200,
             "minLevel": 101,
-            "name": "Lv.3 암시장 번개 스크롤 200개",
+            "name": "Lv.3 암시장 번개 스크롤 500개",
             "resetEnable": true,
             "rewardItemUid": "2341666945320504",
             "shopType": "ShopBlackMarket",
@@ -5790,19 +5791,18 @@
             "uid": "148696430236267"
         },
         {
-            "buyCount": 1,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 200
+                        "value": 500
                     }
                 ]
             },
-            "isRecommend": true,
             "maxLevel": 200,
             "minLevel": 101,
-            "name": "Lv.3 암시장 신성 스크롤 200개",
+            "name": "Lv.3 암시장 신성 스크롤 500개",
             "resetEnable": true,
             "rewardItemUid": "2341666945320503",
             "shopType": "ShopBlackMarket",
@@ -5811,18 +5811,18 @@
             "uid": "148696430236260"
         },
         {
-            "buyCount": 1,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 10
+                        "value": 100
                     }
                 ]
             },
             "maxLevel": 50,
             "minLevel": 1,
-            "name": "Lv.1 암시장 대지 스크롤 10개",
+            "name": "Lv.1 암시장 대지 스크롤 100개",
             "resetEnable": true,
             "rewardItemUid": "2176098704384468",
             "shopType": "ShopBlackMarket",
@@ -5831,18 +5831,18 @@
             "uid": "1960206180306873"
         },
         {
-            "buyCount": 1,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 10
+                        "value": 100
                     }
                 ]
             },
             "maxLevel": 50,
             "minLevel": 1,
-            "name": "Lv.1 암시장 냉기 스크롤 10개",
+            "name": "Lv.1 암시장 냉기 스크롤 100개",
             "resetEnable": true,
             "rewardItemUid": "2176098704384471",
             "shopType": "ShopBlackMarket",
@@ -5851,19 +5851,18 @@
             "uid": "1960206180306874"
         },
         {
-            "buyCount": 1,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 10
+                        "value": 100
                     }
                 ]
             },
-            "isRecommend": true,
             "maxLevel": 50,
             "minLevel": 1,
-            "name": "Lv.1 암시장 암흑 스크롤 10개",
+            "name": "Lv.1 암시장 암흑 스크롤 100개",
             "resetEnable": true,
             "rewardItemUid": "2176098704384476",
             "shopType": "ShopBlackMarket",
@@ -5872,18 +5871,18 @@
             "uid": "1960206180306865"
         },
         {
-            "buyCount": 1,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 100
+                        "value": 200
                     }
                 ]
             },
             "maxLevel": 100,
             "minLevel": 51,
-            "name": "Lv.2 암시장 대지 스크롤 100개",
+            "name": "Lv.2 암시장 대지 스크롤 200개",
             "resetEnable": true,
             "rewardItemUid": "2176098704384470",
             "shopType": "ShopBlackMarket",
@@ -5892,18 +5891,18 @@
             "uid": "1960206180306875"
         },
         {
-            "buyCount": 1,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 100
+                        "value": 200
                     }
                 ]
             },
             "maxLevel": 100,
             "minLevel": 51,
-            "name": "Lv.2 암시장 냉기 스크롤 100개",
+            "name": "Lv.2 암시장 냉기 스크롤 200개",
             "resetEnable": true,
             "rewardItemUid": "2176098704384465",
             "shopType": "ShopBlackMarket",
@@ -5912,19 +5911,18 @@
             "uid": "1960206180306876"
         },
         {
-            "buyCount": 1,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 100
+                        "value": 200
                     }
                 ]
             },
-            "isRecommend": true,
             "maxLevel": 100,
             "minLevel": 51,
-            "name": "Lv.2 암시장 암흑 스크롤 100개",
+            "name": "Lv.2 암시장 암흑 스크롤 200개",
             "resetEnable": true,
             "rewardItemUid": "2176098704384464",
             "shopType": "ShopBlackMarket",
@@ -5933,18 +5931,18 @@
             "uid": "1960206180306877"
         },
         {
-            "buyCount": 1,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 200
+                        "value": 500
                     }
                 ]
             },
             "maxLevel": 200,
             "minLevel": 101,
-            "name": "Lv.3 암시장 대지 스크롤 200개",
+            "name": "Lv.3 암시장 대지 스크롤 500개",
             "resetEnable": true,
             "rewardItemUid": "2176098704384467",
             "shopType": "ShopBlackMarket",
@@ -5953,18 +5951,18 @@
             "uid": "1960206180306878"
         },
         {
-            "buyCount": 1,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 200
+                        "value": 500
                     }
                 ]
             },
             "maxLevel": 200,
             "minLevel": 101,
-            "name": "Lv.3 암시장 냉기 스크롤 200개",
+            "name": "Lv.3 암시장 냉기 스크롤 500개",
             "resetEnable": true,
             "rewardItemUid": "2176098704384466",
             "shopType": "ShopBlackMarket",
@@ -5973,19 +5971,18 @@
             "uid": "1960206180306879"
         },
         {
-            "buyCount": 1,
+            "buyCount": 10,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 200
+                        "value": 500
                     }
                 ]
             },
-            "isRecommend": true,
             "maxLevel": 200,
             "minLevel": 101,
-            "name": "Lv.3 암시장 암흑 스크롤 200개",
+            "name": "Lv.3 암시장 암흑 스크롤 500개",
             "resetEnable": true,
             "rewardItemUid": "2176098704384477",
             "shopType": "ShopBlackMarket",
@@ -6154,12 +6151,12 @@
             "uid": "3471761864016064"
         },
         {
-            "buyCount": 10,
+            "buyCount": 20,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyAncientCoin",
-                        "value": 625
+                        "value": 3000
                     }
                 ]
             },
@@ -6167,7 +6164,7 @@
             "isRecommend": true,
             "maxLevel": 50,
             "minLevel": 1,
-            "name": "Lv.1 고대 상점 번개 고대연구서적",
+            "name": "Lv.1 고대 상점 스킬스크롤",
             "resetEnable": true,
             "rewardItemUid": "3906376881603365",
             "shopType": "ShopAncientCoinMarket",
@@ -6176,12 +6173,12 @@
             "uid": "3288031512429074"
         },
         {
-            "buyCount": 10,
+            "buyCount": 20,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyAncientCoin",
-                        "value": 625
+                        "value": 3000
                     }
                 ]
             },
@@ -6189,7 +6186,7 @@
             "isRecommend": true,
             "maxLevel": 50,
             "minLevel": 1,
-            "name": "Lv.1 고대 상점 대지 고대연구서적",
+            "name": "Lv.1 고대 상점 철광석",
             "resetEnable": true,
             "rewardItemUid": "2923413486171922",
             "shopType": "ShopAncientCoinMarket",
@@ -6198,12 +6195,12 @@
             "uid": "4270994907860517"
         },
         {
-            "buyCount": 10,
+            "buyCount": 20,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyAncientCoin",
-                        "value": 625
+                        "value": 1800
                     }
                 ]
             },
@@ -6211,7 +6208,7 @@
             "isRecommend": true,
             "maxLevel": 50,
             "minLevel": 1,
-            "name": "Lv.1 고대 상점 화염 고대연구서적",
+            "name": "Lv.1 고대 상점 황금덩어리",
             "resetEnable": true,
             "rewardItemUid": "2041605160535991",
             "shopType": "ShopAncientCoinMarket",
@@ -6220,7 +6217,7 @@
             "uid": "719572350331456"
         },
         {
-            "buyCount": 10,
+            "buyCount": 20,
             "consumeValue": {
                 "currencies": [
                     {
@@ -6233,7 +6230,7 @@
             "isRecommend": true,
             "maxLevel": 50,
             "minLevel": 1,
-            "name": "Lv.1 고대 상점 냉기 고대연구서적",
+            "name": "Lv.1 고대 상점 속성 스킬스크롤 꾸러미",
             "resetEnable": true,
             "rewardItemUid": "4190050882517404",
             "shopType": "ShopAncientCoinMarket",
@@ -6242,7 +6239,7 @@
             "uid": "1737720117865715"
         },
         {
-            "buyCount": 10,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
@@ -6264,7 +6261,7 @@
             "uid": "2689897187707182"
         },
         {
-            "buyCount": 1,
+            "buyCount": 4,
             "consumeValue": {
                 "currencies": [
                     {
@@ -6273,12 +6270,9 @@
                     }
                 ]
             },
-            "discountRate": 50,
-            "isRecommend": true,
             "maxLevel": 50,
             "minLevel": 1,
-            "name": "Lv.1 희귀 크로매틱 스크롤",
-            "resetEnable": true,
+            "name": "Lv.1 디멘션 코인",
             "rewardItemUid": "1828100999441877",
             "shopType": "ShopAncientCoinMarket",
             "shopWeight": 1,
@@ -6291,10 +6285,11 @@
                 "currencies": [
                     {
                         "type": "CurrencyAncientCoin",
-                        "value": 1300
+                        "value": 625
                     }
                 ]
             },
+            "discountRate": 50,
             "maxLevel": 50,
             "minLevel": 1,
             "name": "Lv.1 고대 상점 암흑 스크롤 10개",
@@ -6311,10 +6306,11 @@
                 "currencies": [
                     {
                         "type": "CurrencyAncientCoin",
-                        "value": 1300
+                        "value": 625
                     }
                 ]
             },
+            "discountRate": 50,
             "maxLevel": 50,
             "minLevel": 1,
             "name": "Lv.1 고대 상점 신성 스크롤 10개",
@@ -6486,12 +6482,12 @@
             "uid": "3471761864016067"
         },
         {
-            "buyCount": 10,
+            "buyCount": 20,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyAncientCoin",
-                        "value": 1250
+                        "value": 6000
                     }
                 ]
             },
@@ -6499,7 +6495,7 @@
             "isRecommend": true,
             "maxLevel": 100,
             "minLevel": 51,
-            "name": "Lv.2 고대 상점 번개 고대연구서적",
+            "name": "lv.2 고대 상점 스킬스크롤",
             "resetEnable": true,
             "rewardItemUid": "3906376881603366",
             "shopType": "ShopAncientCoinMarket",
@@ -6508,12 +6504,12 @@
             "uid": "3288031512429073"
         },
         {
-            "buyCount": 10,
+            "buyCount": 20,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyAncientCoin",
-                        "value": 1250
+                        "value": 15000
                     }
                 ]
             },
@@ -6521,7 +6517,7 @@
             "isRecommend": true,
             "maxLevel": 100,
             "minLevel": 51,
-            "name": "Lv.2 고대 상점 대지 고대연구서적",
+            "name": "lv.2 고대 상점 철광석",
             "resetEnable": true,
             "rewardItemUid": "2923413486171921",
             "shopType": "ShopAncientCoinMarket",
@@ -6530,12 +6526,12 @@
             "uid": "4270994907860518"
         },
         {
-            "buyCount": 10,
+            "buyCount": 20,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyAncientCoin",
-                        "value": 1250
+                        "value": 18000
                     }
                 ]
             },
@@ -6543,7 +6539,7 @@
             "isRecommend": true,
             "maxLevel": 100,
             "minLevel": 51,
-            "name": "Lv.2 고대 상점 화염 고대연구서적",
+            "name": "lv.2 고대 상점 황금덩어리",
             "resetEnable": true,
             "rewardItemUid": "2041605160535988",
             "shopType": "ShopAncientCoinMarket",
@@ -6552,12 +6548,12 @@
             "uid": "719572350331459"
         },
         {
-            "buyCount": 10,
+            "buyCount": 20,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyAncientCoin",
-                        "value": 1250
+                        "value": 6250
                     }
                 ]
             },
@@ -6565,7 +6561,7 @@
             "isRecommend": true,
             "maxLevel": 100,
             "minLevel": 51,
-            "name": "Lv.2 고대 상점 냉기 고대연구서적",
+            "name": "lv.2 고대 상점 속성 스킬스크롤 꾸러미",
             "resetEnable": true,
             "rewardItemUid": "4190050882517407",
             "shopType": "ShopAncientCoinMarket",
@@ -6574,7 +6570,7 @@
             "uid": "1737720117865712"
         },
         {
-            "buyCount": 10,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
@@ -6596,21 +6592,18 @@
             "uid": "2689897187707181"
         },
         {
-            "buyCount": 1,
+            "buyCount": 4,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyAncientCoin",
-                        "value": 60000
+                        "value": 15000
                     }
                 ]
             },
-            "discountRate": 50,
-            "isRecommend": true,
             "maxLevel": 100,
             "minLevel": 51,
-            "name": "Lv.2 영웅 크로매틱 스크롤",
-            "resetEnable": true,
+            "name": "Lv.2 디멘션 코인",
             "rewardItemUid": "1828100999441878",
             "shopType": "ShopAncientCoinMarket",
             "shopWeight": 1,
@@ -6623,10 +6616,11 @@
                 "currencies": [
                     {
                         "type": "CurrencyAncientCoin",
-                        "value": 26000
+                        "value": 6250
                     }
                 ]
             },
+            "discountRate": 50,
             "maxLevel": 100,
             "minLevel": 51,
             "name": "Lv.2 고대 상점 암흑 스크롤 200개",
@@ -6643,10 +6637,11 @@
                 "currencies": [
                     {
                         "type": "CurrencyAncientCoin",
-                        "value": 26000
+                        "value": 6250
                     }
                 ]
             },
+            "discountRate": 50,
             "maxLevel": 100,
             "minLevel": 51,
             "name": "Lv.2 고대 상점 신성 스크롤 200개",
@@ -6818,12 +6813,12 @@
             "uid": "3471761864016066"
         },
         {
-            "buyCount": 10,
+            "buyCount": 20,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyAncientCoin",
-                        "value": 2500
+                        "value": 12000
                     }
                 ]
             },
@@ -6831,7 +6826,7 @@
             "isRecommend": true,
             "maxLevel": 200,
             "minLevel": 101,
-            "name": "Lv.3 고대 상점 번개 고대연구서적",
+            "name": "lv.3 고대 상점 스킬스크롤",
             "resetEnable": true,
             "rewardItemUid": "3906376881603367",
             "shopType": "ShopAncientCoinMarket",
@@ -6840,12 +6835,12 @@
             "uid": "3288031512429072"
         },
         {
-            "buyCount": 10,
+            "buyCount": 20,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyAncientCoin",
-                        "value": 2500
+                        "value": 30000
                     }
                 ]
             },
@@ -6853,7 +6848,7 @@
             "isRecommend": true,
             "maxLevel": 200,
             "minLevel": 101,
-            "name": "Lv.3 고대 상점 대지 고대연구서적",
+            "name": "lv.3 고대 상점 철광석",
             "resetEnable": true,
             "rewardItemUid": "2923413486171920",
             "shopType": "ShopAncientCoinMarket",
@@ -6862,12 +6857,12 @@
             "uid": "4270994907860519"
         },
         {
-            "buyCount": 10,
+            "buyCount": 20,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyAncientCoin",
-                        "value": 2500
+                        "value": 36000
                     }
                 ]
             },
@@ -6875,7 +6870,7 @@
             "isRecommend": true,
             "maxLevel": 200,
             "minLevel": 101,
-            "name": "Lv.3 고대 상점 화염 고대연구서적",
+            "name": "lv.3 고대 상점 황금덩어리",
             "resetEnable": true,
             "rewardItemUid": "2041605160535989",
             "shopType": "ShopAncientCoinMarket",
@@ -6884,12 +6879,12 @@
             "uid": "719572350331458"
         },
         {
-            "buyCount": 10,
+            "buyCount": 20,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyAncientCoin",
-                        "value": 2500
+                        "value": 62500
                     }
                 ]
             },
@@ -6897,16 +6892,16 @@
             "isRecommend": true,
             "maxLevel": 200,
             "minLevel": 101,
-            "name": "Lv.3 고대 상점 냉기 고대연구서적",
+            "name": "lv.3 고대 상점 속성 스킬스크롤 꾸러미",
             "resetEnable": true,
             "rewardItemUid": "4190050882517406",
             "shopType": "ShopAncientCoinMarket",
             "shopWeight": 1,
-            "slotIndex": 21,
+            "slotIndex": 12,
             "uid": "1737720117865713"
         },
         {
-            "buyCount": 10,
+            "buyCount": 5,
             "consumeValue": {
                 "currencies": [
                     {
@@ -6928,21 +6923,18 @@
             "uid": "2689897187707180"
         },
         {
-            "buyCount": 1,
+            "buyCount": 4,
             "consumeValue": {
                 "currencies": [
                     {
                         "type": "CurrencyAncientCoin",
-                        "value": 240000
+                        "value": 15000
                     }
                 ]
             },
-            "discountRate": 50,
-            "isRecommend": true,
             "maxLevel": 200,
             "minLevel": 101,
-            "name": "Lv.3 전설 크로매틱 스크롤",
-            "resetEnable": true,
+            "name": "Lv.3 디멘션 코인",
             "rewardItemUid": "1828100999441879",
             "shopType": "ShopAncientCoinMarket",
             "shopWeight": 1,
@@ -6955,10 +6947,11 @@
                 "currencies": [
                     {
                         "type": "CurrencyAncientCoin",
-                        "value": 39000
+                        "value": 12500
                     }
                 ]
             },
+            "discountRate": 50,
             "maxLevel": 200,
             "minLevel": 101,
             "name": "Lv.3 고대 상점 암흑 스크롤 300개",
@@ -6975,10 +6968,11 @@
                 "currencies": [
                     {
                         "type": "CurrencyAncientCoin",
-                        "value": 39000
+                        "value": 12500
                     }
                 ]
             },
+            "discountRate": 50,
             "maxLevel": 200,
             "minLevel": 101,
             "name": "Lv.3 고대 상점 신성 스크롤 300개",
@@ -7055,7 +7049,7 @@
     "shopPackageInfo": [
         {
             "desc": "일주일에 한번 무료로 획득할 수 있는 패키지",
-            "endTime": "1650898799000",
+            "endTime": "1679842799000",
             "iconName": "item_00700017",
             "isActive": true,
             "isFree": true,
@@ -7073,14 +7067,10 @@
             "uid": "1863915900097148"
         },
         {
-            "applePid": "com.gamevil.idlecs.ios.apple.global.normal.equipmentpacka",
             "bonusRate": 0.1,
             "desc": "희귀 장비 부위 선택권이 포함된 패키지이다.",
-            "endTime": "1650898799000",
-            "googlePid": "com.gamevil.idlecs.android.google.global.normal.equipmentpacka",
+            "endTime": "1679842799000",
             "iconName": "item_00700021",
-            "isActive": true,
-            "isNew": true,
             "limitCount": 1,
             "name": "장비 세트 패키지",
             "openCondition": "[]",
@@ -7094,14 +7084,10 @@
             "uid": "888492746808294"
         },
         {
-            "applePid": "com.gamevil.idlecs.ios.apple.global.normal.equipmentpackb",
             "bonusRate": 0.2,
             "desc": "희귀 장비 뽑기권이 포함된 패키지이다.",
-            "endTime": "1650898799000",
-            "googlePid": "com.gamevil.idlecs.android.google.global.normal.equipmentpackb",
+            "endTime": "1679842799000",
             "iconName": "item_00700019",
-            "isActive": true,
-            "isNew": true,
             "limitCount": 1,
             "name": "희귀 장비 패키지",
             "openCondition": "[]",
@@ -7115,13 +7101,28 @@
             "uid": "2059096799186496"
         },
         {
-            "applePid": "com.gamevil.idlecs.ios.apple.global.normal.skillpacka",
+            "applePid": "com.gamevil.idlecs.ios.apple.global.normal.starter",
+            "desc": "영웅 장비 뽑기권이 포함된 패키지이다.",
+            "endTime": "1679842799000",
+            "googlePid": "com.gamevil.idlecs.android.google.global.normal.starter",
+            "iconName": "item_00700021",
+            "isActive": true,
+            "limitCount": 1,
+            "name": "초보자 패키지",
+            "openCondition": "[]",
+            "openType": "Period",
+            "price": 3900,
+            "rewardItemUids": [
+                "1536504529758572"
+            ],
+            "startTime": "1619362799000",
+            "uid": "3937593428490680"
+        },
+        {
             "bonusRate": 0.3,
             "desc": "전설, 영웅, 희귀 스킬 뽑기권이 포함된 패키지이다.",
-            "endTime": "1650898799000",
-            "googlePid": "com.gamevil.idlecs.android.google.global.normal.skillpacka",
+            "endTime": "1679842799000",
             "iconName": "item_00700013",
-            "isActive": true,
             "name": "영웅 스킬 패키지",
             "openCondition": "[]",
             "openType": "Period",
@@ -7135,37 +7136,59 @@
             "uid": "3550692864940494"
         },
         {
-            "applePid": "com.gamevil.idlecs.ios.apple.global.normal.skillpackb",
-            "bonusRate": 0.4,
-            "desc": "고급, 희귀, 영웅 스킬 뽑기권이 포함된 패키지이다.",
-            "endTime": "1650898799000",
-            "googlePid": "com.gamevil.idlecs.android.google.global.normal.skillpackb",
+            "applePid": "com.gamevil.idlecs.ios.apple.global.normal.skillpacka",
+            "desc": "희귀 스킬 뽑기권, 고급 스킬 뽑기권이 포함된 패키지이다.",
+            "endTime": "1679842799000",
+            "googlePid": "com.gamevil.idlecs.android.google.global.normal.skillpacka",
             "iconName": "item_00700011",
             "isActive": true,
+            "limitCount": 3,
             "name": "희귀 스킬 패키지",
             "openCondition": "[]",
             "openType": "Period",
-            "price": 25000,
+            "price": 11000,
+            "resetType": "Weekly",
             "rewardItemUids": [
                 "820776706000221",
-                "820776706000222",
-                "820776706000223"
+                "820776706000222"
             ],
             "startTime": "1619362799000",
             "uid": "4263174692216937"
         },
         {
-            "applePid": "com.gamevil.idlecs.ios.apple.global.normal.skillpackc",
-            "bonusRate": 0.5,
-            "desc": "스킬을 강화 및 합성 하는데 도움이되는 패키지이다.",
-            "endTime": "1650898799000",
-            "googlePid": "com.gamevil.idlecs.android.google.global.normal.skillpackc",
+            "applePid": "com.gamevil.idlecs.ios.apple.global.normal.skillpackd",
+            "desc": "전설 스킬 뽑기권, 영웅 스킬 뽑기권, 희귀 스킬 뽑기권이 포함된 패키지이다.",
+            "endTime": "1679842799000",
+            "googlePid": "com.gamevil.idlecs.android.google.global.normal.skillpackd",
             "iconName": "item_00700011",
             "isActive": true,
+            "limitCount": 3,
+            "name": "전설 스킬 패키지",
+            "openCondition": "[]",
+            "openType": "Period",
+            "price": 52000,
+            "resetType": "Weekly",
+            "rewardItemUids": [
+                "581933617453394",
+                "581933617453393",
+                "581933617453392"
+            ],
+            "startTime": "1619362799000",
+            "uid": "131282308214488"
+        },
+        {
+            "applePid": "com.gamevil.idlecs.ios.apple.global.normal.skillpacke",
+            "desc": "희귀 크로매틱 스크롤, 골드, 스킬스크롤이 포함된 패키지이다.",
+            "endTime": "1679842799000",
+            "googlePid": "com.gamevil.idlecs.android.google.global.normal.skillpacke",
+            "iconName": "item_00700011",
+            "isActive": true,
+            "limitCount": 10,
             "name": "스킬 성장 패키지",
             "openCondition": "[]",
             "openType": "Period",
-            "price": 12000,
+            "price": 9900,
+            "resetType": "Daily",
             "rewardItemUids": [
                 "1392506317272736",
                 "1392506317272739",
@@ -7175,14 +7198,10 @@
             "uid": "3037458848320626"
         },
         {
-            "applePid": "com.gamevil.idlecs.ios.apple.global.normal.schoolpack",
             "bonusRate": 0.5,
             "desc": "스킬을 강화하는데 필요한 다양한 속성 스킬 스크롤이 들어있는 꾸러미이다.",
-            "endTime": "1650898799000",
-            "googlePid": "com.gamevil.idlecs.android.google.global.normal.schoolpack",
+            "endTime": "1679842799000",
             "iconName": "item_00990004",
-            "isActive": true,
-            "isNew": true,
             "limitCount": 3,
             "name": "속성 패키지",
             "openCondition": "[]",
@@ -7193,6 +7212,46 @@
             ],
             "startTime": "1619362799000",
             "uid": "4216523939529475"
+        },
+        {
+            "applePid": "com.gamevil.idlecs.ios.apple.global.normal.relica",
+            "desc": "희귀 성물 뽑기권, 고급 성물 뽑기권이 포함된 패키지이다.",
+            "endTime": "1679842799000",
+            "googlePid": "com.gamevil.idlecs.android.google.global.normal.relica",
+            "iconName": "item_00700011",
+            "isActive": true,
+            "limitCount": 3,
+            "name": "희귀 성물 패키지",
+            "openCondition": "[]",
+            "openType": "Period",
+            "price": 25000,
+            "resetType": "Weekly",
+            "rewardItemUids": [
+                "3100101937804651",
+                "3100101937804648"
+            ],
+            "startTime": "1619362799000",
+            "uid": "4218398269124043"
+        },
+        {
+            "applePid": "com.gamevil.idlecs.ios.apple.global.normal.relicb",
+            "desc": "영웅 성물 뽑기권, 희귀 성물 뽑기권이 포함된 패키지이다.",
+            "endTime": "1679842799000",
+            "googlePid": "com.gamevil.idlecs.android.google.global.normal.relicb",
+            "iconName": "item_00700013",
+            "isActive": true,
+            "limitCount": 3,
+            "name": "영웅 성물 패키지",
+            "openCondition": "[]",
+            "openType": "Period",
+            "price": 54000,
+            "resetType": "Weekly",
+            "rewardItemUids": [
+                "3957140050053016",
+                "3957140050053019"
+            ],
+            "startTime": "1619362799000",
+            "uid": "180992932076020"
         }
     ],
     "shopResetInfo": [
@@ -7225,7 +7284,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 400
+                        "value": 300
                     }
                 ]
             },
@@ -7237,7 +7296,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 600
+                        "value": 400
                     }
                 ]
             },
@@ -7249,7 +7308,7 @@
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 800
+                        "value": 500
                     }
                 ]
             },
@@ -7261,12 +7320,60 @@
                 "currencies": [
                     {
                         "type": "CurrencyRedGem",
-                        "value": 1000
+                        "value": 600
                     }
                 ]
             },
             "name": "6회 리셋",
             "uid": "1416407252406369"
+        },
+        {
+            "consumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 700
+                    }
+                ]
+            },
+            "name": "7회 리셋",
+            "uid": "1416407252406368"
+        },
+        {
+            "consumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 800
+                    }
+                ]
+            },
+            "name": "8회 리셋",
+            "uid": "1416407252406383"
+        },
+        {
+            "consumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 900
+                    }
+                ]
+            },
+            "name": "9회 리셋",
+            "uid": "1416407252406382"
+        },
+        {
+            "consumeValue": {
+                "currencies": [
+                    {
+                        "type": "CurrencyRedGem",
+                        "value": 1000
+                    }
+                ]
+            },
+            "name": "10회 리셋",
+            "uid": "3759755660418402"
         }
     ],
     "shopRewardInfo": [
@@ -18035,9 +18142,9 @@
             "mageRewardBaseUids": [
                 "2518827094883848"
             ],
-            "name": "암시장 스킬스크롤 500",
+            "name": "암시장 스킬스크롤 1000",
             "rewardCounts": [
-                500
+                1000
             ],
             "rewardType": "RewardItem",
             "rewardValue": 1,
@@ -18059,9 +18166,9 @@
             "mageRewardBaseUids": [
                 "2518827094883848"
             ],
-            "name": "암시장 스킬스크롤 1000",
+            "name": "암시장 스킬스크롤 2500",
             "rewardCounts": [
-                1000
+                2500
             ],
             "rewardType": "RewardItem",
             "rewardValue": 1,
@@ -18083,9 +18190,9 @@
             "mageRewardBaseUids": [
                 "2518827094883848"
             ],
-            "name": "암시장 스킬스크롤 2000",
+            "name": "암시장 스킬스크롤 5000",
             "rewardCounts": [
-                2000
+                5000
             ],
             "rewardType": "RewardItem",
             "rewardValue": 1,
@@ -18107,9 +18214,9 @@
             "mageRewardBaseUids": [
                 "262524326022751"
             ],
-            "name": "암시장 철광석 100",
+            "name": "암시장 철광석 200",
             "rewardCounts": [
-                100
+                200
             ],
             "rewardType": "RewardItem",
             "rewardValue": 1,
@@ -18179,78 +18286,6 @@
             "mageRewardBaseUids": [
                 "1918028818961586"
             ],
-            "name": "상점 화염 스크롤 10",
-            "rewardCounts": [
-                10
-            ],
-            "rewardType": "RewardItem",
-            "rewardValue": 1,
-            "rewardWeights": [
-                10
-            ],
-            "rogueRewardBaseUids": [
-                "1918028818961586"
-            ],
-            "uid": "2341666945320510",
-            "warriorRewardBaseUids": [
-                "1918028818961586"
-            ]
-        },
-        {
-            "druidRewardBaseUids": [
-                "2605758622405840"
-            ],
-            "mageRewardBaseUids": [
-                "2605758622405840"
-            ],
-            "name": "상점 번개 스크롤 10",
-            "rewardCounts": [
-                10
-            ],
-            "rewardType": "RewardItem",
-            "rewardValue": 1,
-            "rewardWeights": [
-                10
-            ],
-            "rogueRewardBaseUids": [
-                "2605758622405840"
-            ],
-            "uid": "2341666945320509",
-            "warriorRewardBaseUids": [
-                "2605758622405840"
-            ]
-        },
-        {
-            "druidRewardBaseUids": [
-                "471071997425060"
-            ],
-            "mageRewardBaseUids": [
-                "471071997425060"
-            ],
-            "name": "상점 신성 스크롤 10",
-            "rewardCounts": [
-                10
-            ],
-            "rewardType": "RewardItem",
-            "rewardValue": 1,
-            "rewardWeights": [
-                10
-            ],
-            "rogueRewardBaseUids": [
-                "471071997425060"
-            ],
-            "uid": "2341666945320502",
-            "warriorRewardBaseUids": [
-                "471071997425060"
-            ]
-        },
-        {
-            "druidRewardBaseUids": [
-                "1918028818961586"
-            ],
-            "mageRewardBaseUids": [
-                "1918028818961586"
-            ],
             "name": "상점 화염 스크롤 100",
             "rewardCounts": [
                 100
@@ -18263,7 +18298,7 @@
             "rogueRewardBaseUids": [
                 "1918028818961586"
             ],
-            "uid": "2341666945320508",
+            "uid": "2341666945320510",
             "warriorRewardBaseUids": [
                 "1918028818961586"
             ]
@@ -18287,7 +18322,7 @@
             "rogueRewardBaseUids": [
                 "2605758622405840"
             ],
-            "uid": "2341666945320507",
+            "uid": "2341666945320509",
             "warriorRewardBaseUids": [
                 "2605758622405840"
             ]
@@ -18311,7 +18346,7 @@
             "rogueRewardBaseUids": [
                 "471071997425060"
             ],
-            "uid": "2341666945320506",
+            "uid": "2341666945320502",
             "warriorRewardBaseUids": [
                 "471071997425060"
             ]
@@ -18335,7 +18370,7 @@
             "rogueRewardBaseUids": [
                 "1918028818961586"
             ],
-            "uid": "2341666945320505",
+            "uid": "2341666945320508",
             "warriorRewardBaseUids": [
                 "1918028818961586"
             ]
@@ -18359,7 +18394,7 @@
             "rogueRewardBaseUids": [
                 "2605758622405840"
             ],
-            "uid": "2341666945320504",
+            "uid": "2341666945320507",
             "warriorRewardBaseUids": [
                 "2605758622405840"
             ]
@@ -18383,21 +18418,21 @@
             "rogueRewardBaseUids": [
                 "471071997425060"
             ],
-            "uid": "2341666945320503",
+            "uid": "2341666945320506",
             "warriorRewardBaseUids": [
                 "471071997425060"
             ]
         },
         {
             "druidRewardBaseUids": [
-                "3825431347052642"
+                "1918028818961586"
             ],
             "mageRewardBaseUids": [
-                "3825431347052642"
+                "1918028818961586"
             ],
-            "name": "상점 대지 스크롤 10",
+            "name": "상점 번개 스크롤 500",
             "rewardCounts": [
-                10
+                500
             ],
             "rewardType": "RewardItem",
             "rewardValue": 1,
@@ -18405,23 +18440,23 @@
                 10
             ],
             "rogueRewardBaseUids": [
-                "3825431347052642"
+                "1918028818961586"
             ],
-            "uid": "2176098704384468",
+            "uid": "2341666945320505",
             "warriorRewardBaseUids": [
-                "3825431347052642"
+                "1918028818961586"
             ]
         },
         {
             "druidRewardBaseUids": [
-                "2530750811117267"
+                "2605758622405840"
             ],
             "mageRewardBaseUids": [
-                "2530750811117267"
+                "2605758622405840"
             ],
-            "name": "상점 냉기 스크롤 10",
+            "name": "상점 화염 스크롤 500",
             "rewardCounts": [
-                10
+                500
             ],
             "rewardType": "RewardItem",
             "rewardValue": 1,
@@ -18429,23 +18464,23 @@
                 10
             ],
             "rogueRewardBaseUids": [
-                "2530750811117267"
+                "2605758622405840"
             ],
-            "uid": "2176098704384471",
+            "uid": "2341666945320504",
             "warriorRewardBaseUids": [
-                "2530750811117267"
+                "2605758622405840"
             ]
         },
         {
             "druidRewardBaseUids": [
-                "1191988281475294"
+                "471071997425060"
             ],
             "mageRewardBaseUids": [
-                "1191988281475294"
+                "471071997425060"
             ],
-            "name": "상점 암흑 스크롤 10",
+            "name": "상점 신성 스크롤 500",
             "rewardCounts": [
-                10
+                500
             ],
             "rewardType": "RewardItem",
             "rewardValue": 1,
@@ -18453,11 +18488,11 @@
                 10
             ],
             "rogueRewardBaseUids": [
-                "1191988281475294"
+                "471071997425060"
             ],
-            "uid": "2176098704384476",
+            "uid": "2341666945320503",
             "warriorRewardBaseUids": [
-                "1191988281475294"
+                "471071997425060"
             ]
         },
         {
@@ -18479,7 +18514,7 @@
             "rogueRewardBaseUids": [
                 "3825431347052642"
             ],
-            "uid": "2176098704384470",
+            "uid": "2176098704384468",
             "warriorRewardBaseUids": [
                 "3825431347052642"
             ]
@@ -18503,7 +18538,7 @@
             "rogueRewardBaseUids": [
                 "2530750811117267"
             ],
-            "uid": "2176098704384465",
+            "uid": "2176098704384471",
             "warriorRewardBaseUids": [
                 "2530750811117267"
             ]
@@ -18527,7 +18562,7 @@
             "rogueRewardBaseUids": [
                 "1191988281475294"
             ],
-            "uid": "2176098704384464",
+            "uid": "2176098704384476",
             "warriorRewardBaseUids": [
                 "1191988281475294"
             ]
@@ -18551,7 +18586,7 @@
             "rogueRewardBaseUids": [
                 "3825431347052642"
             ],
-            "uid": "2176098704384467",
+            "uid": "2176098704384470",
             "warriorRewardBaseUids": [
                 "3825431347052642"
             ]
@@ -18575,7 +18610,7 @@
             "rogueRewardBaseUids": [
                 "2530750811117267"
             ],
-            "uid": "2176098704384466",
+            "uid": "2176098704384465",
             "warriorRewardBaseUids": [
                 "2530750811117267"
             ]
@@ -18590,6 +18625,78 @@
             "name": "상점 암흑 스크롤 200",
             "rewardCounts": [
                 200
+            ],
+            "rewardType": "RewardItem",
+            "rewardValue": 1,
+            "rewardWeights": [
+                10
+            ],
+            "rogueRewardBaseUids": [
+                "1191988281475294"
+            ],
+            "uid": "2176098704384464",
+            "warriorRewardBaseUids": [
+                "1191988281475294"
+            ]
+        },
+        {
+            "druidRewardBaseUids": [
+                "3825431347052642"
+            ],
+            "mageRewardBaseUids": [
+                "3825431347052642"
+            ],
+            "name": "상점 냉기 스크롤 500",
+            "rewardCounts": [
+                500
+            ],
+            "rewardType": "RewardItem",
+            "rewardValue": 1,
+            "rewardWeights": [
+                10
+            ],
+            "rogueRewardBaseUids": [
+                "3825431347052642"
+            ],
+            "uid": "2176098704384467",
+            "warriorRewardBaseUids": [
+                "3825431347052642"
+            ]
+        },
+        {
+            "druidRewardBaseUids": [
+                "2530750811117267"
+            ],
+            "mageRewardBaseUids": [
+                "2530750811117267"
+            ],
+            "name": "상점 대지 스크롤 500",
+            "rewardCounts": [
+                500
+            ],
+            "rewardType": "RewardItem",
+            "rewardValue": 1,
+            "rewardWeights": [
+                10
+            ],
+            "rogueRewardBaseUids": [
+                "2530750811117267"
+            ],
+            "uid": "2176098704384466",
+            "warriorRewardBaseUids": [
+                "2530750811117267"
+            ]
+        },
+        {
+            "druidRewardBaseUids": [
+                "1191988281475294"
+            ],
+            "mageRewardBaseUids": [
+                "1191988281475294"
+            ],
+            "name": "상점 암흑 스크롤 500",
+            "rewardCounts": [
+                500
             ],
             "rewardType": "RewardItem",
             "rewardValue": 1,
@@ -21762,14 +21869,14 @@
         },
         {
             "druidRewardBaseUids": [
-                "1506748095624066"
+                "2518827094883848"
             ],
             "mageRewardBaseUids": [
-                "1506748095624066"
+                "2518827094883848"
             ],
-            "name": "고대 상점 번개 고대연구서적",
+            "name": "Lv.1 고대 상점 스킬스크롤",
             "rewardCounts": [
-                1
+                500
             ],
             "rewardGradeWeights": [
                 10
@@ -21780,23 +21887,23 @@
                 10
             ],
             "rogueRewardBaseUids": [
-                "1506748095624066"
+                "2518827094883848"
             ],
             "uid": "3906376881603365",
             "warriorRewardBaseUids": [
-                "1506748095624066"
+                "2518827094883848"
             ]
         },
         {
             "druidRewardBaseUids": [
-                "3074384718604466"
+                "262524326022751"
             ],
             "mageRewardBaseUids": [
-                "3074384718604466"
+                "262524326022751"
             ],
-            "name": "고대 상점 대지 고대연구서적",
+            "name": "Lv.1 고대 상점 철광석",
             "rewardCounts": [
-                1
+                100
             ],
             "rewardGradeWeights": [
                 10
@@ -21807,21 +21914,21 @@
                 10
             ],
             "rogueRewardBaseUids": [
-                "3074384718604466"
+                "262524326022751"
             ],
             "uid": "2923413486171922",
             "warriorRewardBaseUids": [
-                "3074384718604466"
+                "262524326022751"
             ]
         },
         {
             "druidRewardBaseUids": [
-                "3113825473029667"
+                "1439240035421441"
             ],
             "mageRewardBaseUids": [
-                "3113825473029667"
+                "1439240035421441"
             ],
-            "name": "고대 상점 화염 고대연구서적",
+            "name": "Lv.1 고대 상점 황금덩어리",
             "rewardCounts": [
                 1
             ],
@@ -21834,21 +21941,21 @@
                 10
             ],
             "rogueRewardBaseUids": [
-                "3113825473029667"
+                "1439240035421441"
             ],
             "uid": "2041605160535991",
             "warriorRewardBaseUids": [
-                "3113825473029667"
+                "1439240035421441"
             ]
         },
         {
             "druidRewardBaseUids": [
-                "3001522983149566"
+                "588447118032685"
             ],
             "mageRewardBaseUids": [
-                "3001522983149566"
+                "588447118032685"
             ],
-            "name": "고대 상점 냉기 고대연구서적",
+            "name": "Lv.1 고대 상점 속성 스킬스크롤 꾸러미",
             "rewardCounts": [
                 1
             ],
@@ -21861,11 +21968,11 @@
                 10
             ],
             "rogueRewardBaseUids": [
-                "3001522983149566"
+                "588447118032685"
             ],
             "uid": "4190050882517404",
             "warriorRewardBaseUids": [
-                "3001522983149566"
+                "588447118032685"
             ]
         },
         {
@@ -21897,14 +22004,14 @@
         },
         {
             "druidRewardBaseUids": [
-                "466595106887400"
+                "403062883113026"
             ],
             "mageRewardBaseUids": [
-                "466595106887400"
+                "403062883113026"
             ],
-            "name": "숙련 크로매틱 스크롤 파편",
+            "name": "디멘션 코인",
             "rewardCounts": [
-                2
+                1
             ],
             "rewardGradeWeights": [
                 10
@@ -21915,11 +22022,11 @@
                 10
             ],
             "rogueRewardBaseUids": [
-                "466595106887400"
+                "403062883113026"
             ],
             "uid": "1828100999441877",
             "warriorRewardBaseUids": [
-                "466595106887400"
+                "403062883113026"
             ]
         },
         {
@@ -22254,14 +22361,14 @@
         },
         {
             "druidRewardBaseUids": [
-                "1506748095624066"
+                "2518827094883848"
             ],
             "mageRewardBaseUids": [
-                "1506748095624066"
+                "2518827094883848"
             ],
-            "name": "고대 상점 번개 고대연구서적",
+            "name": "lv.2 고대 상점 스킬스크롤",
             "rewardCounts": [
-                2
+                1000
             ],
             "rewardGradeWeights": [
                 10
@@ -22272,23 +22379,23 @@
                 10
             ],
             "rogueRewardBaseUids": [
-                "1506748095624066"
+                "2518827094883848"
             ],
             "uid": "3906376881603366",
             "warriorRewardBaseUids": [
-                "1506748095624066"
+                "2518827094883848"
             ]
         },
         {
             "druidRewardBaseUids": [
-                "3074384718604466"
+                "262524326022751"
             ],
             "mageRewardBaseUids": [
-                "3074384718604466"
+                "262524326022751"
             ],
-            "name": "고대 상점 대지 고대연구서적",
+            "name": "lv.2 고대 상점 철광석",
             "rewardCounts": [
-                2
+                500
             ],
             "rewardGradeWeights": [
                 10
@@ -22299,23 +22406,23 @@
                 10
             ],
             "rogueRewardBaseUids": [
-                "3074384718604466"
+                "262524326022751"
             ],
             "uid": "2923413486171921",
             "warriorRewardBaseUids": [
-                "3074384718604466"
+                "262524326022751"
             ]
         },
         {
             "druidRewardBaseUids": [
-                "3113825473029667"
+                "1439240035421441"
             ],
             "mageRewardBaseUids": [
-                "3113825473029667"
+                "1439240035421441"
             ],
-            "name": "고대 상점 화염 고대연구서적",
+            "name": "lv.2 고대 상점 황금덩어리",
             "rewardCounts": [
-                2
+                10
             ],
             "rewardGradeWeights": [
                 10
@@ -22326,23 +22433,23 @@
                 10
             ],
             "rogueRewardBaseUids": [
-                "3113825473029667"
+                "1439240035421441"
             ],
             "uid": "2041605160535988",
             "warriorRewardBaseUids": [
-                "3113825473029667"
+                "1439240035421441"
             ]
         },
         {
             "druidRewardBaseUids": [
-                "3001522983149566"
+                "588447118032685"
             ],
             "mageRewardBaseUids": [
-                "3001522983149566"
+                "588447118032685"
             ],
-            "name": "고대 상점 냉기 고대연구서적",
+            "name": "lv.2 고대 상점 속성 스킬스크롤 꾸러미",
             "rewardCounts": [
-                2
+                10
             ],
             "rewardGradeWeights": [
                 10
@@ -22353,11 +22460,11 @@
                 10
             ],
             "rogueRewardBaseUids": [
-                "3001522983149566"
+                "588447118032685"
             ],
             "uid": "4190050882517407",
             "warriorRewardBaseUids": [
-                "3001522983149566"
+                "588447118032685"
             ]
         },
         {
@@ -22389,14 +22496,14 @@
         },
         {
             "druidRewardBaseUids": [
-                "3580413567251671"
+                "403062883113026"
             ],
             "mageRewardBaseUids": [
-                "3580413567251671"
+                "403062883113026"
             ],
-            "name": "숙련 크로매틱 스크롤 파편",
+            "name": "디멘션 코인",
             "rewardCounts": [
-                2
+                1
             ],
             "rewardGradeWeights": [
                 10
@@ -22407,11 +22514,11 @@
                 10
             ],
             "rogueRewardBaseUids": [
-                "3580413567251671"
+                "403062883113026"
             ],
             "uid": "1828100999441878",
             "warriorRewardBaseUids": [
-                "3580413567251671"
+                "403062883113026"
             ]
         },
         {
@@ -22746,14 +22853,14 @@
         },
         {
             "druidRewardBaseUids": [
-                "1506748095624066"
+                "2518827094883848"
             ],
             "mageRewardBaseUids": [
-                "1506748095624066"
+                "2518827094883848"
             ],
-            "name": "고대 상점 번개 고대연구서적",
+            "name": "lv.3 고대 상점 스킬스크롤",
             "rewardCounts": [
-                4
+                2000
             ],
             "rewardGradeWeights": [
                 10
@@ -22764,23 +22871,23 @@
                 10
             ],
             "rogueRewardBaseUids": [
-                "1506748095624066"
+                "2518827094883848"
             ],
             "uid": "3906376881603367",
             "warriorRewardBaseUids": [
-                "1506748095624066"
+                "2518827094883848"
             ]
         },
         {
             "druidRewardBaseUids": [
-                "3074384718604466"
+                "262524326022751"
             ],
             "mageRewardBaseUids": [
-                "3074384718604466"
+                "262524326022751"
             ],
-            "name": "고대 상점 대지 고대연구서적",
+            "name": "lv.3 고대 상점 철광석",
             "rewardCounts": [
-                4
+                1000
             ],
             "rewardGradeWeights": [
                 10
@@ -22791,23 +22898,23 @@
                 10
             ],
             "rogueRewardBaseUids": [
-                "3074384718604466"
+                "262524326022751"
             ],
             "uid": "2923413486171920",
             "warriorRewardBaseUids": [
-                "3074384718604466"
+                "262524326022751"
             ]
         },
         {
             "druidRewardBaseUids": [
-                "3113825473029667"
+                "1439240035421441"
             ],
             "mageRewardBaseUids": [
-                "3113825473029667"
+                "1439240035421441"
             ],
-            "name": "고대 상점 화염 고대연구서적",
+            "name": "lv.3 고대 상점 황금덩어리",
             "rewardCounts": [
-                4
+                20
             ],
             "rewardGradeWeights": [
                 10
@@ -22818,23 +22925,23 @@
                 10
             ],
             "rogueRewardBaseUids": [
-                "3113825473029667"
+                "1439240035421441"
             ],
             "uid": "2041605160535989",
             "warriorRewardBaseUids": [
-                "3113825473029667"
+                "1439240035421441"
             ]
         },
         {
             "druidRewardBaseUids": [
-                "3001522983149566"
+                "588447118032685"
             ],
             "mageRewardBaseUids": [
-                "3001522983149566"
+                "588447118032685"
             ],
-            "name": "고대 상점 냉기 고대연구서적",
+            "name": "lv.3 고대 상점 속성 스킬스크롤 꾸러미",
             "rewardCounts": [
-                4
+                100
             ],
             "rewardGradeWeights": [
                 10
@@ -22845,11 +22952,11 @@
                 10
             ],
             "rogueRewardBaseUids": [
-                "3001522983149566"
+                "588447118032685"
             ],
             "uid": "4190050882517406",
             "warriorRewardBaseUids": [
-                "3001522983149566"
+                "588447118032685"
             ]
         },
         {
@@ -22881,14 +22988,14 @@
         },
         {
             "druidRewardBaseUids": [
-                "1467238735841191"
+                "403062883113026"
             ],
             "mageRewardBaseUids": [
-                "1467238735841191"
+                "403062883113026"
             ],
-            "name": "숙련 크로매틱 스크롤 파편",
+            "name": "디멘션 코인",
             "rewardCounts": [
-                2
+                1
             ],
             "rewardGradeWeights": [
                 10
@@ -22899,11 +23006,11 @@
                 10
             ],
             "rogueRewardBaseUids": [
-                "1467238735841191"
+                "403062883113026"
             ],
             "uid": "1828100999441879",
             "warriorRewardBaseUids": [
-                "1467238735841191"
+                "403062883113026"
             ]
         },
         {
@@ -23257,7 +23364,7 @@
             ],
             "name": "고대상점 신성스크롤 200",
             "rewardCounts": [
-                200
+                100
             ],
             "rewardType": "RewardItem",
             "rewardValue": 1,
@@ -23281,7 +23388,7 @@
             ],
             "name": "고대상점 신성스크롤 300",
             "rewardCounts": [
-                300
+                200
             ],
             "rewardType": "RewardItem",
             "rewardValue": 1,
@@ -23329,7 +23436,7 @@
             ],
             "name": "고대상점 암흑스크롤 200",
             "rewardCounts": [
-                200
+                100
             ],
             "rewardType": "RewardItem",
             "rewardValue": 1,
@@ -23353,7 +23460,7 @@
             ],
             "name": "고대상점 암흑스크롤 300",
             "rewardCounts": [
-                300
+                200
             ],
             "rewardType": "RewardItem",
             "rewardValue": 1,
@@ -23374,7 +23481,7 @@
                 1
             ],
             "rewardType": "RewardRedGem",
-            "rewardValue": 600,
+            "rewardValue": 550,
             "rewardWeights": [
                 1
             ],
@@ -23385,8 +23492,8 @@
             "rewardCounts": [
                 1
             ],
-            "rewardType": "RewardRedGem",
-            "rewardValue": 75,
+            "rewardType": "RewardBlueGem",
+            "rewardValue": 80,
             "rewardWeights": [
                 1
             ],
@@ -23398,7 +23505,7 @@
                 1
             ],
             "rewardType": "RewardRedGem",
-            "rewardValue": 1700,
+            "rewardValue": 1200,
             "rewardWeights": [
                 1
             ],
@@ -23409,7 +23516,7 @@
             "rewardCounts": [
                 1
             ],
-            "rewardType": "RewardRedGem",
+            "rewardType": "RewardBlueGem",
             "rewardValue": 200,
             "rewardWeights": [
                 1
@@ -23538,14 +23645,14 @@
         },
         {
             "druidRewardBaseUids": [
-                "2593047991130596"
+                "3815706152683739"
             ],
             "mageRewardBaseUids": [
-                "2593047991130596"
+                "3815706152683739"
             ],
-            "name": "희귀 스킬 패키지 - 영웅 스킬 뽑기권",
+            "name": "희귀 스킬 패키지 - 희귀 스킬 뽑기권",
             "rewardCounts": [
-                1
+                20
             ],
             "rewardType": "RewardItem",
             "rewardValue": 1,
@@ -23553,23 +23660,23 @@
                 1
             ],
             "rogueRewardBaseUids": [
-                "2593047991130596"
+                "3815706152683739"
             ],
             "uid": "820776706000221",
             "warriorRewardBaseUids": [
-                "2593047991130596"
+                "3815706152683739"
             ]
         },
         {
             "druidRewardBaseUids": [
-                "2518827094883848"
+                "1727100335429053"
             ],
             "mageRewardBaseUids": [
-                "2518827094883848"
+                "1727100335429053"
             ],
-            "name": "희귀 스킬 패키지 - 희귀 스킬 뽑기권",
+            "name": "희귀 스킬 패키지 - 고급 스킬 뽑기권",
             "rewardCounts": [
-                200
+                30
             ],
             "rewardType": "RewardItem",
             "rewardValue": 1,
@@ -23577,11 +23684,11 @@
                 1
             ],
             "rogueRewardBaseUids": [
-                "2518827094883848"
+                "1727100335429053"
             ],
             "uid": "820776706000222",
             "warriorRewardBaseUids": [
-                "2518827094883848"
+                "1727100335429053"
             ]
         },
         {
@@ -23610,14 +23717,86 @@
         },
         {
             "druidRewardBaseUids": [
+                "460048207280890"
+            ],
+            "mageRewardBaseUids": [
+                "460048207280890"
+            ],
+            "name": "전설 스킬 패키지 - 전설 스킬 뽑기권",
+            "rewardCounts": [
+                4
+            ],
+            "rewardType": "RewardItem",
+            "rewardValue": 1,
+            "rewardWeights": [
+                1
+            ],
+            "rogueRewardBaseUids": [
+                "460048207280890"
+            ],
+            "uid": "581933617453394",
+            "warriorRewardBaseUids": [
+                "460048207280890"
+            ]
+        },
+        {
+            "druidRewardBaseUids": [
+                "2593047991130596"
+            ],
+            "mageRewardBaseUids": [
+                "2593047991130596"
+            ],
+            "name": "전설 스킬 패키지 - 영웅 스킬 뽑기권",
+            "rewardCounts": [
+                35
+            ],
+            "rewardType": "RewardItem",
+            "rewardValue": 1,
+            "rewardWeights": [
+                1
+            ],
+            "rogueRewardBaseUids": [
+                "2593047991130596"
+            ],
+            "uid": "581933617453393",
+            "warriorRewardBaseUids": [
+                "2593047991130596"
+            ]
+        },
+        {
+            "druidRewardBaseUids": [
+                "3815706152683739"
+            ],
+            "mageRewardBaseUids": [
+                "3815706152683739"
+            ],
+            "name": "전설 스킬 패키지 - 희귀 스킬 뽑기권",
+            "rewardCounts": [
+                35
+            ],
+            "rewardType": "RewardItem",
+            "rewardValue": 1,
+            "rewardWeights": [
+                1
+            ],
+            "rogueRewardBaseUids": [
+                "3815706152683739"
+            ],
+            "uid": "581933617453392",
+            "warriorRewardBaseUids": [
+                "3815706152683739"
+            ]
+        },
+        {
+            "druidRewardBaseUids": [
                 "767263566160889"
             ],
             "mageRewardBaseUids": [
                 "767263566160889"
             ],
-            "name": "스킬 성장 패키지 - 숙련 크로매틱스크롤",
+            "name": "스킬 성장 패키지 - 희귀 크로매틱 스크롤",
             "rewardCounts": [
-                2
+                1
             ],
             "rewardType": "RewardItem",
             "rewardValue": 1,
@@ -23633,39 +23812,27 @@
             ]
         },
         {
-            "druidRewardBaseUids": [
-                "1110310261468222"
-            ],
-            "mageRewardBaseUids": [
-                "1110310261468222"
-            ],
-            "name": "스킬 성장 패키지 - 전문 크로매틱 스크롤",
+            "name": "스킬 성장 패키지 - 골드",
             "rewardCounts": [
                 1
             ],
-            "rewardType": "RewardItem",
-            "rewardValue": 1,
+            "rewardType": "RewardGold",
+            "rewardValue": 50000,
             "rewardWeights": [
                 1
             ],
-            "rogueRewardBaseUids": [
-                "1110310261468222"
-            ],
-            "uid": "1392506317272739",
-            "warriorRewardBaseUids": [
-                "1110310261468222"
-            ]
+            "uid": "1392506317272739"
         },
         {
             "druidRewardBaseUids": [
-                "588447118032685"
+                "2518827094883848"
             ],
             "mageRewardBaseUids": [
-                "588447118032685"
+                "2518827094883848"
             ],
-            "name": "스킬 성장 패키지 - 속성스크롤4종",
+            "name": "스킬 성장 패키지 - 스킬스크롤",
             "rewardCounts": [
-                1
+                5000
             ],
             "rewardType": "RewardItem",
             "rewardValue": 1,
@@ -23673,23 +23840,23 @@
                 1
             ],
             "rogueRewardBaseUids": [
-                "588447118032685"
+                "2518827094883848"
             ],
             "uid": "1392506317272738",
             "warriorRewardBaseUids": [
-                "588447118032685"
+                "2518827094883848"
             ]
         },
         {
             "druidRewardBaseUids": [
-                "767263566160889"
+                "262524326022751"
             ],
             "mageRewardBaseUids": [
-                "767263566160889"
+                "262524326022751"
             ],
-            "name": "스킬 성장 패키지 - 숙련 크로매틱스크롤",
+            "name": "무료 패키지 - 철광석",
             "rewardCounts": [
-                2
+                100
             ],
             "rewardType": "RewardItem",
             "rewardValue": 1,
@@ -23697,23 +23864,23 @@
                 1
             ],
             "rogueRewardBaseUids": [
-                "767263566160889"
+                "262524326022751"
             ],
             "uid": "2662356202341716",
             "warriorRewardBaseUids": [
-                "767263566160889"
+                "262524326022751"
             ]
         },
         {
             "druidRewardBaseUids": [
-                "1110310261468222"
+                "2518827094883848"
             ],
             "mageRewardBaseUids": [
-                "1110310261468222"
+                "2518827094883848"
             ],
-            "name": "스킬 성장 패키지 - 전문 크로매틱 스크롤",
+            "name": "무료 패키지 - 스킬스크롤",
             "rewardCounts": [
-                1
+                1000
             ],
             "rewardType": "RewardItem",
             "rewardValue": 1,
@@ -23721,11 +23888,11 @@
                 1
             ],
             "rogueRewardBaseUids": [
-                "1110310261468222"
+                "2518827094883848"
             ],
             "uid": "2662356202341719",
             "warriorRewardBaseUids": [
-                "1110310261468222"
+                "2518827094883848"
             ]
         },
         {
@@ -23735,9 +23902,9 @@
             "mageRewardBaseUids": [
                 "588447118032685"
             ],
-            "name": "스킬 성장 패키지 - 속성스크롤4종",
+            "name": "무료 패키지 패키지 - 속성스크롤4종",
             "rewardCounts": [
-                1
+                10
             ],
             "rewardType": "RewardItem",
             "rewardValue": 1,
@@ -23801,28 +23968,16 @@
             ]
         },
         {
-            "druidRewardBaseUids": [
-                "2518827094883848"
-            ],
-            "mageRewardBaseUids": [
-                "2518827094883848"
-            ],
             "name": "레벨 성장 패키지 상품3",
             "rewardCounts": [
-                100
+                1
             ],
-            "rewardType": "RewardItem",
-            "rewardValue": 1,
+            "rewardType": "RewardGold",
+            "rewardValue": 1000,
             "rewardWeights": [
                 1
             ],
-            "rogueRewardBaseUids": [
-                "2518827094883848"
-            ],
-            "uid": "2408196054675677",
-            "warriorRewardBaseUids": [
-                "2518827094883848"
-            ]
+            "uid": "2408196054675677"
         },
         {
             "druidRewardBaseUids": [
@@ -23909,28 +24064,16 @@
             ]
         },
         {
-            "druidRewardBaseUids": [
-                "2518827094883848"
-            ],
-            "mageRewardBaseUids": [
-                "2518827094883848"
-            ],
             "name": "레벨 성장 패키지 상품8",
             "rewardCounts": [
-                100
+                1
             ],
-            "rewardType": "RewardItem",
-            "rewardValue": 1,
+            "rewardType": "RewardGold",
+            "rewardValue": 1000,
             "rewardWeights": [
                 1
             ],
-            "rogueRewardBaseUids": [
-                "2518827094883848"
-            ],
-            "uid": "2408196054675670",
-            "warriorRewardBaseUids": [
-                "2518827094883848"
-            ]
+            "uid": "2408196054675670"
         },
         {
             "druidRewardBaseUids": [
@@ -24219,6 +24362,126 @@
             "warriorRewardBaseUids": [
                 "588447118032685"
             ]
+        },
+        {
+            "druidRewardBaseUids": [
+                "3006795090320917"
+            ],
+            "mageRewardBaseUids": [
+                "3006795090320917"
+            ],
+            "name": "초보자 패키지 - 영웅 장비 뽑기권",
+            "rewardCounts": [
+                1
+            ],
+            "rewardType": "RewardItem",
+            "rewardValue": 1,
+            "rewardWeights": [
+                1
+            ],
+            "rogueRewardBaseUids": [
+                "3006795090320917"
+            ],
+            "uid": "1536504529758572",
+            "warriorRewardBaseUids": [
+                "3006795090320917"
+            ]
+        },
+        {
+            "druidRewardBaseUids": [
+                "477135557562773"
+            ],
+            "mageRewardBaseUids": [
+                "477135557562773"
+            ],
+            "name": "희귀 성물 패키지 - 희귀 성물 뽑기권",
+            "rewardCounts": [
+                8
+            ],
+            "rewardType": "RewardItem",
+            "rewardValue": 1,
+            "rewardWeights": [
+                1
+            ],
+            "rogueRewardBaseUids": [
+                "477135557562773"
+            ],
+            "uid": "3100101937804651",
+            "warriorRewardBaseUids": [
+                "477135557562773"
+            ]
+        },
+        {
+            "druidRewardBaseUids": [
+                "1677012192316595"
+            ],
+            "mageRewardBaseUids": [
+                "1677012192316595"
+            ],
+            "name": "희귀 성물 패키지 - 고급 성물 뽑기권",
+            "rewardCounts": [
+                20
+            ],
+            "rewardType": "RewardItem",
+            "rewardValue": 1,
+            "rewardWeights": [
+                1
+            ],
+            "rogueRewardBaseUids": [
+                "1677012192316595"
+            ],
+            "uid": "3100101937804648",
+            "warriorRewardBaseUids": [
+                "1677012192316595"
+            ]
+        },
+        {
+            "druidRewardBaseUids": [
+                "3626137920650186"
+            ],
+            "mageRewardBaseUids": [
+                "3626137920650186"
+            ],
+            "name": "영웅 성물 패키지 - 영웅 성물 뽑기권",
+            "rewardCounts": [
+                4
+            ],
+            "rewardType": "RewardItem",
+            "rewardValue": 1,
+            "rewardWeights": [
+                1
+            ],
+            "rogueRewardBaseUids": [
+                "3626137920650186"
+            ],
+            "uid": "3957140050053016",
+            "warriorRewardBaseUids": [
+                "3626137920650186"
+            ]
+        },
+        {
+            "druidRewardBaseUids": [
+                "477135557562773"
+            ],
+            "mageRewardBaseUids": [
+                "477135557562773"
+            ],
+            "name": "영웅 성물 패키지 - 희귀 성물 뽑기권",
+            "rewardCounts": [
+                20
+            ],
+            "rewardType": "RewardItem",
+            "rewardValue": 1,
+            "rewardWeights": [
+                1
+            ],
+            "rogueRewardBaseUids": [
+                "477135557562773"
+            ],
+            "uid": "3957140050053019",
+            "warriorRewardBaseUids": [
+                "477135557562773"
+            ]
         }
     ],
     "shopSubscriptionInfo": [
@@ -24233,9 +24496,8 @@
             "googlePid": "com.gamevil.idlecs.android.google.global.normal.monthly1",
             "iconName": "item_00990001",
             "isActive": true,
-            "isNew": true,
             "name": "일반 월정액",
-            "price": 5900,
+            "price": 5500,
             "rewardItemUids": [
                 "2325340185133285"
             ],
@@ -24248,7 +24510,7 @@
                 "861685653815645"
             ],
             "desc": "매일 접속 시 많은 양의 레드젬을 획득할 수 있습니다.\\n누적 구매 1회가 가능하며 누적 구매시 유효기간이 증가합니다.",
-            "durationDay": 1,
+            "durationDay": 30,
             "googlePid": "com.gamevil.idlecs.android.google.global.normal.monthly2",
             "iconName": "item_00990001",
             "isActive": true,

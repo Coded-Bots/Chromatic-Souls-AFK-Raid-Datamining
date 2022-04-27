@@ -253,67 +253,235 @@
             "serial": 22,
             "startTime": "1649516400000",
             "uid": "2432167029037963"
+        },
+        {
+            "desc": "모험가 연맹 리그 1기",
+            "serial": 23,
+            "startTime": "1650985200000",
+            "uid": "2432167029037962"
+        },
+        {
+            "desc": "모험가 연맹 리그 2기",
+            "serial": 24,
+            "startTime": "1651417200000",
+            "uid": "2432167029037965"
+        },
+        {
+            "desc": "모험가 연맹 리그 3기",
+            "serial": 25,
+            "startTime": "1651849200000",
+            "uid": "2432167029037964"
+        },
+        {
+            "desc": "모험가 연맹 리그 4기",
+            "serial": 26,
+            "startTime": "1652281200000",
+            "uid": "2432167029037967"
+        },
+        {
+            "desc": "모험가 연맹 리그 5기",
+            "serial": 27,
+            "startTime": "1652713200000",
+            "uid": "2432167029037966"
+        },
+        {
+            "desc": "모험가 연맹 리그 6기",
+            "serial": 28,
+            "startTime": "1653145200000",
+            "uid": "2432167029037953"
+        },
+        {
+            "desc": "모험가 연맹 리그 7기",
+            "serial": 29,
+            "startTime": "1653577200000",
+            "uid": "2432167029037952"
+        },
+        {
+            "desc": "모험가 연맹 리그 8기",
+            "serial": 30,
+            "startTime": "1654009200000",
+            "uid": "2431067517409846"
+        },
+        {
+            "desc": "모험가 연맹 리그 9기",
+            "serial": 31,
+            "startTime": "1654441200000",
+            "uid": "2431067517409847"
+        },
+        {
+            "desc": "모험가 연맹 리그 10기",
+            "serial": 32,
+            "startTime": "1654873200000",
+            "uid": "2431067517409844"
+        },
+        {
+            "desc": "모험가 연맹 리그 11기",
+            "serial": 33,
+            "startTime": "1655305200000",
+            "uid": "2431067517409845"
+        },
+        {
+            "desc": "모험가 연맹 리그 12기",
+            "serial": 34,
+            "startTime": "1655737200000",
+            "uid": "2431067517409842"
+        },
+        {
+            "desc": "모험가 연맹 리그 13기",
+            "serial": 35,
+            "startTime": "1656169200000",
+            "uid": "2431067517409843"
+        },
+        {
+            "desc": "모험가 연맹 리그 14기",
+            "serial": 36,
+            "startTime": "1656601200000",
+            "uid": "2431067517409840"
+        },
+        {
+            "desc": "모험가 연맹 리그 15기",
+            "serial": 37,
+            "startTime": "1657033200000",
+            "uid": "2431067517409841"
+        },
+        {
+            "desc": "모험가 연맹 리그 16기",
+            "serial": 38,
+            "startTime": "1657465200000",
+            "uid": "2431067517409854"
+        },
+        {
+            "desc": "모험가 연맹 리그 17기",
+            "serial": 39,
+            "startTime": "1657897200000",
+            "uid": "2431067517409855"
+        },
+        {
+            "desc": "모험가 연맹 리그 18기",
+            "serial": 40,
+            "startTime": "1658329200000",
+            "uid": "2434366052294447"
+        },
+        {
+            "desc": "모험가 연맹 리그 19기",
+            "serial": 41,
+            "startTime": "1658761200000",
+            "uid": "2434366052294446"
+        },
+        {
+            "desc": "모험가 연맹 리그 20기",
+            "serial": 42,
+            "startTime": "1659193200000",
+            "uid": "2434366052294445"
+        },
+        {
+            "desc": "모험가 연맹 리그 21기",
+            "serial": 43,
+            "startTime": "1659625200000",
+            "uid": "2434366052294444"
+        },
+        {
+            "desc": "모험가 연맹 리그 22기",
+            "serial": 44,
+            "startTime": "1660057200000",
+            "uid": "2434366052294443"
+        },
+        {
+            "desc": "모험가 연맹 리그 23기",
+            "serial": 45,
+            "startTime": "1660489200000",
+            "uid": "2434366052294442"
+        },
+        {
+            "desc": "모험가 연맹 리그 24기",
+            "serial": 46,
+            "startTime": "1660921200000",
+            "uid": "2434366052294441"
+        },
+        {
+            "desc": "모험가 연맹 리그 25기",
+            "serial": 47,
+            "startTime": "1661353200000",
+            "uid": "2434366052294440"
+        },
+        {
+            "desc": "모험가 연맹 리그 26기",
+            "serial": 48,
+            "startTime": "1661785200000",
+            "uid": "2434366052294439"
+        },
+        {
+            "desc": "모험가 연맹 리그 27기",
+            "serial": 49,
+            "startTime": "1662217200000",
+            "uid": "2434366052294438"
+        },
+        {
+            "desc": "모험가 연맹 리그 28기",
+            "serial": 50,
+            "startTime": "1662649200000",
+            "uid": "2433266540666204"
         }
     ],
     "rankingInfo": [
         {
-            "blueGemReward": 50,
+            "blueGemReward": 300,
             "name": "레전드 모험가",
             "rankGradeType": "RankGrade1St",
             "rankType": "RankAdventurer",
             "uid": "4486608119007944"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 250,
             "name": "그랜드 마스터 모험가",
             "rankGradeType": "RankGradeIn10",
             "rankType": "RankAdventurer",
             "uid": "4486608119007947"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 200,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn100",
             "rankType": "RankAdventurer",
             "uid": "4486608119007946"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 150,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn1Percent",
             "rankType": "RankAdventurer",
             "uid": "4486608119007949"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 100,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn10Percent",
             "rankType": "RankAdventurer",
             "uid": "4486608119007948"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 90,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn20Percent",
             "rankType": "RankAdventurer",
             "uid": "4486608119007951"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 80,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn30Percent",
             "rankType": "RankAdventurer",
             "uid": "4486608119007950"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 70,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn40Percent",
             "rankType": "RankAdventurer",
             "uid": "4486608119007937"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 60,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn50Percent",
             "rankType": "RankAdventurer",
@@ -327,91 +495,91 @@
             "uid": "146945582322152"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 40,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn70Percent",
             "rankType": "RankAdventurer",
             "uid": "146945582322153"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 30,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn80Percent",
             "rankType": "RankAdventurer",
             "uid": "146945582322154"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 20,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn90Percent",
             "rankType": "RankAdventurer",
             "uid": "146945582322155"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 10,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn100Percent",
             "rankType": "RankAdventurer",
             "uid": "146945582322156"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 300,
             "name": "레전드 모험가",
             "rankGradeType": "RankGrade1St",
             "rankType": "RankCollector",
             "uid": "4196339666863701"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 250,
             "name": "그랜드 마스터 모험가",
             "rankGradeType": "RankGradeIn10",
             "rankType": "RankCollector",
             "uid": "4196339666863702"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 200,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn100",
             "rankType": "RankCollector",
             "uid": "4196339666863703"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 150,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn1Percent",
             "rankType": "RankCollector",
             "uid": "4196339666863696"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 100,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn10Percent",
             "rankType": "RankCollector",
             "uid": "4196339666863697"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 90,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn20Percent",
             "rankType": "RankCollector",
             "uid": "4196339666863698"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 80,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn30Percent",
             "rankType": "RankCollector",
             "uid": "4196339666863699"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 70,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn40Percent",
             "rankType": "RankCollector",
             "uid": "4196339666863708"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 60,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn50Percent",
             "rankType": "RankCollector",
@@ -425,91 +593,91 @@
             "uid": "3232214349283935"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 40,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn70Percent",
             "rankType": "RankCollector",
             "uid": "3232214349283934"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 30,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn80Percent",
             "rankType": "RankCollector",
             "uid": "3232214349283933"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 20,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn90Percent",
             "rankType": "RankCollector",
             "uid": "3232214349283932"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 10,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn100Percent",
             "rankType": "RankCollector",
             "uid": "3232214349283931"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 300,
             "name": "레전드 모험가",
             "rankGradeType": "RankGrade1St",
             "rankType": "RankStrategist",
             "uid": "1942843665965416"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 250,
             "name": "그랜드 마스터 모험가",
             "rankGradeType": "RankGradeIn10",
             "rankType": "RankStrategist",
             "uid": "1942843665965419"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 200,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn100",
             "rankType": "RankStrategist",
             "uid": "1942843665965418"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 150,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn1Percent",
             "rankType": "RankStrategist",
             "uid": "1942843665965421"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 100,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn10Percent",
             "rankType": "RankStrategist",
             "uid": "1942843665965420"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 90,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn20Percent",
             "rankType": "RankStrategist",
             "uid": "1942843665965423"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 80,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn30Percent",
             "rankType": "RankStrategist",
             "uid": "1942843665965422"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 70,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn40Percent",
             "rankType": "RankStrategist",
             "uid": "1942843665965409"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 60,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn50Percent",
             "rankType": "RankStrategist",
@@ -523,91 +691,91 @@
             "uid": "3359688562672520"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 40,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn70Percent",
             "rankType": "RankStrategist",
             "uid": "3359688562672521"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 30,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn80Percent",
             "rankType": "RankStrategist",
             "uid": "3359688562672522"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 20,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn90Percent",
             "rankType": "RankStrategist",
             "uid": "3359688562672523"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 10,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn100Percent",
             "rankType": "RankStrategist",
             "uid": "3359688562672524"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 300,
             "name": "레전드 모험가",
             "rankGradeType": "RankGrade1St",
             "rankType": "RankFighter",
             "uid": "3906594116496679"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 250,
             "name": "그랜드 마스터 모험가",
             "rankGradeType": "RankGradeIn10",
             "rankType": "RankFighter",
             "uid": "3906594116496676"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 200,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn100",
             "rankType": "RankFighter",
             "uid": "3906594116496677"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 150,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn1Percent",
             "rankType": "RankFighter",
             "uid": "3906594116496674"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 100,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn10Percent",
             "rankType": "RankFighter",
             "uid": "3906594116496675"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 90,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn20Percent",
             "rankType": "RankFighter",
             "uid": "3906594116496672"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 80,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn30Percent",
             "rankType": "RankFighter",
             "uid": "3906594116496673"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 70,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn40Percent",
             "rankType": "RankFighter",
             "uid": "3906594116496686"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 60,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn50Percent",
             "rankType": "RankFighter",
@@ -621,28 +789,28 @@
             "uid": "709837180729717"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 40,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn70Percent",
             "rankType": "RankFighter",
             "uid": "709837180729716"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 30,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn80Percent",
             "rankType": "RankFighter",
             "uid": "709837180729719"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 20,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn90Percent",
             "rankType": "RankFighter",
             "uid": "709837180729718"
         },
         {
-            "blueGemReward": 50,
+            "blueGemReward": 10,
             "name": "마스터 모험가",
             "rankGradeType": "RankGradeIn100Percent",
             "rankType": "RankFighter",

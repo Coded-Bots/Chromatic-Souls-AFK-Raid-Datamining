@@ -76,6 +76,11 @@
             "uid": "559222209995253"
         },
         {
+            "actionTime": 1250,
+            "invokeTime": 1000,
+            "uid": "559222209995250"
+        },
+        {
             "actionTime": 720,
             "invokeTime": 300,
             "uid": "3566578953390561"
@@ -186,8 +191,8 @@
             "uid": "3506416430142870"
         },
         {
-            "actionTime": 2000,
-            "invokeTime": 1000,
+            "actionTime": 1850,
+            "invokeTime": 1400,
             "uid": "3506416430142869"
         },
         {

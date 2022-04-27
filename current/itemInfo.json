@@ -113,6 +113,12 @@
             "useParameter": "{\"rewardType\":\"Reward_Equip\", \"weight\":\"productionWeight\", \"gradeWeight\":\"productionWeight\"}"
         },
         {
+            "desc": "다른 차원에서 사용되는 희귀한 재화와 교환할 수 있을 것 같다.",
+            "iconName": "item_00710003",
+            "name": "디멘션 코인",
+            "uid": "403062883113026"
+        },
+        {
             "desc": "연구소에서 사용하면 화염 속성 연구를 1회 진행할 수 있는 화염 고대 연구 서적이다.",
             "iconName": "item_00700003",
             "itemType": "ItemTicket",

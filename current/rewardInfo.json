@@ -67876,10 +67876,10 @@
         },
         {
             "druidRewardBaseUids": [
-                "460048207280890"
+                "719787066936056"
             ],
             "mageRewardBaseUids": [
-                "460048207280890"
+                "719787066936056"
             ],
             "name": "스킬 마일리지 4",
             "rewardCounts": [
@@ -67891,19 +67891,19 @@
                 1
             ],
             "rogueRewardBaseUids": [
-                "460048207280890"
+                "719787066936056"
             ],
             "uid": "919268789914807",
             "warriorRewardBaseUids": [
-                "460048207280890"
+                "719787066936056"
             ]
         },
         {
             "druidRewardBaseUids": [
-                "1927727944130452"
+                "218722699442638"
             ],
             "mageRewardBaseUids": [
-                "1927727944130452"
+                "218722699442638"
             ],
             "name": "스킬 마일리지 5",
             "rewardCounts": [
@@ -67915,11 +67915,11 @@
                 1
             ],
             "rogueRewardBaseUids": [
-                "1927727944130452"
+                "218722699442638"
             ],
             "uid": "919268789914806",
             "warriorRewardBaseUids": [
-                "1927727944130452"
+                "218722699442638"
             ]
         },
         {
@@ -82441,16 +82441,28 @@
             ]
         },
         {
+            "druidRewardBaseUids": [
+                "403062883113026"
+            ],
+            "mageRewardBaseUids": [
+                "403062883113026"
+            ],
             "name": "일반 임무 보상 8",
             "rewardCounts": [
                 1
             ],
-            "rewardType": "RewardBlueGem",
-            "rewardValue": 150,
+            "rewardType": "RewardItem",
+            "rewardValue": 1,
             "rewardWeights": [
                 1
             ],
-            "uid": "2949512969457962"
+            "rogueRewardBaseUids": [
+                "403062883113026"
+            ],
+            "uid": "2949512969457962",
+            "warriorRewardBaseUids": [
+                "403062883113026"
+            ]
         },
         {
             "druidRewardBaseUids": [
@@ -82753,16 +82765,28 @@
             ]
         },
         {
+            "druidRewardBaseUids": [
+                "403062883113026"
+            ],
+            "mageRewardBaseUids": [
+                "403062883113026"
+            ],
             "name": "일반 임무 보상 23",
             "rewardCounts": [
                 1
             ],
-            "rewardType": "RewardBlueGem",
-            "rewardValue": 150,
+            "rewardType": "RewardItem",
+            "rewardValue": 1,
             "rewardWeights": [
                 1
             ],
-            "uid": "4332506889787731"
+            "rogueRewardBaseUids": [
+                "403062883113026"
+            ],
+            "uid": "4332506889787731",
+            "warriorRewardBaseUids": [
+                "403062883113026"
+            ]
         },
         {
             "druidRewardBaseUids": [
@@ -83429,8 +83453,8 @@
             "rewardCounts": [
                 1
             ],
-            "rewardType": "RewardMithril",
-            "rewardValue": 200,
+            "rewardType": "RewardBlueGem",
+            "rewardValue": 300,
             "rewardWeights": [
                 1
             ],
@@ -83461,16 +83485,28 @@
             ]
         },
         {
+            "druidRewardBaseUids": [
+                "403062883113026"
+            ],
+            "mageRewardBaseUids": [
+                "403062883113026"
+            ],
             "name": "특별 임무 보상 8",
             "rewardCounts": [
                 1
             ],
-            "rewardType": "RewardBlueGem",
-            "rewardValue": 300,
+            "rewardType": "RewardItem",
+            "rewardValue": 1,
             "rewardWeights": [
                 1
             ],
-            "uid": "2581557181871213"
+            "rogueRewardBaseUids": [
+                "403062883113026"
+            ],
+            "uid": "2581557181871213",
+            "warriorRewardBaseUids": [
+                "403062883113026"
+            ]
         },
         {
             "druidRewardBaseUids": [
@@ -83633,8 +83669,8 @@
             "rewardCounts": [
                 1
             ],
-            "rewardType": "RewardMithril",
-            "rewardValue": 200,
+            "rewardType": "RewardBlueGem",
+            "rewardValue": 300,
             "rewardWeights": [
                 1
             ],
@@ -83773,16 +83809,28 @@
             ]
         },
         {
+            "druidRewardBaseUids": [
+                "403062883113026"
+            ],
+            "mageRewardBaseUids": [
+                "403062883113026"
+            ],
             "name": "특별 임무 보상 23",
             "rewardCounts": [
                 1
             ],
-            "rewardType": "RewardBlueGem",
-            "rewardValue": 300,
+            "rewardType": "RewardItem",
+            "rewardValue": 1,
             "rewardWeights": [
                 1
             ],
-            "uid": "2820216503225142"
+            "rogueRewardBaseUids": [
+                "403062883113026"
+            ],
+            "uid": "2820216503225142",
+            "warriorRewardBaseUids": [
+                "403062883113026"
+            ]
         },
         {
             "druidRewardBaseUids": [
@@ -83837,8 +83885,8 @@
             "rewardCounts": [
                 1
             ],
-            "rewardType": "RewardMithril",
-            "rewardValue": 200,
+            "rewardType": "RewardBlueGem",
+            "rewardValue": 300,
             "rewardWeights": [
                 1
             ],
@@ -84041,8 +84089,8 @@
             "rewardCounts": [
                 1
             ],
-            "rewardType": "RewardMithril",
-            "rewardValue": 200,
+            "rewardType": "RewardBlueGem",
+            "rewardValue": 300,
             "rewardWeights": [
                 1
             ],
@@ -84245,8 +84293,8 @@
             "rewardCounts": [
                 1
             ],
-            "rewardType": "RewardMithril",
-            "rewardValue": 200,
+            "rewardType": "RewardBlueGem",
+            "rewardValue": 300,
             "rewardWeights": [
                 1
             ],
@@ -84390,7 +84438,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 2200,
+            "rewardValue": 1200,
             "rewardWeights": [
                 1
             ],
@@ -84402,7 +84450,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 2000,
+            "rewardValue": 600,
             "rewardWeights": [
                 1
             ],
@@ -84414,7 +84462,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 1800,
+            "rewardValue": 500,
             "rewardWeights": [
                 1
             ],
@@ -84426,7 +84474,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 1600,
+            "rewardValue": 400,
             "rewardWeights": [
                 1
             ],
@@ -84438,7 +84486,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 1400,
+            "rewardValue": 350,
             "rewardWeights": [
                 1
             ],
@@ -84450,7 +84498,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 1200,
+            "rewardValue": 300,
             "rewardWeights": [
                 1
             ],
@@ -84462,7 +84510,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 1000,
+            "rewardValue": 250,
             "rewardWeights": [
                 1
             ],
@@ -84474,7 +84522,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 800,
+            "rewardValue": 200,
             "rewardWeights": [
                 1
             ],
@@ -84486,7 +84534,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 600,
+            "rewardValue": 150,
             "rewardWeights": [
                 1
             ],
@@ -84498,7 +84546,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 400,
+            "rewardValue": 100,
             "rewardWeights": [
                 1
             ],
@@ -84510,7 +84558,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 100,
+            "rewardValue": 50,
             "rewardWeights": [
                 1
             ],
@@ -84570,7 +84618,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 2200,
+            "rewardValue": 1200,
             "rewardWeights": [
                 1
             ],
@@ -84582,7 +84630,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 2000,
+            "rewardValue": 600,
             "rewardWeights": [
                 1
             ],
@@ -84594,7 +84642,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 1800,
+            "rewardValue": 500,
             "rewardWeights": [
                 1
             ],
@@ -84606,7 +84654,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 1600,
+            "rewardValue": 400,
             "rewardWeights": [
                 1
             ],
@@ -84618,7 +84666,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 1400,
+            "rewardValue": 350,
             "rewardWeights": [
                 1
             ],
@@ -84630,7 +84678,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 1200,
+            "rewardValue": 300,
             "rewardWeights": [
                 1
             ],
@@ -84642,7 +84690,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 1000,
+            "rewardValue": 250,
             "rewardWeights": [
                 1
             ],
@@ -84654,7 +84702,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 800,
+            "rewardValue": 200,
             "rewardWeights": [
                 1
             ],
@@ -84666,7 +84714,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 600,
+            "rewardValue": 150,
             "rewardWeights": [
                 1
             ],
@@ -84678,7 +84726,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 400,
+            "rewardValue": 100,
             "rewardWeights": [
                 1
             ],
@@ -84690,7 +84738,7 @@
                 1
             ],
             "rewardType": "RewardBlueGem",
-            "rewardValue": 100,
+            "rewardValue": 50,
             "rewardWeights": [
                 1
             ],
@@ -84702,7 +84750,7 @@
                 1
             ],
             "rewardType": "RewardSoulStone",
-            "rewardValue": 1000,
+            "rewardValue": 250000,
             "rewardWeights": [
                 1
             ],
@@ -84714,7 +84762,7 @@
                 1
             ],
             "rewardType": "RewardSoulStone",
-            "rewardValue": 300,
+            "rewardValue": 100000,
             "rewardWeights": [
                 1
             ],
@@ -84726,35 +84774,23 @@
                 1
             ],
             "rewardType": "RewardSoulStone",
-            "rewardValue": 100,
+            "rewardValue": 40000,
             "rewardWeights": [
                 1
             ],
             "uid": "2020433490285775"
         },
         {
-            "druidRewardBaseUids": [
-                "218722699442638"
-            ],
-            "mageRewardBaseUids": [
-                "218722699442638"
-            ],
             "name": "RankGrade_in20",
             "rewardCounts": [
-                2
+                1
             ],
-            "rewardType": "RewardItem",
-            "rewardValue": 1,
+            "rewardType": "RewardSoulStone",
+            "rewardValue": 7500,
             "rewardWeights": [
                 1
             ],
-            "rogueRewardBaseUids": [
-                "218722699442638"
-            ],
-            "uid": "2020433490285768",
-            "warriorRewardBaseUids": [
-                "218722699442638"
-            ]
+            "uid": "2020433490285768"
         },
         {
             "druidRewardBaseUids": [
