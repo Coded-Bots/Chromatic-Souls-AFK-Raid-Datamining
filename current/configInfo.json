@@ -1220,6 +1220,13 @@
                 "intValue": 1440,
                 "type": "Numeric"
             }
+        },
+        {
+            "uid": "1633277236917873",
+            "value": {
+                "intValue": 60,
+                "type": "Numeric"
+            }
         }
     ]
 }
