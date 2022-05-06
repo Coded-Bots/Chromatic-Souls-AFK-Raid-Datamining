@@ -55,7 +55,7 @@
                     "uid": "2122215103917624"
                 },
                 {
-                    "text": "Party requirements not met.",
+                    "text": "Unable to join a party. Either party requirements are not met, or a 12-hour timer hasn't passed yet after you joined the previous one.",
                     "uid": "3660151525107006"
                 },
                 {
@@ -153,6 +153,10 @@
                 {
                     "text": "You cannot send a Friend Request to yourself.",
                     "uid": "2265492434054320"
+                },
+                {
+                    "text": "Invalid gear slot.",
+                    "uid": "651738676594663"
                 }
             ],
             "language": "en"
