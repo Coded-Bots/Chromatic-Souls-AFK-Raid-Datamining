@@ -1,4 +1,1570 @@
 {
+    "characterGradeInfo": [
+        {
+            "achievementConditionIndex": [
+                0
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 1,
+            "classType": "CtWarrior",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 10,
+            "modelUid": "3472164382549437",
+            "name": "견습 나이트1",
+            "uid": "3044896771003965"
+        },
+        {
+            "achievementConditionIndex": [
+                1
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 2,
+            "classType": "CtWarrior",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 20,
+            "modelUid": "3472164382549437",
+            "name": "견습 나이트2",
+            "uid": "3044896771003966"
+        },
+        {
+            "achievementConditionIndex": [
+                2
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 3,
+            "classType": "CtWarrior",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 30,
+            "modelUid": "3472164382549437",
+            "name": "견습 나이트3",
+            "uid": "3044896771003967"
+        },
+        {
+            "achievementConditionIndex": [
+                3
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 4,
+            "classType": "CtWarrior",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 40,
+            "modelUid": "3472164382549437",
+            "name": "견습 나이트4",
+            "uid": "3044896771003960"
+        },
+        {
+            "achievementConditionIndex": [
+                4,
+                0,
+                0
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0",
+                "15402",
+                "16279",
+                "116",
+                "1646",
+                "0",
+                "13699",
+                "75",
+                "68",
+                "14",
+                "317",
+                "0"
+            ],
+            "characterGrade": 5,
+            "classType": "CtWarrior",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 50,
+            "modelUid": "3472164382549437",
+            "name": "견습 나이트5",
+            "uid": "3044896771003961"
+        },
+        {
+            "achievementConditionIndex": [
+                5
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 6,
+            "classType": "CtWarrior",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 60,
+            "modelUid": "3472164382549438",
+            "name": "숙련 나이트1",
+            "passiveSkillUid": "1670742325478298",
+            "uid": "3044896771003962"
+        },
+        {
+            "achievementConditionIndex": [
+                6
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 7,
+            "classType": "CtWarrior",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 70,
+            "modelUid": "3472164382549438",
+            "name": "숙련 나이트2",
+            "uid": "3044896771003963"
+        },
+        {
+            "achievementConditionIndex": [
+                7
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 8,
+            "classType": "CtWarrior",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 80,
+            "modelUid": "3472164382549438",
+            "name": "숙련 나이트3",
+            "uid": "3044896771003956"
+        },
+        {
+            "achievementConditionIndex": [
+                8
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 9,
+            "classType": "CtWarrior",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 90,
+            "modelUid": "3472164382549438",
+            "name": "숙련 나이트4",
+            "uid": "3044896771003957"
+        },
+        {
+            "achievementConditionIndex": [
+                9,
+                0,
+                0
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0",
+                "1946",
+                "98",
+                "3635790",
+                "0",
+                "13697",
+                "75",
+                "68",
+                "14",
+                "317",
+                "0"
+            ],
+            "characterGrade": 10,
+            "classType": "CtWarrior",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 100,
+            "modelUid": "3472164382549438",
+            "name": "숙련 나이트5",
+            "uid": "2227725009357207"
+        },
+        {
+            "achievementConditionIndex": [
+                10
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 11,
+            "classType": "CtWarrior",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 110,
+            "modelUid": "3472164382549439",
+            "name": "정예 나이트1",
+            "passiveSkillUid": "1670742325478297",
+            "uid": "2227725009357206"
+        },
+        {
+            "achievementConditionIndex": [
+                11
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 12,
+            "classType": "CtWarrior",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 120,
+            "modelUid": "3472164382549439",
+            "name": "정예 나이트2",
+            "uid": "2227725009357205"
+        },
+        {
+            "achievementConditionIndex": [
+                12
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 13,
+            "classType": "CtWarrior",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 130,
+            "modelUid": "3472164382549439",
+            "name": "정예 나이트3",
+            "uid": "2227725009357204"
+        },
+        {
+            "achievementConditionIndex": [
+                13
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 14,
+            "classType": "CtWarrior",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 140,
+            "modelUid": "3472164382549439",
+            "name": "정예 나이트4",
+            "uid": "2227725009357203"
+        },
+        {
+            "achievementConditionIndex": [
+                14,
+                0,
+                0
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0",
+                "1951",
+                "98",
+                "3635790",
+                "0",
+                "13703",
+                "75",
+                "68",
+                "14",
+                "317",
+                "0"
+            ],
+            "characterGrade": 15,
+            "classType": "CtWarrior",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 150,
+            "modelUid": "3472164382549439",
+            "name": "정예 나이트5",
+            "uid": "2227725009357202"
+        },
+        {
+            "achievementConditionIndex": [
+                15
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 16,
+            "classType": "CtWarrior",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 160,
+            "modelUid": "3472164382549432",
+            "name": "로열나이트1",
+            "passiveSkillUid": "1670742325478296",
+            "uid": "2227725009357201"
+        },
+        {
+            "achievementConditionIndex": [
+                16
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 17,
+            "classType": "CtWarrior",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 170,
+            "modelUid": "3472164382549432",
+            "name": "로열나이트2",
+            "uid": "2227725009357200"
+        },
+        {
+            "achievementConditionIndex": [
+                17
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 18,
+            "classType": "CtWarrior",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 180,
+            "modelUid": "3472164382549432",
+            "name": "로열나이트3",
+            "uid": "2227725009357215"
+        },
+        {
+            "achievementConditionIndex": [
+                18
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 19,
+            "classType": "CtWarrior",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 190,
+            "modelUid": "3472164382549432",
+            "name": "로열나이트4",
+            "uid": "2227725009357214"
+        },
+        {
+            "characterGrade": 20,
+            "classType": "CtWarrior",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "modelUid": "3472164382549432",
+            "name": "로열나이트5",
+            "uid": "2228824520985450"
+        },
+        {
+            "achievementConditionIndex": [
+                0
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 1,
+            "classType": "CtRogue",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 10,
+            "modelUid": "2172837357818461",
+            "name": "견습 로그1",
+            "uid": "1344046924648157"
+        },
+        {
+            "achievementConditionIndex": [
+                1
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 2,
+            "classType": "CtRogue",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 20,
+            "modelUid": "2172837357818461",
+            "name": "견습 로그2",
+            "uid": "1344046924648158"
+        },
+        {
+            "achievementConditionIndex": [
+                2
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 3,
+            "classType": "CtRogue",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 30,
+            "modelUid": "2172837357818461",
+            "name": "견습 로그3",
+            "uid": "1344046924648159"
+        },
+        {
+            "achievementConditionIndex": [
+                3
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 4,
+            "classType": "CtRogue",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 40,
+            "modelUid": "2172837357818461",
+            "name": "견습 로그4",
+            "uid": "1344046924648152"
+        },
+        {
+            "achievementConditionIndex": [
+                4,
+                0,
+                0
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0",
+                "15402",
+                "16279",
+                "116",
+                "1646",
+                "0",
+                "13699",
+                "75",
+                "68",
+                "14",
+                "317",
+                "0"
+            ],
+            "characterGrade": 5,
+            "classType": "CtRogue",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 50,
+            "modelUid": "2172837357818461",
+            "name": "견습 로그5",
+            "uid": "1344046924648153"
+        },
+        {
+            "achievementConditionIndex": [
+                5
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 6,
+            "classType": "CtRogue",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 60,
+            "modelUid": "2172837357818462",
+            "name": "숙련 로그1",
+            "passiveSkillUid": "1094993715980370",
+            "uid": "1344046924648154"
+        },
+        {
+            "achievementConditionIndex": [
+                6
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 7,
+            "classType": "CtRogue",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 70,
+            "modelUid": "2172837357818462",
+            "name": "숙련 로그2",
+            "uid": "1344046924648155"
+        },
+        {
+            "achievementConditionIndex": [
+                7
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 8,
+            "classType": "CtRogue",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 80,
+            "modelUid": "2172837357818462",
+            "name": "숙련 로그3",
+            "uid": "1344046924648148"
+        },
+        {
+            "achievementConditionIndex": [
+                8
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 9,
+            "classType": "CtRogue",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 90,
+            "modelUid": "2172837357818462",
+            "name": "숙련 로그4",
+            "uid": "1344046924648149"
+        },
+        {
+            "achievementConditionIndex": [
+                9,
+                0,
+                0
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0",
+                "1946",
+                "98",
+                "3635790",
+                "0",
+                "13697",
+                "75",
+                "68",
+                "14",
+                "317",
+                "0"
+            ],
+            "characterGrade": 10,
+            "classType": "CtRogue",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 100,
+            "modelUid": "2172837357818462",
+            "name": "숙련 로그5",
+            "uid": "3376102407471543"
+        },
+        {
+            "achievementConditionIndex": [
+                10
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 11,
+            "classType": "CtRogue",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 110,
+            "modelUid": "2172837357818463",
+            "name": "정예 로그1",
+            "passiveSkillUid": "1094993715980369",
+            "uid": "3376102407471542"
+        },
+        {
+            "achievementConditionIndex": [
+                11
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 12,
+            "classType": "CtRogue",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 120,
+            "modelUid": "2172837357818463",
+            "name": "정예 로그2",
+            "uid": "3376102407471541"
+        },
+        {
+            "achievementConditionIndex": [
+                12
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 13,
+            "classType": "CtRogue",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 130,
+            "modelUid": "2172837357818463",
+            "name": "정예 로그3",
+            "uid": "3376102407471540"
+        },
+        {
+            "achievementConditionIndex": [
+                13
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 14,
+            "classType": "CtRogue",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 140,
+            "modelUid": "2172837357818463",
+            "name": "정예 로그4",
+            "uid": "3376102407471539"
+        },
+        {
+            "achievementConditionIndex": [
+                14,
+                0,
+                0
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0",
+                "1951",
+                "98",
+                "3635790",
+                "0",
+                "13703",
+                "75",
+                "68",
+                "14",
+                "317",
+                "0"
+            ],
+            "characterGrade": 15,
+            "classType": "CtRogue",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 150,
+            "modelUid": "2172837357818463",
+            "name": "정예 로그5",
+            "uid": "3376102407471538"
+        },
+        {
+            "achievementConditionIndex": [
+                15
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 16,
+            "classType": "CtRogue",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 160,
+            "modelUid": "2172837357818456",
+            "name": "마스터 로그1",
+            "passiveSkillUid": "1094993715980368",
+            "uid": "3376102407471537"
+        },
+        {
+            "achievementConditionIndex": [
+                16
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 17,
+            "classType": "CtRogue",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 170,
+            "modelUid": "2172837357818456",
+            "name": "마스터 로그2",
+            "uid": "3376102407471536"
+        },
+        {
+            "achievementConditionIndex": [
+                17
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 18,
+            "classType": "CtRogue",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 180,
+            "modelUid": "2172837357818456",
+            "name": "마스터 로그3",
+            "uid": "3376102407471551"
+        },
+        {
+            "achievementConditionIndex": [
+                18
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 19,
+            "classType": "CtRogue",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 190,
+            "modelUid": "2172837357818456",
+            "name": "마스터 로그4",
+            "uid": "3376102407471550"
+        },
+        {
+            "characterGrade": 20,
+            "classType": "CtRogue",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "modelUid": "2172837357818456",
+            "name": "마스터 로그5",
+            "uid": "3377201919099658"
+        },
+        {
+            "achievementConditionIndex": [
+                0
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 1,
+            "classType": "CtMage",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 10,
+            "modelUid": "36694101430505",
+            "name": "견습메이지1",
+            "uid": "3533166908678761"
+        },
+        {
+            "achievementConditionIndex": [
+                1
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 2,
+            "classType": "CtMage",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 20,
+            "modelUid": "36694101430505",
+            "name": "견습메이지2",
+            "uid": "3533166908678762"
+        },
+        {
+            "achievementConditionIndex": [
+                2
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 3,
+            "classType": "CtMage",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 30,
+            "modelUid": "36694101430505",
+            "name": "견습메이지3",
+            "uid": "3533166908678763"
+        },
+        {
+            "achievementConditionIndex": [
+                3
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 4,
+            "classType": "CtMage",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 40,
+            "modelUid": "36694101430505",
+            "name": "견습메이지4",
+            "uid": "3533166908678764"
+        },
+        {
+            "achievementConditionIndex": [
+                4,
+                0,
+                0
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0",
+                "15402",
+                "16279",
+                "116",
+                "1646",
+                "0",
+                "13699",
+                "75",
+                "68",
+                "14",
+                "317",
+                "0"
+            ],
+            "characterGrade": 5,
+            "classType": "CtMage",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 50,
+            "modelUid": "36694101430505",
+            "name": "견습메이지5",
+            "uid": "3533166908678765"
+        },
+        {
+            "achievementConditionIndex": [
+                5
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 6,
+            "classType": "CtMage",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 60,
+            "modelUid": "36694101430506",
+            "name": "숙련 메이지1",
+            "passiveSkillUid": "4043505456965658",
+            "uid": "3533166908678766"
+        },
+        {
+            "achievementConditionIndex": [
+                6
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 7,
+            "classType": "CtMage",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 70,
+            "modelUid": "36694101430506",
+            "name": "숙련 메이지2",
+            "uid": "3533166908678767"
+        },
+        {
+            "achievementConditionIndex": [
+                7
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 8,
+            "classType": "CtMage",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 80,
+            "modelUid": "36694101430506",
+            "name": "숙련 메이지3",
+            "uid": "3533166908678752"
+        },
+        {
+            "achievementConditionIndex": [
+                8
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 9,
+            "classType": "CtMage",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 90,
+            "modelUid": "36694101430506",
+            "name": "숙련 메이지4",
+            "uid": "3533166908678753"
+        },
+        {
+            "achievementConditionIndex": [
+                9,
+                0,
+                0
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0",
+                "1946",
+                "98",
+                "3635790",
+                "0",
+                "13697",
+                "75",
+                "68",
+                "14",
+                "317",
+                "0"
+            ],
+            "characterGrade": 10,
+            "classType": "CtMage",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 100,
+            "modelUid": "36694101430506",
+            "name": "숙련 메이지5",
+            "uid": "1878531016259675"
+        },
+        {
+            "achievementConditionIndex": [
+                10
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 11,
+            "classType": "CtMage",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 110,
+            "modelUid": "36694101430507",
+            "name": "정예 메이지1",
+            "passiveSkillUid": "4043505456965657",
+            "uid": "1878531016259674"
+        },
+        {
+            "achievementConditionIndex": [
+                11
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 12,
+            "classType": "CtMage",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 120,
+            "modelUid": "36694101430507",
+            "name": "정예 메이지2",
+            "uid": "1878531016259673"
+        },
+        {
+            "achievementConditionIndex": [
+                12
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 13,
+            "classType": "CtMage",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 130,
+            "modelUid": "36694101430507",
+            "name": "정예 메이지3",
+            "uid": "1878531016259672"
+        },
+        {
+            "achievementConditionIndex": [
+                13
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 14,
+            "classType": "CtMage",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 140,
+            "modelUid": "36694101430507",
+            "name": "정예 메이지4",
+            "uid": "1878531016259679"
+        },
+        {
+            "achievementConditionIndex": [
+                14,
+                0,
+                0
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0",
+                "1951",
+                "98",
+                "3635790",
+                "0",
+                "13703",
+                "75",
+                "68",
+                "14",
+                "317",
+                "0"
+            ],
+            "characterGrade": 15,
+            "classType": "CtMage",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 150,
+            "modelUid": "36694101430507",
+            "name": "정예 메이지5",
+            "uid": "1878531016259678"
+        },
+        {
+            "achievementConditionIndex": [
+                15
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 16,
+            "classType": "CtMage",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 160,
+            "modelUid": "36694101430508",
+            "name": "아크메이지1",
+            "passiveSkillUid": "4043505456965656",
+            "uid": "1878531016259677"
+        },
+        {
+            "achievementConditionIndex": [
+                16
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 17,
+            "classType": "CtMage",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 170,
+            "modelUid": "36694101430508",
+            "name": "아크메이지2",
+            "uid": "1878531016259676"
+        },
+        {
+            "achievementConditionIndex": [
+                17
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 18,
+            "classType": "CtMage",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 180,
+            "modelUid": "36694101430508",
+            "name": "아크메이지3",
+            "uid": "1878531016259667"
+        },
+        {
+            "achievementConditionIndex": [
+                18
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 19,
+            "classType": "CtMage",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 190,
+            "modelUid": "36694101430508",
+            "name": "아크메이지4",
+            "uid": "1878531016259666"
+        },
+        {
+            "characterGrade": 20,
+            "classType": "CtMage",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "modelUid": "36694101430508",
+            "name": "아크메이지5",
+            "uid": "1879630527887918"
+        },
+        {
+            "achievementConditionIndex": [
+                0
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 1,
+            "classType": "CtDruid",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 10,
+            "modelUid": "3462842923610859",
+            "name": "견습드루이드1",
+            "uid": "2634052490440555"
+        },
+        {
+            "achievementConditionIndex": [
+                1
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 2,
+            "classType": "CtDruid",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 20,
+            "modelUid": "3462842923610859",
+            "name": "견습드루이드2",
+            "uid": "2634052490440552"
+        },
+        {
+            "achievementConditionIndex": [
+                2
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 3,
+            "classType": "CtDruid",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 30,
+            "modelUid": "3462842923610859",
+            "name": "견습드루이드3",
+            "uid": "2634052490440553"
+        },
+        {
+            "achievementConditionIndex": [
+                3
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 4,
+            "classType": "CtDruid",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 40,
+            "modelUid": "3462842923610859",
+            "name": "견습드루이드4",
+            "uid": "2634052490440558"
+        },
+        {
+            "achievementConditionIndex": [
+                4,
+                0,
+                0
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0",
+                "15402",
+                "16279",
+                "116",
+                "1646",
+                "0",
+                "13699",
+                "75",
+                "68",
+                "14",
+                "317",
+                "0"
+            ],
+            "characterGrade": 5,
+            "classType": "CtDruid",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 50,
+            "modelUid": "3462842923610859",
+            "name": "견습드루이드5",
+            "uid": "2634052490440559"
+        },
+        {
+            "achievementConditionIndex": [
+                5
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 6,
+            "classType": "CtDruid",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 60,
+            "modelUid": "3462842923610856",
+            "name": "숙련 드루이드1",
+            "passiveSkillUid": "512222752664432",
+            "uid": "2634052490440556"
+        },
+        {
+            "achievementConditionIndex": [
+                6
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 7,
+            "classType": "CtDruid",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 70,
+            "modelUid": "3462842923610856",
+            "name": "숙련 드루이드2",
+            "uid": "2634052490440557"
+        },
+        {
+            "achievementConditionIndex": [
+                7
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 8,
+            "classType": "CtDruid",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 80,
+            "modelUid": "3462842923610856",
+            "name": "숙련 드루이드3",
+            "uid": "2634052490440546"
+        },
+        {
+            "achievementConditionIndex": [
+                8
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 9,
+            "classType": "CtDruid",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 90,
+            "modelUid": "3462842923610856",
+            "name": "숙련 드루이드4",
+            "uid": "2634052490440547"
+        },
+        {
+            "achievementConditionIndex": [
+                9,
+                0,
+                0
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0",
+                "1946",
+                "98",
+                "3635790",
+                "0",
+                "13697",
+                "75",
+                "68",
+                "14",
+                "317",
+                "0"
+            ],
+            "characterGrade": 10,
+            "classType": "CtDruid",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 100,
+            "modelUid": "3462842923610856",
+            "name": "숙련 드루이드5",
+            "uid": "1734700756996833"
+        },
+        {
+            "achievementConditionIndex": [
+                10
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 11,
+            "classType": "CtDruid",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 110,
+            "modelUid": "3462842923610857",
+            "name": "정예 드루이드1",
+            "passiveSkillUid": "512222752664435",
+            "uid": "1734700756996832"
+        },
+        {
+            "achievementConditionIndex": [
+                11
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 12,
+            "classType": "CtDruid",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 120,
+            "modelUid": "3462842923610857",
+            "name": "정예 드루이드2",
+            "uid": "1734700756996835"
+        },
+        {
+            "achievementConditionIndex": [
+                12
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 13,
+            "classType": "CtDruid",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 130,
+            "modelUid": "3462842923610857",
+            "name": "정예 드루이드3",
+            "uid": "1734700756996834"
+        },
+        {
+            "achievementConditionIndex": [
+                13
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 14,
+            "classType": "CtDruid",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 140,
+            "modelUid": "3462842923610857",
+            "name": "정예 드루이드4",
+            "uid": "1734700756996837"
+        },
+        {
+            "achievementConditionIndex": [
+                14,
+                0,
+                0
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0",
+                "1951",
+                "98",
+                "3635790",
+                "0",
+                "13703",
+                "75",
+                "68",
+                "14",
+                "317",
+                "0"
+            ],
+            "characterGrade": 15,
+            "classType": "CtDruid",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 150,
+            "modelUid": "3462842923610857",
+            "name": "정예 드루이드5",
+            "uid": "1734700756996836"
+        },
+        {
+            "achievementConditionIndex": [
+                15
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 16,
+            "classType": "CtDruid",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 160,
+            "modelUid": "3462842923610862",
+            "name": "엘더드루이드1",
+            "passiveSkillUid": "512222752664434",
+            "uid": "1734700756996839"
+        },
+        {
+            "achievementConditionIndex": [
+                16
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 17,
+            "classType": "CtDruid",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 170,
+            "modelUid": "3462842923610862",
+            "name": "엘더드루이드2",
+            "uid": "1734700756996838"
+        },
+        {
+            "achievementConditionIndex": [
+                17
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 18,
+            "classType": "CtDruid",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 180,
+            "modelUid": "3462842923610862",
+            "name": "엘더드루이드3",
+            "uid": "1734700756996841"
+        },
+        {
+            "achievementConditionIndex": [
+                18
+            ],
+            "achievementConditions": [
+                "7751956418",
+                "1348",
+                "0"
+            ],
+            "characterGrade": 19,
+            "classType": "CtDruid",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "levelCondition": 190,
+            "modelUid": "3462842923610862",
+            "name": "엘더드루이드4",
+            "uid": "1734700756996840"
+        },
+        {
+            "characterGrade": 20,
+            "classType": "CtDruid",
+            "commonTalent": 5,
+            "expertTalent": 1,
+            "modelUid": "3462842923610862",
+            "name": "엘더드루이드5",
+            "uid": "1731402222112136"
+        }
+    ],
     "characterInfo": [
         {
             "attackRange": 0.8,
@@ -297,11 +1863,3373 @@
             "uid": "4411980639815079"
         }
     ],
+    "commonTalentInfo": [
+        {
+            "classType": "CtWarrior",
+            "statTypes": [
+                "StDefence",
+                "StResilience",
+                "StEvasion"
+            ],
+            "uid": "3047748357538624"
+        },
+        {
+            "classType": "CtWarrior",
+            "statTypes": [
+                "StAttackPower",
+                "StCrit",
+                "StHit"
+            ],
+            "uid": "3047748357538627"
+        },
+        {
+            "classType": "CtWarrior",
+            "statTypes": [
+                "StResilience",
+                "StEvasion",
+                "StMaxHp"
+            ],
+            "uid": "3047748357538626"
+        },
+        {
+            "classType": "CtWarrior",
+            "statTypes": [
+                "StCrit",
+                "StHit",
+                "StCritDmg"
+            ],
+            "uid": "3047748357538629"
+        },
+        {
+            "classType": "CtWarrior",
+            "statTypes": [
+                "StEvasion",
+                "StMaxHp",
+                "StDefence"
+            ],
+            "uid": "3047748357538628"
+        },
+        {
+            "classType": "CtWarrior",
+            "statTypes": [
+                "StHit",
+                "StCritDmg",
+                "StAttackPower"
+            ],
+            "uid": "3047748357538631"
+        },
+        {
+            "classType": "CtWarrior",
+            "statTypes": [
+                "StDefence",
+                "StResilience",
+                "StEvasion"
+            ],
+            "uid": "3047748357538630"
+        },
+        {
+            "classType": "CtWarrior",
+            "statTypes": [
+                "StAttackPower",
+                "StCrit",
+                "StHit"
+            ],
+            "uid": "3047748357538633"
+        },
+        {
+            "classType": "CtWarrior",
+            "statTypes": [
+                "StResilience",
+                "StEvasion",
+                "StMaxHp"
+            ],
+            "uid": "3047748357538632"
+        },
+        {
+            "classType": "CtWarrior",
+            "statTypes": [
+                "StCrit",
+                "StHit",
+                "StCritDmg"
+            ],
+            "uid": "2627038756685296"
+        },
+        {
+            "classType": "CtRogue",
+            "statTypes": [
+                "StAttackPower",
+                "StCrit",
+                "StHit"
+            ],
+            "uid": "2461009717869924"
+        },
+        {
+            "classType": "CtRogue",
+            "statTypes": [
+                "StDefence",
+                "StResilience",
+                "StEvasion"
+            ],
+            "uid": "2461009717869927"
+        },
+        {
+            "classType": "CtRogue",
+            "statTypes": [
+                "StCrit",
+                "StHit",
+                "StCritDmg"
+            ],
+            "uid": "2461009717869926"
+        },
+        {
+            "classType": "CtRogue",
+            "statTypes": [
+                "StResilience",
+                "StEvasion",
+                "StMaxHp"
+            ],
+            "uid": "2461009717869921"
+        },
+        {
+            "classType": "CtRogue",
+            "statTypes": [
+                "StHit",
+                "StCritDmg",
+                "StAttackPower"
+            ],
+            "uid": "2461009717869920"
+        },
+        {
+            "classType": "CtRogue",
+            "statTypes": [
+                "StEvasion",
+                "StMaxHp",
+                "StDefence"
+            ],
+            "uid": "2461009717869923"
+        },
+        {
+            "classType": "CtRogue",
+            "statTypes": [
+                "StAttackPower",
+                "StCrit",
+                "StHit"
+            ],
+            "uid": "2461009717869922"
+        },
+        {
+            "classType": "CtRogue",
+            "statTypes": [
+                "StDefence",
+                "StResilience",
+                "StEvasion"
+            ],
+            "uid": "2461009717869933"
+        },
+        {
+            "classType": "CtRogue",
+            "statTypes": [
+                "StCrit",
+                "StHit",
+                "StCritDmg"
+            ],
+            "uid": "2461009717869932"
+        },
+        {
+            "classType": "CtRogue",
+            "statTypes": [
+                "StResilience",
+                "StEvasion",
+                "StMaxHp"
+            ],
+            "uid": "2451641819255004"
+        },
+        {
+            "classType": "CtMage",
+            "statTypes": [
+                "StAttackPower",
+                "StCrit",
+                "StHit"
+            ],
+            "uid": "1146330430280418"
+        },
+        {
+            "classType": "CtMage",
+            "statTypes": [
+                "StDefence",
+                "StResilience",
+                "StEvasion"
+            ],
+            "uid": "1146330430280417"
+        },
+        {
+            "classType": "CtMage",
+            "statTypes": [
+                "StCrit",
+                "StHit",
+                "StCritDmg"
+            ],
+            "uid": "1146330430280416"
+        },
+        {
+            "classType": "CtMage",
+            "statTypes": [
+                "StResilience",
+                "StEvasion",
+                "StMaxHp"
+            ],
+            "uid": "1146330430280423"
+        },
+        {
+            "classType": "CtMage",
+            "statTypes": [
+                "StHit",
+                "StCritDmg",
+                "StAttackPower"
+            ],
+            "uid": "1146330430280422"
+        },
+        {
+            "classType": "CtMage",
+            "statTypes": [
+                "StEvasion",
+                "StMaxHp",
+                "StDefence"
+            ],
+            "uid": "1146330430280421"
+        },
+        {
+            "classType": "CtMage",
+            "statTypes": [
+                "StAttackPower",
+                "StCrit",
+                "StHit"
+            ],
+            "uid": "1146330430280420"
+        },
+        {
+            "classType": "CtMage",
+            "statTypes": [
+                "StDefence",
+                "StResilience",
+                "StEvasion"
+            ],
+            "uid": "1146330430280427"
+        },
+        {
+            "classType": "CtMage",
+            "statTypes": [
+                "StCrit",
+                "StHit",
+                "StCritDmg"
+            ],
+            "uid": "1146330430280426"
+        },
+        {
+            "classType": "CtMage",
+            "statTypes": [
+                "StResilience",
+                "StEvasion",
+                "StMaxHp"
+            ],
+            "uid": "4069217742526006"
+        },
+        {
+            "classType": "CtDruid",
+            "statTypes": [
+                "StAttackPower",
+                "StCrit",
+                "StHit"
+            ],
+            "uid": "2447258717776454"
+        },
+        {
+            "classType": "CtDruid",
+            "statTypes": [
+                "StDefence",
+                "StResilience",
+                "StEvasion"
+            ],
+            "uid": "2447258717776453"
+        },
+        {
+            "classType": "CtDruid",
+            "statTypes": [
+                "StCrit",
+                "StHit",
+                "StCritDmg"
+            ],
+            "uid": "2447258717776452"
+        },
+        {
+            "classType": "CtDruid",
+            "statTypes": [
+                "StResilience",
+                "StEvasion",
+                "StMaxHp"
+            ],
+            "uid": "2447258717776451"
+        },
+        {
+            "classType": "CtDruid",
+            "statTypes": [
+                "StHit",
+                "StCritDmg",
+                "StAttackPower"
+            ],
+            "uid": "2447258717776450"
+        },
+        {
+            "classType": "CtDruid",
+            "statTypes": [
+                "StEvasion",
+                "StMaxHp",
+                "StDefence"
+            ],
+            "uid": "2447258717776449"
+        },
+        {
+            "classType": "CtDruid",
+            "statTypes": [
+                "StAttackPower",
+                "StCrit",
+                "StHit"
+            ],
+            "uid": "2447258717776448"
+        },
+        {
+            "classType": "CtDruid",
+            "statTypes": [
+                "StDefence",
+                "StResilience",
+                "StEvasion"
+            ],
+            "uid": "2447258717776463"
+        },
+        {
+            "classType": "CtDruid",
+            "statTypes": [
+                "StCrit",
+                "StHit",
+                "StCritDmg"
+            ],
+            "uid": "2447258717776462"
+        },
+        {
+            "classType": "CtDruid",
+            "statTypes": [
+                "StResilience",
+                "StEvasion",
+                "StMaxHp"
+            ],
+            "uid": "96146127000770"
+        }
+    ],
+    "commonTalentStatInfo": [
+        {
+            "statType": "StMaxHp",
+            "statValue": 330,
+            "uid": "515821208975463"
+        },
+        {
+            "statType": "StAttackPower",
+            "statValue": 100,
+            "uid": "515821208975460"
+        },
+        {
+            "statType": "StDefence",
+            "statValue": 100,
+            "uid": "515821208975461"
+        },
+        {
+            "statType": "StHit",
+            "statValue": 50,
+            "uid": "515821208975458"
+        },
+        {
+            "statType": "StEvasion",
+            "statValue": 50,
+            "uid": "515821208975459"
+        },
+        {
+            "statType": "StCrit",
+            "statValue": 50,
+            "uid": "515821208975456"
+        },
+        {
+            "statType": "StResilience",
+            "statValue": 50,
+            "uid": "515821208975457"
+        },
+        {
+            "statType": "StCritDmg",
+            "statValue": 50,
+            "uid": "515821208975470"
+        }
+    ],
     "druidLevelInfo": [
-        "799208517152929801",
-        "-8883262204871110656",
-        "7501781331836557313",
-        "108219949397313684"
+        {
+            "attackPower": 3502,
+            "attackSpeed": 1350,
+            "crit": 121,
+            "defence": 1044,
+            "evasion": 121,
+            "exp": "23",
+            "hit": 121,
+            "level": 1,
+            "maxHP": 16952,
+            "resilience": 121,
+            "uid": "3121908270128632"
+        },
+        {
+            "attackPower": 11480,
+            "attackSpeed": 1350,
+            "crit": 124,
+            "defence": 2409,
+            "evasion": 124,
+            "exp": "117",
+            "hit": 124,
+            "level": 2,
+            "maxHP": 39085,
+            "resilience": 124,
+            "uid": "3121908270128635"
+        },
+        {
+            "attackPower": 14172,
+            "attackSpeed": 1350,
+            "crit": 127,
+            "defence": 2869,
+            "evasion": 127,
+            "exp": "341",
+            "hit": 127,
+            "level": 3,
+            "maxHP": 46556,
+            "resilience": 127,
+            "uid": "3121908270128634"
+        },
+        {
+            "attackPower": 16881,
+            "attackSpeed": 1350,
+            "crit": 130,
+            "defence": 3333,
+            "evasion": 130,
+            "exp": "757",
+            "hit": 130,
+            "level": 4,
+            "maxHP": 54076,
+            "resilience": 130,
+            "uid": "3121908270128637"
+        },
+        {
+            "attackPower": 19607,
+            "attackSpeed": 1350,
+            "crit": 133,
+            "defence": 3799,
+            "evasion": 133,
+            "exp": "1436",
+            "hit": 133,
+            "level": 5,
+            "maxHP": 61644,
+            "resilience": 133,
+            "uid": "3121908270128636"
+        },
+        {
+            "attackPower": 22351,
+            "attackSpeed": 1350,
+            "crit": 136,
+            "defence": 4269,
+            "evasion": 136,
+            "exp": "2456",
+            "hit": 136,
+            "level": 6,
+            "maxHP": 69263,
+            "resilience": 136,
+            "uid": "3121908270128639"
+        },
+        {
+            "attackPower": 25115,
+            "attackSpeed": 1350,
+            "crit": 140,
+            "defence": 4742,
+            "evasion": 140,
+            "exp": "3900",
+            "hit": 140,
+            "level": 7,
+            "maxHP": 76932,
+            "resilience": 140,
+            "uid": "3121908270128638"
+        },
+        {
+            "attackPower": 27896,
+            "attackSpeed": 1350,
+            "crit": 144,
+            "defence": 5218,
+            "evasion": 144,
+            "exp": "5860",
+            "hit": 144,
+            "level": 8,
+            "maxHP": 84652,
+            "resilience": 144,
+            "uid": "3121908270128625"
+        },
+        {
+            "attackPower": 30694,
+            "attackSpeed": 1350,
+            "crit": 148,
+            "defence": 5697,
+            "evasion": 148,
+            "exp": "8436",
+            "hit": 148,
+            "level": 9,
+            "maxHP": 92426,
+            "resilience": 148,
+            "uid": "3121908270128624"
+        },
+        {
+            "attackPower": 33513,
+            "attackSpeed": 1350,
+            "crit": 152,
+            "defence": 6180,
+            "evasion": 152,
+            "exp": "11731",
+            "hit": 152,
+            "level": 10,
+            "maxHP": 100251,
+            "resilience": 152,
+            "uid": "1874863620992088"
+        },
+        {
+            "attackPower": 36351,
+            "attackSpeed": 1350,
+            "crit": 156,
+            "defence": 6665,
+            "evasion": 156,
+            "exp": "15858",
+            "hit": 156,
+            "level": 11,
+            "maxHP": 108131,
+            "resilience": 156,
+            "uid": "1874863620992089"
+        },
+        {
+            "attackPower": 39209,
+            "attackSpeed": 1350,
+            "crit": 160,
+            "defence": 7154,
+            "evasion": 160,
+            "exp": "22361",
+            "hit": 160,
+            "level": 12,
+            "maxHP": 116064,
+            "resilience": 160,
+            "uid": "1874863620992090"
+        },
+        {
+            "attackPower": 42084,
+            "attackSpeed": 1350,
+            "crit": 164,
+            "defence": 7646,
+            "evasion": 164,
+            "exp": "31289",
+            "hit": 164,
+            "level": 13,
+            "maxHP": 124051,
+            "resilience": 164,
+            "uid": "1874863620992091"
+        },
+        {
+            "attackPower": 44982,
+            "attackSpeed": 1350,
+            "crit": 168,
+            "defence": 8142,
+            "evasion": 168,
+            "exp": "43267",
+            "hit": 168,
+            "level": 14,
+            "maxHP": 132094,
+            "resilience": 168,
+            "uid": "1874863620992092"
+        },
+        {
+            "attackPower": 47898,
+            "attackSpeed": 1350,
+            "crit": 173,
+            "defence": 8642,
+            "evasion": 173,
+            "exp": "59015",
+            "hit": 173,
+            "level": 15,
+            "maxHP": 140193,
+            "resilience": 173,
+            "uid": "1874863620992093"
+        },
+        {
+            "attackPower": 50833,
+            "attackSpeed": 1350,
+            "crit": 178,
+            "defence": 9144,
+            "evasion": 178,
+            "exp": "79358",
+            "hit": 178,
+            "level": 16,
+            "maxHP": 148348,
+            "resilience": 178,
+            "uid": "1874863620992094"
+        },
+        {
+            "attackPower": 53792,
+            "attackSpeed": 1350,
+            "crit": 183,
+            "defence": 9650,
+            "evasion": 183,
+            "exp": "105234",
+            "hit": 183,
+            "level": 17,
+            "maxHP": 156560,
+            "resilience": 183,
+            "uid": "1874863620992095"
+        },
+        {
+            "attackPower": 56770,
+            "attackSpeed": 1350,
+            "crit": 188,
+            "defence": 10160,
+            "evasion": 188,
+            "exp": "123017",
+            "hit": 188,
+            "level": 18,
+            "maxHP": 164829,
+            "resilience": 188,
+            "uid": "1874863620992080"
+        },
+        {
+            "attackPower": 59768,
+            "attackSpeed": 1350,
+            "crit": 193,
+            "defence": 10673,
+            "evasion": 193,
+            "exp": "144914",
+            "hit": 193,
+            "level": 19,
+            "maxHP": 173156,
+            "resilience": 193,
+            "uid": "1874863620992081"
+        },
+        {
+            "attackPower": 62788,
+            "attackSpeed": 1350,
+            "crit": 198,
+            "defence": 11190,
+            "evasion": 198,
+            "exp": "171596",
+            "hit": 198,
+            "level": 20,
+            "maxHP": 181541,
+            "resilience": 198,
+            "uid": "1878162155876785"
+        },
+        {
+            "attackPower": 65828,
+            "attackSpeed": 1350,
+            "crit": 203,
+            "defence": 11711,
+            "evasion": 203,
+            "exp": "203805",
+            "hit": 203,
+            "level": 21,
+            "maxHP": 189985,
+            "resilience": 203,
+            "uid": "1878162155876784"
+        },
+        {
+            "attackPower": 68890,
+            "attackSpeed": 1350,
+            "crit": 209,
+            "defence": 12235,
+            "evasion": 209,
+            "exp": "242350",
+            "hit": 209,
+            "level": 22,
+            "maxHP": 198489,
+            "resilience": 209,
+            "uid": "1878162155876787"
+        },
+        {
+            "attackPower": 71973,
+            "attackSpeed": 1350,
+            "crit": 215,
+            "defence": 12763,
+            "evasion": 215,
+            "exp": "288119",
+            "hit": 215,
+            "level": 23,
+            "maxHP": 207052,
+            "resilience": 215,
+            "uid": "1878162155876786"
+        },
+        {
+            "attackPower": 75078,
+            "attackSpeed": 1350,
+            "crit": 221,
+            "defence": 13295,
+            "evasion": 221,
+            "exp": "342076",
+            "hit": 221,
+            "level": 24,
+            "maxHP": 215676,
+            "resilience": 221,
+            "uid": "1878162155876789"
+        },
+        {
+            "attackPower": 78205,
+            "attackSpeed": 1350,
+            "crit": 227,
+            "defence": 13830,
+            "evasion": 227,
+            "exp": "405267",
+            "hit": 227,
+            "level": 25,
+            "maxHP": 224361,
+            "resilience": 227,
+            "uid": "1878162155876788"
+        },
+        {
+            "attackPower": 81354,
+            "attackSpeed": 1350,
+            "crit": 233,
+            "defence": 14369,
+            "evasion": 233,
+            "exp": "478823",
+            "hit": 233,
+            "level": 26,
+            "maxHP": 233107,
+            "resilience": 233,
+            "uid": "1878162155876791"
+        },
+        {
+            "attackPower": 84526,
+            "attackSpeed": 1350,
+            "crit": 239,
+            "defence": 14912,
+            "evasion": 239,
+            "exp": "563962",
+            "hit": 239,
+            "level": 27,
+            "maxHP": 241915,
+            "resilience": 239,
+            "uid": "1878162155876790"
+        },
+        {
+            "attackPower": 87720,
+            "attackSpeed": 1350,
+            "crit": 246,
+            "defence": 15459,
+            "evasion": 246,
+            "exp": "661995",
+            "hit": 246,
+            "level": 28,
+            "maxHP": 250785,
+            "resilience": 246,
+            "uid": "1878162155876793"
+        },
+        {
+            "attackPower": 90936,
+            "attackSpeed": 1350,
+            "crit": 253,
+            "defence": 16010,
+            "evasion": 253,
+            "exp": "774323",
+            "hit": 253,
+            "level": 29,
+            "maxHP": 259718,
+            "resilience": 253,
+            "uid": "1878162155876792"
+        },
+        {
+            "attackPower": 94176,
+            "attackSpeed": 1350,
+            "crit": 260,
+            "defence": 16564,
+            "evasion": 260,
+            "exp": "902449",
+            "hit": 260,
+            "level": 30,
+            "maxHP": 268715,
+            "resilience": 260,
+            "uid": "1877062644248574"
+        },
+        {
+            "attackPower": 97438,
+            "attackSpeed": 1350,
+            "crit": 267,
+            "defence": 17123,
+            "evasion": 267,
+            "exp": "1047972",
+            "hit": 267,
+            "level": 31,
+            "maxHP": 277775,
+            "resilience": 267,
+            "uid": "1877062644248575"
+        },
+        {
+            "attackPower": 100723,
+            "attackSpeed": 1350,
+            "crit": 275,
+            "defence": 17685,
+            "evasion": 275,
+            "exp": "1212597",
+            "hit": 275,
+            "level": 32,
+            "maxHP": 286900,
+            "resilience": 275,
+            "uid": "1877062644248572"
+        },
+        {
+            "attackPower": 104031,
+            "attackSpeed": 1350,
+            "crit": 283,
+            "defence": 18252,
+            "evasion": 283,
+            "exp": "1398135",
+            "hit": 283,
+            "level": 33,
+            "maxHP": 296090,
+            "resilience": 283,
+            "uid": "1877062644248573"
+        },
+        {
+            "attackPower": 107365,
+            "attackSpeed": 1350,
+            "crit": 291,
+            "defence": 18822,
+            "evasion": 291,
+            "exp": "1606504",
+            "hit": 291,
+            "level": 34,
+            "maxHP": 305345,
+            "resilience": 291,
+            "uid": "1877062644248570"
+        },
+        {
+            "attackPower": 110719,
+            "attackSpeed": 1350,
+            "crit": 299,
+            "defence": 19397,
+            "evasion": 299,
+            "exp": "1839739",
+            "hit": 299,
+            "level": 35,
+            "maxHP": 314665,
+            "resilience": 299,
+            "uid": "1877062644248571"
+        },
+        {
+            "attackPower": 114100,
+            "attackSpeed": 1350,
+            "crit": 307,
+            "defence": 19975,
+            "evasion": 307,
+            "exp": "2099985",
+            "hit": 307,
+            "level": 36,
+            "maxHP": 324052,
+            "resilience": 307,
+            "uid": "1877062644248568"
+        },
+        {
+            "attackPower": 117504,
+            "attackSpeed": 1350,
+            "crit": 316,
+            "defence": 20558,
+            "evasion": 316,
+            "exp": "2389508",
+            "hit": 316,
+            "level": 37,
+            "maxHP": 333507,
+            "resilience": 316,
+            "uid": "1877062644248569"
+        },
+        {
+            "attackPower": 120933,
+            "attackSpeed": 1350,
+            "crit": 325,
+            "defence": 21145,
+            "evasion": 325,
+            "exp": "2710697",
+            "hit": 325,
+            "level": 38,
+            "maxHP": 343028,
+            "resilience": 325,
+            "uid": "1877062644248566"
+        },
+        {
+            "attackPower": 124384,
+            "attackSpeed": 1350,
+            "crit": 334,
+            "defence": 21736,
+            "evasion": 334,
+            "exp": "3066062",
+            "hit": 334,
+            "level": 39,
+            "maxHP": 352617,
+            "resilience": 334,
+            "uid": "1877062644248567"
+        },
+        {
+            "attackPower": 127861,
+            "attackSpeed": 1350,
+            "crit": 344,
+            "defence": 22331,
+            "evasion": 344,
+            "exp": "3458242",
+            "hit": 344,
+            "level": 40,
+            "maxHP": 362274,
+            "resilience": 344,
+            "uid": "1880361179133143"
+        },
+        {
+            "attackPower": 131364,
+            "attackSpeed": 1350,
+            "crit": 354,
+            "defence": 22931,
+            "evasion": 354,
+            "exp": "3890004",
+            "hit": 354,
+            "level": 41,
+            "maxHP": 371999,
+            "resilience": 354,
+            "uid": "1880361179133142"
+        },
+        {
+            "attackPower": 134890,
+            "attackSpeed": 1350,
+            "crit": 364,
+            "defence": 23535,
+            "evasion": 364,
+            "exp": "4364249",
+            "hit": 364,
+            "level": 42,
+            "maxHP": 381795,
+            "resilience": 364,
+            "uid": "1880361179133141"
+        },
+        {
+            "attackPower": 138442,
+            "attackSpeed": 1350,
+            "crit": 374,
+            "defence": 24143,
+            "evasion": 374,
+            "exp": "4884015",
+            "hit": 374,
+            "level": 43,
+            "maxHP": 391660,
+            "resilience": 374,
+            "uid": "1880361179133140"
+        },
+        {
+            "attackPower": 142020,
+            "attackSpeed": 1350,
+            "crit": 385,
+            "defence": 24756,
+            "evasion": 385,
+            "exp": "5452476",
+            "hit": 385,
+            "level": 44,
+            "maxHP": 401595,
+            "resilience": 385,
+            "uid": "1880361179133139"
+        },
+        {
+            "attackPower": 145621,
+            "attackSpeed": 1350,
+            "crit": 396,
+            "defence": 25372,
+            "evasion": 396,
+            "exp": "6072947",
+            "hit": 396,
+            "level": 45,
+            "maxHP": 411601,
+            "resilience": 396,
+            "uid": "1880361179133138"
+        },
+        {
+            "attackPower": 149250,
+            "attackSpeed": 1350,
+            "crit": 407,
+            "defence": 25993,
+            "evasion": 407,
+            "exp": "6748888",
+            "hit": 407,
+            "level": 46,
+            "maxHP": 421679,
+            "resilience": 407,
+            "uid": "1880361179133137"
+        },
+        {
+            "attackPower": 152904,
+            "attackSpeed": 1350,
+            "crit": 419,
+            "defence": 26619,
+            "evasion": 419,
+            "exp": "7483905",
+            "hit": 419,
+            "level": 47,
+            "maxHP": 431828,
+            "resilience": 419,
+            "uid": "1880361179133136"
+        },
+        {
+            "attackPower": 156584,
+            "attackSpeed": 1350,
+            "crit": 431,
+            "defence": 27249,
+            "evasion": 431,
+            "exp": "8281754",
+            "hit": 431,
+            "level": 48,
+            "maxHP": 442049,
+            "resilience": 431,
+            "uid": "1880361179133151"
+        },
+        {
+            "attackPower": 160290,
+            "attackSpeed": 1350,
+            "crit": 443,
+            "defence": 27884,
+            "evasion": 443,
+            "exp": "9146340",
+            "hit": 443,
+            "level": 49,
+            "maxHP": 452343,
+            "resilience": 443,
+            "uid": "1880361179133150"
+        },
+        {
+            "attackPower": 164025,
+            "attackSpeed": 1350,
+            "crit": 456,
+            "defence": 28523,
+            "evasion": 456,
+            "exp": "10081727",
+            "hit": 456,
+            "level": 50,
+            "maxHP": 462711,
+            "resilience": 456,
+            "uid": "1879261667504900"
+        },
+        {
+            "attackPower": 167783,
+            "attackSpeed": 1350,
+            "crit": 469,
+            "defence": 29167,
+            "evasion": 469,
+            "exp": "11524429",
+            "hit": 469,
+            "level": 51,
+            "maxHP": 473152,
+            "resilience": 469,
+            "uid": "1879261667504901"
+        },
+        {
+            "attackPower": 171568,
+            "attackSpeed": 1350,
+            "crit": 483,
+            "defence": 29815,
+            "evasion": 483,
+            "exp": "13121202",
+            "hit": 483,
+            "level": 52,
+            "maxHP": 483668,
+            "resilience": 483,
+            "uid": "1879261667504902"
+        },
+        {
+            "attackPower": 175382,
+            "attackSpeed": 1350,
+            "crit": 497,
+            "defence": 30467,
+            "evasion": 497,
+            "exp": "14883739",
+            "hit": 497,
+            "level": 53,
+            "maxHP": 494258,
+            "resilience": 497,
+            "uid": "1879261667504903"
+        },
+        {
+            "attackPower": 179223,
+            "attackSpeed": 1350,
+            "crit": 511,
+            "defence": 31125,
+            "evasion": 511,
+            "exp": "16824287",
+            "hit": 511,
+            "level": 54,
+            "maxHP": 504923,
+            "resilience": 511,
+            "uid": "1879261667504896"
+        },
+        {
+            "attackPower": 183089,
+            "attackSpeed": 1350,
+            "crit": 526,
+            "defence": 31787,
+            "evasion": 526,
+            "exp": "18955657",
+            "hit": 526,
+            "level": 55,
+            "maxHP": 515664,
+            "resilience": 526,
+            "uid": "1879261667504897"
+        },
+        {
+            "attackPower": 186984,
+            "attackSpeed": 1350,
+            "crit": 541,
+            "defence": 32454,
+            "evasion": 541,
+            "exp": "21291234",
+            "hit": 541,
+            "level": 56,
+            "maxHP": 526482,
+            "resilience": 541,
+            "uid": "1879261667504898"
+        },
+        {
+            "attackPower": 190907,
+            "attackSpeed": 1350,
+            "crit": 557,
+            "defence": 33126,
+            "evasion": 557,
+            "exp": "23844990",
+            "hit": 557,
+            "level": 57,
+            "maxHP": 537377,
+            "resilience": 557,
+            "uid": "1879261667504899"
+        },
+        {
+            "attackPower": 194859,
+            "attackSpeed": 1350,
+            "crit": 573,
+            "defence": 33802,
+            "evasion": 573,
+            "exp": "26631494",
+            "hit": 573,
+            "level": 58,
+            "maxHP": 548348,
+            "resilience": 573,
+            "uid": "1879261667504908"
+        },
+        {
+            "attackPower": 198837,
+            "attackSpeed": 1350,
+            "crit": 590,
+            "defence": 34483,
+            "evasion": 590,
+            "exp": "29665921",
+            "hit": 590,
+            "level": 59,
+            "maxHP": 559399,
+            "resilience": 590,
+            "uid": "1879261667504909"
+        },
+        {
+            "attackPower": 202842,
+            "attackSpeed": 1350,
+            "crit": 607,
+            "defence": 35169,
+            "evasion": 607,
+            "exp": "32964064",
+            "hit": 607,
+            "level": 60,
+            "maxHP": 570527,
+            "resilience": 607,
+            "uid": "1882560202389629"
+        },
+        {
+            "attackPower": 206879,
+            "attackSpeed": 1350,
+            "crit": 625,
+            "defence": 35860,
+            "evasion": 625,
+            "exp": "36542345",
+            "hit": 625,
+            "level": 61,
+            "maxHP": 581734,
+            "resilience": 625,
+            "uid": "1882560202389628"
+        },
+        {
+            "attackPower": 210942,
+            "attackSpeed": 1350,
+            "crit": 643,
+            "defence": 36556,
+            "evasion": 643,
+            "exp": "40417822",
+            "hit": 643,
+            "level": 62,
+            "maxHP": 593022,
+            "resilience": 643,
+            "uid": "1882560202389631"
+        },
+        {
+            "attackPower": 215034,
+            "attackSpeed": 1350,
+            "crit": 662,
+            "defence": 37256,
+            "evasion": 662,
+            "exp": "44608202",
+            "hit": 662,
+            "level": 63,
+            "maxHP": 604388,
+            "resilience": 662,
+            "uid": "1882560202389630"
+        },
+        {
+            "attackPower": 219157,
+            "attackSpeed": 1350,
+            "crit": 681,
+            "defence": 37962,
+            "evasion": 681,
+            "exp": "49131853",
+            "hit": 681,
+            "level": 64,
+            "maxHP": 615836,
+            "resilience": 681,
+            "uid": "1882560202389625"
+        },
+        {
+            "attackPower": 223308,
+            "attackSpeed": 1350,
+            "crit": 701,
+            "defence": 38673,
+            "evasion": 701,
+            "exp": "54007806",
+            "hit": 701,
+            "level": 65,
+            "maxHP": 627364,
+            "resilience": 701,
+            "uid": "1882560202389624"
+        },
+        {
+            "attackPower": 227488,
+            "attackSpeed": 1350,
+            "crit": 722,
+            "defence": 39388,
+            "evasion": 722,
+            "exp": "59255773",
+            "hit": 722,
+            "level": 66,
+            "maxHP": 638974,
+            "resilience": 722,
+            "uid": "1882560202389627"
+        },
+        {
+            "attackPower": 231697,
+            "attackSpeed": 1350,
+            "crit": 743,
+            "defence": 40109,
+            "evasion": 743,
+            "exp": "64896152",
+            "hit": 743,
+            "level": 67,
+            "maxHP": 650667,
+            "resilience": 743,
+            "uid": "1882560202389626"
+        },
+        {
+            "attackPower": 235937,
+            "attackSpeed": 1350,
+            "crit": 765,
+            "defence": 40835,
+            "evasion": 765,
+            "exp": "70950036",
+            "hit": 765,
+            "level": 68,
+            "maxHP": 662442,
+            "resilience": 765,
+            "uid": "1882560202389621"
+        },
+        {
+            "attackPower": 240208,
+            "attackSpeed": 1350,
+            "crit": 787,
+            "defence": 41566,
+            "evasion": 787,
+            "exp": "77439224",
+            "hit": 787,
+            "level": 69,
+            "maxHP": 674300,
+            "resilience": 787,
+            "uid": "1882560202389620"
+        },
+        {
+            "attackPower": 244507,
+            "attackSpeed": 1350,
+            "crit": 810,
+            "defence": 42302,
+            "evasion": 810,
+            "exp": "84386231",
+            "hit": 810,
+            "level": 70,
+            "maxHP": 686243,
+            "resilience": 810,
+            "uid": "1881460690761386"
+        },
+        {
+            "attackPower": 248838,
+            "attackSpeed": 1350,
+            "crit": 834,
+            "defence": 43043,
+            "evasion": 834,
+            "exp": "91814293",
+            "hit": 834,
+            "level": 71,
+            "maxHP": 698269,
+            "resilience": 834,
+            "uid": "1881460690761387"
+        },
+        {
+            "attackPower": 253198,
+            "attackSpeed": 1350,
+            "crit": 859,
+            "defence": 43790,
+            "evasion": 859,
+            "exp": "99747379",
+            "hit": 859,
+            "level": 72,
+            "maxHP": 710380,
+            "resilience": 859,
+            "uid": "1881460690761384"
+        },
+        {
+            "attackPower": 257590,
+            "attackSpeed": 1350,
+            "crit": 884,
+            "defence": 44542,
+            "evasion": 884,
+            "exp": "108210197",
+            "hit": 884,
+            "level": 73,
+            "maxHP": 722578,
+            "resilience": 884,
+            "uid": "1881460690761385"
+        },
+        {
+            "attackPower": 262013,
+            "attackSpeed": 1350,
+            "crit": 910,
+            "defence": 45299,
+            "evasion": 910,
+            "exp": "117228207",
+            "hit": 910,
+            "level": 74,
+            "maxHP": 734861,
+            "resilience": 910,
+            "uid": "1881460690761390"
+        },
+        {
+            "attackPower": 266468,
+            "attackSpeed": 1350,
+            "crit": 937,
+            "defence": 46062,
+            "evasion": 937,
+            "exp": "126827621",
+            "hit": 937,
+            "level": 75,
+            "maxHP": 747230,
+            "resilience": 937,
+            "uid": "1881460690761391"
+        },
+        {
+            "attackPower": 270953,
+            "attackSpeed": 1350,
+            "crit": 965,
+            "defence": 46830,
+            "evasion": 965,
+            "exp": "137035421",
+            "hit": 965,
+            "level": 76,
+            "maxHP": 759687,
+            "resilience": 965,
+            "uid": "1881460690761388"
+        },
+        {
+            "attackPower": 275470,
+            "attackSpeed": 1350,
+            "crit": 993,
+            "defence": 47603,
+            "evasion": 993,
+            "exp": "147879359",
+            "hit": 993,
+            "level": 77,
+            "maxHP": 772231,
+            "resilience": 993,
+            "uid": "1881460690761389"
+        },
+        {
+            "attackPower": 280017,
+            "attackSpeed": 1350,
+            "crit": 1022,
+            "defence": 48382,
+            "evasion": 1022,
+            "exp": "159387968",
+            "hit": 1022,
+            "level": 78,
+            "maxHP": 784865,
+            "resilience": 1022,
+            "uid": "1881460690761378"
+        },
+        {
+            "attackPower": 284599,
+            "attackSpeed": 1350,
+            "crit": 1052,
+            "defence": 49166,
+            "evasion": 1052,
+            "exp": "171590568",
+            "hit": 1052,
+            "level": 79,
+            "maxHP": 797587,
+            "resilience": 1052,
+            "uid": "1881460690761379"
+        },
+        {
+            "attackPower": 289213,
+            "attackSpeed": 1350,
+            "crit": 1083,
+            "defence": 49955,
+            "evasion": 1083,
+            "exp": "184517277",
+            "hit": 1083,
+            "level": 80,
+            "maxHP": 810398,
+            "resilience": 1083,
+            "uid": "1867167039594675"
+        },
+        {
+            "attackPower": 293858,
+            "attackSpeed": 1350,
+            "crit": 1115,
+            "defence": 50751,
+            "evasion": 1115,
+            "exp": "198199013",
+            "hit": 1115,
+            "level": 81,
+            "maxHP": 823299,
+            "resilience": 1115,
+            "uid": "1867167039594674"
+        },
+        {
+            "attackPower": 298536,
+            "attackSpeed": 1350,
+            "crit": 1148,
+            "defence": 51552,
+            "evasion": 1148,
+            "exp": "212667505",
+            "hit": 1148,
+            "level": 82,
+            "maxHP": 836291,
+            "resilience": 1148,
+            "uid": "1867167039594673"
+        },
+        {
+            "attackPower": 303247,
+            "attackSpeed": 1350,
+            "crit": 1182,
+            "defence": 52358,
+            "evasion": 1182,
+            "exp": "227955297",
+            "hit": 1182,
+            "level": 83,
+            "maxHP": 849374,
+            "resilience": 1182,
+            "uid": "1867167039594672"
+        },
+        {
+            "attackPower": 307991,
+            "attackSpeed": 1350,
+            "crit": 1217,
+            "defence": 53170,
+            "evasion": 1217,
+            "exp": "244095757",
+            "hit": 1217,
+            "level": 84,
+            "maxHP": 862549,
+            "resilience": 1217,
+            "uid": "1867167039594679"
+        },
+        {
+            "attackPower": 312768,
+            "attackSpeed": 1350,
+            "crit": 1253,
+            "defence": 53988,
+            "evasion": 1253,
+            "exp": "261123083",
+            "hit": 1253,
+            "level": 85,
+            "maxHP": 875817,
+            "resilience": 1253,
+            "uid": "1867167039594678"
+        },
+        {
+            "attackPower": 317580,
+            "attackSpeed": 1350,
+            "crit": 1290,
+            "defence": 54812,
+            "evasion": 1290,
+            "exp": "279072306",
+            "hit": 1290,
+            "level": 86,
+            "maxHP": 889177,
+            "resilience": 1290,
+            "uid": "1867167039594677"
+        },
+        {
+            "attackPower": 322424,
+            "attackSpeed": 1350,
+            "crit": 1328,
+            "defence": 55641,
+            "evasion": 1328,
+            "exp": "297979302",
+            "hit": 1328,
+            "level": 87,
+            "maxHP": 902631,
+            "resilience": 1328,
+            "uid": "1867167039594676"
+        },
+        {
+            "attackPower": 327303,
+            "attackSpeed": 1350,
+            "crit": 1367,
+            "defence": 56476,
+            "evasion": 1367,
+            "exp": "317880791",
+            "hit": 1367,
+            "level": 88,
+            "maxHP": 916180,
+            "resilience": 1367,
+            "uid": "1867167039594683"
+        },
+        {
+            "attackPower": 332216,
+            "attackSpeed": 1350,
+            "crit": 1408,
+            "defence": 57317,
+            "evasion": 1408,
+            "exp": "338814351",
+            "hit": 1408,
+            "level": 89,
+            "maxHP": 929823,
+            "resilience": 1408,
+            "uid": "1867167039594682"
+        },
+        {
+            "attackPower": 337163,
+            "attackSpeed": 1350,
+            "crit": 1450,
+            "defence": 58164,
+            "evasion": 1450,
+            "exp": "360818414",
+            "hit": 1450,
+            "level": 90,
+            "maxHP": 943562,
+            "resilience": 1450,
+            "uid": "1866067527966432"
+        },
+        {
+            "attackPower": 342144,
+            "attackSpeed": 1350,
+            "crit": 1493,
+            "defence": 59017,
+            "evasion": 1493,
+            "exp": "383932278",
+            "hit": 1493,
+            "level": 91,
+            "maxHP": 957396,
+            "resilience": 1493,
+            "uid": "1866067527966433"
+        },
+        {
+            "attackPower": 347161,
+            "attackSpeed": 1350,
+            "crit": 1537,
+            "defence": 59876,
+            "evasion": 1537,
+            "exp": "408196111",
+            "hit": 1537,
+            "level": 92,
+            "maxHP": 971327,
+            "resilience": 1537,
+            "uid": "1866067527966434"
+        },
+        {
+            "attackPower": 352213,
+            "attackSpeed": 1350,
+            "crit": 1583,
+            "defence": 60741,
+            "evasion": 1583,
+            "exp": "433650955",
+            "hit": 1583,
+            "level": 93,
+            "maxHP": 985356,
+            "resilience": 1583,
+            "uid": "1866067527966435"
+        },
+        {
+            "attackPower": 357300,
+            "attackSpeed": 1350,
+            "crit": 1630,
+            "defence": 61611,
+            "evasion": 1630,
+            "exp": "460338730",
+            "hit": 1630,
+            "level": 94,
+            "maxHP": 999482,
+            "resilience": 1630,
+            "uid": "1866067527966436"
+        },
+        {
+            "attackPower": 362421,
+            "attackSpeed": 1350,
+            "crit": 1678,
+            "defence": 62488,
+            "evasion": 1678,
+            "exp": "488302239",
+            "hit": 1678,
+            "level": 95,
+            "maxHP": 1013707,
+            "resilience": 1678,
+            "uid": "1866067527966437"
+        },
+        {
+            "attackPower": 367580,
+            "attackSpeed": 1350,
+            "crit": 1728,
+            "defence": 63371,
+            "evasion": 1728,
+            "exp": "517585174",
+            "hit": 1728,
+            "level": 96,
+            "maxHP": 1028031,
+            "resilience": 1728,
+            "uid": "1866067527966438"
+        },
+        {
+            "attackPower": 372775,
+            "attackSpeed": 1350,
+            "crit": 1779,
+            "defence": 64260,
+            "evasion": 1779,
+            "exp": "548232119",
+            "hit": 1779,
+            "level": 97,
+            "maxHP": 1042454,
+            "resilience": 1779,
+            "uid": "1866067527966439"
+        },
+        {
+            "attackPower": 378005,
+            "attackSpeed": 1350,
+            "crit": 1832,
+            "defence": 65156,
+            "evasion": 1832,
+            "exp": "580288551",
+            "hit": 1832,
+            "level": 98,
+            "maxHP": 1056978,
+            "resilience": 1832,
+            "uid": "1866067527966440"
+        },
+        {
+            "attackPower": 383271,
+            "attackSpeed": 1350,
+            "crit": 1886,
+            "defence": 66057,
+            "evasion": 1886,
+            "exp": "613800851",
+            "hit": 1886,
+            "level": 99,
+            "maxHP": 1071604,
+            "resilience": 1886,
+            "uid": "1866067527966441"
+        },
+        {
+            "attackPower": 388574,
+            "attackSpeed": 1350,
+            "crit": 1942,
+            "defence": 66965,
+            "evasion": 1942,
+            "exp": "648816300",
+            "hit": 1942,
+            "level": 100,
+            "maxHP": 1086330,
+            "resilience": 1942,
+            "uid": "3888599321270712"
+        },
+        {
+            "attackPower": 393913,
+            "attackSpeed": 1350,
+            "crit": 2000,
+            "defence": 67879,
+            "evasion": 2000,
+            "exp": "685383085",
+            "hit": 2000,
+            "level": 101,
+            "maxHP": 1101159,
+            "resilience": 2000,
+            "uid": "3888599321270713"
+        },
+        {
+            "attackPower": 399292,
+            "attackSpeed": 1350,
+            "crit": 2060,
+            "defence": 68800,
+            "evasion": 2060,
+            "exp": "723550304",
+            "hit": 2060,
+            "level": 102,
+            "maxHP": 1116091,
+            "resilience": 2060,
+            "uid": "3888599321270714"
+        },
+        {
+            "attackPower": 404705,
+            "attackSpeed": 1350,
+            "crit": 2121,
+            "defence": 69726,
+            "evasion": 2121,
+            "exp": "763367967",
+            "hit": 2121,
+            "level": 103,
+            "maxHP": 1131127,
+            "resilience": 2121,
+            "uid": "3888599321270715"
+        },
+        {
+            "attackPower": 410157,
+            "attackSpeed": 1350,
+            "crit": 2184,
+            "defence": 70660,
+            "evasion": 2184,
+            "exp": "804886999",
+            "hit": 2184,
+            "level": 104,
+            "maxHP": 1146267,
+            "resilience": 2184,
+            "uid": "3888599321270716"
+        },
+        {
+            "attackPower": 415648,
+            "attackSpeed": 1350,
+            "crit": 2249,
+            "defence": 71599,
+            "evasion": 2249,
+            "exp": "848159242",
+            "hit": 2249,
+            "level": 105,
+            "maxHP": 1161512,
+            "resilience": 2249,
+            "uid": "3888599321270717"
+        },
+        {
+            "attackPower": 421175,
+            "attackSpeed": 1350,
+            "crit": 2316,
+            "defence": 72546,
+            "evasion": 2316,
+            "exp": "893237459",
+            "hit": 2316,
+            "level": 106,
+            "maxHP": 1176862,
+            "resilience": 2316,
+            "uid": "3888599321270718"
+        },
+        {
+            "attackPower": 426741,
+            "attackSpeed": 1350,
+            "crit": 2385,
+            "defence": 73499,
+            "evasion": 2385,
+            "exp": "940175333",
+            "hit": 2385,
+            "level": 107,
+            "maxHP": 1192319,
+            "resilience": 2385,
+            "uid": "3888599321270719"
+        },
+        {
+            "attackPower": 432346,
+            "attackSpeed": 1350,
+            "crit": 2456,
+            "defence": 74458,
+            "evasion": 2456,
+            "exp": "989027473",
+            "hit": 2456,
+            "level": 108,
+            "maxHP": 1207882,
+            "resilience": 2456,
+            "uid": "3888599321270704"
+        },
+        {
+            "attackPower": 437991,
+            "attackSpeed": 1350,
+            "crit": 2529,
+            "defence": 75424,
+            "evasion": 2529,
+            "exp": "1039849412",
+            "hit": 2529,
+            "level": 109,
+            "maxHP": 1223554,
+            "resilience": 2529,
+            "uid": "3888599321270705"
+        },
+        {
+            "attackPower": 443673,
+            "attackSpeed": 1350,
+            "crit": 2604,
+            "defence": 76397,
+            "evasion": 2604,
+            "exp": "1092697609",
+            "hit": 2604,
+            "level": 110,
+            "maxHP": 1239333,
+            "resilience": 2604,
+            "uid": "3889698832898827"
+        },
+        {
+            "attackPower": 449394,
+            "attackSpeed": 1350,
+            "crit": 2682,
+            "defence": 77376,
+            "evasion": 2682,
+            "exp": "1147629454",
+            "hit": 2682,
+            "level": 111,
+            "maxHP": 1255221,
+            "resilience": 2682,
+            "uid": "3889698832898826"
+        },
+        {
+            "attackPower": 455156,
+            "attackSpeed": 1350,
+            "crit": 2762,
+            "defence": 78362,
+            "evasion": 2762,
+            "exp": "1204703263",
+            "hit": 2762,
+            "level": 112,
+            "maxHP": 1271220,
+            "resilience": 2762,
+            "uid": "3889698832898825"
+        },
+        {
+            "attackPower": 460957,
+            "attackSpeed": 1350,
+            "crit": 2844,
+            "defence": 79355,
+            "evasion": 2844,
+            "exp": "1263978283",
+            "hit": 2844,
+            "level": 113,
+            "maxHP": 1287328,
+            "resilience": 2844,
+            "uid": "3889698832898824"
+        },
+        {
+            "attackPower": 466798,
+            "attackSpeed": 1350,
+            "crit": 2929,
+            "defence": 80355,
+            "evasion": 2929,
+            "exp": "1325514691",
+            "hit": 2929,
+            "level": 114,
+            "maxHP": 1303547,
+            "resilience": 2929,
+            "uid": "3889698832898831"
+        },
+        {
+            "attackPower": 472679,
+            "attackSpeed": 1350,
+            "crit": 3016,
+            "defence": 81362,
+            "evasion": 3016,
+            "exp": "1389373596",
+            "hit": 3016,
+            "level": 115,
+            "maxHP": 1319878,
+            "resilience": 3016,
+            "uid": "3889698832898830"
+        },
+        {
+            "attackPower": 478602,
+            "attackSpeed": 1350,
+            "crit": 3106,
+            "defence": 82375,
+            "evasion": 3106,
+            "exp": "1455617036",
+            "hit": 3106,
+            "level": 116,
+            "maxHP": 1336322,
+            "resilience": 3106,
+            "uid": "3889698832898829"
+        },
+        {
+            "attackPower": 484564,
+            "attackSpeed": 1350,
+            "crit": 3199,
+            "defence": 83396,
+            "evasion": 3199,
+            "exp": "1524307981",
+            "hit": 3199,
+            "level": 117,
+            "maxHP": 1352879,
+            "resilience": 3199,
+            "uid": "3889698832898828"
+        },
+        {
+            "attackPower": 490568,
+            "attackSpeed": 1350,
+            "crit": 3294,
+            "defence": 84424,
+            "evasion": 3294,
+            "exp": "1595510330",
+            "hit": 3294,
+            "level": 118,
+            "maxHP": 1369549,
+            "resilience": 3294,
+            "uid": "3889698832898819"
+        },
+        {
+            "attackPower": 496611,
+            "attackSpeed": 1350,
+            "crit": 3392,
+            "defence": 85459,
+            "evasion": 3392,
+            "exp": "1669288913",
+            "hit": 3392,
+            "level": 119,
+            "maxHP": 1386334,
+            "resilience": 3392,
+            "uid": "3889698832898818"
+        },
+        {
+            "attackPower": 502699,
+            "attackSpeed": 1350,
+            "crit": 3493,
+            "defence": 86500,
+            "evasion": 3493,
+            "exp": "1745709490",
+            "hit": 3493,
+            "level": 120,
+            "maxHP": 1403234,
+            "resilience": 3493,
+            "uid": "3890798344527070"
+        },
+        {
+            "attackPower": 508826,
+            "attackSpeed": 1350,
+            "crit": 3597,
+            "defence": 87549,
+            "evasion": 3597,
+            "exp": "1824838747",
+            "hit": 3597,
+            "level": 121,
+            "maxHP": 1420250,
+            "resilience": 3597,
+            "uid": "3890798344527071"
+        },
+        {
+            "attackPower": 514998,
+            "attackSpeed": 1350,
+            "crit": 3704,
+            "defence": 88605,
+            "evasion": 3704,
+            "exp": "1906744299",
+            "hit": 3704,
+            "level": 122,
+            "maxHP": 1437383,
+            "resilience": 3704,
+            "uid": "3890798344527068"
+        },
+        {
+            "attackPower": 521208,
+            "attackSpeed": 1350,
+            "crit": 3815,
+            "defence": 89669,
+            "evasion": 3815,
+            "exp": "1991494684",
+            "hit": 3815,
+            "level": 123,
+            "maxHP": 1454633,
+            "resilience": 3815,
+            "uid": "3890798344527069"
+        },
+        {
+            "attackPower": 527464,
+            "attackSpeed": 1350,
+            "crit": 3929,
+            "defence": 90739,
+            "evasion": 3929,
+            "exp": "2079159368",
+            "hit": 3929,
+            "level": 124,
+            "maxHP": 1472001,
+            "resilience": 3929,
+            "uid": "3890798344527066"
+        },
+        {
+            "attackPower": 533763,
+            "attackSpeed": 1350,
+            "crit": 4046,
+            "defence": 91817,
+            "evasion": 4046,
+            "exp": "2169808734",
+            "hit": 4046,
+            "level": 125,
+            "maxHP": 1489489,
+            "resilience": 4046,
+            "uid": "3890798344527067"
+        },
+        {
+            "attackPower": 540103,
+            "attackSpeed": 1350,
+            "crit": 4167,
+            "defence": 92903,
+            "evasion": 4167,
+            "exp": "2263514089",
+            "hit": 4167,
+            "level": 126,
+            "maxHP": 1507095,
+            "resilience": 4167,
+            "uid": "3890798344527064"
+        },
+        {
+            "attackPower": 546489,
+            "attackSpeed": 1350,
+            "crit": 4292,
+            "defence": 93995,
+            "evasion": 4292,
+            "exp": "2360347655",
+            "hit": 4292,
+            "level": 127,
+            "maxHP": 1524822,
+            "resilience": 4292,
+            "uid": "3890798344527065"
+        },
+        {
+            "attackPower": 552916,
+            "attackSpeed": 1350,
+            "crit": 4420,
+            "defence": 95096,
+            "evasion": 4420,
+            "exp": "2460382571",
+            "hit": 4420,
+            "level": 128,
+            "maxHP": 1542671,
+            "resilience": 4420,
+            "uid": "3890798344527062"
+        },
+        {
+            "attackPower": 559388,
+            "attackSpeed": 1350,
+            "crit": 4552,
+            "defence": 96203,
+            "evasion": 4552,
+            "exp": "2563692887",
+            "hit": 4552,
+            "level": 129,
+            "maxHP": 1560641,
+            "resilience": 4552,
+            "uid": "3890798344527063"
+        },
+        {
+            "attackPower": 565904,
+            "attackSpeed": 1350,
+            "crit": 4688,
+            "defence": 97319,
+            "evasion": 4688,
+            "exp": "2670353564",
+            "hit": 4688,
+            "level": 130,
+            "maxHP": 1578733,
+            "resilience": 4688,
+            "uid": "3891897856155281"
+        },
+        {
+            "attackPower": 572464,
+            "attackSpeed": 1350,
+            "crit": 4828,
+            "defence": 98442,
+            "evasion": 4828,
+            "exp": "2780440466",
+            "hit": 4828,
+            "level": 131,
+            "maxHP": 1596949,
+            "resilience": 4828,
+            "uid": "3891897856155280"
+        },
+        {
+            "attackPower": 579069,
+            "attackSpeed": 1350,
+            "crit": 4972,
+            "defence": 99572,
+            "evasion": 4972,
+            "exp": "2894030363",
+            "hit": 4972,
+            "level": 132,
+            "maxHP": 1615289,
+            "resilience": 4972,
+            "uid": "3891897856155283"
+        },
+        {
+            "attackPower": 585720,
+            "attackSpeed": 1350,
+            "crit": 5121,
+            "defence": 100710,
+            "evasion": 5121,
+            "exp": "3011200923",
+            "hit": 5121,
+            "level": 133,
+            "maxHP": 1633754,
+            "resilience": 5121,
+            "uid": "3891897856155282"
+        },
+        {
+            "attackPower": 592416,
+            "attackSpeed": 1350,
+            "crit": 5274,
+            "defence": 101856,
+            "evasion": 5274,
+            "exp": "3132030708",
+            "hit": 5274,
+            "level": 134,
+            "maxHP": 1652345,
+            "resilience": 5274,
+            "uid": "3891897856155285"
+        },
+        {
+            "attackPower": 599157,
+            "attackSpeed": 1350,
+            "crit": 5432,
+            "defence": 103010,
+            "evasion": 5432,
+            "exp": "3256599173",
+            "hit": 5432,
+            "level": 135,
+            "maxHP": 1671062,
+            "resilience": 5432,
+            "uid": "3891897856155284"
+        },
+        {
+            "attackPower": 605944,
+            "attackSpeed": 1350,
+            "crit": 5594,
+            "defence": 104172,
+            "evasion": 5594,
+            "exp": "3384986659",
+            "hit": 5594,
+            "level": 136,
+            "maxHP": 1689906,
+            "resilience": 5594,
+            "uid": "3891897856155287"
+        },
+        {
+            "attackPower": 612778,
+            "attackSpeed": 1350,
+            "crit": 5761,
+            "defence": 105341,
+            "evasion": 5761,
+            "exp": "3517274388",
+            "hit": 5761,
+            "level": 137,
+            "maxHP": 1708878,
+            "resilience": 5761,
+            "uid": "3891897856155286"
+        },
+        {
+            "attackPower": 619656,
+            "attackSpeed": 1350,
+            "crit": 5933,
+            "defence": 106519,
+            "evasion": 5933,
+            "exp": "3653544461",
+            "hit": 5933,
+            "level": 138,
+            "maxHP": 1727980,
+            "resilience": 5933,
+            "uid": "3891897856155289"
+        },
+        {
+            "attackPower": 626583,
+            "attackSpeed": 1350,
+            "crit": 6110,
+            "defence": 107704,
+            "evasion": 6110,
+            "exp": "3793879850",
+            "hit": 6110,
+            "level": 139,
+            "maxHP": 1747210,
+            "resilience": 6110,
+            "uid": "3891897856155288"
+        },
+        {
+            "attackPower": 633555,
+            "attackSpeed": 1350,
+            "crit": 6293,
+            "defence": 108898,
+            "evasion": 6293,
+            "exp": "3938364397",
+            "hit": 6293,
+            "level": 140,
+            "maxHP": 1766571,
+            "resilience": 6293,
+            "uid": "3892997367783524"
+        },
+        {
+            "attackPower": 640577,
+            "attackSpeed": 1350,
+            "crit": 6481,
+            "defence": 110099,
+            "evasion": 6481,
+            "exp": "4087082802",
+            "hit": 6481,
+            "level": 141,
+            "maxHP": 1786063,
+            "resilience": 6481,
+            "uid": "3892997367783525"
+        },
+        {
+            "attackPower": 647644,
+            "attackSpeed": 1350,
+            "crit": 6675,
+            "defence": 111309,
+            "evasion": 6675,
+            "exp": "4240120624",
+            "hit": 6675,
+            "level": 142,
+            "maxHP": 1805687,
+            "resilience": 6675,
+            "uid": "3892997367783526"
+        },
+        {
+            "attackPower": 654760,
+            "attackSpeed": 1350,
+            "crit": 6875,
+            "defence": 112527,
+            "evasion": 6875,
+            "exp": "4397564270",
+            "hit": 6875,
+            "level": 143,
+            "maxHP": 1825444,
+            "resilience": 6875,
+            "uid": "3892997367783527"
+        },
+        {
+            "attackPower": 661924,
+            "attackSpeed": 1350,
+            "crit": 7081,
+            "defence": 113753,
+            "evasion": 7081,
+            "exp": "4559500994",
+            "hit": 7081,
+            "level": 144,
+            "maxHP": 1845335,
+            "resilience": 7081,
+            "uid": "3892997367783520"
+        },
+        {
+            "attackPower": 669138,
+            "attackSpeed": 1350,
+            "crit": 7293,
+            "defence": 114987,
+            "evasion": 7293,
+            "exp": "4726018885",
+            "hit": 7293,
+            "level": 145,
+            "maxHP": 1865360,
+            "resilience": 7293,
+            "uid": "3892997367783521"
+        },
+        {
+            "attackPower": 676399,
+            "attackSpeed": 1350,
+            "crit": 7511,
+            "defence": 116230,
+            "evasion": 7511,
+            "exp": "4897206864",
+            "hit": 7511,
+            "level": 146,
+            "maxHP": 1885520,
+            "resilience": 7511,
+            "uid": "3892997367783522"
+        },
+        {
+            "attackPower": 683708,
+            "attackSpeed": 1350,
+            "crit": 7736,
+            "defence": 117481,
+            "evasion": 7736,
+            "exp": "5073154676",
+            "hit": 7736,
+            "level": 147,
+            "maxHP": 1905816,
+            "resilience": 7736,
+            "uid": "3892997367783523"
+        },
+        {
+            "attackPower": 691068,
+            "attackSpeed": 1350,
+            "crit": 7968,
+            "defence": 118741,
+            "evasion": 7968,
+            "exp": "5253952886",
+            "hit": 7968,
+            "level": 148,
+            "maxHP": 1926249,
+            "resilience": 7968,
+            "uid": "3892997367783532"
+        },
+        {
+            "attackPower": 698477,
+            "attackSpeed": 1350,
+            "crit": 8207,
+            "defence": 120009,
+            "evasion": 8207,
+            "exp": "5439692866",
+            "hit": 8207,
+            "level": 149,
+            "maxHP": 1946820,
+            "resilience": 8207,
+            "uid": "3892997367783533"
+        },
+        {
+            "attackPower": 705937,
+            "attackSpeed": 1350,
+            "crit": 8453,
+            "defence": 121286,
+            "evasion": 8453,
+            "exp": "5630466791",
+            "hit": 8453,
+            "level": 150,
+            "maxHP": 1967530,
+            "resilience": 8453,
+            "uid": "3894096879411767"
+        },
+        {
+            "attackPower": 713448,
+            "attackSpeed": 1350,
+            "crit": 8706,
+            "defence": 122571,
+            "evasion": 8706,
+            "exp": "5826367634",
+            "hit": 8706,
+            "level": 151,
+            "maxHP": 1988379,
+            "resilience": 8706,
+            "uid": "3894096879411766"
+        },
+        {
+            "attackPower": 721008,
+            "attackSpeed": 1350,
+            "crit": 8967,
+            "defence": 123865,
+            "evasion": 8967,
+            "exp": "6027489153",
+            "hit": 8967,
+            "level": 152,
+            "maxHP": 2009368,
+            "resilience": 8967,
+            "uid": "3894096879411765"
+        },
+        {
+            "attackPower": 728617,
+            "attackSpeed": 1350,
+            "crit": 9236,
+            "defence": 125167,
+            "evasion": 9236,
+            "exp": "6233925885",
+            "hit": 9236,
+            "level": 153,
+            "maxHP": 2030498,
+            "resilience": 9236,
+            "uid": "3894096879411764"
+        },
+        {
+            "attackPower": 736279,
+            "attackSpeed": 1350,
+            "crit": 9513,
+            "defence": 126479,
+            "evasion": 9513,
+            "exp": "6445773139",
+            "hit": 9513,
+            "level": 154,
+            "maxHP": 2051771,
+            "resilience": 9513,
+            "uid": "3894096879411763"
+        },
+        {
+            "attackPower": 743994,
+            "attackSpeed": 1350,
+            "crit": 9798,
+            "defence": 127799,
+            "evasion": 9798,
+            "exp": "6663126984",
+            "hit": 9798,
+            "level": 155,
+            "maxHP": 2073186,
+            "resilience": 9798,
+            "uid": "3894096879411762"
+        },
+        {
+            "attackPower": 751759,
+            "attackSpeed": 1350,
+            "crit": 10091,
+            "defence": 129128,
+            "evasion": 10091,
+            "exp": "6886084246",
+            "hit": 10091,
+            "level": 156,
+            "maxHP": 2094745,
+            "resilience": 10091,
+            "uid": "3894096879411761"
+        },
+        {
+            "attackPower": 759577,
+            "attackSpeed": 1350,
+            "crit": 10393,
+            "defence": 130466,
+            "evasion": 10393,
+            "exp": "7114742494",
+            "hit": 10393,
+            "level": 157,
+            "maxHP": 2116449,
+            "resilience": 10393,
+            "uid": "3894096879411760"
+        },
+        {
+            "attackPower": 767446,
+            "attackSpeed": 1350,
+            "crit": 10704,
+            "defence": 131812,
+            "evasion": 10704,
+            "exp": "7349200031",
+            "hit": 10704,
+            "level": 158,
+            "maxHP": 2138298,
+            "resilience": 10704,
+            "uid": "3894096879411775"
+        },
+        {
+            "attackPower": 775369,
+            "attackSpeed": 1350,
+            "crit": 11025,
+            "defence": 133168,
+            "evasion": 11025,
+            "exp": "7589555888",
+            "hit": 11025,
+            "level": 159,
+            "maxHP": 2160294,
+            "resilience": 11025,
+            "uid": "3894096879411774"
+        },
+        {
+            "attackPower": 783345,
+            "attackSpeed": 1350,
+            "crit": 11355,
+            "defence": 134533,
+            "evasion": 11355,
+            "exp": "7835909812",
+            "hit": 11355,
+            "level": 160,
+            "maxHP": 2182437,
+            "resilience": 11355,
+            "uid": "3895196391039882"
+        },
+        {
+            "attackPower": 791375,
+            "attackSpeed": 1350,
+            "crit": 11695,
+            "defence": 135908,
+            "evasion": 11695,
+            "exp": "8088362257",
+            "hit": 11695,
+            "level": 161,
+            "maxHP": 2204727,
+            "resilience": 11695,
+            "uid": "3895196391039883"
+        },
+        {
+            "attackPower": 799457,
+            "attackSpeed": 1350,
+            "crit": 12045,
+            "defence": 137291,
+            "evasion": 12045,
+            "exp": "8347014373",
+            "hit": 12045,
+            "level": 162,
+            "maxHP": 2227167,
+            "resilience": 12045,
+            "uid": "3895196391039880"
+        },
+        {
+            "attackPower": 807594,
+            "attackSpeed": 1350,
+            "crit": 12406,
+            "defence": 138683,
+            "evasion": 12406,
+            "exp": "8611967996",
+            "hit": 12406,
+            "level": 163,
+            "maxHP": 2249758,
+            "resilience": 12406,
+            "uid": "3895196391039881"
+        },
+        {
+            "attackPower": 815786,
+            "attackSpeed": 1350,
+            "crit": 12778,
+            "defence": 140085,
+            "evasion": 12778,
+            "exp": "8883325639",
+            "hit": 12778,
+            "level": 164,
+            "maxHP": 2272499,
+            "resilience": 12778,
+            "uid": "3895196391039886"
+        },
+        {
+            "attackPower": 824031,
+            "attackSpeed": 1350,
+            "crit": 13161,
+            "defence": 141496,
+            "evasion": 13161,
+            "exp": "9161190481",
+            "hit": 13161,
+            "level": 165,
+            "maxHP": 2295392,
+            "resilience": 13161,
+            "uid": "3895196391039887"
+        },
+        {
+            "attackPower": 832332,
+            "attackSpeed": 1350,
+            "crit": 13555,
+            "defence": 142917,
+            "evasion": 13555,
+            "exp": "9445666354",
+            "hit": 13555,
+            "level": 166,
+            "maxHP": 2318437,
+            "resilience": 13555,
+            "uid": "3895196391039884"
+        },
+        {
+            "attackPower": 840689,
+            "attackSpeed": 1350,
+            "crit": 13961,
+            "defence": 144347,
+            "evasion": 13961,
+            "exp": "9736857735",
+            "hit": 13961,
+            "level": 167,
+            "maxHP": 2341637,
+            "resilience": 13961,
+            "uid": "3895196391039885"
+        },
+        {
+            "attackPower": 849102,
+            "attackSpeed": 1350,
+            "crit": 14379,
+            "defence": 145787,
+            "evasion": 14379,
+            "exp": "10034869731",
+            "hit": 14379,
+            "level": 168,
+            "maxHP": 2364990,
+            "resilience": 14379,
+            "uid": "3895196391039874"
+        },
+        {
+            "attackPower": 857569,
+            "attackSpeed": 1350,
+            "crit": 14810,
+            "defence": 147236,
+            "evasion": 14810,
+            "exp": "10339808072",
+            "hit": 14810,
+            "level": 169,
+            "maxHP": 2388500,
+            "resilience": 14810,
+            "uid": "3895196391039875"
+        },
+        {
+            "attackPower": 866095,
+            "attackSpeed": 1350,
+            "crit": 15254,
+            "defence": 148695,
+            "evasion": 15254,
+            "exp": "10651779097",
+            "hit": 15254,
+            "level": 170,
+            "maxHP": 2412166,
+            "resilience": 15254,
+            "uid": "3896295902668125"
+        },
+        {
+            "attackPower": 874676,
+            "attackSpeed": 1350,
+            "crit": 15711,
+            "defence": 150163,
+            "evasion": 15711,
+            "exp": "10970889741",
+            "hit": 15711,
+            "level": 171,
+            "maxHP": 2435989,
+            "resilience": 15711,
+            "uid": "3896295902668124"
+        },
+        {
+            "attackPower": 883315,
+            "attackSpeed": 1350,
+            "crit": 16182,
+            "defence": 151641,
+            "evasion": 16182,
+            "exp": "11297247526",
+            "hit": 16182,
+            "level": 172,
+            "maxHP": 2459970,
+            "resilience": 16182,
+            "uid": "3896295902668127"
+        },
+        {
+            "attackPower": 892010,
+            "attackSpeed": 1350,
+            "crit": 16667,
+            "defence": 153130,
+            "evasion": 16667,
+            "exp": "11630960545",
+            "hit": 16667,
+            "level": 173,
+            "maxHP": 2484111,
+            "resilience": 16667,
+            "uid": "3896295902668126"
+        },
+        {
+            "attackPower": 900765,
+            "attackSpeed": 1350,
+            "crit": 17167,
+            "defence": 154628,
+            "evasion": 17167,
+            "exp": "11972137453",
+            "hit": 17167,
+            "level": 174,
+            "maxHP": 2508413,
+            "resilience": 17167,
+            "uid": "3896295902668121"
+        },
+        {
+            "attackPower": 909576,
+            "attackSpeed": 1350,
+            "crit": 17682,
+            "defence": 156136,
+            "evasion": 17682,
+            "exp": "12320887453",
+            "hit": 17682,
+            "level": 175,
+            "maxHP": 2532875,
+            "resilience": 17682,
+            "uid": "3896295902668120"
+        },
+        {
+            "attackPower": 918446,
+            "attackSpeed": 1350,
+            "crit": 18212,
+            "defence": 157654,
+            "evasion": 18212,
+            "exp": "12677320282",
+            "hit": 18212,
+            "level": 176,
+            "maxHP": 2557500,
+            "resilience": 18212,
+            "uid": "3896295902668123"
+        },
+        {
+            "attackPower": 927377,
+            "attackSpeed": 1350,
+            "crit": 18758,
+            "defence": 159182,
+            "evasion": 18758,
+            "exp": "13041546202",
+            "hit": 18758,
+            "level": 177,
+            "maxHP": 2582288,
+            "resilience": 18758,
+            "uid": "3896295902668122"
+        },
+        {
+            "attackPower": 936365,
+            "attackSpeed": 1350,
+            "crit": 19320,
+            "defence": 160720,
+            "evasion": 19320,
+            "exp": "13413675980",
+            "hit": 19320,
+            "level": 178,
+            "maxHP": 2607240,
+            "resilience": 19320,
+            "uid": "3896295902668117"
+        },
+        {
+            "attackPower": 945413,
+            "attackSpeed": 1350,
+            "crit": 19899,
+            "defence": 162268,
+            "evasion": 19899,
+            "exp": "13793820881",
+            "hit": 19899,
+            "level": 179,
+            "maxHP": 2632358,
+            "resilience": 19899,
+            "uid": "3896295902668116"
+        },
+        {
+            "attackPower": 954520,
+            "attackSpeed": 1350,
+            "crit": 20495,
+            "defence": 163827,
+            "evasion": 20495,
+            "exp": "14182092652",
+            "hit": 20495,
+            "level": 180,
+            "maxHP": 2657642,
+            "resilience": 20495,
+            "uid": "3879803228244928"
+        },
+        {
+            "attackPower": 963689,
+            "attackSpeed": 1350,
+            "crit": 21109,
+            "defence": 165396,
+            "evasion": 21109,
+            "exp": "14578603508",
+            "hit": 21109,
+            "level": 181,
+            "maxHP": 2683093,
+            "resilience": 21109,
+            "uid": "3879803228244929"
+        },
+        {
+            "attackPower": 972918,
+            "attackSpeed": 1350,
+            "crit": 21742,
+            "defence": 166975,
+            "evasion": 21742,
+            "exp": "14983466116",
+            "hit": 21742,
+            "level": 182,
+            "maxHP": 2708712,
+            "resilience": 21742,
+            "uid": "3879803228244930"
+        },
+        {
+            "attackPower": 982206,
+            "attackSpeed": 1350,
+            "crit": 22394,
+            "defence": 168565,
+            "evasion": 22394,
+            "exp": "15396793588",
+            "hit": 22394,
+            "level": 183,
+            "maxHP": 2734501,
+            "resilience": 22394,
+            "uid": "3879803228244931"
+        },
+        {
+            "attackPower": 991558,
+            "attackSpeed": 1350,
+            "crit": 23065,
+            "defence": 170165,
+            "evasion": 23065,
+            "exp": "15818699458",
+            "hit": 23065,
+            "level": 184,
+            "maxHP": 2760459,
+            "resilience": 23065,
+            "uid": "3879803228244932"
+        },
+        {
+            "attackPower": 1000971,
+            "attackSpeed": 1350,
+            "crit": 23756,
+            "defence": 171776,
+            "evasion": 23756,
+            "exp": "16249297671",
+            "hit": 23756,
+            "level": 185,
+            "maxHP": 2786589,
+            "resilience": 23756,
+            "uid": "3879803228244933"
+        },
+        {
+            "attackPower": 1010446,
+            "attackSpeed": 1350,
+            "crit": 24468,
+            "defence": 173397,
+            "evasion": 24468,
+            "exp": "16688702573",
+            "hit": 24468,
+            "level": 186,
+            "maxHP": 2812891,
+            "resilience": 24468,
+            "uid": "3879803228244934"
+        },
+        {
+            "attackPower": 1019984,
+            "attackSpeed": 1350,
+            "crit": 25202,
+            "defence": 175029,
+            "evasion": 25202,
+            "exp": "17137028888",
+            "hit": 25202,
+            "level": 187,
+            "maxHP": 2839367,
+            "resilience": 25202,
+            "uid": "3879803228244935"
+        },
+        {
+            "attackPower": 1029583,
+            "attackSpeed": 1350,
+            "crit": 25958,
+            "defence": 176672,
+            "evasion": 25958,
+            "exp": "17594391708",
+            "hit": 25958,
+            "level": 188,
+            "maxHP": 2866017,
+            "resilience": 25958,
+            "uid": "3879803228244936"
+        },
+        {
+            "attackPower": 1039248,
+            "attackSpeed": 1350,
+            "crit": 26736,
+            "defence": 178325,
+            "evasion": 26736,
+            "exp": "18060906477",
+            "hit": 26736,
+            "level": 189,
+            "maxHP": 2892842,
+            "resilience": 26736,
+            "uid": "3879803228244937"
+        },
+        {
+            "attackPower": 1048975,
+            "attackSpeed": 1350,
+            "crit": 27538,
+            "defence": 179990,
+            "evasion": 27538,
+            "exp": "18536688976",
+            "hit": 27538,
+            "level": 190,
+            "maxHP": 2919844,
+            "resilience": 27538,
+            "uid": "3880902739873171"
+        },
+        {
+            "attackPower": 1058765,
+            "attackSpeed": 1350,
+            "crit": 28364,
+            "defence": 181665,
+            "evasion": 28364,
+            "exp": "19021855307",
+            "hit": 28364,
+            "level": 191,
+            "maxHP": 2947023,
+            "resilience": 28364,
+            "uid": "3880902739873170"
+        },
+        {
+            "attackPower": 1068622,
+            "attackSpeed": 1350,
+            "crit": 29214,
+            "defence": 183352,
+            "evasion": 29214,
+            "exp": "19516521876",
+            "hit": 29214,
+            "level": 192,
+            "maxHP": 2974382,
+            "resilience": 29214,
+            "uid": "3880902739873169"
+        },
+        {
+            "attackPower": 1078542,
+            "attackSpeed": 1350,
+            "crit": 30090,
+            "defence": 185049,
+            "evasion": 30090,
+            "exp": "20020805379",
+            "hit": 30090,
+            "level": 193,
+            "maxHP": 3001919,
+            "resilience": 30090,
+            "uid": "3880902739873168"
+        },
+        {
+            "attackPower": 1088527,
+            "attackSpeed": 1350,
+            "crit": 30992,
+            "defence": 186758,
+            "evasion": 30992,
+            "exp": "20534822787",
+            "hit": 30992,
+            "level": 194,
+            "maxHP": 3029637,
+            "resilience": 30992,
+            "uid": "3880902739873175"
+        },
+        {
+            "attackPower": 1098578,
+            "attackSpeed": 1350,
+            "crit": 31921,
+            "defence": 188478,
+            "evasion": 31921,
+            "exp": "21058691327",
+            "hit": 31921,
+            "level": 195,
+            "maxHP": 3057538,
+            "resilience": 31921,
+            "uid": "3880902739873174"
+        },
+        {
+            "attackPower": 1108695,
+            "attackSpeed": 1350,
+            "crit": 32878,
+            "defence": 190209,
+            "evasion": 32878,
+            "exp": "21592528467",
+            "hit": 32878,
+            "level": 196,
+            "maxHP": 3085621,
+            "resilience": 32878,
+            "uid": "3880902739873173"
+        },
+        {
+            "attackPower": 1118880,
+            "attackSpeed": 1350,
+            "crit": 33864,
+            "defence": 191952,
+            "evasion": 33864,
+            "exp": "22136451900",
+            "hit": 33864,
+            "level": 197,
+            "maxHP": 3113889,
+            "resilience": 33864,
+            "uid": "3880902739873172"
+        },
+        {
+            "attackPower": 1129129,
+            "attackSpeed": 1350,
+            "crit": 34879,
+            "defence": 193687,
+            "evasion": 34879,
+            "exp": "22690579528",
+            "hit": 34879,
+            "level": 198,
+            "maxHP": 3141698,
+            "resilience": 34879,
+            "uid": "3880902739873179"
+        },
+        {
+            "attackPower": 1129129,
+            "attackSpeed": 1350,
+            "crit": 35925,
+            "defence": 193687,
+            "evasion": 35925,
+            "exp": "23255029443",
+            "hit": 35925,
+            "level": 199,
+            "maxHP": 3141698,
+            "resilience": 35925,
+            "uid": "3880902739873178"
+        },
+        {
+            "attackPower": 1129129,
+            "attackSpeed": 1350,
+            "crit": 37002,
+            "defence": 193687,
+            "evasion": 37002,
+            "exp": "23829919912",
+            "hit": 37002,
+            "level": 200,
+            "maxHP": 3141698,
+            "resilience": 37002,
+            "uid": "2325093787168755"
+        }
+    ],
+    "expertTalentInfo": [
+        {
+            "classType": "CtWarrior",
+            "skillUids": [
+                "1034833709943698",
+                "687467664399691",
+                "1713253444108408"
+            ],
+            "uid": "2019325192319229"
+        },
+        {
+            "classType": "CtWarrior",
+            "skillUids": [
+                "1223998810661745",
+                "3943217631514302",
+                "4157650464009399"
+            ],
+            "uid": "2019325192319230"
+        },
+        {
+            "classType": "CtWarrior",
+            "skillUids": [
+                "1034833709943698",
+                "1713253444108408",
+                "3943217631514302"
+            ],
+            "uid": "2019325192319231"
+        },
+        {
+            "classType": "CtWarrior",
+            "skillUids": [
+                "687467664399691",
+                "1223998810661745",
+                "4157650464009399"
+            ],
+            "uid": "2019325192319224"
+        },
+        {
+            "classType": "CtWarrior",
+            "skillUids": [
+                "1034833709943698",
+                "687467664399691",
+                "4157650464009399"
+            ],
+            "uid": "2019325192319225"
+        },
+        {
+            "classType": "CtWarrior",
+            "skillUids": [
+                "1223998810661745",
+                "3943217631514302",
+                "1713253444108408"
+            ],
+            "uid": "2019325192319226"
+        },
+        {
+            "classType": "CtWarrior",
+            "skillUids": [
+                "1034833709943698",
+                "3943217631514302",
+                "4157650464009399"
+            ],
+            "uid": "2019325192319227"
+        },
+        {
+            "classType": "CtWarrior",
+            "skillUids": [
+                "1223998810661745",
+                "687467664399691",
+                "1713253444108408"
+            ],
+            "uid": "2019325192319220"
+        },
+        {
+            "classType": "CtWarrior",
+            "skillUids": [
+                "1034833709943698",
+                "1223998810661745",
+                "3943217631514302"
+            ],
+            "uid": "2019325192319221"
+        },
+        {
+            "classType": "CtWarrior",
+            "skillUids": [
+                "687467664399691",
+                "1713253444108408",
+                "4157650464009399"
+            ],
+            "uid": "482707763445207"
+        },
+        {
+            "classType": "CtRogue",
+            "skillUids": [
+                "840213810473066",
+                "1580120609625859",
+                "2326733557305296"
+            ],
+            "uid": "2013504456864413"
+        },
+        {
+            "classType": "CtRogue",
+            "skillUids": [
+                "3773757281872745",
+                "4415960256300182",
+                "651113755116975"
+            ],
+            "uid": "2013504456864414"
+        },
+        {
+            "classType": "CtRogue",
+            "skillUids": [
+                "840213810473066",
+                "2326733557305296",
+                "4415960256300182"
+            ],
+            "uid": "2013504456864415"
+        },
+        {
+            "classType": "CtRogue",
+            "skillUids": [
+                "1580120609625859",
+                "3773757281872745",
+                "651113755116975"
+            ],
+            "uid": "2013504456864408"
+        },
+        {
+            "classType": "CtRogue",
+            "skillUids": [
+                "840213810473066",
+                "1580120609625859",
+                "651113755116975"
+            ],
+            "uid": "2013504456864409"
+        },
+        {
+            "classType": "CtRogue",
+            "skillUids": [
+                "3773757281872745",
+                "4415960256300182",
+                "2326733557305296"
+            ],
+            "uid": "2013504456864410"
+        },
+        {
+            "classType": "CtRogue",
+            "skillUids": [
+                "840213810473066",
+                "4415960256300182",
+                "651113755116975"
+            ],
+            "uid": "2013504456864411"
+        },
+        {
+            "classType": "CtRogue",
+            "skillUids": [
+                "3773757281872745",
+                "1580120609625859",
+                "2326733557305296"
+            ],
+            "uid": "2013504456864404"
+        },
+        {
+            "classType": "CtRogue",
+            "skillUids": [
+                "840213810473066",
+                "3773757281872745",
+                "4415960256300182"
+            ],
+            "uid": "2013504456864405"
+        },
+        {
+            "classType": "CtRogue",
+            "skillUids": [
+                "1580120609625859",
+                "2326733557305296",
+                "651113755116975"
+            ],
+            "uid": "2911684305125623"
+        },
+        {
+            "classType": "CtMage",
+            "skillUids": [
+                "4196500528691218",
+                "3849134483147211",
+                "371320635485432"
+            ],
+            "uid": "3354228083691049"
+        },
+        {
+            "classType": "CtMage",
+            "skillUids": [
+                "4385665629409265",
+                "2601284822891326",
+                "2815717655386423"
+            ],
+            "uid": "3354228083691050"
+        },
+        {
+            "classType": "CtMage",
+            "skillUids": [
+                "4196500528691218",
+                "371320635485432",
+                "2601284822891326"
+            ],
+            "uid": "3354228083691051"
+        },
+        {
+            "classType": "CtMage",
+            "skillUids": [
+                "3849134483147211",
+                "4385665629409265",
+                "2815717655386423"
+            ],
+            "uid": "3354228083691052"
+        },
+        {
+            "classType": "CtMage",
+            "skillUids": [
+                "4196500528691218",
+                "3849134483147211",
+                "2815717655386423"
+            ],
+            "uid": "3354228083691053"
+        },
+        {
+            "classType": "CtMage",
+            "skillUids": [
+                "4385665629409265",
+                "2601284822891326",
+                "371320635485432"
+            ],
+            "uid": "3354228083691054"
+        },
+        {
+            "classType": "CtMage",
+            "skillUids": [
+                "4196500528691218",
+                "2601284822891326",
+                "2815717655386423"
+            ],
+            "uid": "3354228083691055"
+        },
+        {
+            "classType": "CtMage",
+            "skillUids": [
+                "4385665629409265",
+                "3849134483147211",
+                "371320635485432"
+            ],
+            "uid": "3354228083691040"
+        },
+        {
+            "classType": "CtMage",
+            "skillUids": [
+                "4196500528691218",
+                "4385665629409265",
+                "2601284822891326"
+            ],
+            "uid": "3354228083691041"
+        },
+        {
+            "classType": "CtMage",
+            "skillUids": [
+                "3849134483147211",
+                "371320635485432",
+                "2815717655386423"
+            ],
+            "uid": "3908666788253595"
+        },
+        {
+            "classType": "CtDruid",
+            "skillUids": [
+                "1396758607579180",
+                "2325644146453081",
+                "2967847120880518"
+            ],
+            "uid": "2412367400874027"
+        },
+        {
+            "classType": "CtDruid",
+            "skillUids": [
+                "3230523808463539",
+                "1586891020265792",
+                "1884752079951533"
+            ],
+            "uid": "2412367400874024"
+        },
+        {
+            "classType": "CtDruid",
+            "skillUids": [
+                "1396758607579180",
+                "2967847120880518",
+                "1586891020265792"
+            ],
+            "uid": "2412367400874025"
+        },
+        {
+            "classType": "CtDruid",
+            "skillUids": [
+                "2325644146453081",
+                "3230523808463539",
+                "1884752079951533"
+            ],
+            "uid": "2412367400874030"
+        },
+        {
+            "classType": "CtDruid",
+            "skillUids": [
+                "1396758607579180",
+                "2325644146453081",
+                "1884752079951533"
+            ],
+            "uid": "2412367400874031"
+        },
+        {
+            "classType": "CtDruid",
+            "skillUids": [
+                "3230523808463539",
+                "1586891020265792",
+                "2967847120880518"
+            ],
+            "uid": "2412367400874028"
+        },
+        {
+            "classType": "CtDruid",
+            "skillUids": [
+                "1396758607579180",
+                "1586891020265792",
+                "1884752079951533"
+            ],
+            "uid": "2412367400874029"
+        },
+        {
+            "classType": "CtDruid",
+            "skillUids": [
+                "3230523808463539",
+                "2325644146453081",
+                "2967847120880518"
+            ],
+            "uid": "2412367400874018"
+        },
+        {
+            "classType": "CtDruid",
+            "skillUids": [
+                "1396758607579180",
+                "3230523808463539",
+                "1586891020265792"
+            ],
+            "uid": "2412367400874019"
+        },
+        {
+            "classType": "CtDruid",
+            "skillUids": [
+                "2325644146453081",
+                "2967847120880518",
+                "1884752079951533"
+            ],
+            "uid": "88385202870561"
+        }
     ],
     "mageLevelInfo": [
         {
